@@ -1,0 +1,500 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047621293764485120"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2047621300999610638",
+    "created_at": "2026-04-24T10:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T11:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047621300999610638"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1dNbiZpUBO",
+          "end": 74,
+          "expanded_url": "https://x.com/wuyuandev/status/2047621300999610638/photo/1",
+          "media_key": "3_2047621293764485120",
+          "start": 51,
+          "url": "https://t.co/1dNbiZpUBO"
+        },
+        {
+          "display_url": "x.com/sanyi_eth_/sta…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/sanyi_eth_/status/2047537628111859959",
+          "start": 75,
+          "url": "https://t.co/rFxxdTMurH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047621300999610638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047537628111859959",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个倒是真的上个世纪的消息了喵，用chatgpt生成个图就能过，openai的安全性依旧点击就送喵。 https://t.co/1dNbiZpUBO https://t.co/rFxxdTMurH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1225,
+        "media_key": "3_2047621293764485120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqct8lboAApJCS.jpg",
+        "width": 1080
+      },
+      {
+        "height": 783,
+        "media_key": "3_2047537536743161857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpQipXawAEz8A4.jpg",
+        "width": 1681
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047621293764485120"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2047621300999610638",
+        "created_at": "2026-04-24T10:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047621300999610638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1dNbiZpUBO",
+              "end": 74,
+              "expanded_url": "https://x.com/wuyuandev/status/2047621300999610638/photo/1",
+              "media_key": "3_2047621293764485120",
+              "start": 51,
+              "url": "https://t.co/1dNbiZpUBO"
+            },
+            {
+              "display_url": "x.com/sanyi_eth_/sta…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/sanyi_eth_/status/2047537628111859959",
+              "start": 75,
+              "url": "https://t.co/rFxxdTMurH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047621300999610638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047537628111859959",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个倒是真的上个世纪的消息了喵，用chatgpt生成个图就能过，openai的安全性依旧点击就送喵。 https://t.co/1dNbiZpUBO https://t.co/rFxxdTMurH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047537536743161857"
+          ]
+        },
+        "author_id": "1392362247574286336",
+        "conversation_id": "2047537628111859959",
+        "created_at": "2026-04-24T04:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047537628111859959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UH83QUZSQJ",
+              "end": 51,
+              "expanded_url": "https://x.com/sanyi_eth_/status/2047537628111859959/photo/1",
+              "media_key": "3_2047537536743161857",
+              "start": 28,
+              "url": "https://t.co/UH83QUZSQJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047537628111859959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 72926,
+          "like_count": 97,
+          "quote_count": 5,
+          "reply_count": 82,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "天塌了！ Codex要KYC了，亲测，中国KYC不允许 https://t.co/UH83QUZSQJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 73,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 50,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 998,
+          "like_count": 2085,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 488
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-12T06:13:28.000Z",
+        "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99YIe",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 68,
+                "tag": "版本弃子"
+              },
+              {
+                "end": 81,
+                "start": 74,
+                "tag": "链上电子乞丐"
+              },
+              {
+                "end": 85,
+                "start": 82,
+                "tag": "话痨"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "HyperliquidX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/sanyi_eth",
+                "end": 136,
+                "expanded_url": "https://t.me/sanyi_eth",
+                "start": 113,
+                "url": "https://t.co/O5qim99YIe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanyi.web3.club",
+                "end": 23,
+                "expanded_url": "https://sanyi.web3.club/",
+                "start": 0,
+                "url": "https://t.co/fsM2fEsRrD"
+              }
+            ]
+          }
+        },
+        "id": "1392362247574286336",
+        "location": "New York, USA",
+        "name": "sanyi.eth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263011,
+          "following_count": 7030,
+          "like_count": 9548,
+          "listed_count": 2841,
+          "media_count": 3862,
+          "tweet_count": 18792
+        },
+        "url": "https://t.co/fsM2fEsRrD",
+        "username": "sanyi_eth_",
+        "verified": true
+      }
+    ]
+  }
+}

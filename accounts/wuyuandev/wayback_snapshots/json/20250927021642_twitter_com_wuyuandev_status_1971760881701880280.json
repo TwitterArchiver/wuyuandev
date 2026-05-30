@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1418683067888140295",
+          "name": "Google Doodles"
+        }
+      }
+    ],
+    "conversation_id": "1971760881701880280",
+    "created_at": "2025-09-27T02:16:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T03:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971760881701880280"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 13,
+          "tag": "GoogleDoodle"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Learn more about the creation of Google's 27th Birthday Doodle and discover the story behind the unique artwork.",
+          "display_url": "g.co/doodle/drcwmgt…",
+          "end": 50,
+          "expanded_url": "https://g.co/doodle/drcwmgt?kgs=7bb70f3acf5fcad8",
+          "images": [
+            {
+              "height": 400,
+              "url": "https://pbs.twimg.com/news_img/1971645141929938947/xQ6LB9Un?format=jpg&name=orig",
+              "width": 1000
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1971645141929938947/xQ6LB9Un?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 27,
+          "status": 200,
+          "title": "Google's 27th Birthday Doodle - Google Doodles",
+          "unwound_url": "https://doodles.google/doodle/googles-27th-birthday/",
+          "url": "https://t.co/UqAafyUMp5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971760881701880280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Google 27 岁啦 #GoogleDoodle https://t.co/UqAafyUMp5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418683067888140295",
+              "name": "Google Doodles"
+            }
+          }
+        ],
+        "conversation_id": "1971760881701880280",
+        "created_at": "2025-09-27T02:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T03:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971760881701880280"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 13,
+              "tag": "GoogleDoodle"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Learn more about the creation of Google's 27th Birthday Doodle and discover the story behind the unique artwork.",
+              "display_url": "g.co/doodle/drcwmgt…",
+              "end": 50,
+              "expanded_url": "https://g.co/doodle/drcwmgt?kgs=7bb70f3acf5fcad8",
+              "images": [
+                {
+                  "height": 400,
+                  "url": "https://pbs.twimg.com/news_img/1971645141929938947/xQ6LB9Un?format=jpg&name=orig",
+                  "width": 1000
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1971645141929938947/xQ6LB9Un?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 27,
+              "status": 200,
+              "title": "Google's 27th Birthday Doodle - Google Doodles",
+              "unwound_url": "https://doodles.google/doodle/googles-27th-birthday/",
+              "url": "https://t.co/UqAafyUMp5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971760881701880280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Google 27 岁啦 #GoogleDoodle https://t.co/UqAafyUMp5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/6Zcu6y11gj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.dev",
+                "end": 37,
+                "expanded_url": "https://zerocat.dev",
+                "start": 14,
+                "url": "https://t.co/6Zcu6y11gj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 258,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 63
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      }
+    ]
+  }
+}

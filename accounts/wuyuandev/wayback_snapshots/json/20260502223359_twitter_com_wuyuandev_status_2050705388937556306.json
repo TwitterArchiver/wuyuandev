@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050705386597187584"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "2050705388937556306",
+    "created_at": "2026-05-02T22:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T23:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050705388937556306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1MdZCoDPeJ",
+          "end": 30,
+          "expanded_url": "https://x.com/wuyuandev/status/2050705388937556306/photo/1",
+          "media_key": "3_2050705386597187584",
+          "start": 7,
+          "url": "https://t.co/1MdZCoDPeJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050705388937556306",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你，，，好？ https://t.co/1MdZCoDPeJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2050705386597187584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHWRrxsbAAA9koy.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050705386597187584"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2050705388937556306",
+        "created_at": "2026-05-02T22:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T23:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050705388937556306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1MdZCoDPeJ",
+              "end": 30,
+              "expanded_url": "https://x.com/wuyuandev/status/2050705388937556306/photo/1",
+              "media_key": "3_2050705386597187584",
+              "start": 7,
+              "url": "https://t.co/1MdZCoDPeJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050705388937556306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你，，，好？ https://t.co/1MdZCoDPeJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸 | 坐标HNCS\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 123,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 100,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！",
+        "pinned_tweet_id": "2048204898882531422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 828,
+          "like_count": 2694,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 677
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      }
+    ]
+  }
+}

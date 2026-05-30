@@ -1,0 +1,455 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2025018000211148839",
+    "created_at": "2026-02-21T01:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T02:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025018000211148839"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IntCyberDigest…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/IntCyberDigest/status/2024274605012107700",
+          "start": 20,
+          "url": "https://t.co/zA66ArnA5v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025018000211148839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024274605012107700",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "符合我对oai业务代码水平的刻板印象。 https://t.co/zA66ArnA5v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_2024268049457586176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBelEOIXoAAczGd.jpg",
+        "width": 1412
+      },
+      {
+        "height": 810,
+        "media_key": "3_2024270592438919168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBenYPeXYAA-rje.png",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2025018000211148839",
+        "created_at": "2026-02-21T01:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T02:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025018000211148839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IntCyberDigest…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/IntCyberDigest/status/2024274605012107700",
+              "start": 20,
+              "url": "https://t.co/zA66ArnA5v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025018000211148839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024274605012107700",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "符合我对oai业务代码水平的刻板印象。 https://t.co/zA66ArnA5v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024268049457586176",
+            "3_2024270592438919168"
+          ]
+        },
+        "author_id": "1831435289341894656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2024274605012107700",
+        "created_at": "2026-02-19T00:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T01:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024274605012107700"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "AI",
+              "probability": 0.4504,
+              "start": 47,
+              "type": "Organization"
+            },
+            {
+              "end": 84,
+              "normalized_text": "KYC",
+              "probability": 0.5779,
+              "start": 82,
+              "type": "Organization"
+            },
+            {
+              "end": 101,
+              "normalized_text": "Persona",
+              "probability": 0.3345,
+              "start": 95,
+              "type": "Other"
+            },
+            {
+              "end": 112,
+              "normalized_text": "OpenAI",
+              "probability": 0.5683,
+              "start": 107,
+              "type": "Organization"
+            },
+            {
+              "end": 141,
+              "normalized_text": "US",
+              "probability": 0.3846,
+              "start": 140,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fnmQDgzWH8",
+              "end": 298,
+              "expanded_url": "https://x.com/IntCyberDigest/status/2024274605012107700/photo/1",
+              "media_key": "3_2024268049457586176",
+              "start": 275,
+              "url": "https://t.co/fnmQDgzWH8"
+            },
+            {
+              "display_url": "pic.x.com/fnmQDgzWH8",
+              "end": 298,
+              "expanded_url": "https://x.com/IntCyberDigest/status/2024274605012107700/photo/1",
+              "media_key": "3_2024270592438919168",
+              "start": 275,
+              "url": "https://t.co/fnmQDgzWH8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024274605012107700",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "‼️ BREAKING: Researchers have uncovered secret AI surveillance projects linked to KYC provider Persona and OpenAI, sending user data to the US government.\n\nCode references include intelligence program codenames \"Project SHADOW\" and \"Project LEGION.\"\n\nAnalysis of source code revealed OpenAI's user verification systems includes biometric tracking, facial scanning, political screening, and intelligence reporting.\n\nResearchers also discovered ONYX on Persona's government server — matching ICE's $4.2M AI surveillance tool — which scrapes social media and the dark web, builds digital footprints, tracks emotional sentiment, assigns risk scores across 300+ platforms and 28B+ data points, and flags individuals for \"violent tendencies.\"\n\nNone of it was hidden. It was all internet-facing."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6212,
+          "impression_count": 2606815,
+          "like_count": 14904,
+          "quote_count": 526,
+          "reply_count": 274,
+          "retweet_count": 4292
+        },
+        "reply_settings": "everyone",
+        "text": "‼️ BREAKING: Researchers have uncovered secret AI surveillance projects linked to KYC provider Persona and OpenAI, sending user data to the US government.\n\nCode references include intelligence program codenames \"Project SHADOW\" and \"Project LEGION.\"\n\nAnalysis of source code https://t.co/fnmQDgzWH8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "今年欢笑复明年，秋月春风等闲度。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 412,
+          "like_count": 732,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 124
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T20:53:04.000Z",
+        "description": "Your weekly go-to cybersecurity newsletter, curated and commented on by our senior analysts.\n\nGot tips? Signal: IntCyberDigest.20",
+        "id": "1831435289341894656",
+        "name": "International Cyber Digest",
+        "pinned_tweet_id": "2024274605012107700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831435438562615296/imkSFey2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88309,
+          "following_count": 339,
+          "like_count": 3603,
+          "listed_count": 435,
+          "media_count": 2085,
+          "tweet_count": 4236
+        },
+        "username": "IntCyberDigest",
+        "verified": true
+      }
+    ]
+  }
+}

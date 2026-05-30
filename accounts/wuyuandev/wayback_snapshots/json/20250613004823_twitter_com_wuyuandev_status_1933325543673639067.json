@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Data centers",
+          "id": "848921562422026240",
+          "name": "Data centers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Data centers",
+          "id": "848921562422026240",
+          "name": "Data centers"
+        }
+      }
+    ],
+    "conversation_id": "1933320585267773630",
+    "created_at": "2025-06-13T00:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T01:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933325543673639067"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 69,
+          "normalized_text": "cloudflare",
+          "probability": 0.7605,
+          "start": 60,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "32499999",
+          "start": 0,
+          "username": "Cloudflare"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933325543673639067",
+    "in_reply_to_user_id": "32499999",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933320585267773630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cloudflare Some people say that the best way to get rid of cloudflare is to cut off the power supply to their data centers\n\nIs that right?😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Data centers",
+              "id": "848921562422026240",
+              "name": "Data centers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Data centers",
+              "id": "848921562422026240",
+              "name": "Data centers"
+            }
+          }
+        ],
+        "conversation_id": "1933320585267773630",
+        "created_at": "2025-06-13T00:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T01:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933325543673639067"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 69,
+              "normalized_text": "cloudflare",
+              "probability": 0.7605,
+              "start": 60,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "32499999",
+              "start": 0,
+              "username": "Cloudflare"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933325543673639067",
+        "in_reply_to_user_id": "32499999",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933320585267773630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cloudflare Some people say that the best way to get rid of cloudflare is to cut off the power supply to their data centers\n\nIs that right?😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "32499999",
+        "conversation_id": "1933320585267773630",
+        "created_at": "2025-06-13T00:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T01:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933320585267773630"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Cloudflare",
+              "probability": 0.487,
+              "start": 9,
+              "type": "Other"
+            },
+            {
+              "end": 82,
+              "normalized_text": "Cloudflare",
+              "probability": 0.6932,
+              "start": 73,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Today, June 12, 2025, Cloudflare suffered a significant service outage that affected a large set of our critical services, including Workers KV, WARP, Access, Gateway, Images, Stream, Workers AI, Turnstile and Challenges, AutoRAG, and parts of the Cloudflare Dashboard.",
+              "display_url": "blog.cloudflare.com/cloudflare-ser…",
+              "end": 234,
+              "expanded_url": "https://blog.cloudflare.com/cloudflare-service-outage-june-12-2025/?utm_campaign=cf_blog&utm_content=20250613&utm_medium=organic_social&utm_source=twitter",
+              "images": [
+                {
+                  "height": 628,
+                  "url": "https://pbs.twimg.com/news_img/1933318953453211648/81NkczHv?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1933318953453211648/81NkczHv?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 211,
+              "status": 200,
+              "title": "Cloudflare service outage June 12, 2025",
+              "unwound_url": "https://blog.cloudflare.com/cloudflare-service-outage-june-12-2025/?utm_campaign=cf_blog&utm_content=20250613&utm_medium=organic_social&utm_source=twitter",
+              "url": "https://t.co/5vbVg2MKIl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933320585267773630",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 2740,
+          "like_count": 80,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "Multiple Cloudflare services, including Workers KV, Access, WARP and the Cloudflare dashboard, experienced an outage for up to 2 hours and 28 minutes earlier today. Here's a detailed breakdown of what happened: https://t.co/5vbVg2MKIl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/4K66E55Pni",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.houlangs.com",
+                "end": 37,
+                "expanded_url": "https://zerocat.houlangs.com",
+                "start": 14,
+                "url": "https://t.co/4K66E55Pni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 203,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-17T17:58:28.000Z",
+        "description": "Cloudflare is the world’s leading #ConnectivityCloud, and we have our eyes set on an ambitious goal — to help build a #BetterInternet.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 34,
+                "tag": "ConnectivityCloud"
+              },
+              {
+                "end": 133,
+                "start": 118,
+                "tag": "BetterInternet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://www.cloudflare.com/",
+                "start": 0,
+                "url": "https://t.co/6WEmQXqEvH"
+              }
+            ]
+          }
+        },
+        "id": "32499999",
+        "location": "300+ cities in 100+ countries",
+        "name": "Cloudflare",
+        "pinned_tweet_id": "1912485988313567734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600539069217480704/RzK50Sks_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220875,
+          "following_count": 5416,
+          "like_count": 5787,
+          "listed_count": 2520,
+          "media_count": 5500,
+          "tweet_count": 46691
+        },
+        "url": "https://t.co/6WEmQXqEvH",
+        "username": "Cloudflare",
+        "verified": true
+      }
+    ]
+  }
+}

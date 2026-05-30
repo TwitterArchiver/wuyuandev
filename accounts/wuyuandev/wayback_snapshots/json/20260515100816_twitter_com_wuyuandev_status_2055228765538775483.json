@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055228754776219648"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "2055098846615658954",
+    "created_at": "2026-05-15T10:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T11:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055228765538775483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1389360201996832771",
+          "start": 0,
+          "username": "PapiTrumpo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lm24sekT0a",
+          "end": 39,
+          "expanded_url": "https://x.com/wuyuandev/status/2055228765538775483/photo/1",
+          "media_key": "3_2055228754776219648",
+          "start": 16,
+          "url": "https://t.co/Lm24sekT0a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055228765538775483",
+    "in_reply_to_user_id": "1389360201996832771",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055098846615658954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PapiTrumpo wow https://t.co/Lm24sekT0a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055228754776219648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWjqdSa4AAPxco.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 60927,
+        "height": 720,
+        "media_key": "13_2055098541480005632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055098541480005632/img/urRcwxye_2o6Bv-Z.jpg",
+        "public_metrics": {
+          "view_count": 8168621
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055098541480005632/vid/avc1/480x270/7QddUoJbh9Da_eml.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055098541480005632/vid/avc1/640x360/JEdlVuIjHpnGUhKY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055098541480005632/vid/avc1/1280x720/ACTFymypIH9oUSrL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055098541480005632/pl/hss5LY-182Ln7A86.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055228754776219648"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2055098846615658954",
+        "created_at": "2026-05-15T10:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055228765538775483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1389360201996832771",
+              "start": 0,
+              "username": "PapiTrumpo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lm24sekT0a",
+              "end": 39,
+              "expanded_url": "https://x.com/wuyuandev/status/2055228765538775483/photo/1",
+              "media_key": "3_2055228754776219648",
+              "start": 16,
+              "url": "https://t.co/Lm24sekT0a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055228765538775483",
+        "in_reply_to_user_id": "1389360201996832771",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055098846615658954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PapiTrumpo wow https://t.co/Lm24sekT0a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055098541480005632"
+          ]
+        },
+        "author_id": "1389360201996832771",
+        "conversation_id": "2055098846615658954",
+        "created_at": "2026-05-15T01:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T02:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055098846615658954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L7lgjthSIt",
+              "end": 50,
+              "expanded_url": "https://x.com/PapiTrumpo/status/2055098846615658954/video/1",
+              "media_key": "13_2055098541480005632",
+              "start": 27,
+              "url": "https://t.co/L7lgjthSIt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055098846615658954",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2001,
+          "impression_count": 678612,
+          "like_count": 15134,
+          "quote_count": 173,
+          "reply_count": 613,
+          "retweet_count": 1701
+        },
+        "reply_settings": "everyone",
+        "text": "AN INTROVERT'S DREAM!!!🤣🤣🤣 https://t.co/L7lgjthSIt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸 | 坐标HNCS\n\n没看到私信可以随便找个帖子回复下提醒我\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 144,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 121,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！",
+        "pinned_tweet_id": "2051211437847290211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 225,
+          "like_count": 3378,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 938
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-03T23:24:58.000Z",
+        "description": "The Biggest Most Beautiful UNFILTERED Commentary, Straight from the Hearto of IL GREATEST PRESIDENTO THAT EVER LIVED!!! (And a little bit of parody...😂😂😂)",
+        "id": "1389360201996832771",
+        "location": "United States",
+        "name": "il Donaldo Trumpo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739704279521218560/-Y-O8RoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1791866,
+          "following_count": 22630,
+          "like_count": 123647,
+          "listed_count": 3302,
+          "media_count": 15308,
+          "tweet_count": 22360
+        },
+        "username": "PapiTrumpo",
+        "verified": true
+      }
+    ]
+  }
+}

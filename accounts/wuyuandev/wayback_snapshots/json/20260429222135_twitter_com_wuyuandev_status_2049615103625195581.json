@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2049577891671990603",
+    "created_at": "2026-04-29T22:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T23:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049615103625195581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1818257539886460928",
+          "start": 0,
+          "username": "qqqqqf_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049615103625195581",
+    "in_reply_to_user_id": "1818257539886460928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049577891671990603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqf_ 不能（？）期待捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2049577891671990603",
+        "created_at": "2026-04-29T22:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T23:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049615103625195581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1818257539886460928",
+              "start": 0,
+              "username": "qqqqqf_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049615103625195581",
+        "in_reply_to_user_id": "1818257539886460928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049577891671990603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf_ 不能（？）期待捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818257539886460928",
+        "conversation_id": "2049577891671990603",
+        "created_at": "2026-04-29T19:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T20:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049577891671990603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049577891671990603",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天发 Arkloop\n不能再跳票了吧?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 99,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 76,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！",
+        "pinned_tweet_id": "2048204898882531422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 881,
+          "like_count": 2325,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 598
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T12:09:26.000Z",
+        "description": "building Arkloop\n博客:https://t.co/4xjp1fLrtP  \nArkloop的TelegramGroup :https://t.co/GiCrumiY7W",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "清凤.fun",
+                "end": 43,
+                "expanded_url": "http://xn--l9qq99d.fun",
+                "start": 20,
+                "url": "https://t.co/4xjp1fLrtP"
+              },
+              {
+                "display_url": "t.me/Arkloop_io",
+                "end": 92,
+                "expanded_url": "https://t.me/Arkloop_io",
+                "start": 69,
+                "url": "https://t.co/GiCrumiY7W"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/jrg4ChmKLg"
+              }
+            ]
+          }
+        },
+        "id": "1818257539886460928",
+        "location": "Ningbo,Zhejiang",
+        "name": "清凤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021583893238059008/7Mh6eK6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 592,
+          "like_count": 10273,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 1020
+        },
+        "url": "https://t.co/jrg4ChmKLg",
+        "username": "qqqqqf_",
+        "verified": true
+      }
+    ]
+  }
+}

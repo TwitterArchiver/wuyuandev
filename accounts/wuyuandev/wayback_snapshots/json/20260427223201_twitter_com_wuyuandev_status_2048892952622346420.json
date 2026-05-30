@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2048892952622346420",
+    "created_at": "2026-04-27T22:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T23:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048892952622346420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 235,
+          "id": "1928879631526141952",
+          "start": 230,
+          "username": "chat"
+        },
+        {
+          "end": 247,
+          "id": "636513296",
+          "start": 236,
+          "username": "nikitabier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048892952622346420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "It’s been two days, and the vulnerability in XChat that allows changing group names and avatars without permission still hasn’t been fixed. What are they even doing—playing with DeepSeek v4?\n\n两天了，xchat改群名和头像不需要权限的漏洞依旧没修，它们都在干什么？\n\n@chat @nikitabier"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2048892952622346420",
+        "created_at": "2026-04-27T22:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T23:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048892952622346420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 235,
+              "id": "1928879631526141952",
+              "start": 230,
+              "username": "chat"
+            },
+            {
+              "end": 247,
+              "id": "636513296",
+              "start": 236,
+              "username": "nikitabier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048892952622346420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "It’s been two days, and the vulnerability in XChat that allows changing group names and avatars without permission still hasn’t been fixed. What are they even doing—playing with DeepSeek v4?\n\n两天了，xchat改群名和头像不需要权限的漏洞依旧没修，它们都在干什么？\n\n@chat @nikitabier"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 99,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 76,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！来关注本喵！",
+        "pinned_tweet_id": "2048204898882531422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 883,
+          "like_count": 2279,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 579
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T18:22:04.000Z",
+        "description": "Chat freely. Fully encrypted messaging powered by X.",
+        "id": "1928879631526141952",
+        "location": "Palo Alto",
+        "name": "XChat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036559411485773825/8ceAb882_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75544,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 204,
+          "media_count": 4,
+          "tweet_count": 8
+        },
+        "username": "chat",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-15T22:44:07.000Z",
+        "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 16,
+                "username": "x"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "username": "solana"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "lightspeedvp"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "gasappteam"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "thetbhapp"
+              }
+            ]
+          }
+        },
+        "id": "636513296",
+        "location": "Palo Alto",
+        "name": "Nikita Bier",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020589,
+          "following_count": 2045,
+          "like_count": 38420,
+          "listed_count": 5632,
+          "media_count": 1488,
+          "tweet_count": 11220
+        },
+        "username": "nikitabier",
+        "verified": true
+      }
+    ]
+  }
+}

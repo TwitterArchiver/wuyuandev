@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "South Korean politician",
+          "id": "1070735197300092929",
+          "name": "Lee Jae-myung"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "South Korean politician",
+          "id": "1070735197300092929",
+          "name": "Lee Jae-myung"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "South Korean politician",
+          "id": "1070735197300092929",
+          "name": "Lee Jae-myung"
+        }
+      }
+    ],
+    "conversation_id": "2058479816769503639",
+    "created_at": "2026-05-24T22:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T23:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058679166028140838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "106379129",
+          "start": 0,
+          "username": "Jaemyung_Lee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058679166028140838",
+    "in_reply_to_user_id": "106379129",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058479816769503639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jaemyung_Lee Under this post, you can see what civilization is and what domestic prioritism is."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          }
+        ],
+        "conversation_id": "2058479816769503639",
+        "created_at": "2026-05-24T22:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T23:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058679166028140838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "106379129",
+              "start": 0,
+              "username": "Jaemyung_Lee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058679166028140838",
+        "in_reply_to_user_id": "106379129",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058479816769503639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaemyung_Lee Under this post, you can see what civilization is and what domestic prioritism is."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "106379129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          }
+        ],
+        "conversation_id": "2058479816769503639",
+        "created_at": "2026-05-24T09:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058479816769503639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058479816769503639",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {},
+          "text": "중국 산시성 탄광 가스폭발 사고로 대규모 인명피해가 발생했다는 소식에 안타까움과 슬픔을 금할 수 없습니다.\n\n중국 정부와 관계 당국의 노력으로 이번 사고가 조속히 수습되길 바랍니다.\n\n불의의 사고로 희생되신 분들의 명복을 빌며, 유가족 분들과 중국 국민 여러분께 깊은 애도와 위로를 전합니다. 아울러 부상자 모두의 쾌유를 기원합니다.\n\n惊悉中国山西省煤矿发生瓦斯爆炸事故，造成重大人员伤亡，我对此深感痛惜与悲痛。\n\n希望在中国政府及有关部门的努力下，此次事故早日得到妥善处置。\n\n我对不幸遇难者表示诚挚哀悼，愿逝者安息，并向遇难者家属及中国国民致以深切慰问，祝愿所有受伤者早日康复。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 458390,
+          "like_count": 6258,
+          "quote_count": 153,
+          "reply_count": 700,
+          "retweet_count": 1019
+        },
+        "reply_settings": "everyone",
+        "text": "중국 산시성 탄광 가스폭발 사고로 대규모 인명피해가 발생했다는 소식에 안타까움과 슬픔을 금할 수 없습니다.\n\n중국 정부와 관계 당국의 노력으로 이번 사고가 조속히 수습되길 바랍니다.\n\n불의의 사고로 희생되신 분들의 명복을 빌며, 유가족 분들과 중국 국민 여러분께 깊은 애도와 위로를"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，构建社区、AI工具和规模化的数据收集 | \n\n每周更新跨圈大合照 | \n说话含喵量巨大 | \n今年欢笑复明年，秋月春风等闲度。| \n关注牢喵喵！关注牢喵谢谢喵！| \n你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我\n\n要饭：https://t.co/aMQp3GpkVJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 149,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 126,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 221,
+          "like_count": 4478,
+          "listed_count": 5,
+          "media_count": 252,
+          "tweet_count": 1290
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-19T10:59:13.000Z",
+        "description": "대한민국 제21대 대통령",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "president.go.kr",
+                "end": 23,
+                "expanded_url": "https://www.president.go.kr/",
+                "start": 0,
+                "url": "https://t.co/NJ7qyiAoIk"
+              }
+            ]
+          }
+        },
+        "id": "106379129",
+        "location": "대한민국 ",
+        "name": "이재명",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916425597586448384/O2OTY-Yj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111557,
+          "following_count": 453830,
+          "like_count": 9183,
+          "listed_count": 2925,
+          "media_count": 7209,
+          "tweet_count": 63258
+        },
+        "url": "https://t.co/NJ7qyiAoIk",
+        "username": "Jaemyung_Lee",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Information Security",
+          "id": "1047123725525479425",
+          "name": "Information security"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Information Security",
+          "id": "1047123725525479425",
+          "name": "Information security"
+        }
+      }
+    ],
+    "conversation_id": "2057826624255516817",
+    "created_at": "2026-05-22T22:35:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T23:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057953572210577505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1930168798553714688",
+          "start": 0,
+          "username": "fairiehaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057953572210577505",
+    "in_reply_to_user_id": "1930168798553714688",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057826624255516817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fairiehaze Without a doubt, it's TikTok. There is  no reason for it to read information from my personal SIM card, yet it goes ahead and does it anyway—long before you even agree to their miles-long privacy 'protection' policy. I'm really curious to know what 'privacy' even means to them."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 377,
+        "media_key": "3_2057826621424332800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7eaMtW8AAGpxc.jpg",
+        "width": 1053
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          }
+        ],
+        "conversation_id": "2057826624255516817",
+        "created_at": "2026-05-22T22:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T23:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057953572210577505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1930168798553714688",
+              "start": 0,
+              "username": "fairiehaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057953572210577505",
+        "in_reply_to_user_id": "1930168798553714688",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057826624255516817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fairiehaze Without a doubt, it's TikTok. There is  no reason for it to read information from my personal SIM card, yet it goes ahead and does it anyway—long before you even agree to their miles-long privacy 'protection' policy. I'm really curious to know what 'privacy' even means to them."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057826621424332800"
+          ]
+        },
+        "author_id": "1930168798553714688",
+        "conversation_id": "2057826624255516817",
+        "created_at": "2026-05-22T14:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057826624255516817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jr9xoLeAjK",
+              "end": 57,
+              "expanded_url": "https://x.com/fairiehaze/status/2057826624255516817/photo/1",
+              "media_key": "3_2057826621424332800",
+              "start": 34,
+              "url": "https://t.co/Jr9xoLeAjK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057826624255516817",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 205944,
+          "like_count": 1557,
+          "quote_count": 553,
+          "reply_count": 1038,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "You must delete 1 app, which one? https://t.co/Jr9xoLeAjK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，构建社区、AI、规模化的数据收集 | \n\n每周更新跨圈大合照 | \n说话含喵量巨大 | \n今年欢笑复明年，秋月春风等闲度。| \n关注牢喵喵！关注牢喵谢谢喵！| \n你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我\n\n要饭：https://t.co/aMQp3GpkVJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 147,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 124,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 234,
+          "like_count": 4050,
+          "listed_count": 5,
+          "media_count": 225,
+          "tweet_count": 1156
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T07:45:18.000Z",
+        "description": "𝓪𝓷𝓰𝓮𝓵 𝓮𝓷𝓮𝓻𝓰𝔂",
+        "id": "1930168798553714688",
+        "location": "dm for promo ",
+        "name": "ꪆৎ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966974149575815168/z1OwH2IL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38892,
+          "following_count": 224,
+          "like_count": 2174,
+          "listed_count": 95,
+          "media_count": 1323,
+          "tweet_count": 3001
+        },
+        "username": "fairiehaze",
+        "verified": true
+      }
+    ]
+  }
+}

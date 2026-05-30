@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2037416587112931390",
+    "created_at": "2026-03-27T23:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T00:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037676426112139704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "885086674828578816",
+          "start": 0,
+          "username": "PandaTalk8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037676426112139704",
+    "in_reply_to_user_id": "885086674828578816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037416587112931390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PandaTalk8 ai写的代码比我的好，因为它能从代码库中理解我要些什么。\n\nai写的文章是什么鬼，它能知道我要些什么吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2037416587112931390",
+        "created_at": "2026-03-27T23:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T00:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037676426112139704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "885086674828578816",
+              "start": 0,
+              "username": "PandaTalk8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037676426112139704",
+        "in_reply_to_user_id": "885086674828578816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037416587112931390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PandaTalk8 ai写的代码比我的好，因为它能从代码库中理解我要些什么。\n\nai写的文章是什么鬼，它能知道我要些什么吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "885086674828578816",
+        "conversation_id": "2037416587112931390",
+        "created_at": "2026-03-27T06:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037416587112931390"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037416587112931390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 56743,
+          "like_count": 240,
+          "quote_count": 14,
+          "reply_count": 136,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "一个有意思的现象：\n基本上很少有人会嫌弃有AI味儿代码，\n但是会有很多人嫌弃有AI味儿文章。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 41,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 18,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2025788939731439975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 792,
+          "like_count": 1517,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 288
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-12T10:41:22.000Z",
+        "description": "程序员 | AI 创业者 | 个人IP教练 | 商业技术观察 | 公众号：PandaTalk8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xlearnity.ai",
+                "end": 23,
+                "expanded_url": "https://xlearnity.ai",
+                "start": 0,
+                "url": "https://t.co/C2Rcj68Zgy"
+              }
+            ]
+          }
+        },
+        "id": "885086674828578816",
+        "name": "Mr Panda",
+        "pinned_tweet_id": "2036404404388241423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738715996737933312/QHUuRDK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70785,
+          "following_count": 7345,
+          "like_count": 69428,
+          "listed_count": 500,
+          "media_count": 1494,
+          "tweet_count": 24710
+        },
+        "url": "https://t.co/C2Rcj68Zgy",
+        "username": "PandaTalk8",
+        "verified": true
+      }
+    ]
+  }
+}

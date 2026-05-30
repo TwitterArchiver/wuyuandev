@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053058964020248576",
+        "3_2053058987751510016"
+      ],
+      "media_source_tweet_id": [
+        "2053059017145262229",
+        "2053059017145262229"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "2053374119438389733",
+    "created_at": "2026-05-10T07:18:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T08:18:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053374119438389733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3120915403",
+          "start": 3,
+          "username": "kuiruri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IPKJsHtlaG",
+          "end": 36,
+          "expanded_url": "https://x.com/kuiruri/status/2053059017145262229/photo/1",
+          "media_key": "3_2053058964020248576",
+          "start": 13,
+          "url": "https://t.co/IPKJsHtlaG"
+        },
+        {
+          "display_url": "pic.x.com/IPKJsHtlaG",
+          "end": 36,
+          "expanded_url": "https://x.com/kuiruri/status/2053059017145262229/photo/1",
+          "media_key": "3_2053058987751510016",
+          "start": 13,
+          "url": "https://t.co/IPKJsHtlaG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053374119438389733",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12330
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053059017145262229",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuiruri: https://t.co/IPKJsHtlaG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2053058964020248576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3uQA1bwAAok-J.png",
+        "width": 2000
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2053058987751510016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3uRZPaEAAPAFl.png",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053058964020248576",
+            "3_2053058987751510016"
+          ],
+          "media_source_tweet_id": [
+            "2053059017145262229",
+            "2053059017145262229"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2053374119438389733",
+        "created_at": "2026-05-10T07:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053374119438389733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3120915403",
+              "start": 3,
+              "username": "kuiruri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IPKJsHtlaG",
+              "end": 36,
+              "expanded_url": "https://x.com/kuiruri/status/2053059017145262229/photo/1",
+              "media_key": "3_2053058964020248576",
+              "start": 13,
+              "url": "https://t.co/IPKJsHtlaG"
+            },
+            {
+              "display_url": "pic.x.com/IPKJsHtlaG",
+              "end": 36,
+              "expanded_url": "https://x.com/kuiruri/status/2053059017145262229/photo/1",
+              "media_key": "3_2053058987751510016",
+              "start": 13,
+              "url": "https://t.co/IPKJsHtlaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053374119438389733",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12330
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053059017145262229",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuiruri: https://t.co/IPKJsHtlaG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053058964020248576",
+            "3_2053058987751510016"
+          ]
+        },
+        "author_id": "3120915403",
+        "conversation_id": "2053059017145262229",
+        "created_at": "2026-05-09T10:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053059017145262229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IPKJsHtlaG",
+              "end": 23,
+              "expanded_url": "https://x.com/kuiruri/status/2053059017145262229/photo/1",
+              "media_key": "3_2053058964020248576",
+              "start": 0,
+              "url": "https://t.co/IPKJsHtlaG"
+            },
+            {
+              "display_url": "pic.x.com/IPKJsHtlaG",
+              "end": 23,
+              "expanded_url": "https://x.com/kuiruri/status/2053059017145262229/photo/1",
+              "media_key": "3_2053058987751510016",
+              "start": 0,
+              "url": "https://t.co/IPKJsHtlaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053059017145262229",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3629,
+          "impression_count": 1644200,
+          "like_count": 80432,
+          "quote_count": 217,
+          "reply_count": 104,
+          "retweet_count": 12330
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IPKJsHtlaG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸 | 坐标HNCS\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 123,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 100,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！",
+        "pinned_tweet_id": "2051211437847290211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 222,
+          "like_count": 3217,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 839
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-31T16:38:31.000Z",
+        "description": "illustrator／漫画家🌸｜単行本発売中\nお仕事→sakurapurin0218@gmail.com(企業様用)\n◆portfolio https://t.co/2q9QCYZdbB\n◆Skeb https://t.co/HjgjVWjPew\n◆無断転載・AI学習禁止",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "foriio.com/kuiruri",
+                "end": 94,
+                "expanded_url": "https://foriio.com/kuiruri",
+                "start": 71,
+                "url": "https://t.co/2q9QCYZdbB"
+              },
+              {
+                "display_url": "skeb.jp/@kuiruri",
+                "end": 124,
+                "expanded_url": "https://skeb.jp/@kuiruri",
+                "start": 101,
+                "url": "https://t.co/HjgjVWjPew"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/84118608",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/84118608",
+                "start": 0,
+                "url": "https://t.co/MgH0OFtJa4"
+              }
+            ]
+          }
+        },
+        "id": "3120915403",
+        "location": "個人様のご依頼はDMから",
+        "name": "桜プリン🐾書籍発売中！",
+        "pinned_tweet_id": "2031747658205876484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1000609982272827392/xKq4lyaq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133475,
+          "following_count": 227,
+          "like_count": 12438,
+          "listed_count": 390,
+          "media_count": 1900,
+          "tweet_count": 30574
+        },
+        "url": "https://t.co/MgH0OFtJa4",
+        "username": "kuiruri",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Microsoft Edge",
+          "id": "10052778497",
+          "name": "Microsoft Edge"
+        }
+      }
+    ],
+    "conversation_id": "1955690818422911273",
+    "created_at": "2025-08-18T12:59:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T13:59:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957427024005632183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "19315174",
+          "start": 0,
+          "username": "MicrosoftEdge"
+        },
+        {
+          "end": 20,
+          "id": "1720665183188922368",
+          "start": 15,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957427024005632183",
+    "in_reply_to_user_id": "1436287470207832064",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957426861019124138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MicrosoftEdge @grok What do you think about this"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Microsoft Edge",
+              "id": "10052778497",
+              "name": "Microsoft Edge"
+            }
+          }
+        ],
+        "conversation_id": "1955690818422911273",
+        "created_at": "2025-08-18T12:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T13:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957427024005632183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "19315174",
+              "start": 0,
+              "username": "MicrosoftEdge"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957427024005632183",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957426861019124138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MicrosoftEdge @grok What do you think about this"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Microsoft Edge",
+              "id": "10052778497",
+              "name": "Microsoft Edge"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "1955690818422911273",
+        "created_at": "2025-08-18T12:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T13:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957426861019124138"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "Microsoft",
+              "probability": 0.913,
+              "start": 22,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "19315174",
+              "start": 0,
+              "username": "MicrosoftEdge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/wuyuandev/stat…",
+              "end": 96,
+              "expanded_url": "https://x.com/wuyuandev/status/1957425289321160760",
+              "start": 73,
+              "url": "https://t.co/kbAYqzLw0c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957426861019124138",
+        "in_reply_to_user_id": "19315174",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957425289321160760",
+            "type": "quoted"
+          },
+          {
+            "id": "1955690818422911273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MicrosoftEdge Why is Microsoft so keen on killing those useful features\nhttps://t.co/kbAYqzLw0c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/4K66E55Pni",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.houlangs.com",
+                "end": 37,
+                "expanded_url": "https://zerocat.houlangs.com",
+                "start": 14,
+                "url": "https://t.co/4K66E55Pni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 234,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 55
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-21T23:42:14.000Z",
+        "description": "A whole new way to pilot the web. Try now.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aka.ms/copilot-mode",
+                "end": 23,
+                "expanded_url": "http://aka.ms/copilot-mode",
+                "start": 0,
+                "url": "https://t.co/IlSkYMQNGY"
+              }
+            ]
+          }
+        },
+        "id": "19315174",
+        "location": "Redmond, WA",
+        "name": "Microsoft Edge",
+        "pinned_tweet_id": "1949878952853459413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841902654320214017/-_5zyP6W_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993861,
+          "following_count": 10,
+          "like_count": 2693,
+          "listed_count": 5963,
+          "media_count": 2806,
+          "tweet_count": 37196
+        },
+        "url": "https://t.co/IlSkYMQNGY",
+        "username": "MicrosoftEdge",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5995653,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 4753,
+          "media_count": 2506187,
+          "tweet_count": 38908543
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

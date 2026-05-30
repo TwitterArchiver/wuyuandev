@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2056016715696500788",
+    "created_at": "2026-05-22T16:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T17:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057862050831876336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4908630707",
+          "start": 0,
+          "username": "xiaohui03021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057862050831876336",
+    "in_reply_to_user_id": "4908630707",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057860686341189917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaohui03021 嗯，也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2056016715696500788",
+        "created_at": "2026-05-22T16:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057862050831876336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4908630707",
+              "start": 0,
+              "username": "xiaohui03021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057862050831876336",
+        "in_reply_to_user_id": "4908630707",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057860686341189917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaohui03021 嗯，也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4908630707",
+        "conversation_id": "2056016715696500788",
+        "created_at": "2026-05-22T16:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057860686341189917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057860686341189917",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056016715696500788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev 副作用之一是增强抑郁症患病几率，不要吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，构建社区、AI、规模化的数据收集 | \n\n每周更新跨圈大合照 | \n说话含喵量巨大 | \n今年欢笑复明年，秋月春风等闲度。| \n关注牢喵喵！关注牢喵谢谢喵！| \n你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我\n\n要饭：https://t.co/aMQp3GpkVJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 147,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 124,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 234,
+          "like_count": 4032,
+          "listed_count": 4,
+          "media_count": 224,
+          "tweet_count": 1150
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-14T10:45:47.000Z",
+        "description": "喜欢精瘦的年轻躯体。捆绑、禁锢、木乃伊、制服、sm都是我的爱好。欢迎刚毕业的学生。随州",
+        "id": "4908630707",
+        "location": "随州市",
+        "name": "痞子会",
+        "pinned_tweet_id": "1933484181423849579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/698822441800491009/fDAH49Gb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4371,
+          "following_count": 2106,
+          "like_count": 21470,
+          "listed_count": 16,
+          "media_count": 173,
+          "tweet_count": 2599
+        },
+        "username": "xiaohui03021",
+        "verified": false
+      }
+    ]
+  }
+}

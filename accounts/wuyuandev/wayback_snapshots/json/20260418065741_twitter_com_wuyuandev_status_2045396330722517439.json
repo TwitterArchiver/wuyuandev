@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2045396330722517439",
+    "created_at": "2026-04-18T06:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T07:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045396330722517439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982449259774656512",
+          "start": 3,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045396330722517439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045371878353907925",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smiroyama: 一名来自「Яндекс（Yandex），俄罗斯最大的搜索引擎」的程序员，在屏蔽VPN的拦截页面代码里藏了一个致敬奥威尔《1984》的彩蛋。牛人。\n\n左边 VPN 拦截页面俄语翻译：\n标题： 看起来您在使用 VPN\n副标题： 由于现行限制，无法通过它…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1145,
+        "media_key": "3_2045371868585345024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKe4KybQAANgVe.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2045396330722517439",
+        "created_at": "2026-04-18T06:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045396330722517439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982449259774656512",
+              "start": 3,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045396330722517439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045371878353907925",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smiroyama: 一名来自「Яндекс（Yandex），俄罗斯最大的搜索引擎」的程序员，在屏蔽VPN的拦截页面代码里藏了一个致敬奥威尔《1984》的彩蛋。牛人。\n\n左边 VPN 拦截页面俄语翻译：\n标题： 看起来您在使用 VPN\n副标题： 由于现行限制，无法通过它…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045371868585345024"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2045371878353907925",
+        "created_at": "2026-04-18T05:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T06:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045371878353907925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BEvdhHEKD2",
+              "end": 185,
+              "expanded_url": "https://x.com/smiroyama/status/2045371878353907925/photo/1",
+              "media_key": "3_2045371868585345024",
+              "start": 162,
+              "url": "https://t.co/BEvdhHEKD2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045371878353907925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一名来自「Яндекс（Yandex），俄罗斯最大的搜索引擎」的程序员，在屏蔽VPN的拦截页面代码里藏了一个致敬奥威尔《1984》的彩蛋。牛人。\n\n左边 VPN 拦截页面俄语翻译：\n标题： 看起来您在使用 VPN\n副标题： 由于现行限制，无法通过它访问。\n您可以这样做：\n关闭 VPN——如果它安装在您的设备上。\n选择其他 Wi-Fi 网络——如果 VPN 配置在路由器上。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 7887,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一名来自「Яндекс（Yandex），俄罗斯最大的搜索引擎」的程序员，在屏蔽VPN的拦截页面代码里藏了一个致敬奥威尔《1984》的彩蛋。牛人。\n\n左边 VPN 拦截页面俄语翻译：\n标题： 看起来您在使用 VPN\n副标题： 由于现行限制，无法通过它访问。\n您可以这样做：\n关闭 VPN——如果它安装在您的设备上。\n选择其他 https://t.co/BEvdhHEKD2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 全(A)栈(I)开发者 | 互fo喵～ | 今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 71,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 48,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 958,
+          "like_count": 1904,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 414
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student |Dev @HRTtracker🍥|  User | 🐱 Lover | 好朋友 🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan \nthey/them",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 91,
+                "start": 81,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "qianxunchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🍡",
+        "pinned_tweet_id": "2044751664612323796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041377830597246976/UX0FQmaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3172,
+          "following_count": 1915,
+          "like_count": 8035,
+          "listed_count": 3,
+          "media_count": 1135,
+          "tweet_count": 4928
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

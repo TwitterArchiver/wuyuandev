@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2045693935981580745",
+    "created_at": "2026-04-19T02:40:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T03:40:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045693935981580745"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aparasr/status…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/aparasr/status/2045098577895252184",
+          "start": 15,
+          "url": "https://t.co/j7c6pPTaZV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045693935981580745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045098577895252184",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "既然这样我就直接跳到第三幕吧 https://t.co/j7c6pPTaZV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2045693935981580745",
+        "created_at": "2026-04-19T02:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045693935981580745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aparasr/status…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/aparasr/status/2045098577895252184",
+              "start": 15,
+              "url": "https://t.co/j7c6pPTaZV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045693935981580745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045098577895252184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "既然这样我就直接跳到第三幕吧 https://t.co/j7c6pPTaZV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980470627539800064",
+        "conversation_id": "2045098577895252184",
+        "created_at": "2026-04-17T11:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045098577895252184"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045098577895252184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 10895,
+          "like_count": 151,
+          "quote_count": 5,
+          "reply_count": 26,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "药娘三板斧\n第一幕 补佳乐 黄体酮 环丙孕酮\n第二幕 舍曲林 喹硫平 普瑞巴林\n第三幕 氰化钾 碳酸钡 亚硝酸钠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 互fo喵～ | 今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 81,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 58,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 966,
+          "like_count": 1958,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 435
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T03:06:23.000Z",
+        "description": "MtF /",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aparas.top",
+                "end": 23,
+                "expanded_url": "http://aparas.top",
+                "start": 0,
+                "url": "https://t.co/3n8ZRrbcfM"
+              }
+            ]
+          }
+        },
+        "id": "1980470627539800064",
+        "location": "Soochow / Peking",
+        "name": "Parasomnia",
+        "pinned_tweet_id": "2038764893747200396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030936654362574848/FK-6BgA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 110,
+          "like_count": 2475,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 481
+        },
+        "url": "https://t.co/3n8ZRrbcfM",
+        "username": "aparasr",
+        "verified": false
+      }
+    ]
+  }
+}

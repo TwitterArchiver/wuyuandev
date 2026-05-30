@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2047744254752207347",
+    "created_at": "2026-04-24T21:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T22:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047795466474254488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "106677666",
+          "start": 0,
+          "username": "Cullen23Edward"
+        },
+        {
+          "end": 28,
+          "id": "1165044876297134080",
+          "start": 16,
+          "username": "realNyarime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047795466474254488",
+    "in_reply_to_user_id": "106677666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047778891679588855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cullen23Edward @realNyarime 是真的（因为我就是这么过的），拍屏幕根本没法看到盲水印，而且这个实名服务商似乎完全不管来着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2047744254752207347",
+        "created_at": "2026-04-24T21:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T22:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047795466474254488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "106677666",
+              "start": 0,
+              "username": "Cullen23Edward"
+            },
+            {
+              "end": 28,
+              "id": "1165044876297134080",
+              "start": 16,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047795466474254488",
+        "in_reply_to_user_id": "106677666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047778891679588855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cullen23Edward @realNyarime 是真的（因为我就是这么过的），拍屏幕根本没法看到盲水印，而且这个实名服务商似乎完全不管来着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "106677666",
+        "conversation_id": "2047744254752207347",
+        "created_at": "2026-04-24T20:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T21:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047778891679588855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047778891679588855",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1218,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047744254752207347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 不会是假的吧，llm生成的图片一般都有自带隐水印吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 73,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 50,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 喵喵喵~~~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 1000,
+          "like_count": 2093,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 502
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-20T09:17:32.000Z",
+        "description": "web3｜Ai",
+        "id": "106677666",
+        "name": "edward cullen ｜🔶BNB ｜🐬TermMax",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850264318623031296/iX62BPzO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 1103,
+          "like_count": 4823,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 626
+        },
+        "username": "Cullen23Edward",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30068,
+          "following_count": 532,
+          "like_count": 12810,
+          "listed_count": 141,
+          "media_count": 1547,
+          "tweet_count": 10379
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

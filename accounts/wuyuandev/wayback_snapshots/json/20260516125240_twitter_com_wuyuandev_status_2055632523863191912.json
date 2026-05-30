@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2055631523433349293",
+    "created_at": "2026-05-16T12:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055632523863191912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870336533342932992",
+          "start": 0,
+          "username": "AsahinaShikure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055632523863191912",
+    "in_reply_to_user_id": "1870336533342932992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055631523433349293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsahinaShikure 你的Windows是厂商预装的，限制了只能用中文。去Microsoft store中自己买一份授权，或者去一些中国网站寻找方法。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2055631506043703297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcR9qrWEAEu0lw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2055631523433349293",
+        "created_at": "2026-05-16T12:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055632523863191912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870336533342932992",
+              "start": 0,
+              "username": "AsahinaShikure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055632523863191912",
+        "in_reply_to_user_id": "1870336533342932992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055631523433349293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsahinaShikure 你的Windows是厂商预装的，限制了只能用中文。去Microsoft store中自己买一份授权，或者去一些中国网站寻找方法。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055631506043703297"
+          ]
+        },
+        "author_id": "1870336533342932992",
+        "conversation_id": "2055631523433349293",
+        "created_at": "2026-05-16T12:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055631523433349293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yQY7rx9yuu",
+              "end": 80,
+              "expanded_url": "https://x.com/AsahinaShikure/status/2055631523433349293/photo/1",
+              "media_key": "3_2055631506043703297",
+              "start": 57,
+              "url": "https://t.co/yQY7rx9yuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055631523433349293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "為什麼我的電腦無法設置為英文？\nWhy can't my computer be set to English? https://t.co/yQY7rx9yuu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "langs.ink",
+                "end": 23,
+                "expanded_url": "https://langs.ink",
+                "start": 0,
+                "url": "https://t.co/Z142BBjByr"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "死与生 云与雨",
+        "pinned_tweet_id": "2051211437847290211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 228,
+          "like_count": 3512,
+          "listed_count": 3,
+          "media_count": 200,
+          "tweet_count": 998
+        },
+        "url": "https://t.co/Z142BBjByr",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T05:12:44.000Z",
+        "description": "Singaporean🇸🇬/Overseas student 留學生/MtF🏳️‍⚧️/Project Sekai 世界計畫/Languages:🇺🇸🇹🇼🇯🇵/President of the Union Republic of Griffin格里芬聯邦共和國現任總統",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 23,
+                "expanded_url": "https://www.gov-urg.net",
+                "start": 0,
+                "url": "https://t.co/hX5y0S3UET"
+              }
+            ]
+          }
+        },
+        "id": "1870336533342932992",
+        "location": "Central Region, Singapore🇸🇬",
+        "name": "Asahina Shikure 朝比奈丶志暮🏳️‍⚧️",
+        "pinned_tweet_id": "2051518083211407679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040272432788058113/m7xH-w8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 396,
+          "like_count": 1787,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 328
+        },
+        "url": "https://t.co/hX5y0S3UET",
+        "username": "AsahinaShikure",
+        "verified": true
+      }
+    ]
+  }
+}

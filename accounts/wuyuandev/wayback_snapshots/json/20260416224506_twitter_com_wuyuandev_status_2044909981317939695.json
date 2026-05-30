@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      }
+    ],
+    "conversation_id": "2044562803101733301",
+    "created_at": "2026-04-16T22:45:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T23:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044909981317939695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1525653523156721665",
+          "start": 0,
+          "username": "qg7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044909981317939695",
+    "in_reply_to_user_id": "1525653523156721665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044562803101733301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qg7777 刚试了Android端没有，看看分流？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1307,
+        "media_key": "3_2044562796449566722",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF-_B-NbEAIebs8.jpg",
+        "width": 1369
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2044562803101733301",
+        "created_at": "2026-04-16T22:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T23:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044909981317939695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1525653523156721665",
+              "start": 0,
+              "username": "qg7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044909981317939695",
+        "in_reply_to_user_id": "1525653523156721665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044562803101733301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qg7777 刚试了Android端没有，看看分流？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044562796449566722"
+          ]
+        },
+        "author_id": "1525653523156721665",
+        "conversation_id": "2044562803101733301",
+        "created_at": "2026-04-15T23:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T00:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044562803101733301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4splTBfU6I",
+              "end": 50,
+              "expanded_url": "https://x.com/qg7777/status/2044562803101733301/photo/1",
+              "media_key": "3_2044562796449566722",
+              "start": 27,
+              "url": "https://t.co/4splTBfU6I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044562803101733301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 393866,
+          "like_count": 297,
+          "quote_count": 0,
+          "reply_count": 245,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "中国移动现在都开始扫描VPN了吗？\n\n越来越难了…… https://t.co/4splTBfU6I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ mt猫娘 | 全(A)栈(I)开发者 | 互fo喵～ | 今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 76,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 53,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 939,
+          "like_count": 1854,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 400
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-15T01:45:32.000Z",
+        "description": "Father 3children | X Premium+ | X·Space “村头CBD”Founder | @Techub_News 顾问 | 金色财经顾问 | @0G_labs 大使 | 近3亿用户的共同选择,数字资产就选币安 @binance 出入金安全",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "Techub_News"
+              },
+              {
+                "end": 92,
+                "start": 84,
+                "username": "0G_labs"
+              },
+              {
+                "end": 126,
+                "start": 118,
+                "username": "binance"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/qqzsss",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/qqzsss",
+                "start": 0,
+                "url": "https://t.co/icnRU9tpHv"
+              }
+            ]
+          }
+        },
+        "id": "1525653523156721665",
+        "location": "社区群与资源→",
+        "name": "茄哥 | Pod",
+        "pinned_tweet_id": "2044759497353416944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035327257754189824/LLqQ3Ez0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74693,
+          "following_count": 1301,
+          "like_count": 64954,
+          "listed_count": 222,
+          "media_count": 5400,
+          "tweet_count": 44657
+        },
+        "url": "https://t.co/icnRU9tpHv",
+        "username": "qg7777",
+        "verified": true
+      }
+    ]
+  }
+}

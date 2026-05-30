@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+          "id": "1502373339775397892",
+          "name": "WeChat"
+        }
+      }
+    ],
+    "conversation_id": "2057990489337716902",
+    "created_at": "2026-05-23T13:37:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T14:37:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058180511508652054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "256475485",
+          "start": 0,
+          "username": "ikunkunkun123"
+        },
+        {
+          "end": 29,
+          "id": "487312107",
+          "start": 15,
+          "username": "Weixin_WeChat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058180511508652054",
+    "in_reply_to_user_id": "256475485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058178510523682923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ikunkunkun123 @Weixin_WeChat 有不少人都稳定在这个时候断，我有群友也是差不多这时间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "2057990489337716902",
+        "created_at": "2026-05-23T13:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058180511508652054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "256475485",
+              "start": 0,
+              "username": "ikunkunkun123"
+            },
+            {
+              "end": 29,
+              "id": "487312107",
+              "start": 15,
+              "username": "Weixin_WeChat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058180511508652054",
+        "in_reply_to_user_id": "256475485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058178510523682923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ikunkunkun123 @Weixin_WeChat 有不少人都稳定在这个时候断，我有群友也是差不多这时间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "256475485",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "2057990489337716902",
+        "created_at": "2026-05-23T13:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058178510523682923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            },
+            {
+              "end": 25,
+              "id": "487312107",
+              "start": 11,
+              "username": "Weixin_WeChat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058178510523682923",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057990489337716902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev @Weixin_WeChat 怎么判断是是达到通话上限断开而不是网络问题或者bug"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，构建社区、AI工具和规模化的数据收集 | \n\n每周更新跨圈大合照 | \n说话含喵量巨大 | \n今年欢笑复明年，秋月春风等闲度。| \n关注牢喵喵！关注牢喵谢谢喵！| \n你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我\n\n要饭：https://t.co/aMQp3GpkVJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 149,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 126,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 221,
+          "like_count": 4260,
+          "listed_count": 5,
+          "media_count": 239,
+          "tweet_count": 1209
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-23T12:07:28.000Z",
+        "description": "前阿里技术专家，前前诺基亚硬件工程师。20多年经验的古法编程老登",
+        "id": "256475485",
+        "name": "アイくん_2.5",
+        "pinned_tweet_id": "294751591746134016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668204057926995968/5mCJNF9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 2843,
+          "like_count": 16409,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 2379
+        },
+        "username": "ikunkunkun123",
+        "verified": true
+      },
+      {
+        "created_at": "2012-02-09T07:11:48.000Z",
+        "description": "Connecting a billion people\nFeedback & Support: https://t.co/77y9vdUrF0  \nDownload: iOS https://t.co/dYDENLn6Lv + Android https://t.co/VLnFJdawAE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "help.wechat.com",
+                "end": 71,
+                "expanded_url": "http://help.wechat.com",
+                "start": 48,
+                "url": "https://t.co/77y9vdUrF0"
+              },
+              {
+                "display_url": "bit.ly/1M1vkoG",
+                "end": 111,
+                "expanded_url": "http://bit.ly/1M1vkoG",
+                "start": 88,
+                "url": "https://t.co/dYDENLn6Lv"
+              },
+              {
+                "display_url": "bit.ly/1uGE7n0",
+                "end": 145,
+                "expanded_url": "http://bit.ly/1uGE7n0",
+                "start": 122,
+                "url": "https://t.co/VLnFJdawAE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wechat.com/en",
+                "end": 22,
+                "expanded_url": "http://www.wechat.com/en",
+                "start": 0,
+                "url": "http://t.co/3VuclYcOlQ"
+              }
+            ]
+          }
+        },
+        "id": "487312107",
+        "location": "Worldwide",
+        "name": "WeChat",
+        "pinned_tweet_id": "2039651808633815454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013582372524933120/LyGYhtIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249605,
+          "following_count": 24,
+          "like_count": 565,
+          "listed_count": 726,
+          "media_count": 753,
+          "tweet_count": 3338
+        },
+        "url": "http://t.co/3VuclYcOlQ",
+        "username": "Weixin_WeChat",
+        "verified": true
+      }
+    ]
+  }
+}

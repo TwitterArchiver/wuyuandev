@@ -1,0 +1,456 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+          "id": "1166857805766131714",
+          "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+        }
+      }
+    ],
+    "conversation_id": "1929212093116363197",
+    "created_at": "2025-06-02T01:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T02:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929350115577274588"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 65,
+          "normalized_text": "AI",
+          "probability": 0.8387,
+          "start": 64,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1879979432489938945",
+          "start": 0,
+          "username": "linmontfur"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Where possible begins.",
+          "display_url": "Linux.do",
+          "end": 35,
+          "expanded_url": "http://Linux.do",
+          "images": [
+            {
+              "height": 896,
+              "url": "https://pbs.twimg.com/news_img/1928955927543099392/Hhw2HH_G?format=png&name=orig",
+              "width": 896
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1928955927543099392/Hhw2HH_G?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 12,
+          "status": 200,
+          "title": "LINUX DO",
+          "unwound_url": "https://linux.do/",
+          "url": "https://t.co/gR4lPvYYox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929350115577274588",
+    "in_reply_to_user_id": "1879979432489938945",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929212093116363197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linmontfur https://t.co/gR4lPvYYox is a Chinese technology and AI forum. You can freely enter this team, but it is best to use a backup account where various models can be used."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_1929212073109803008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsXwKLoa0AAGIIu.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+              "id": "1166857805766131714",
+              "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+            }
+          }
+        ],
+        "conversation_id": "1929212093116363197",
+        "created_at": "2025-06-02T01:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T02:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929350115577274588"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 65,
+              "normalized_text": "AI",
+              "probability": 0.8387,
+              "start": 64,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1879979432489938945",
+              "start": 0,
+              "username": "linmontfur"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Where possible begins.",
+              "display_url": "Linux.do",
+              "end": 35,
+              "expanded_url": "http://Linux.do",
+              "images": [
+                {
+                  "height": 896,
+                  "url": "https://pbs.twimg.com/news_img/1928955927543099392/Hhw2HH_G?format=png&name=orig",
+                  "width": 896
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1928955927543099392/Hhw2HH_G?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 12,
+              "status": 200,
+              "title": "LINUX DO",
+              "unwound_url": "https://linux.do/",
+              "url": "https://t.co/gR4lPvYYox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929350115577274588",
+        "in_reply_to_user_id": "1879979432489938945",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929212093116363197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linmontfur https://t.co/gR4lPvYYox is a Chinese technology and AI forum. You can freely enter this team, but it is best to use a backup account where various models can be used."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929212073109803008"
+          ]
+        },
+        "author_id": "1879979432489938945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1929212093116363197",
+        "created_at": "2025-06-01T16:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T17:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929212093116363197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Where possible begins.",
+              "display_url": "linux.do",
+              "end": 64,
+              "expanded_url": "http://linux.do",
+              "images": [
+                {
+                  "height": 896,
+                  "url": "https://pbs.twimg.com/news_img/1928955927543099392/Hhw2HH_G?format=png&name=orig",
+                  "width": 896
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1928955927543099392/Hhw2HH_G?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 41,
+              "status": 200,
+              "title": "LINUX DO",
+              "unwound_url": "https://linux.do/",
+              "url": "https://t.co/ZJjT1aFe0M"
+            },
+            {
+              "display_url": "pic.x.com/52Cmeqd7Kh",
+              "end": 94,
+              "expanded_url": "https://x.com/linmontfur/status/1929212093116363197/photo/1",
+              "media_key": "3_1929212073109803008",
+              "start": 71,
+              "url": "https://t.co/52Cmeqd7Kh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929212093116363197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？什么活爹爹给了我个chatgpt team玩？\n还省的我买chatgpt会员了？https://t.co/ZJjT1aFe0M是什么东西？ https://t.co/52Cmeqd7Kh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/4K66E55Pni",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.houlangs.com",
+                "end": 37,
+                "expanded_url": "https://zerocat.houlangs.com",
+                "start": 14,
+                "url": "https://t.co/4K66E55Pni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 203,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 26
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-16T19:50:13.000Z",
+        "description": "The world is no longer beautiful. “You still remember the sunlight. but the buried darkness never left. In that silence, you are crazy. you death in mm/dd/yy”",
+        "id": "1879979432489938945",
+        "location": "DN42 BGP",
+        "name": "linmont.furry",
+        "pinned_tweet_id": "1893679985283543488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928547652540706816/lxKsTiFw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 122,
+          "like_count": 9,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 602
+        },
+        "username": "linmontfur",
+        "verified": false
+      }
+    ]
+  }
+}

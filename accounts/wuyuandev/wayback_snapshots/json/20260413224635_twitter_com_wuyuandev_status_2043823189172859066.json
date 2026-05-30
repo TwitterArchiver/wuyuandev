@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2043734298000535653",
+    "created_at": "2026-04-13T22:46:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T23:46:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043823189172859066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1818920358403256320",
+          "start": 0,
+          "username": "xuanyu_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043823189172859066",
+    "in_reply_to_user_id": "1818920358403256320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043734298000535653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuanyu_awa 生日快乐🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043734285346369536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFzNgR1bcAAs3eV.jpg",
+        "width": 967
+      },
+      {
+        "height": 787,
+        "media_key": "3_2043734285593784321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFzNgSwasAE5M-V.jpg",
+        "width": 720
+      },
+      {
+        "height": 1276,
+        "media_key": "3_2043734285551804416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFzNgSmaIAADxFM.png",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2043734298000535653",
+        "created_at": "2026-04-13T22:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T23:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043823189172859066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1818920358403256320",
+              "start": 0,
+              "username": "xuanyu_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043823189172859066",
+        "in_reply_to_user_id": "1818920358403256320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043734298000535653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuanyu_awa 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043734285346369536",
+            "3_2043734285593784321",
+            "3_2043734285551804416"
+          ]
+        },
+        "author_id": "1818920358403256320",
+        "conversation_id": "2043734298000535653",
+        "created_at": "2026-04-13T16:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043734298000535653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T0sHCVduNs",
+              "end": 30,
+              "expanded_url": "https://x.com/xuanyu_awa/status/2043734298000535653/photo/1",
+              "media_key": "3_2043734285346369536",
+              "start": 7,
+              "url": "https://t.co/T0sHCVduNs"
+            },
+            {
+              "display_url": "pic.x.com/T0sHCVduNs",
+              "end": 30,
+              "expanded_url": "https://x.com/xuanyu_awa/status/2043734298000535653/photo/1",
+              "media_key": "3_2043734285593784321",
+              "start": 7,
+              "url": "https://t.co/T0sHCVduNs"
+            },
+            {
+              "display_url": "pic.x.com/T0sHCVduNs",
+              "end": 30,
+              "expanded_url": "https://x.com/xuanyu_awa/status/2043734298000535653/photo/1",
+              "media_key": "3_2043734285551804416",
+              "start": 7,
+              "url": "https://t.co/T0sHCVduNs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043734298000535653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1620,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "16岁生日喵 https://t.co/T0sHCVduNs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ mt猫娘 | 全(A)栈(I)开发者 | 互fo | 今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 74,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 51,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 927,
+          "like_count": 1767,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 383
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T08:03:18.000Z",
+        "description": "mtf🍥🏳️‍⚧️/birthday:2010.4.14/hrt:2024.3.16/CChOer（省一倒数的废物……）/高一物化生/彩笔音游人/精神状态随机/坐标重庆/欢迎来找我聊天哦",
+        "id": "1818920358403256320",
+        "location": "重庆",
+        "name": "萱雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619597285576704/qBOYoEc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3023,
+          "following_count": 3568,
+          "like_count": 33199,
+          "listed_count": 7,
+          "media_count": 115,
+          "tweet_count": 1183
+        },
+        "username": "xuanyu_awa",
+        "verified": false
+      }
+    ]
+  }
+}

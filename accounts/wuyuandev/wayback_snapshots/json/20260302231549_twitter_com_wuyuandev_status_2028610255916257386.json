@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2028491268591112217",
+    "created_at": "2026-03-02T23:15:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T00:15:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028610255916257386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1753070515680354304",
+          "start": 0,
+          "username": "bai330203545067"
+        },
+        {
+          "end": 28,
+          "id": "1956544219751063552",
+          "start": 17,
+          "username": "wu_si42846"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028610255916257386",
+    "in_reply_to_user_id": "1753070515680354304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028529362920681777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai330203545067 @wu_si42846 《薛定谔的病，其是否有取决于观测。》"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2028491268591112217",
+        "created_at": "2026-03-02T23:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T00:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028610255916257386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753070515680354304",
+              "start": 0,
+              "username": "bai330203545067"
+            },
+            {
+              "end": 28,
+              "id": "1956544219751063552",
+              "start": 17,
+              "username": "wu_si42846"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028610255916257386",
+        "in_reply_to_user_id": "1753070515680354304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028529362920681777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai330203545067 @wu_si42846 《薛定谔的病，其是否有取决于观测。》"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753070515680354304",
+        "conversation_id": "2028491268591112217",
+        "created_at": "2026-03-02T17:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T18:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028529362920681777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1956544219751063552",
+              "start": 0,
+              "username": "wu_si42846"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028529362920681777",
+        "in_reply_to_user_id": "1956544219751063552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028491268591112217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wu_si42846 呃，难道只有我问我父母要不要去复查时，他们跟我说只要你不去你就没有病……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mfl9Y8a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 41,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 18,
+                "url": "https://t.co/Ch2mfl9Y8a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2025788939731439975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 653,
+          "like_count": 1157,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 207
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T14:59:37.000Z",
+        "description": "",
+        "id": "1753070515680354304",
+        "name": "森然",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020942787617738752/UnLk1vt__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 32
+        },
+        "username": "bai330203545067",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T02:31:25.000Z",
+        "description": "最强大脑的天才末影人🔪- ✰*🎀 ੈ✩🐰✰*💗 ੈ✩- 生活在互联网里！看成分互fo捏喵!!!!/我是低龄糖逼大傻福，实在抱歉！/超级严重失眠 -12现役初中生/✟❀信徒@Fislonely_❀灵宠@dbdbsjbsja❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 85,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "dbdbsjbsja"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iRin19196",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iRin19196",
+                "start": 0,
+                "url": "https://t.co/uWp3iQGWKL"
+              }
+            ]
+          }
+        },
+        "id": "1956544219751063552",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2）",
+        "pinned_tweet_id": "2024329117580349689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024476491988578304/ndqIjzWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 624,
+          "like_count": 22738,
+          "listed_count": 1,
+          "media_count": 362,
+          "tweet_count": 7738
+        },
+        "url": "https://t.co/uWp3iQGWKL",
+        "username": "wu_si42846",
+        "verified": false
+      }
+    ]
+  }
+}

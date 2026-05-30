@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2046228794219106692",
+    "created_at": "2026-04-20T14:05:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T15:05:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046228794219106692"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vercel/status/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/vercel/status/2045865072074035664",
+          "start": 18,
+          "url": "https://t.co/OL6oJANrSo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046228794219106692",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045865072074035664",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一回来就看到vercel出事。。。 https://t.co/OL6oJANrSo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2046228794219106692",
+        "created_at": "2026-04-20T14:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046228794219106692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vercel/status/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/vercel/status/2045865072074035664",
+              "start": 18,
+              "url": "https://t.co/OL6oJANrSo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046228794219106692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045865072074035664",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一回来就看到vercel出事。。。 https://t.co/OL6oJANrSo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4686835494",
+        "conversation_id": "2045865072074035664",
+        "created_at": "2026-04-19T14:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045865072074035664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "We’ve identified a security incident that involved unauthorized access to certain internal Vercel systems.",
+              "display_url": "vercel.com/kb/bulletin/ve…",
+              "end": 205,
+              "expanded_url": "https://vercel.com/kb/bulletin/vercel-april-2026-security-incident",
+              "images": [
+                {
+                  "height": 1256,
+                  "url": "https://pbs.twimg.com/news_img/2045865074926182400/aiE70jaz?format=jpg&name=orig",
+                  "width": 2400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2045865074926182400/aiE70jaz?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 182,
+              "status": 200,
+              "title": "Vercel April 2026 security incident | Vercel Knowledge Base",
+              "unwound_url": "https://vercel.com/kb/bulletin/vercel-april-2026-security-incident",
+              "url": "https://t.co/0S939n3qHC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045865072074035664",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3168,
+          "impression_count": 9276216,
+          "like_count": 8062,
+          "quote_count": 1786,
+          "reply_count": 653,
+          "retweet_count": 2243
+        },
+        "reply_settings": "everyone",
+        "text": "We’ve identified a security incident that involved unauthorized access to certain internal Vercel systems, impacting a limited subset of customers. Please see our security bulletin:\nhttps://t.co/0S939n3qHC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 73,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 50,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 978,
+          "like_count": 1996,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 446
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-01T03:49:12.000Z",
+        "description": "Agentic Infrastructure for apps and agents.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vercel.com",
+                "end": 23,
+                "expanded_url": "https://vercel.com",
+                "start": 0,
+                "url": "https://t.co/5rGLHH8b82"
+              }
+            ]
+          }
+        },
+        "id": "4686835494",
+        "location": "San Francisco & Global",
+        "name": "Vercel",
+        "pinned_tweet_id": "2045865072074035664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767351110228918272/3Pndc5OT_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418765,
+          "following_count": 9,
+          "like_count": 1335,
+          "listed_count": 3134,
+          "media_count": 303,
+          "tweet_count": 1881
+        },
+        "url": "https://t.co/5rGLHH8b82",
+        "username": "vercel",
+        "verified": true
+      }
+    ]
+  }
+}

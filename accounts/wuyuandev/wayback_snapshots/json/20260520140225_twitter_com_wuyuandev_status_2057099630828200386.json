@@ -1,0 +1,563 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      }
+    ],
+    "conversation_id": "2056949168208552080",
+    "created_at": "2026-05-20T14:02:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:02:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057099630828200386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "13334762",
+          "start": 0,
+          "username": "github"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057099630828200386",
+    "in_reply_to_user_id": "13334762",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056949168208552080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@github GitHub banning my account for forking a legitimate repository a month ago was probably the best warning sign possible. It proved early on that the platform simply can’t be trusted — not its policies, not its stability, and definitely not its security."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2056949168208552080",
+        "created_at": "2026-05-20T14:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057099630828200386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "13334762",
+              "start": 0,
+              "username": "github"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057099630828200386",
+        "in_reply_to_user_id": "13334762",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056949168208552080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@github GitHub banning my account for forking a legitimate repository a month ago was probably the best warning sign possible. It proved early on that the platform simply can’t be trusted — not its policies, not its stability, and definitely not its security."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "13334762",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2056949168208552080",
+        "created_at": "2026-05-20T04:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056949168208552080"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056949168208552080",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "1/ We are sharing additional details regarding our investigation into unauthorized access to GitHub's internal repositories.\n\nYesterday we detected and contained a compromise of an employee device involving a poisoned VS Code extension. We removed the malicious extension version, isolated the endpoint, and began incident response immediately."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2673,
+          "impression_count": 3323903,
+          "like_count": 8318,
+          "quote_count": 925,
+          "reply_count": 427,
+          "retweet_count": 2657
+        },
+        "reply_settings": "everyone",
+        "text": "1/ We are sharing additional details regarding our investigation into unauthorized access to GitHub's internal repositories.\n\nYesterday we detected and contained a compromise of an employee device involving a poisoned VS Code extension. We removed the malicious extension version,"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，构建社区、AI、规模化的数据收集 | \n\n每周更新跨圈大合照 | \n说话含喵量巨大 | \n今年欢笑复明年，秋月春风等闲度。| \n关注牢喵喵！关注牢喵谢谢喵！| \n你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我\n\n要饭：https://t.co/aMQp3GpkVJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 147,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 124,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "langs.ink",
+                "end": 23,
+                "expanded_url": "https://langs.ink",
+                "start": 0,
+                "url": "https://t.co/Z142BBjByr"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "死与生 云与雨",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 233,
+          "like_count": 3860,
+          "listed_count": 4,
+          "media_count": 217,
+          "tweet_count": 1085
+        },
+        "url": "https://t.co/Z142BBjByr",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2008-02-11T04:41:50.000Z",
+        "description": "The AI-powered developer platform to build, scale, and deliver secure software.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com",
+                "end": 23,
+                "expanded_url": "http://github.com",
+                "start": 0,
+                "url": "https://t.co/bbJgfyzKzp"
+              }
+            ]
+          }
+        },
+        "id": "13334762",
+        "location": "San Francisco, CA",
+        "name": "GitHub",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051404708766507008/ATxxTJXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2659955,
+          "following_count": 334,
+          "like_count": 8694,
+          "listed_count": 18489,
+          "media_count": 2975,
+          "tweet_count": 10554
+        },
+        "url": "https://t.co/bbJgfyzKzp",
+        "username": "github",
+        "verified": true
+      }
+    ]
+  }
+}

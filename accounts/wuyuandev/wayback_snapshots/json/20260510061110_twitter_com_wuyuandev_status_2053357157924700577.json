@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2053044753839911275",
+    "created_at": "2026-05-10T06:11:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T07:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053357157924700577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1173259891286392832",
+          "start": 0,
+          "username": "seanwei001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053357157924700577",
+    "in_reply_to_user_id": "1173259891286392832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053044753839911275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seanwei001 我丢，这么酷？？？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24636,
+        "height": 1440,
+        "media_key": "13_2053040472751489024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053040472751489024/img/5w3foq3DqRLO-CDb.jpg",
+        "public_metrics": {
+          "view_count": 482645
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053040472751489024/vid/avc1/480x644/HDRr8sBHgIH1Yd9u.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053040472751489024/vid/avc1/1072x1440/CbcN1t0pxFxAwojE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053040472751489024/pl/_eZdV3V71PZuJeLz.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053040472751489024/vid/avc1/720x966/xrJ-y6qAcuCEnw-o.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053040472751489024/vid/avc1/320x428/ckX65aDNvcNGOlRc.mp4"
+          }
+        ],
+        "width": 1072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2053044753839911275",
+        "created_at": "2026-05-10T06:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053357157924700577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1173259891286392832",
+              "start": 0,
+              "username": "seanwei001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053357157924700577",
+        "in_reply_to_user_id": "1173259891286392832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053044753839911275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seanwei001 我丢，这么酷？？？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053040472751489024"
+          ]
+        },
+        "author_id": "1173259891286392832",
+        "conversation_id": "2053044753839911275",
+        "created_at": "2026-05-09T09:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053044753839911275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/408UVrD0ib",
+              "end": 53,
+              "expanded_url": "https://x.com/seanwei001/status/2053044753839911275/video/1",
+              "media_key": "13_2053040472751489024",
+              "start": 30,
+              "url": "https://t.co/408UVrD0ib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053044753839911275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 192,
+          "impression_count": 917807,
+          "like_count": 938,
+          "quote_count": 3,
+          "reply_count": 271,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "我一直以为蜘蛛侠真的是用他的蛛丝在穿行，原来一直都是卡车。 https://t.co/408UVrD0ib"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸 | 坐标HNCS\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 123,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 100,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！",
+        "pinned_tweet_id": "2051211437847290211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 298,
+          "like_count": 3193,
+          "listed_count": 3,
+          "media_count": 166,
+          "tweet_count": 836
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-15T15:39:38.000Z",
+        "description": "来看有趣的事。。。",
+        "id": "1173259891286392832",
+        "name": "大变活人",
+        "pinned_tweet_id": "1454115070686887938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1376681920461905922/obKbf3oR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147266,
+          "following_count": 784,
+          "like_count": 27243,
+          "listed_count": 447,
+          "media_count": 28556,
+          "tweet_count": 34664
+        },
+        "username": "seanwei001",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2057451910375026953",
+    "created_at": "2026-05-21T14:34:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T15:34:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057470175730143708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1689053928",
+          "start": 0,
+          "username": "telegram"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057470175730143708",
+    "in_reply_to_user_id": "1689053928",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057451910375026953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@telegram Why would the reverse proxying of telegram's API be reported? My server is unable to directly access it in the area, but I still want an \"AI wife\"."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2057451910375026953",
+        "created_at": "2026-05-21T14:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057470175730143708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1689053928",
+              "start": 0,
+              "username": "telegram"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057470175730143708",
+        "in_reply_to_user_id": "1689053928",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057451910375026953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@telegram Why would the reverse proxying of telegram's API be reported? My server is unable to directly access it in the area, but I still want an \"AI wife\"."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689053928",
+        "conversation_id": "2057451910375026953",
+        "created_at": "2026-05-21T13:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057451910375026953"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057451910375026953",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 15131,
+          "like_count": 301,
+          "quote_count": 13,
+          "reply_count": 141,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "looking for my ai waifu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，构建社区、AI、规模化的数据收集 | \n\n每周更新跨圈大合照 | \n说话含喵量巨大 | \n今年欢笑复明年，秋月春风等闲度。| \n关注牢喵喵！关注牢喵谢谢喵！| \n你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我\n\n要饭：https://t.co/aMQp3GpkVJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 147,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 124,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 235,
+          "like_count": 3916,
+          "listed_count": 4,
+          "media_count": 219,
+          "tweet_count": 1114
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-21T19:47:05.000Z",
+        "description": "Simple, fast, secure – and synced across all your devices. One of the top 5 most-downloaded apps in the world with over 1 billion active users.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.org",
+                "end": 23,
+                "expanded_url": "http://telegram.org",
+                "start": 0,
+                "url": "https://t.co/zHAc9lS7Jy"
+              }
+            ]
+          }
+        },
+        "id": "1689053928",
+        "name": "Telegram Messenger",
+        "pinned_tweet_id": "2056790887095763337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1183117696730390529/LRDASku7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934678,
+          "following_count": 9,
+          "like_count": 6731,
+          "listed_count": 4531,
+          "media_count": 3881,
+          "tweet_count": 50107
+        },
+        "url": "https://t.co/zHAc9lS7Jy",
+        "username": "telegram",
+        "verified": true
+      }
+    ]
+  }
+}

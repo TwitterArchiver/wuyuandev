@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2050596826395688979",
+    "created_at": "2026-05-02T16:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T17:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050614547141255515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "168139512",
+          "start": 0,
+          "username": "geekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050614547141255515",
+    "in_reply_to_user_id": "168139512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050596826395688979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geekbb 用的类原生安卓，关梯稳定推送东西，，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1122,
+        "media_key": "3_2050596486204039168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUuo8HbIAAK4iw.jpg",
+        "width": 1172
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2050596826395688979",
+        "created_at": "2026-05-02T16:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T17:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050614547141255515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "168139512",
+              "start": 0,
+              "username": "geekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050614547141255515",
+        "in_reply_to_user_id": "168139512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050596826395688979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geekbb 用的类原生安卓，关梯稳定推送东西，，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050596486204039168"
+          ]
+        },
+        "author_id": "168139512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026889703",
+              "name": "BlackBerry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2050596826395688979",
+        "created_at": "2026-05-02T15:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050596826395688979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r1JOzHHi1p",
+              "end": 169,
+              "expanded_url": "https://x.com/geekbb/status/2050596826395688979/photo/1",
+              "media_key": "3_2050596486204039168",
+              "start": 146,
+              "url": "https://t.co/r1JOzHHi1p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050596826395688979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 6959,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国境内 Apple 是不是把 X 的推送给掐了，以前不开梯子也能收到。我不可能24小时开小火箭，一般是需要时才打开，这下收不到通知了。\n\n我想起当年为了实现 BlackBerry 邮件推送，好像可以自己部署黑莓 BIS 邮件推送服务，绑定个人邮箱，即时、省电、低流量，轮询/接收邮件推送。 https://t.co/r1JOzHHi1p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸 | 坐标HNCS\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 123,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 100,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！",
+        "pinned_tweet_id": "2048204898882531422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 829,
+          "like_count": 2677,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 672
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-18T14:10:39.000Z",
+        "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 88,
+                "username": "QingQ77"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "igeekbb.com",
+                "end": 23,
+                "expanded_url": "https://www.igeekbb.com",
+                "start": 0,
+                "url": "https://t.co/lNbogZ0jXq"
+              }
+            ]
+          }
+        },
+        "id": "168139512",
+        "location": "火星",
+        "name": "Geek",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111075,
+          "following_count": 512,
+          "like_count": 21538,
+          "listed_count": 1191,
+          "media_count": 6949,
+          "tweet_count": 27079
+        },
+        "url": "https://t.co/lNbogZ0jXq",
+        "username": "geekbb",
+        "verified": true
+      }
+    ]
+  }
+}

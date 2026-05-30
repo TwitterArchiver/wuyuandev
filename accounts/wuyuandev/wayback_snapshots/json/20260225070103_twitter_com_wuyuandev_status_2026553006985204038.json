@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2026548130444181871",
+    "created_at": "2026-02-25T07:01:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T08:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026553006985204038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999504877337395200",
+          "start": 0,
+          "username": "chuan_0123"
+        },
+        {
+          "end": 24,
+          "id": "1791348768690089984",
+          "start": 12,
+          "username": "saya8964cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026553006985204038",
+    "in_reply_to_user_id": "1999504877337395200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026549813186302345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuan_0123 @saya8964cat 放爱发电"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2026548130444181871",
+        "created_at": "2026-02-25T07:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T08:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026553006985204038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999504877337395200",
+              "start": 0,
+              "username": "chuan_0123"
+            },
+            {
+              "end": 24,
+              "id": "1791348768690089984",
+              "start": 12,
+              "username": "saya8964cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026553006985204038",
+        "in_reply_to_user_id": "1999504877337395200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026549813186302345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuan_0123 @saya8964cat 放爱发电"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999504877337395200",
+        "conversation_id": "2026548130444181871",
+        "created_at": "2026-02-25T06:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T07:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026549813186302345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1791348768690089984",
+              "start": 0,
+              "username": "saya8964cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026549813186302345",
+        "in_reply_to_user_id": "1791348768690089984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026549270833463313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saya8964cat 我就是怕个人信息泄露😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "今年欢笑复明年，秋月春风等闲度。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2025788939731439975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 521,
+          "like_count": 957,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 161
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T15:41:53.000Z",
+        "description": "我是川川/20↑/大体雑多垢 病み注意/無言フォロー失礼いたしました/直fo＝喜欢你/顺女/努力戒割戒药中/关取随意 回fo请私信！祝你以后都开心/误清请私信orz不是故意的",
+        "id": "1999504877337395200",
+        "location": "╰(⇀‸↼)╯",
+        "name": "虚空薯条教主",
+        "pinned_tweet_id": "2018665964129386526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019020107985620992/ssr2cUEK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 266,
+          "like_count": 8661,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 3976
+        },
+        "username": "chuan_0123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T06:03:53.000Z",
+        "description": "顺男，礼貌，提供情绪价值，可交友，随机出现的小猫咪，如果你想摸摸，就点击发送评论吧！想与现实人物贴贴版～ (^з^)-☆  每日11:30寻找猫窝睡觉！ngl匿名提问箱： https://t.co/0Uo3DcWNBu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sa%E2%80%86ya%…",
+                "end": 109,
+                "expanded_url": "https://ngl.link/sa%E2%80%86ya%E2%80%86ca%E2%80%86t",
+                "start": 86,
+                "url": "https://t.co/0Uo3DcWNBu"
+              }
+            ]
+          }
+        },
+        "id": "1791348768690089984",
+        "location": "アモイ(厦門)",
+        "name": "🍎魔法使い猫🐈",
+        "pinned_tweet_id": "2023785537270935681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973424771590410240/2BBwS0ug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 1117,
+          "like_count": 89680,
+          "listed_count": 4,
+          "media_count": 394,
+          "tweet_count": 35196
+        },
+        "username": "saya8964cat",
+        "verified": false
+      }
+    ]
+  }
+}

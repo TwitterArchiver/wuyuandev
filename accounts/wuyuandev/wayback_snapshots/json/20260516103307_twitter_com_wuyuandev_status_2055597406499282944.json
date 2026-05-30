@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      }
+    ],
+    "conversation_id": "2055597406499282944",
+    "created_at": "2026-05-16T10:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T11:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055597406499282944"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XIAOSUSU456/st…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/XIAOSUSU456/status/2055586580853903743",
+          "start": 25,
+          "url": "https://t.co/K05Ue3h2GN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055597406499282944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055586580853903743",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看来还是我们nodejs好，几年来我还没开始吃药 https://t.co/K05Ue3h2GN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2055597406499282944",
+        "created_at": "2026-05-16T10:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055597406499282944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XIAOSUSU456/st…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/XIAOSUSU456/status/2055586580853903743",
+              "start": 25,
+              "url": "https://t.co/K05Ue3h2GN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055597406499282944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055586580853903743",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看来还是我们nodejs好，几年来我还没开始吃药 https://t.co/K05Ue3h2GN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892789733287460864",
+        "conversation_id": "2055586580853903743",
+        "created_at": "2026-05-16T09:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055586580853903743"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055586580853903743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "网上总有人说学计算机容易变成小南娘\n我就很不信，于是就试了试\n我自学了3个月Python，变成了小南娘\n又做了两个月我的世界模组，进化成了小药娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "langs.ink",
+                "end": 23,
+                "expanded_url": "https://langs.ink",
+                "start": 0,
+                "url": "https://t.co/Z142BBjByr"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "死与生 云与雨",
+        "pinned_tweet_id": "2051211437847290211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 228,
+          "like_count": 3500,
+          "listed_count": 3,
+          "media_count": 200,
+          "tweet_count": 988
+        },
+        "url": "https://t.co/Z142BBjByr",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T04:13:44.000Z",
+        "description": "家长不管党 年龄党 MtF/X 随兴互fo 较社恐\n16岁，高一，不od，不自残，小证含糖\nHRT🍥:2026.04.17 | 168 cm | 58 kg | 友跨友lgbtq+文化 | INFP-T 出生日:2010.3.16\nminecraft丨异环丨铁锈战争玩家\nHTML/Gore/数码/深度二次元/AI",
+        "id": "1892789733287460864",
+        "name": "_Xiaosuda_🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046919261994823935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052239433743949824/zVtNaMaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 100,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 69
+        },
+        "username": "XIAOSUSU456",
+        "verified": false
+      }
+    ]
+  }
+}

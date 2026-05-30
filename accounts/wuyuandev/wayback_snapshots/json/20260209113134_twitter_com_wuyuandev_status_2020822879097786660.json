@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2020388416626782373",
+    "created_at": "2026-02-09T11:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T12:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020822879097786660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020822879097786660",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020388416626782373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cldeop 后来发现，师傅关闭了陀螺仪权限，我不禁反思［略］"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2020388409232269312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAncjcCbIAAIhzf.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2020388416626782373",
+        "created_at": "2026-02-09T11:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T12:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020822879097786660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020822879097786660",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020388416626782373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 后来发现，师傅关闭了陀螺仪权限，我不禁反思［略］"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020388409232269312"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2020388416626782373",
+        "created_at": "2026-02-08T06:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T07:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020388416626782373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3qcVFWDODh",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/2020388416626782373/photo/1",
+              "media_key": "3_2020388409232269312",
+              "start": 0,
+              "url": "https://t.co/3qcVFWDODh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020388416626782373",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 120974,
+          "like_count": 1524,
+          "quote_count": 2,
+          "reply_count": 51,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3qcVFWDODh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/6Zcu6y11gj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.dev",
+                "end": 37,
+                "expanded_url": "https://zerocat.dev",
+                "start": 14,
+                "url": "https://t.co/6Zcu6y11gj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005066106604863489/XJPt2Baa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 372,
+          "like_count": 585,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 101
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99466,
+          "following_count": 697,
+          "like_count": 34112,
+          "listed_count": 282,
+          "media_count": 15817,
+          "tweet_count": 22702
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

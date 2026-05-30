@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+          "id": "1502373339775397892",
+          "name": "WeChat"
+        }
+      }
+    ],
+    "conversation_id": "2057990489337716902",
+    "created_at": "2026-05-23T04:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T05:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058045965937025201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1385919167971282946",
+          "start": 0,
+          "username": "whyyoutangping"
+        },
+        {
+          "end": 30,
+          "id": "487312107",
+          "start": 16,
+          "username": "Weixin_WeChat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058045965937025201",
+    "in_reply_to_user_id": "1385919167971282946",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058042794158227745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutangping @Weixin_WeChat man! what can i say?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "2057990489337716902",
+        "created_at": "2026-05-23T04:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058045965937025201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1385919167971282946",
+              "start": 0,
+              "username": "whyyoutangping"
+            },
+            {
+              "end": 30,
+              "id": "487312107",
+              "start": 16,
+              "username": "Weixin_WeChat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058045965937025201",
+        "in_reply_to_user_id": "1385919167971282946",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058042794158227745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutangping @Weixin_WeChat man! what can i say?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385919167971282946",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "2057990489337716902",
+        "created_at": "2026-05-23T04:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058042794158227745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            },
+            {
+              "end": 25,
+              "id": "487312107",
+              "start": 11,
+              "username": "Weixin_WeChat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058042794158227745",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057990489337716902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev @Weixin_WeChat 头像看成牢大了😁😁😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，构建社区、AI工具和规模化的数据收集 | \n\n每周更新跨圈大合照 | \n说话含喵量巨大 | \n今年欢笑复明年，秋月春风等闲度。| \n关注牢喵喵！关注牢喵谢谢喵！| \n你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我\n\n要饭：https://t.co/aMQp3GpkVJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 149,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 126,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 220,
+          "like_count": 4127,
+          "listed_count": 5,
+          "media_count": 230,
+          "tweet_count": 1177
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T11:31:04.000Z",
+        "description": "无证含豆｜含豆日2026.4.2｜世界唯一豆娘｜04｜心情超棒（一直吃喵！）｜I人（友跨喵！）｜服用大豆异黄酮｜禁止涩涩｜也许是MTX？？？｜互fo喵！！！\n欢迎骚扰我喵：https://t.co/fmhkL0PNyb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/tangpingDN",
+                "end": 109,
+                "expanded_url": "http://t.me/tangpingDN",
+                "start": 86,
+                "url": "https://t.co/fmhkL0PNyb"
+              }
+            ]
+          }
+        },
+        "id": "1385919167971282946",
+        "location": "躺平星球",
+        "name": "𝑆𝑜𝑦𝑖𝑠𝑜～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050243518149636096/lalp9RN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 127,
+          "like_count": 2074,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 834
+        },
+        "username": "whyyoutangping",
+        "verified": true
+      },
+      {
+        "created_at": "2012-02-09T07:11:48.000Z",
+        "description": "Connecting a billion people\nFeedback & Support: https://t.co/77y9vdUrF0  \nDownload: iOS https://t.co/dYDENLn6Lv + Android https://t.co/VLnFJdawAE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "help.wechat.com",
+                "end": 71,
+                "expanded_url": "http://help.wechat.com",
+                "start": 48,
+                "url": "https://t.co/77y9vdUrF0"
+              },
+              {
+                "display_url": "bit.ly/1M1vkoG",
+                "end": 111,
+                "expanded_url": "http://bit.ly/1M1vkoG",
+                "start": 88,
+                "url": "https://t.co/dYDENLn6Lv"
+              },
+              {
+                "display_url": "bit.ly/1uGE7n0",
+                "end": 145,
+                "expanded_url": "http://bit.ly/1uGE7n0",
+                "start": 122,
+                "url": "https://t.co/VLnFJdawAE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wechat.com/en",
+                "end": 22,
+                "expanded_url": "http://www.wechat.com/en",
+                "start": 0,
+                "url": "http://t.co/3VuclYcOlQ"
+              }
+            ]
+          }
+        },
+        "id": "487312107",
+        "location": "Worldwide",
+        "name": "WeChat",
+        "pinned_tweet_id": "2039651808633815454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013582372524933120/LyGYhtIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249592,
+          "following_count": 24,
+          "like_count": 565,
+          "listed_count": 726,
+          "media_count": 753,
+          "tweet_count": 3338
+        },
+        "url": "http://t.co/3VuclYcOlQ",
+        "username": "Weixin_WeChat",
+        "verified": true
+      }
+    ]
+  }
+}

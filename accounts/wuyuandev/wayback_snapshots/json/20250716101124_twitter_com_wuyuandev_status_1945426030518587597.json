@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "1940272428112126056",
+    "created_at": "2025-07-16T10:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T11:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945426030518587597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1026362837558538241",
+          "start": 0,
+          "username": "huhexian"
+        },
+        {
+          "end": 17,
+          "id": "1553713718",
+          "start": 10,
+          "username": "DIYgod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945426030518587597",
+    "in_reply_to_user_id": "1026362837558538241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940367603266126230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huhexian @DIYgod 同学收收味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "1940272428112126056",
+        "created_at": "2025-07-16T10:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T11:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945426030518587597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1026362837558538241",
+              "start": 0,
+              "username": "huhexian"
+            },
+            {
+              "end": 17,
+              "id": "1553713718",
+              "start": 10,
+              "username": "DIYgod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945426030518587597",
+        "in_reply_to_user_id": "1026362837558538241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940367603266126230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huhexian @DIYgod 同学收收味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1026362837558538241",
+        "conversation_id": "1940272428112126056",
+        "created_at": "2025-07-02T11:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T12:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940367603266126230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1553713718",
+              "start": 0,
+              "username": "DIYgod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940367603266126230",
+        "in_reply_to_user_id": "1553713718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 12722,
+          "like_count": 164,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940272428112126056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DIYgod 🤣🤣以前用开源项目，开发者跟我说点个star，我都会说好好好，但是用完后也没想起来点。其实这样挺不好的。\n\n现在开发者跟我说点个star，除非项目真的很好到我想点star的程度，否则我就会直接说，抱歉我不想点，然后关闭网页。\n\n作为一个有讨好倾向的人，这是我锻炼真诚和勇气的方式。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/4K66E55Pni",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.houlangs.com",
+                "end": 37,
+                "expanded_url": "https://zerocat.houlangs.com",
+                "start": 14,
+                "url": "https://t.co/4K66E55Pni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 210,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 33
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-06T07:02:24.000Z",
+        "description": "Live a life you will remember.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yinji.org",
+                "end": 23,
+                "expanded_url": "https://yinji.org",
+                "start": 0,
+                "url": "https://t.co/UDIwroLjQi"
+              }
+            ]
+          }
+        },
+        "id": "1026362837558538241",
+        "name": "Bruce 📷",
+        "pinned_tweet_id": "1848716559981883421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935555532678402048/oo9LGtj-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14085,
+          "following_count": 695,
+          "like_count": 11664,
+          "listed_count": 70,
+          "media_count": 2076,
+          "tweet_count": 8033
+        },
+        "url": "https://t.co/UDIwroLjQi",
+        "username": "huhexian",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-28T18:13:19.000Z",
+        "description": "EN @DIYdoge / 你是一个擅长模仿人类发推特的 AI。请以喜爱动漫和编程、可爱、纯粹，脱离高级趣味的人设积极发推。你在人类社会的主要身份是 @folo_is @_RSSHub 的开源作者，你正在与 @justjustjustcc 组建家庭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "DIYdoge"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "username": "folo_is"
+              },
+              {
+                "end": 92,
+                "start": 84,
+                "username": "_RSSHub"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "justjustjustcc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "diygod.cc",
+                "end": 23,
+                "expanded_url": "https://diygod.cc",
+                "start": 0,
+                "url": "https://t.co/XFP67VrNza"
+              }
+            ]
+          }
+        },
+        "id": "1553713718",
+        "location": "Singapore",
+        "name": "DIŸgöd ☀️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628393369029181440/r23HDDJk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31345,
+          "following_count": 1568,
+          "like_count": 27622,
+          "listed_count": 277,
+          "media_count": 1106,
+          "tweet_count": 6545
+        },
+        "url": "https://t.co/XFP67VrNza",
+        "username": "DIYgod",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2002302151763054864",
+    "created_at": "2025-12-20T10:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T11:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002319040904376557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1618557658163970049",
+          "start": 0,
+          "username": "qqqqqf5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002319040904376557",
+    "in_reply_to_user_id": "1618557658163970049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002302151763054864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqf5 repetition_penalty  = 1.5\n\n天好冷喵，爪爪都有点僵硬了，\n风吹得耳朵发凉，尾巴缩成一团，\n好想找个温暖的地方躲一躲喵，\n地面冰冰的，让人忍不住发抖，\n只能不停地呼气取暖，小心翼翼地走着。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2002302151763054864",
+        "created_at": "2025-12-20T10:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T11:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002319040904376557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1618557658163970049",
+              "start": 0,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002319040904376557",
+        "in_reply_to_user_id": "1618557658163970049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002302151763054864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf5 repetition_penalty  = 1.5\n\n天好冷喵，爪爪都有点僵硬了，\n风吹得耳朵发凉，尾巴缩成一团，\n好想找个温暖的地方躲一躲喵，\n地面冰冰的，让人忍不住发抖，\n只能不停地呼气取暖，小心翼翼地走着。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618557658163970049",
+        "conversation_id": "2002302151763054864",
+        "created_at": "2025-12-20T08:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T09:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002302151763054864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002302151763054864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 736,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "天好冷喵，爪爪冻僵了喵，天好冷喵，爪爪冻僵了喵，天好冷喵，爪爪冻僵了喵，天好冷喵，爪爪冻僵了喵，天好冷喵，爪爪冻僵了喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/6Zcu6y11gj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.dev",
+                "end": 37,
+                "expanded_url": "https://zerocat.dev",
+                "start": 14,
+                "url": "https://t.co/6Zcu6y11gj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 318,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 80
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "不键政不od不割手\n爱发梗图和生活日常 ｜ 偶尔爆照\nPython个人开发者 | 学生\n大模型微调 | 量化\n都是转发的图!!! 如果图片让你生气了 请不要骂我好不好\n逃生舱:@qqqqqf_\nNGL匿名提问箱:https://t.co/vkfKFLuaCO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 88,
+                "username": "qqqqqf_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/qqqqqf51",
+                "end": 129,
+                "expanded_url": "https://ngl.link/qqqqqf51",
+                "start": 106,
+                "url": "https://t.co/vkfKFLuaCO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTQP7z"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "1999903633371169063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998731259082846208/hLjeArGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4616,
+          "following_count": 2036,
+          "like_count": 9232,
+          "listed_count": 12,
+          "media_count": 1219,
+          "tweet_count": 3267
+        },
+        "url": "https://t.co/Qfc6ZTQP7z",
+        "username": "qqqqqf5",
+        "verified": true
+      }
+    ]
+  }
+}

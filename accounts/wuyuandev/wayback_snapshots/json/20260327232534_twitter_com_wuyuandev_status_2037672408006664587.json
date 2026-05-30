@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2037520675855008010",
+    "created_at": "2026-03-27T23:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T00:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037672408006664587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037672408006664587",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037520675855008010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech 维基百科有些老条目写的还不如ai呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2037520664580755456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEa6P8rakAA2Pzm.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2037520675855008010",
+        "created_at": "2026-03-27T23:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T00:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037672408006664587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037672408006664587",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037520675855008010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech 维基百科有些老条目写的还不如ai呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037520664580755456"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "conversation_id": "2037520675855008010",
+        "created_at": "2026-03-27T13:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037520675855008010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "ourl.co/112370?x",
+              "end": 151,
+              "expanded_url": "https://ourl.co/112370?x",
+              "start": 128,
+              "unwound_url": "https://www.landiannews.com/archives/112370.html?utm_source=x.com&utm_medium=default&utm_campaign=%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E4%B8%A5%E5%8E%89%E6%89%93%E5%87%BB%E5%9C%A8%E8%AF%8D%E6%9D%A1%E4%B8%AD%E4%BD%BF%E7%94%A8AI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9+%E4%BD%86%E5%8F%AF%E4%BB%A5%E7%94%A8AI%E6%8F%90%E5%87%BA%E7%BC%96%E8%BE%91%E5%BB%BA%E8%AE%AE",
+              "url": "https://t.co/EQppVPaNVJ"
+            },
+            {
+              "display_url": "pic.x.com/OyjqBXjKDC",
+              "end": 175,
+              "expanded_url": "https://x.com/landiantech/status/2037520675855008010/photo/1",
+              "media_key": "3_2037520664580755456",
+              "start": 152,
+              "url": "https://t.co/OyjqBXjKDC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037520675855008010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2408,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "维基百科严厉打击在词条中使用 AI 生成内容的行为，可以由 AI 提出审阅建议，但最终必须由人工进行审阅。\n\n有这项规定是因为 AI 幻觉可能会导致生成的内容是虚假的，如果编辑直接将 AI 生成的内容粘贴到维基百科中，就可能造成虚假内容传播。\n\n查看全文：https://t.co/EQppVPaNVJ https://t.co/OyjqBXjKDC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 41,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 18,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2025788939731439975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 791,
+          "like_count": 1511,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 287
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / OpenClaw 重度用户🦞🦞🦞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "pinned_tweet_id": "2036676954791842282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34253,
+          "following_count": 717,
+          "like_count": 4499,
+          "listed_count": 272,
+          "media_count": 5141,
+          "tweet_count": 14657
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

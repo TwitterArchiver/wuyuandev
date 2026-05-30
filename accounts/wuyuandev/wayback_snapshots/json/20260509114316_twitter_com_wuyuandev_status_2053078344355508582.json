@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2053077593977709026",
+    "created_at": "2026-05-09T11:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T12:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053078344355508582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608637128132685825",
+          "start": 0,
+          "username": "nyaepheia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053078344355508582",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053077593977709026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyaepheia 那为什么不直接让我来捏（不过我gh被shadowban了。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2053077593977709026",
+        "created_at": "2026-05-09T11:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T12:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053078344355508582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053078344355508582",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053077593977709026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia 那为什么不直接让我来捏（不过我gh被shadowban了。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2053077593977709026",
+        "created_at": "2026-05-09T11:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T12:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053077593977709026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "我们的存在，就是对恶意最大的反抗。. Contribute to epheiamoe/TransCircle development by creating an account on GitHub.",
+              "display_url": "github.com/epheiamoe/Tran…",
+              "end": 48,
+              "expanded_url": "http://github.com/epheiamoe/TransCircle",
+              "start": 25,
+              "status": 200,
+              "title": "GitHub - epheiamoe/TransCircle: 我们的存在，就是对恶意最大的反抗。",
+              "unwound_url": "https://github.com/epheiamoe/TransCircle",
+              "url": "https://t.co/0rp0oOfCnb"
+            },
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2053074658451411295",
+              "start": 58,
+              "url": "https://t.co/rpbnrDHEI4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053077593977709026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053074658451411295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人希望一起继续这个计划吗？\nGithub 仓库：https://t.co/0rp0oOfCnb\n我会提供协作权限 https://t.co/rpbnrDHEI4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸 | 坐标HNCS\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 123,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 100,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！",
+        "pinned_tweet_id": "2051211437847290211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 297,
+          "like_count": 3126,
+          "listed_count": 3,
+          "media_count": 160,
+          "tweet_count": 816
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 801,
+          "like_count": 20217,
+          "listed_count": 3,
+          "media_count": 258,
+          "tweet_count": 3495
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2040955631285551426",
+    "created_at": "2026-04-06T03:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T04:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041002147073171677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1576046738460139521",
+          "start": 0,
+          "username": "for_the_zero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041002147073171677",
+    "in_reply_to_user_id": "1576046738460139521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040955631285551426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@for_the_zero 好耶，是开发喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2040955631285551426",
+        "created_at": "2026-04-06T03:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T04:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041002147073171677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1576046738460139521",
+              "start": 0,
+              "username": "for_the_zero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041002147073171677",
+        "in_reply_to_user_id": "1576046738460139521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040955631285551426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_the_zero 好耶，是开发喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576046738460139521",
+        "conversation_id": "2040955631285551426",
+        "created_at": "2026-04-06T00:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T01:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040955631285551426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "介绍 Introduction 链接 Links 联系方式 Contact 友链 Friends 博客 Blog",
+              "display_url": "ftz.is-a.dev",
+              "end": 81,
+              "expanded_url": "http://ftz.is-a.dev",
+              "start": 58,
+              "status": 200,
+              "title": "for_the_zero的小站 | for_the_zero's Site (Personal Website / Homepage)",
+              "unwound_url": "https://ftz.is-a.dev/",
+              "url": "https://t.co/V22KUGsApw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040955631285551426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "个人网站/介绍/链接和友链/博客\nPersonal Website/Intro/Links/Blog\n ↓ ↓ ↓\nhttps://t.co/V22KUGsApw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 41,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 18,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2025788939731439975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 852,
+          "like_count": 1614,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 335
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T03:11:35.000Z",
+        "description": "想要成为一个可爱的、有趣的、厉害的、快乐的、善良的、……能被你记住的人     ↓个人网站Personal Website↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ftz.is-a.dev",
+                "end": 23,
+                "expanded_url": "https://ftz.is-a.dev/",
+                "start": 0,
+                "url": "https://t.co/AbCcuPNmcf"
+              }
+            ]
+          }
+        },
+        "id": "1576046738460139521",
+        "location": "Everywhere of Inexistence",
+        "name": "for_the_zero",
+        "pinned_tweet_id": "2040955631285551426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024106942667563008/61H_olYS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 519,
+          "like_count": 18851,
+          "listed_count": 1,
+          "media_count": 553,
+          "tweet_count": 3364
+        },
+        "url": "https://t.co/AbCcuPNmcf",
+        "username": "for_the_zero",
+        "verified": false
+      }
+    ]
+  }
+}

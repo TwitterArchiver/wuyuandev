@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2026923332319498635",
+    "created_at": "2026-02-27T09:47:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T10:47:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027319772564877316"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "bitwarden",
+          "probability": 0.4769,
+          "start": 17,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "635941366",
+          "start": 0,
+          "username": "unixzii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027319772564877316",
+    "in_reply_to_user_id": "635941366",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026923332319498635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@unixzii why not bitwarden?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2026923332319498635",
+        "created_at": "2026-02-27T09:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T10:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027319772564877316"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "bitwarden",
+              "probability": 0.4769,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "635941366",
+              "start": 0,
+              "username": "unixzii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027319772564877316",
+        "in_reply_to_user_id": "635941366",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026923332319498635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unixzii why not bitwarden?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "635941366",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045019101",
+              "name": "1Password"
+            }
+          }
+        ],
+        "conversation_id": "2026923332319498635",
+        "created_at": "2026-02-26T07:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T08:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026923332319498635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026923332319498635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 53977,
+          "like_count": 118,
+          "quote_count": 7,
+          "reply_count": 41,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "1Password 涨价 10 刀，放在以前只能乖乖认宰，现在我花这个钱 vibe 一个一样的直接一劳永逸。开源节流从平时订阅的 SaaS 开始 😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mfl9Y8a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 41,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 18,
+                "url": "https://t.co/Ch2mfl9Y8a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2025788939731439975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 582,
+          "like_count": 1048,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 177
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-15T05:48:20.000Z",
+        "description": "Gen Z. Internetrovert. No-stack engineer. UX enthusiast. Console gamer. Curiosity-driven learner. The rebel. He/him 🏳️‍🌈. Stand w/ 🇺🇦. Opinions are my own.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cyandev.app",
+                "end": 23,
+                "expanded_url": "https://cyandev.app",
+                "start": 0,
+                "url": "https://t.co/tnjbWvL8Lh"
+              }
+            ]
+          }
+        },
+        "id": "635941366",
+        "location": "Universe",
+        "name": "Cyandev",
+        "pinned_tweet_id": "2006302911354245624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662772448696365056/m4N0QjDP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15809,
+          "following_count": 198,
+          "like_count": 5992,
+          "listed_count": 122,
+          "media_count": 1220,
+          "tweet_count": 9400
+        },
+        "url": "https://t.co/tnjbWvL8Lh",
+        "username": "unixzii",
+        "verified": false
+      }
+    ]
+  }
+}

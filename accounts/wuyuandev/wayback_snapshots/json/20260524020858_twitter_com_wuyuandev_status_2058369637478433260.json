@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2057304077919543296"
+      ],
+      "media_source_tweet_id": [
+        "2057304290478428429"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058369637478433260",
+    "created_at": "2026-05-24T02:08:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T03:08:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058369637478433260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1769078117052854272",
+          "start": 3,
+          "username": "huahuojiang_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DKCavSOT8V",
+          "end": 63,
+          "expanded_url": "https://x.com/YesterdayBigcat/status/2057304290478428429/video/1",
+          "media_key": "13_2057304077919543296",
+          "start": 40,
+          "url": "https://t.co/DKCavSOT8V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058369637478433260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058172766428553371",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huahuojiang_: 你跟我說被關在裡面可以養出獨立健全的人格😅 https://t.co/DKCavSOT8V"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54233,
+        "height": 2560,
+        "media_key": "13_2057304077919543296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057304077919543296/img/eyJl1UKuY2Yk0IHm.jpg",
+        "public_metrics": {
+          "view_count": 225166
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057304077919543296/pl/vZtChIPlU4EOPGBt.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057304077919543296/vid/avc1/320x568/H-ri4kx0ZJdemEqK.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057304077919543296/vid/avc1/1440x2560/S03_BZyMh659k1wR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057304077919543296/vid/avc1/720x1280/T3MHDfZGVIXjkJUr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057304077919543296/vid/avc1/480x852/nDrWfbOfxIUOejNu.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057304077919543296"
+          ],
+          "media_source_tweet_id": [
+            "2057304290478428429"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058369637478433260",
+        "created_at": "2026-05-24T02:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T03:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058369637478433260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1769078117052854272",
+              "start": 3,
+              "username": "huahuojiang_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DKCavSOT8V",
+              "end": 63,
+              "expanded_url": "https://x.com/YesterdayBigcat/status/2057304290478428429/video/1",
+              "media_key": "13_2057304077919543296",
+              "start": 40,
+              "url": "https://t.co/DKCavSOT8V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058369637478433260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058172766428553371",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huahuojiang_: 你跟我說被關在裡面可以養出獨立健全的人格😅 https://t.co/DKCavSOT8V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057304077919543296"
+          ],
+          "media_source_tweet_id": [
+            "2057304290478428429"
+          ]
+        },
+        "author_id": "1769078117052854272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058172766428553371",
+        "created_at": "2026-05-23T13:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058172766428553371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DKCavSOT8V",
+              "end": 45,
+              "expanded_url": "https://x.com/YesterdayBigcat/status/2057304290478428429/video/1",
+              "media_key": "13_2057304077919543296",
+              "start": 22,
+              "url": "https://t.co/DKCavSOT8V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058172766428553371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 614,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你跟我說被關在裡面可以養出獨立健全的人格😅 https://t.co/DKCavSOT8V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，构建社区、AI工具和规模化的数据收集 | \n\n每周更新跨圈大合照 | \n说话含喵量巨大 | \n今年欢笑复明年，秋月春风等闲度。| \n关注牢喵喵！关注牢喵谢谢喵！| \n你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我\n\n要饭：https://t.co/aMQp3GpkVJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 149,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 126,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 221,
+          "like_count": 4354,
+          "listed_count": 5,
+          "media_count": 242,
+          "tweet_count": 1242
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "2058147726156861848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039013777560227840/6M7222YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7067,
+          "following_count": 3593,
+          "like_count": 101522,
+          "listed_count": 15,
+          "media_count": 7860,
+          "tweet_count": 95858
+        },
+        "username": "huahuojiang_",
+        "verified": true
+      }
+    ]
+  }
+}

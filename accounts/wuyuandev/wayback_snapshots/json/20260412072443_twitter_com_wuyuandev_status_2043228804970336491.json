@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2043190296993992704"
+      ],
+      "media_source_tweet_id": [
+        "2043190378657095864"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "2043228804970336491",
+    "created_at": "2026-04-12T07:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T08:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043228804970336491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1778293240132759552",
+          "start": 3,
+          "username": "Yuanrpa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bqRpnNXUPI",
+          "end": 46,
+          "expanded_url": "https://x.com/Yuanrpa/status/2043190378657095864/video/1",
+          "media_key": "7_2043190296993992704",
+          "start": 23,
+          "url": "https://t.co/bqRpnNXUPI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043228804970336491",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043190378657095864",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuanrpa: 唐毓文和南昕酱99 https://t.co/bqRpnNXUPI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10147,
+        "height": 720,
+        "media_key": "7_2043190296993992704",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2043190296993992704/pu/img/1YYajF7euEVVDuc0.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043190296993992704/pu/vid/avc1/480x270/AJCbp0z20tKBogn7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043190296993992704/pu/vid/avc1/640x360/J-YDI0387QqFyL4Z.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043190296993992704/pu/vid/avc1/1280x720/L38_RgNaOx252_q2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2043190296993992704/pu/pl/GbttHMh3S9AZaeL8.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2043190296993992704"
+          ],
+          "media_source_tweet_id": [
+            "2043190378657095864"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2043228804970336491",
+        "created_at": "2026-04-12T07:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043228804970336491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778293240132759552",
+              "start": 3,
+              "username": "Yuanrpa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bqRpnNXUPI",
+              "end": 46,
+              "expanded_url": "https://x.com/Yuanrpa/status/2043190378657095864/video/1",
+              "media_key": "7_2043190296993992704",
+              "start": 23,
+              "url": "https://t.co/bqRpnNXUPI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043228804970336491",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043190378657095864",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuanrpa: 唐毓文和南昕酱99 https://t.co/bqRpnNXUPI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2043190296993992704"
+          ]
+        },
+        "author_id": "1778293240132759552",
+        "conversation_id": "2043190378657095864",
+        "created_at": "2026-04-12T04:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043190378657095864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bqRpnNXUPI",
+              "end": 33,
+              "expanded_url": "https://x.com/Yuanrpa/status/2043190378657095864/video/1",
+              "media_key": "7_2043190296993992704",
+              "start": 10,
+              "url": "https://t.co/bqRpnNXUPI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043190378657095864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "唐毓文和南昕酱99 https://t.co/bqRpnNXUPI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ mt猫娘 | 全(A)栈(I)开发者 | 互fo | 今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 74,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 51,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 907,
+          "like_count": 1712,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 374
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T05:27:02.000Z",
+        "description": "芋圆圆🥺😭🥵😍😋😡😈 发的东西虽然有点煌，但是墙内也能过审，所以不算😈/讨厌：赌，毒，鉴政，伤害，od/",
+        "id": "1778293240132759552",
+        "location": "福建",
+        "name": "芋圆圆🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004816052107333632/JyJWS9kB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 442,
+          "like_count": 7714,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 3262
+        },
+        "username": "Yuanrpa",
+        "verified": false
+      }
+    ]
+  }
+}

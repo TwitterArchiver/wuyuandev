@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2018506129110868033",
+    "created_at": "2026-02-03T12:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T13:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018657792685674880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3018975387",
+          "start": 0,
+          "username": "hanawa_hinata"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018657792685674880",
+    "in_reply_to_user_id": "3018975387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018506129110868033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanawa_hinata 人工智能解决不了的，能工智人就可以。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 911,
+        "media_key": "3_2018506111113195520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAMsnRHbcAAD71t.png",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2018506129110868033",
+        "created_at": "2026-02-03T12:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T13:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018657792685674880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3018975387",
+              "start": 0,
+              "username": "hanawa_hinata"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018657792685674880",
+        "in_reply_to_user_id": "3018975387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018506129110868033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanawa_hinata 人工智能解决不了的，能工智人就可以。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018506111113195520"
+          ]
+        },
+        "author_id": "3018975387",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "TXT (투모로우바이투게더)",
+              "id": "1083397690140971008",
+              "name": "TOMORROW X TOGETHER"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "TXT (투모로우바이투게더)",
+              "id": "1083397690140971008",
+              "name": "TOMORROW X TOGETHER"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "TXT (투모로우바이투게더)",
+              "id": "1083397690140971008",
+              "name": "TOMORROW X TOGETHER"
+            }
+          }
+        ],
+        "conversation_id": "2018506129110868033",
+        "created_at": "2026-02-03T02:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T03:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018506129110868033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "chromium.googlesource.com/chromium/deps/…",
+              "end": 147,
+              "expanded_url": "https://chromium.googlesource.com/chromium/deps/icu/+/refs/heads/main/source/data/brkitr/dictionaries",
+              "start": 124,
+              "status": 200,
+              "title": "source/data/brkitr/dictionaries - chromium/deps/icu - Git at Google",
+              "unwound_url": "https://chromium.googlesource.com/chromium/deps/icu/+/refs/heads/main/source/data/brkitr/dictionaries",
+              "url": "https://t.co/Av2WhALdHj"
+            },
+            {
+              "display_url": "pic.x.com/hyW4zOZP1y",
+              "end": 193,
+              "expanded_url": "https://x.com/hanawa_hinata/status/2018506129110868033/photo/1",
+              "media_key": "3_2018506111113195520",
+              "start": 170,
+              "url": "https://t.co/hyW4zOZP1y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018506129110868033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 210,
+          "impression_count": 69213,
+          "like_count": 457,
+          "quote_count": 11,
+          "reply_count": 27,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "以前有一段时间学python的时候，意外发现浏览器支持分词：即有一段话，你鼠标双击这段话的时候，它会自动匹配一个词并选中它。我之前一直挺好奇chrome是如何实现的。\n\n直到今天我翻了一下choromium源代码，发现了一个cjdict.txt：\nhttps://t.co/Av2WhALdHj\n\n🙂 高端的食材往往只需要最朴素的烹饪方式 https://t.co/hyW4zOZP1y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/6Zcu6y11gj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.dev",
+                "end": 37,
+                "expanded_url": "https://zerocat.dev",
+                "start": 14,
+                "url": "https://t.co/6Zcu6y11gj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005066106604863489/XJPt2Baa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 360,
+          "like_count": 556,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 90
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-04T23:58:21.000Z",
+        "description": "心弦之音，余韵寥寥。The founder of @nebula_soft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "nebula_soft"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hanawa.me",
+                "end": 23,
+                "expanded_url": "https://hanawa.me",
+                "start": 0,
+                "url": "https://t.co/wz4zjqJL2l"
+              }
+            ]
+          }
+        },
+        "id": "3018975387",
+        "location": "Shandong,China",
+        "name": "日向花和 Hanawa Hinata",
+        "pinned_tweet_id": "1967131247333044249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004354883609415681/o7a20K81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13162,
+          "following_count": 2028,
+          "like_count": 131435,
+          "listed_count": 48,
+          "media_count": 6805,
+          "tweet_count": 43765
+        },
+        "url": "https://t.co/wz4zjqJL2l",
+        "username": "hanawa_hinata",
+        "verified": true
+      }
+    ]
+  }
+}

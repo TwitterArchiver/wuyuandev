@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "1975100169982210414",
+    "created_at": "2025-10-07T00:29:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T01:29:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975357898294538537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1061231842471211009",
+          "start": 0,
+          "username": "miraflores0327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975357898294538537",
+    "in_reply_to_user_id": "1061231842471211009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975100169982210414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miraflores0327 测网丁真鉴定为无协议裸奔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 509,
+        "media_key": "3_1975097119745978368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2j0XatbMAA_uW-.jpg",
+        "width": 1350
+      },
+      {
+        "height": 954,
+        "media_key": "3_1975097252600561664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2j0fJobQAAj4Fm.jpg",
+        "width": 1485
+      },
+      {
+        "height": 270,
+        "media_key": "3_1975097414723026946",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2j0ollbwAIrrEp.png",
+        "width": 515
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "1975100169982210414",
+        "created_at": "2025-10-07T00:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T01:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975357898294538537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1061231842471211009",
+              "start": 0,
+              "username": "miraflores0327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975357898294538537",
+        "in_reply_to_user_id": "1061231842471211009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975100169982210414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miraflores0327 测网丁真鉴定为无协议裸奔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975097119745978368",
+            "3_1975097252600561664",
+            "3_1975097414723026946"
+          ]
+        },
+        "author_id": "1061231842471211009",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1975100169982210414",
+        "created_at": "2025-10-06T07:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T08:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975100169982210414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "deb.beldex.io/Beldex-project…",
+              "end": 58,
+              "expanded_url": "https://deb.beldex.io/Beldex-projects/belnet-gui/belnet-gui-1.0.0-win64.exe",
+              "start": 35,
+              "unwound_url": "https://deb.beldex.io/Beldex-projects/belnet-gui/belnet-gui-1.0.0-win64.exe",
+              "url": "https://t.co/LSKXfUb3qp"
+            },
+            {
+              "display_url": "github.com/Beldex-Coin/be…",
+              "end": 90,
+              "expanded_url": "https://github.com/Beldex-Coin/belnet-app/releases/download/v1.3.1/Belnet-1.3.1.apk",
+              "start": 67,
+              "unwound_url": "https://release-assets.githubusercontent.com/github-production-release-asset/520468147/7f29e799-126a-4a41-b2f6-ca15c282770e?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-10-07T00%3A41%3A25Z&rscd=attachment%3B+filename%3DBelnet-1.3.1.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-10-06T23%3A40%3A53Z&ske=2025-10-07T00%3A41%3A25Z&sks=b&skv=2018-11-09&sig=1h%2BgsXq1KRmVfT9LrzK0%2BqOAG3shAgQA1RZgyrx7uRg%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc1OTc5OTA5NiwibmJmIjoxNzU5Nzk1NDk2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.cpP-2zy5rHKoI6_tAbq6FBdOTcQu893pzPDYwm9H2ok&response-content-disposition=attachment%3B%20filename%3DBelnet-1.3.1.apk&response-content-type=application%2Fvnd.android.package-archive",
+              "url": "https://t.co/UVg852GoUG"
+            },
+            {
+              "display_url": "pic.x.com/ZwZhhMmHev",
+              "end": 133,
+              "expanded_url": "https://x.com/miraflores0327/status/1975100169982210414/photo/1",
+              "media_key": "3_1975097119745978368",
+              "start": 110,
+              "url": "https://t.co/ZwZhhMmHev"
+            },
+            {
+              "display_url": "pic.x.com/ZwZhhMmHev",
+              "end": 133,
+              "expanded_url": "https://x.com/miraflores0327/status/1975100169982210414/photo/1",
+              "media_key": "3_1975097252600561664",
+              "start": 110,
+              "url": "https://t.co/ZwZhhMmHev"
+            },
+            {
+              "display_url": "pic.x.com/ZwZhhMmHev",
+              "end": 133,
+              "expanded_url": "https://x.com/miraflores0327/status/1975100169982210414/photo/1",
+              "media_key": "3_1975097414723026946",
+              "start": 110,
+              "url": "https://t.co/ZwZhhMmHev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975100169982210414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "cashtags": [
+              {
+                "end": 283,
+                "start": 279,
+                "tag": "BDX"
+              },
+              {
+                "end": 375,
+                "start": 371,
+                "tag": "BDX"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 771,
+                "start": 764,
+                "tag": "Beldex"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 687,
+                "id": "976042792706166784",
+                "start": 676,
+                "username": "BeldexCoin"
+              },
+              {
+                "end": 697,
+                "id": "781647549648306177",
+                "start": 688,
+                "username": "kingfxyo"
+              },
+              {
+                "end": 711,
+                "id": "1401917448140595203",
+                "start": 698,
+                "username": "marcuslayerx"
+              },
+              {
+                "end": 723,
+                "id": "1197896690251862016",
+                "start": 712,
+                "username": "Lexibtceth"
+              },
+              {
+                "end": 735,
+                "id": "1432140815422287877",
+                "start": 724,
+                "username": "periagoge1"
+              },
+              {
+                "end": 748,
+                "id": "945641874542301185",
+                "start": 736,
+                "username": "CryptoUsopp"
+              },
+              {
+                "end": 763,
+                "id": "1410859814847057928",
+                "start": 749,
+                "username": "Doonbo_artist"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "deb.beldex.io/Beldex-project…",
+                "end": 58,
+                "expanded_url": "https://deb.beldex.io/Beldex-projects/belnet-gui/belnet-gui-1.0.0-win64.exe",
+                "start": 35,
+                "url": "https://t.co/af57uoIY8a"
+              },
+              {
+                "display_url": "github.com/Beldex-Coin/be…",
+                "end": 90,
+                "expanded_url": "https://github.com/Beldex-Coin/belnet-app/releases/download/v1.3.1/Belnet-1.3.1.apk",
+                "start": 67,
+                "url": "https://t.co/hMixmY9PLb"
+              }
+            ]
+          },
+          "text": "我找到了免费的去中心化加密VPN，可以作为备用🤩\n\nWindows版：https://t.co/af57uoIY8a\n\n安卓版APK：https://t.co/hMixmY9PLb\n\n上面这款免费VPN是 Beldex 核心产品--去中心化加密VPN。是以去中心化为基础，通过分布式主节点与出口节点中继出网，降低单点控制与合规被迫配合的风险。采用多跳/洋葱式加密，将通信分段并多层加密转发，使任何单一节点都难以还原或关联来源与目的。\n在账户层面坚持最小化身份收集，不需姓名、邮箱、手机号与 IP，支持匿名使用，从源头降低可识别性。由社区运营多数出口节点并以 $BDX 激励带宽贡献，促成网络的可扩展与自我修复。同时奉行严格无日志策略，尽量不留痕，减少数据被留存与泄露的可能。\nBelVPN现已面向大众开放，当前阶段用户免费使用，网络层面引入 $BDX 代币激励。支持 Android、Windows、Linux。网络由约20个出口节点与 1800+ 主节点组成，用于多跳加密中继。官方主打高速，适用于日常浏览、流媒体与游戏。\n大家用的VPN无非是以“快链”为代表的成品，或者是Clash和Shadow为代表的半成品，然后付费订阅节点。\n\n传统 VPN 的核心痛点在于把信任从 ISP 转移到单一服务商，用户需盲信其不留存或滥用数据，二期所谓免费常以广告或数据变现为代价，牺牲隐私与速度。同时中心化架构存在单点脆弱性，一旦被攻破或被合规披露，整体用户安全都会受影响。\n\n建议下载体验，也可以当成备用VPN，币圈一时一刻也离不开梯子，我之前是吃过亏的🥲\n\n@BeldexCoin @kingfxyo @marcuslayerx @Lexibtceth\n@periagoge1 @CryptoUsopp @Doonbo_artist #Beldex"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 657,
+          "impression_count": 39901,
+          "like_count": 454,
+          "quote_count": 2,
+          "reply_count": 39,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "我找到了免费的去中心化加密VPN，可以作为备用🤩\n\nWindows版：https://t.co/LSKXfUb3qp\n\n安卓版APK：https://t.co/UVg852GoUG\n\n上面这款免费VPN是 Beldex https://t.co/ZwZhhMmHev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/6Zcu6y11gj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.dev",
+                "end": 37,
+                "expanded_url": "https://zerocat.dev",
+                "start": 14,
+                "url": "https://t.co/6Zcu6y11gj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 266,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 64
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-10T12:19:22.000Z",
+        "description": "Sonic中文大使｜BOB 布道者｜Morph华语区大使 @MorphLayer @Morph_ZH\nOKX Web3钱包现已支持100+公链\n提供钱包、多链 Swap、NFT 市场、DeFi 挖矿一站式服务 \nhttps://t.co/8SCXotmQLE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "MorphLayer"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "Morph_ZH"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "okx.com/cn/web3?channe…",
+                "end": 129,
+                "expanded_url": "http://www.okx.com/cn/web3?channelid=ACE514158",
+                "start": 106,
+                "url": "https://t.co/8SCXotmQLE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "onekey.so/r/G1OT79",
+                "end": 23,
+                "expanded_url": "https://onekey.so/r/G1OT79",
+                "start": 0,
+                "url": "https://t.co/U07Q8EvhOg"
+              }
+            ]
+          }
+        },
+        "id": "1061231842471211009",
+        "location": "Onekey硬件钱包大额折扣，官方直邮",
+        "name": "老贾",
+        "pinned_tweet_id": "1934239963664785820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959136185756131330/wd1371ne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16229,
+          "following_count": 4315,
+          "like_count": 21271,
+          "listed_count": 319,
+          "media_count": 877,
+          "tweet_count": 17428
+        },
+        "url": "https://t.co/U07Q8EvhOg",
+        "username": "miraflores0327",
+        "verified": true
+      }
+    ]
+  }
+}

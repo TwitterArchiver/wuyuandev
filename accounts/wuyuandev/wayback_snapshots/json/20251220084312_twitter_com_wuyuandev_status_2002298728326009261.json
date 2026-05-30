@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002298725977513984"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129035304029999104",
+          "name": "Collaboration Software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1838998617064878080",
+          "name": "developers"
+        }
+      }
+    ],
+    "conversation_id": "2001719597171724678",
+    "created_at": "2025-12-20T08:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T09:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002298728326009261"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "China",
+          "probability": 0.983,
+          "start": 13,
+          "type": "Place"
+        },
+        {
+          "end": 117,
+          "normalized_text": "MS Teams",
+          "probability": 0.6903,
+          "start": 110,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1872166239667138560",
+          "start": 0,
+          "username": "kanavtwt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sxu5lJDGeX",
+          "end": 142,
+          "expanded_url": "https://x.com/wuyuandev/status/2002298728326009261/photo/1",
+          "media_key": "3_2002298725977513984",
+          "start": 119,
+          "url": "https://t.co/sxu5lJDGeX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002298728326009261",
+    "in_reply_to_user_id": "1872166239667138560",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001719597171724678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanavtwt In China, this is not a big deal. For instance, this kind of team collaboration software similar to MS Teams https://t.co/sxu5lJDGeX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002298725977513984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8mYFSgbYAAKF5s.jpg",
+        "width": 922
+      },
+      {
+        "height": 790,
+        "media_key": "3_2001719591316451328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8eJXNxbcAA5GT-.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002298725977513984"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129035304029999104",
+              "name": "Collaboration Software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2001719597171724678",
+        "created_at": "2025-12-20T08:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T09:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002298728326009261"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "China",
+              "probability": 0.983,
+              "start": 13,
+              "type": "Place"
+            },
+            {
+              "end": 117,
+              "normalized_text": "MS Teams",
+              "probability": 0.6903,
+              "start": 110,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1872166239667138560",
+              "start": 0,
+              "username": "kanavtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sxu5lJDGeX",
+              "end": 142,
+              "expanded_url": "https://x.com/wuyuandev/status/2002298728326009261/photo/1",
+              "media_key": "3_2002298725977513984",
+              "start": 119,
+              "url": "https://t.co/sxu5lJDGeX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002298728326009261",
+        "in_reply_to_user_id": "1872166239667138560",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001719597171724678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanavtwt In China, this is not a big deal. For instance, this kind of team collaboration software similar to MS Teams https://t.co/sxu5lJDGeX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001719591316451328"
+          ]
+        },
+        "author_id": "1872166239667138560",
+        "conversation_id": "2001719597171724678",
+        "created_at": "2025-12-18T18:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T19:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001719597171724678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XKKoAEY69C",
+              "end": 57,
+              "expanded_url": "https://x.com/kanavtwt/status/2001719597171724678/photo/1",
+              "media_key": "3_2001719591316451328",
+              "start": 34,
+              "url": "https://t.co/XKKoAEY69C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001719597171724678",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 1621201,
+          "like_count": 639,
+          "quote_count": 16,
+          "reply_count": 110,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "700 MB for an email app is crazy. https://t.co/XKKoAEY69C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/6Zcu6y11gj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.dev",
+                "end": 37,
+                "expanded_url": "https://zerocat.dev",
+                "start": 14,
+                "url": "https://t.co/6Zcu6y11gj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 318,
+          "like_count": 424,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 77
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T06:23:23.000Z",
+        "description": "21, engineer. prev backend dev @ startups x3",
+        "id": "1872166239667138560",
+        "location": "Ryzen 9 9950X3D",
+        "name": "kanav",
+        "pinned_tweet_id": "1932014939935506534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998781087938654217/ykXMecgT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9570,
+          "following_count": 600,
+          "like_count": 34412,
+          "listed_count": 21,
+          "media_count": 1525,
+          "tweet_count": 7014
+        },
+        "username": "kanavtwt",
+        "verified": true
+      }
+    ]
+  }
+}

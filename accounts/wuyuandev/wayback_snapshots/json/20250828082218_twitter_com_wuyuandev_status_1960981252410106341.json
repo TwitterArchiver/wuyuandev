@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "1960260152650793090",
+    "created_at": "2025-08-28T08:22:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T09:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960981252410106341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "729701237310914560",
+          "start": 0,
+          "username": "FireFireFire96"
+        },
+        {
+          "end": 28,
+          "id": "1602320477347000325",
+          "start": 16,
+          "username": "landiantech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960981252410106341",
+    "in_reply_to_user_id": "729701237310914560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960331346297196641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FireFireFire96 @landiantech 最认同百度的一集"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1960260152650793090",
+        "created_at": "2025-08-28T08:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T09:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960981252410106341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "729701237310914560",
+              "start": 0,
+              "username": "FireFireFire96"
+            },
+            {
+              "end": 28,
+              "id": "1602320477347000325",
+              "start": 16,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960981252410106341",
+        "in_reply_to_user_id": "729701237310914560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960331346297196641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FireFireFire96 @landiantech 最认同百度的一集"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "729701237310914560",
+        "conversation_id": "1960260152650793090",
+        "created_at": "2025-08-26T13:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T14:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960331346297196641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960331346297196641",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960260152650793090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech 太好了，这样梯子就可以不是敏感词了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/4K66E55Pni",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.houlangs.com",
+                "end": 37,
+                "expanded_url": "https://zerocat.houlangs.com",
+                "start": 14,
+                "url": "https://t.co/4K66E55Pni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 241,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 59
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-09T15:55:06.000Z",
+        "description": "游戏服务器蛀虫/随机性Arcaea玩家/Auto Retweeting Bot\n当上垃圾之王吧——即使垃圾袋早已破碎",
+        "id": "729701237310914560",
+        "location": "浙江宁波",
+        "name": "开拓者•褪色者•陈以二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/729704642196570112/6TSq_M6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 184,
+          "like_count": 25234,
+          "listed_count": 2,
+          "media_count": 733,
+          "tweet_count": 9552
+        },
+        "username": "FireFireFire96",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 订阅频道：https://t.co/xzeoUEoPcU 联系方式：https://t.co/LJK1g3biPp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/landiansub",
+                "end": 48,
+                "expanded_url": "https://t.me/landiansub",
+                "start": 25,
+                "url": "https://t.co/xzeoUEoPcU"
+              },
+              {
+                "display_url": "t.me/id7371",
+                "end": 77,
+                "expanded_url": "https://t.me/id7371",
+                "start": 54,
+                "url": "https://t.co/LJK1g3biPp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "pinned_tweet_id": "1934117094939033766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27110,
+          "following_count": 644,
+          "like_count": 3632,
+          "listed_count": 244,
+          "media_count": 4006,
+          "tweet_count": 12005
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

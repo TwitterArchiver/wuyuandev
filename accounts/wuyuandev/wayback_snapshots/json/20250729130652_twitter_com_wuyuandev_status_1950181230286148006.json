@@ -1,0 +1,626 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491481998862348291",
+          "name": "Digital asset industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596807368705",
+          "name": "Credit Cards - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      }
+    ],
+    "conversation_id": "1923008261197897737",
+    "created_at": "2025-07-29T13:06:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T14:06:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950181230286148006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "75014376",
+          "start": 0,
+          "username": "Mastercard"
+        },
+        {
+          "end": 20,
+          "id": "1024699964071522305",
+          "start": 12,
+          "username": "moonpay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950181230286148006",
+    "in_reply_to_user_id": "75014376",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923008261197897737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mastercard @moonpay Yes to use cryptocurrency, never use a product from a company that interferes with your purchase of legitimate goods"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          }
+        ],
+        "conversation_id": "1923008261197897737",
+        "created_at": "2025-07-29T13:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T14:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950181230286148006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "75014376",
+              "start": 0,
+              "username": "Mastercard"
+            },
+            {
+              "end": 20,
+              "id": "1024699964071522305",
+              "start": 12,
+              "username": "moonpay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950181230286148006",
+        "in_reply_to_user_id": "75014376",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923008261197897737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mastercard @moonpay Yes to use cryptocurrency, never use a product from a company that interferes with your purchase of legitimate goods"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "75014376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Breaking News",
+              "id": "1047084549396549632",
+              "name": "Ongoing news stories"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          }
+        ],
+        "conversation_id": "1923008261197897737",
+        "created_at": "2025-05-15T13:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T14:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923008261197897737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 129,
+              "id": "1024699964071522305",
+              "start": 121,
+              "username": "moonpay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/moonpay/status…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/moonpay/status/1922970220773126469",
+              "start": 132,
+              "url": "https://t.co/hJIZcU3Dsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923008261197897737",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 232,
+          "impression_count": 389419,
+          "like_count": 2648,
+          "quote_count": 99,
+          "reply_count": 491,
+          "retweet_count": 627
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922970220773126469",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The future of payments doesn’t wait.\nFrom wallets to wherever you shop—stablecoins just went global. \nLet’s get to work, @moonpay 🤝 https://t.co/hJIZcU3Dsg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/4K66E55Pni",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.houlangs.com",
+                "end": 37,
+                "expanded_url": "https://zerocat.houlangs.com",
+                "start": 14,
+                "url": "https://t.co/4K66E55Pni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 222,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 41
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-17T13:42:33.000Z",
+        "description": "Fueling the moments that live rent-free.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "priceless.com",
+                "end": 23,
+                "expanded_url": "http://www.priceless.com",
+                "start": 0,
+                "url": "https://t.co/fU4lfMsNaN"
+              }
+            ]
+          }
+        },
+        "id": "75014376",
+        "location": "USA",
+        "name": "Mastercard",
+        "pinned_tweet_id": "1754350410293260318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1013421144815198208/FV9IEL1U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485172,
+          "following_count": 421,
+          "like_count": 27933,
+          "listed_count": 2249,
+          "media_count": 4543,
+          "tweet_count": 70697
+        },
+        "url": "https://t.co/fU4lfMsNaN",
+        "username": "Mastercard",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-01T16:54:44.000Z",
+        "description": "Helping millions of people buy, sell, and swap crypto since 2019. Support: @MoonPaySupport | UK users: @MoonPay_UK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 75,
+                "username": "MoonPaySupport"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "MoonPay_UK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "moonpay.com",
+                "end": 23,
+                "expanded_url": "https://www.moonpay.com/",
+                "start": 0,
+                "url": "https://t.co/TnyTMIh5i3"
+              }
+            ]
+          }
+        },
+        "id": "1024699964071522305",
+        "name": "MoonPay 🟣",
+        "pinned_tweet_id": "1948045737692160443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950179487473123328/6ZvzB8D7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213685,
+          "following_count": 17498,
+          "like_count": 101460,
+          "listed_count": 777,
+          "media_count": 3529,
+          "tweet_count": 20749
+        },
+        "url": "https://t.co/TnyTMIh5i3",
+        "username": "moonpay",
+        "verified": true
+      }
+    ]
+  }
+}

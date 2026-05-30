@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055911962996080640"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "2055892241621860447",
+    "created_at": "2026-05-17T07:23:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T08:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055911965814579375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1759787246587379712",
+          "start": 0,
+          "username": "RainEngine2024m"
+        },
+        {
+          "end": 26,
+          "id": "1732724006787420160",
+          "start": 17,
+          "username": "Venti718"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/95eiR21keR",
+          "end": 60,
+          "expanded_url": "https://x.com/wuyuandev/status/2055911965814579375/photo/1",
+          "media_key": "3_2055911962996080640",
+          "start": 37,
+          "url": "https://t.co/95eiR21keR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055911965814579375",
+    "in_reply_to_user_id": "1759787246587379712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055892571994657132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024m @Venti718 我很怀疑不行。。。 https://t.co/95eiR21keR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2055911962996080640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgRCaPbgAA1BDY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055911962996080640"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2055892241621860447",
+        "created_at": "2026-05-17T07:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055911965814579375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1759787246587379712",
+              "start": 0,
+              "username": "RainEngine2024m"
+            },
+            {
+              "end": 26,
+              "id": "1732724006787420160",
+              "start": 17,
+              "username": "Venti718"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/95eiR21keR",
+              "end": 60,
+              "expanded_url": "https://x.com/wuyuandev/status/2055911965814579375/photo/1",
+              "media_key": "3_2055911962996080640",
+              "start": 37,
+              "url": "https://t.co/95eiR21keR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055911965814579375",
+        "in_reply_to_user_id": "1759787246587379712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055892571994657132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024m @Venti718 我很怀疑不行。。。 https://t.co/95eiR21keR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759787246587379712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2055892241621860447",
+        "created_at": "2026-05-17T06:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055892571994657132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1732724006787420160",
+              "start": 0,
+              "username": "Venti718"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2055892571994657132",
+        "in_reply_to_user_id": "1732724006787420160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055892241621860447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Venti718 就目前而言 ChatGPT 已经扛不住了，虽然我购买了 Plus，但是已经触发了他的硬伤，后面我会想想办法，但目前来说已经够大了，甚至已经有点离谱的程度了，一个屋子里面待 20 多个人 现实吗😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "langs.ink",
+                "end": 23,
+                "expanded_url": "https://langs.ink",
+                "start": 0,
+                "url": "https://t.co/Z142BBjByr"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "死与生 云与雨",
+        "pinned_tweet_id": "2051211437847290211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 227,
+          "like_count": 3683,
+          "listed_count": 5,
+          "media_count": 209,
+          "tweet_count": 1030
+        },
+        "url": "https://t.co/Z142BBjByr",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "专注次元联合创始人、FOCUSPACE品牌总经理、中国区市场部总经理｜雨擎项目组公关部总经理、产品高级体验官丨前小米门店运营",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/teamrain_2025",
+                "end": 23,
+                "expanded_url": "https://ngl.link/teamrain_2025",
+                "start": 0,
+                "url": "https://t.co/9qpFDKrzW9"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "IP 属地 ：伊朗",
+        "name": "高坂穗嘉图_Kernel",
+        "pinned_tweet_id": "2043020664203022783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053668091486445568/2Q--XKwu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1517,
+          "following_count": 1489,
+          "like_count": 2878,
+          "listed_count": 12,
+          "media_count": 506,
+          "tweet_count": 1782
+        },
+        "url": "https://t.co/9qpFDKrzW9",
+        "username": "RainEngine2024m",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-07T11:29:57.000Z",
+        "description": "高二牲/友跨/简中/繁中/English/蓝v互fo 看到马上回/Ciallo～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.akiyamamio.one",
+                "end": 23,
+                "expanded_url": "http://blog.akiyamamio.one",
+                "start": 0,
+                "url": "https://t.co/iAPAG2H15q"
+              }
+            ]
+          }
+        },
+        "id": "1732724006787420160",
+        "location": "Tianjin",
+        "name": "澪老师不是零老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009901557371056129/NtoWVt0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1868,
+          "following_count": 2347,
+          "like_count": 20894,
+          "listed_count": 1,
+          "media_count": 457,
+          "tweet_count": 6536
+        },
+        "url": "https://t.co/iAPAG2H15q",
+        "username": "Venti718",
+        "verified": true
+      }
+    ]
+  }
+}

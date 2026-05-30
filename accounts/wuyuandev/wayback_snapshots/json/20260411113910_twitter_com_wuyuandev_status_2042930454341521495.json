@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2042790733011390766",
+    "created_at": "2026-04-11T11:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T12:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042930454341521495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1716796994881253376",
+          "start": 0,
+          "username": "denkEbbt"
+        },
+        {
+          "end": 18,
+          "id": "1955980103688790017",
+          "start": 10,
+          "username": "aaarjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042930454341521495",
+    "in_reply_to_user_id": "1716796994881253376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042920218608177499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@denkEbbt @aaarjkk 那确实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2042790733011390766",
+        "created_at": "2026-04-11T11:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T12:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042930454341521495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1716796994881253376",
+              "start": 0,
+              "username": "denkEbbt"
+            },
+            {
+              "end": 18,
+              "id": "1955980103688790017",
+              "start": 10,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042930454341521495",
+        "in_reply_to_user_id": "1716796994881253376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042920218608177499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@denkEbbt @aaarjkk 那确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716796994881253376",
+        "conversation_id": "2042790733011390766",
+        "created_at": "2026-04-11T10:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042920218608177499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            },
+            {
+              "end": 19,
+              "id": "1955980103688790017",
+              "start": 11,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042920218608177499",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042791357748777388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev @aaarjkk 到了大学这些方程式一点用都没有。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️\n今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 47,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 24,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 897,
+          "like_count": 1665,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 364
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-24T12:41:29.000Z",
+        "description": "随心发 拒绝任何政治相关内容  不许骚扰我. 本硕985 工科在读",
+        "id": "1716796994881253376",
+        "name": "涛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990714443018481665/EtyVwWby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 66,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 484
+        },
+        "username": "denkEbbt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(被限流版😭)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 543,
+          "like_count": 8531,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 982
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

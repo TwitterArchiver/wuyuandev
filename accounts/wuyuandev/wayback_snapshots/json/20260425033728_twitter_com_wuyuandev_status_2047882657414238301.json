@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2047661957734653980",
+    "created_at": "2026-04-25T03:37:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T04:37:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047882657414238301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2031097520840167424",
+          "start": 0,
+          "username": "Ciallo_114_514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047882657414238301",
+    "in_reply_to_user_id": "2031097520840167424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047724133354742271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ciallo_114_514 悲喜交加力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2047661957734653980",
+        "created_at": "2026-04-25T03:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047882657414238301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2031097520840167424",
+              "start": 0,
+              "username": "Ciallo_114_514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047882657414238301",
+        "in_reply_to_user_id": "2031097520840167424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047724133354742271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ciallo_114_514 悲喜交加力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031097520840167424",
+        "conversation_id": "2047661957734653980",
+        "created_at": "2026-04-24T17:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047724133354742271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047724133354742271",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047661957734653980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev 恭喜（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 73,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 50,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 喵喵喵~~~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 954,
+          "like_count": 2105,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 514
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T19:59:37.000Z",
+        "description": "前世@YunoQiu56649｜互fo喵(没回私信提醒我喵)\n生日0402｜hrt2026.1.12-3.19 4.24-？｜已炸柜｜超级天残党+家长不管党｜中焦重抑｜全部立场中立｜碎碎念｜我又不想死了｜fo我请顺带fo小号@qi_bu64350",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "YunoQiu56649"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "qi_bu64350"
+              }
+            ]
+          }
+        },
+        "id": "2031097520840167424",
+        "location": "你家",
+        "name": "Ciallo～(∠・ω ＜ )︵★🍥🏳️‍⚧️（互fo寻回ing）",
+        "pinned_tweet_id": "2047315543703928878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035909538168328193/rP91M_1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 729,
+          "like_count": 2072,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 3723
+        },
+        "username": "Ciallo_114_514",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "1941296678985937161",
+    "created_at": "2025-07-05T00:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T01:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941296678985937161"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "ZeroCat是新一代开源编程社区！",
+          "display_url": "zerocat.dev/wuyuan",
+          "end": 23,
+          "expanded_url": "http://zerocat.dev/wuyuan",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1941296681519325184/VQ8CO3Y5?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1941296681519325184/VQ8CO3Y5?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "ZeroCat社区",
+          "unwound_url": "https://zerocat.dev/wuyuan",
+          "url": "https://t.co/qtDZFEWCUT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941296678985937161",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/qtDZFEWCUT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "1941296678985937161",
+        "created_at": "2025-07-05T00:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T01:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941296678985937161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "ZeroCat是新一代开源编程社区！",
+              "display_url": "zerocat.dev/wuyuan",
+              "end": 23,
+              "expanded_url": "http://zerocat.dev/wuyuan",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1941296681519325184/VQ8CO3Y5?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1941296681519325184/VQ8CO3Y5?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "ZeroCat社区",
+              "unwound_url": "https://zerocat.dev/wuyuan",
+              "url": "https://t.co/qtDZFEWCUT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941296678985937161",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qtDZFEWCUT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/4K66E55Pni",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.houlangs.com",
+                "end": 37,
+                "expanded_url": "https://zerocat.houlangs.com",
+                "start": 14,
+                "url": "https://t.co/4K66E55Pni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 208,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 32
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      }
+    ]
+  }
+}

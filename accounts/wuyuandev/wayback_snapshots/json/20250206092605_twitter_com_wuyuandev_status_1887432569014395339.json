@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "1886895481617305765",
+    "created_at": "2025-02-06T09:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T10:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887432569014395339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "3167734591",
+          "start": 0,
+          "username": "code"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887432569014395339",
+    "in_reply_to_user_id": "3167734591",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886895481617305765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@code Received a notification that the usage limit has been reached😥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "1886895481617305765",
+        "created_at": "2025-02-06T09:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T10:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887432569014395339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "3167734591",
+              "start": 0,
+              "username": "code"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887432569014395339",
+        "in_reply_to_user_id": "3167734591",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886895481617305765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@code Received a notification that the usage limit has been reached😥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3167734591",
+        "conversation_id": "1886895481617305765",
+        "created_at": "2025-02-04T21:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T22:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886895481617305765"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Copilot Edits",
+              "probability": 0.8729,
+              "start": 25,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886895481617305765",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 50300,
+          "like_count": 261,
+          "quote_count": 2,
+          "reply_count": 46,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "What have you built with Copilot Edits?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/4K66E55Pni",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.houlangs.com",
+                "end": 37,
+                "expanded_url": "https://zerocat.houlangs.com",
+                "start": 14,
+                "url": "https://t.co/4K66E55Pni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 171,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-22T16:53:09.000Z",
+        "description": "Visual Studio Code with GitHub Copilot supercharges your code with AI-powered suggestions, right in your editor",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "code.visualstudio.com",
+                "end": 23,
+                "expanded_url": "https://code.visualstudio.com",
+                "start": 0,
+                "url": "https://t.co/HQDNY75DqR"
+              }
+            ]
+          }
+        },
+        "id": "3167734591",
+        "location": "Redmond, WA, USA",
+        "name": "Visual Studio Code",
+        "pinned_tweet_id": "1866924522168828077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545098208556097536/rKXaODLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729553,
+          "following_count": 136,
+          "like_count": 3522,
+          "listed_count": 6803,
+          "media_count": 1416,
+          "tweet_count": 7322
+        },
+        "url": "https://t.co/HQDNY75DqR",
+        "username": "code",
+        "verified": true
+      }
+    ]
+  }
+}

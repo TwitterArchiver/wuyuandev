@@ -1,0 +1,520 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Cybersecurity",
+          "id": "898650876658634752",
+          "name": "Cybersecurity"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cybersecurity",
+          "id": "898650876658634752",
+          "name": "Cybersecurity"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Information Security",
+          "id": "1047123725525479425",
+          "name": "Information security"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1838998617064878080",
+          "name": "developers"
+        }
+      }
+    ],
+    "conversation_id": "2024711649769509235",
+    "created_at": "2026-02-21T02:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T03:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025028764628123705"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 93,
+          "normalized_text": "Deepseek AI",
+          "probability": 0.4015,
+          "start": 83,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "50967259",
+          "start": 0,
+          "username": "Artie_boston"
+        },
+        {
+          "end": 25,
+          "id": "1964193467438882816",
+          "start": 14,
+          "username": "IamKyros69"
+        },
+        {
+          "end": 255,
+          "id": "62821796",
+          "start": 241,
+          "username": "WinRAR_RARLAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025028764628123705",
+    "in_reply_to_user_id": "1436287470207832064",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025027062298542100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Artie_boston @IamKyros69 The advertisement in the image claims to have a superior Deepseek AI model with security certifications, but it points to a virus-like software called \"2345 Computer Security Assistant.\" All of this is permitted by @WinRAR_RARLAB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 802,
+        "media_key": "3_2025027008909172737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBpXVeaaYAEBXj8.jpg",
+        "width": 1014
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2024711649769509235",
+        "created_at": "2026-02-21T02:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T03:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025028764628123705"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 93,
+              "normalized_text": "Deepseek AI",
+              "probability": 0.4015,
+              "start": 83,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "50967259",
+              "start": 0,
+              "username": "Artie_boston"
+            },
+            {
+              "end": 25,
+              "id": "1964193467438882816",
+              "start": 14,
+              "username": "IamKyros69"
+            },
+            {
+              "end": 255,
+              "id": "62821796",
+              "start": 241,
+              "username": "WinRAR_RARLAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025028764628123705",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025027062298542100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Artie_boston @IamKyros69 The advertisement in the image claims to have a superior Deepseek AI model with security certifications, but it points to a virus-like software called \"2345 Computer Security Assistant.\" All of this is permitted by @WinRAR_RARLAB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025027008909172737"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2024711649769509235",
+        "created_at": "2026-02-21T01:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T02:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025027062298542100"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "WinRAR",
+              "probability": 0.4498,
+              "start": 30,
+              "type": "Organization"
+            },
+            {
+              "end": 64,
+              "normalized_text": "China",
+              "probability": 0.973,
+              "start": 60,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "50967259",
+              "start": 0,
+              "username": "Artie_boston"
+            },
+            {
+              "end": 25,
+              "id": "1964193467438882816",
+              "start": 14,
+              "username": "IamKyros69"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0bpuV51BZy",
+              "end": 203,
+              "expanded_url": "https://x.com/wuyuandev/status/2025027062298542100/photo/1",
+              "media_key": "3_2025027008909172737",
+              "start": 180,
+              "url": "https://t.co/0bpuV51BZy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025027062298542100",
+        "in_reply_to_user_id": "50967259",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024839637185736813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Artie_boston @IamKyros69 No, WinRAR licenses its rights in China to a notorious company and displays fraudulent, vulgar, and computer virus advertisements in the Chinese version. https://t.co/0bpuV51BZy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "今年欢笑复明年，秋月春风等闲度。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 422,
+          "like_count": 736,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 128
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-26T07:46:40.000Z",
+        "description": "gender: NonBuyNary.",
+        "id": "50967259",
+        "name": "artie",
+        "pinned_tweet_id": "2006824494091137491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1231923649923469312/tl3PtJ4L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 314,
+          "like_count": 16535,
+          "listed_count": 4,
+          "media_count": 896,
+          "tweet_count": 29400
+        },
+        "username": "Artie_boston",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-06T05:06:49.000Z",
+        "description": "Code by day, edits by night | 19",
+        "id": "1964193467438882816",
+        "location": "Hell",
+        "name": "Kyros",
+        "pinned_tweet_id": "2024485738554020273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966745265416925184/FiYcR2Lv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8249,
+          "following_count": 259,
+          "like_count": 4108,
+          "listed_count": 29,
+          "media_count": 537,
+          "tweet_count": 1844
+        },
+        "username": "IamKyros69",
+        "verified": true
+      },
+      {
+        "created_at": "2009-08-04T13:47:19.000Z",
+        "description": "Official Account for WinRAR (blue tick!)\nPowerful, Fast, Secure and Stable Compression Software! \nPublisher of RAR and WinRAR",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "win-rar.com",
+                "end": 23,
+                "expanded_url": "http://www.win-rar.com",
+                "start": 0,
+                "url": "https://t.co/Tb8kO7RZVL"
+              }
+            ]
+          }
+        },
+        "id": "62821796",
+        "location": "Berlin, Germany",
+        "name": "WinRAR",
+        "pinned_tweet_id": "1888182682720354470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1452954428240273411/kCjHOffW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113293,
+          "following_count": 440,
+          "like_count": 26820,
+          "listed_count": 96,
+          "media_count": 354,
+          "tweet_count": 6199
+        },
+        "url": "https://t.co/Tb8kO7RZVL",
+        "username": "WinRAR_RARLAB",
+        "verified": true
+      }
+    ]
+  }
+}

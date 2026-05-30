@@ -1,0 +1,637 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596807368705",
+          "name": "Credit Cards - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026467895",
+          "name": "Visa"
+        }
+      }
+    ],
+    "conversation_id": "1945847450494771561",
+    "created_at": "2025-07-29T13:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T14:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950180361775792247"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "steam",
+          "probability": 0.7245,
+          "start": 43,
+          "type": "Other"
+        },
+        {
+          "end": 113,
+          "normalized_text": "EU",
+          "probability": 0.9763,
+          "start": 112,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 5,
+          "id": "551373363",
+          "start": 0,
+          "username": "Visa"
+        },
+        {
+          "end": 20,
+          "id": "72431647",
+          "start": 6,
+          "username": "jackforestell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950180361775792247",
+    "in_reply_to_user_id": "551373363",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945847450494771561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Visa @jackforestell Your behavior towards steam is a monopoly, I will be very happy if you are punished by the EU or other countries\n\nfuck you"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31701,
+        "height": 1080,
+        "media_key": "13_1945846717980581889",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1945846717980581889/img/GdNkoRdGM7AojnjO.jpg",
+        "public_metrics": {
+          "view_count": 19837
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945846717980581889/vid/avc1/480x270/A1VBm1ZvcGFlL7qC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945846717980581889/vid/avc1/640x360/nwSTgGjrts0S1W8P.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945846717980581889/vid/avc1/1280x720/VRJ-Ep6h1oukKZVu.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1945846717980581889/pl/aLwUNpWjLk_12OF3.m3u8?tag=14&v=037"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          }
+        ],
+        "conversation_id": "1945847450494771561",
+        "created_at": "2025-07-29T13:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T14:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950180361775792247"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "steam",
+              "probability": 0.7245,
+              "start": 43,
+              "type": "Other"
+            },
+            {
+              "end": 113,
+              "normalized_text": "EU",
+              "probability": 0.9763,
+              "start": 112,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 5,
+              "id": "551373363",
+              "start": 0,
+              "username": "Visa"
+            },
+            {
+              "end": 20,
+              "id": "72431647",
+              "start": 6,
+              "username": "jackforestell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950180361775792247",
+        "in_reply_to_user_id": "551373363",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945847450494771561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Visa @jackforestell Your behavior towards steam is a monopoly, I will be very happy if you are punished by the EU or other countries\n\nfuck you"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1945846717980581889"
+          ]
+        },
+        "author_id": "551373363",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "S&P 500",
+              "id": "864154902926196737",
+              "name": "S&P 500"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400506348727504906",
+              "name": "Living abroad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          }
+        ],
+        "conversation_id": "1945847450494771561",
+        "created_at": "2025-07-17T14:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T15:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945847450494771561"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 249,
+              "normalized_text": "Crypto",
+              "probability": 0.5504,
+              "start": 244,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 242,
+              "start": 230,
+              "tag": "Stablecoins"
+            },
+            {
+              "end": 250,
+              "start": 243,
+              "tag": "Crypto"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 114,
+              "id": "72431647",
+              "start": 100,
+              "username": "jackforestell"
+            }
+          ],
+          "urls": [
+            {
+              "description": "The GENIUS Act brings new stablecoin rules and opportunities for digital payments.",
+              "display_url": "vi.sa/3Ix2Hbp",
+              "end": 229,
+              "expanded_url": "https://vi.sa/3Ix2Hbp",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1948783486992613376/c-VrGXKF?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1948783486992613376/c-VrGXKF?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 206,
+              "status": 200,
+              "title": "The potential genius of GENIUS",
+              "unwound_url": "https://corporate.visa.com/en/sites/visa-perspectives/company-news/stablecoin-regulation-genius-act.html?utm_source=twitter&utm_medium=organic-social&utm_campaign=potential-genius-of-genius-act-stablecoins",
+              "url": "https://t.co/vmf6Er2o8q"
+            },
+            {
+              "display_url": "pic.x.com/MdgawI0Rfu",
+              "end": 274,
+              "expanded_url": "https://x.com/Visa/status/1945847450494771561/video/1",
+              "media_key": "13_1945846717980581889",
+              "start": 251,
+              "url": "https://t.co/MdgawI0Rfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945847450494771561",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 56005,
+          "like_count": 41,
+          "quote_count": 15,
+          "reply_count": 1118,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "Will stablecoins and traditional payments compete or work together? 🤝 Partnership is happening now. @jackforestell shares how Visa is working across the crypto ecosystem to power next-gen digital payments: https://t.co/vmf6Er2o8q\n#Stablecoins #Crypto https://t.co/MdgawI0Rfu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/4K66E55Pni",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.houlangs.com",
+                "end": 37,
+                "expanded_url": "https://zerocat.houlangs.com",
+                "start": 14,
+                "url": "https://t.co/4K66E55Pni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 222,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-11T20:22:05.000Z",
+        "description": "With Visa, it’s more than just a swipe, tap or click. It’s making a small step forward to where you want to be.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "visa.com",
+                "end": 23,
+                "expanded_url": "http://visa.com",
+                "start": 0,
+                "url": "https://t.co/9DNNzRrGEQ"
+              }
+            ]
+          }
+        },
+        "id": "551373363",
+        "location": "USA",
+        "name": "Visa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917927281659449344/-DenYzJq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418183,
+          "following_count": 180,
+          "like_count": 894,
+          "listed_count": 1825,
+          "media_count": 4101,
+          "tweet_count": 13485
+        },
+        "url": "https://t.co/9DNNzRrGEQ",
+        "username": "Visa",
+        "verified": true
+      },
+      {
+        "created_at": "2009-09-08T00:55:49.000Z",
+        "description": "Chief Product & Strategy Officer @Visa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 33,
+                "username": "Visa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "corporate.visa.com/en/businesses/…",
+                "end": 23,
+                "expanded_url": "https://corporate.visa.com/en/businesses/innovation.html",
+                "start": 0,
+                "url": "https://t.co/8XRVsdng8e"
+              }
+            ]
+          }
+        },
+        "id": "72431647",
+        "name": "Jack Forestell",
+        "pinned_tweet_id": "1918352606285463980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912284194836787200/9J_bvazo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 50,
+          "like_count": 7,
+          "listed_count": 19,
+          "media_count": 6,
+          "tweet_count": 61
+        },
+        "url": "https://t.co/8XRVsdng8e",
+        "username": "jackforestell",
+        "verified": true
+      }
+    ]
+  }
+}

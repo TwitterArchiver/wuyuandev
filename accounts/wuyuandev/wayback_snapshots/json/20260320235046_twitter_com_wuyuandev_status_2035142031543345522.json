@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2034828240943259728",
+    "created_at": "2026-03-20T23:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T00:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035142031543345522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1324198319535521795",
+          "start": 0,
+          "username": "KKaWSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035142031543345522",
+    "in_reply_to_user_id": "1324198319535521795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034828240943259728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KKaWSB 那在cn大陆上学算有害的工作吗？✋😭🤚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 381,
+        "media_key": "3_2034828173335306242",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD0pcVKboAIaSvw.png",
+        "width": 381
+      },
+      {
+        "height": 398,
+        "media_key": "3_2034828198626959361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD0pdzYboAEumvm.png",
+        "width": 398
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2034828240943259728",
+        "created_at": "2026-03-20T23:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T00:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035142031543345522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1324198319535521795",
+              "start": 0,
+              "username": "KKaWSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035142031543345522",
+        "in_reply_to_user_id": "1324198319535521795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034828240943259728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KKaWSB 那在cn大陆上学算有害的工作吗？✋😭🤚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034828173335306242",
+            "3_2034828198626959361"
+          ]
+        },
+        "author_id": "1324198319535521795",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2034828240943259728",
+        "created_at": "2026-03-20T03:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T04:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034828240943259728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TMiX4qbF9D",
+              "end": 64,
+              "expanded_url": "https://x.com/KKaWSB/status/2034828240943259728/photo/1",
+              "media_key": "3_2034828173335306242",
+              "start": 41,
+              "url": "https://t.co/TMiX4qbF9D"
+            },
+            {
+              "display_url": "pic.x.com/TMiX4qbF9D",
+              "end": 64,
+              "expanded_url": "https://x.com/KKaWSB/status/2034828240943259728/photo/1",
+              "media_key": "3_2034828198626959361",
+              "start": 41,
+              "url": "https://t.co/TMiX4qbF9D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034828240943259728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 25629,
+          "like_count": 639,
+          "quote_count": 10,
+          "reply_count": 9,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "🚨心理学家表示，离开一份有害的工作比接受一年的心理治疗更能快速修复你的神经系统。 https://t.co/TMiX4qbF9D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 41,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 18,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2025788939731439975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 748,
+          "like_count": 1439,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 267
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T03:54:29.000Z",
+        "description": "Co-founder @ CarbonSilicon AI | AI Quant Trading | Based in Palo Alto | 加密投研 | 美股 | 科技 | 宏观 | 招募工程师（可兼职）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KKcasi",
+                "end": 23,
+                "expanded_url": "https://t.me/KKcasi",
+                "start": 0,
+                "url": "https://t.co/QsTW1lrCWR"
+              }
+            ]
+          }
+        },
+        "id": "1324198319535521795",
+        "location": "Atlanta, GA",
+        "name": "KK.aWSB",
+        "pinned_tweet_id": "1968453490084299020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70513,
+          "following_count": 2819,
+          "like_count": 8997,
+          "listed_count": 609,
+          "media_count": 4980,
+          "tweet_count": 10396
+        },
+        "url": "https://t.co/QsTW1lrCWR",
+        "username": "KKaWSB",
+        "verified": true
+      }
+    ]
+  }
+}

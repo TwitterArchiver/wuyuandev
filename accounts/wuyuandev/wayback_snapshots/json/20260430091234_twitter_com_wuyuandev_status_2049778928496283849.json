@@ -1,0 +1,506 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      }
+    ],
+    "conversation_id": "2049778928496283849",
+    "created_at": "2026-04-30T09:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T10:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049778928496283849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1818257539886460928",
+          "start": 3,
+          "username": "qqqqqf_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049778928496283849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049776170246471804",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qqqqqf_: 做了个叫 Arkloop的东西,是个 Agent 客户端\n开源,本地优先,简单优先\n你可以把他想象成 claude desktop but open source, 并且带有自己的 taste\n哦对了,另说一点,不是任何 agent sdk 套壳,也没…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 63146,
+        "height": 972,
+        "media_key": "13_2049771881918803968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049771881918803968/img/37NSpzrcds7jFInG.jpg",
+        "public_metrics": {
+          "view_count": 33
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049771881918803968/pl/p5Tuh5WoFrlzhVRD.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049771881918803968/vid/avc1/1728x972/V1V2tfuQ3tEztxLs.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049771881918803968/vid/avc1/480x270/sJntvv6RgCpTA40Y.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049771881918803968/vid/avc1/1280x720/pL4kNY5PJE9ucq8r.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049771881918803968/vid/avc1/640x360/PvQkdGTt29ho-hDp.mp4"
+          }
+        ],
+        "width": 1728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2049778928496283849",
+        "created_at": "2026-04-30T09:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T10:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049778928496283849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1818257539886460928",
+              "start": 3,
+              "username": "qqqqqf_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049778928496283849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049776170246471804",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qqqqqf_: 做了个叫 Arkloop的东西,是个 Agent 客户端\n开源,本地优先,简单优先\n你可以把他想象成 claude desktop but open source, 并且带有自己的 taste\n哦对了,另说一点,不是任何 agent sdk 套壳,也没…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049771881918803968"
+          ]
+        },
+        "author_id": "1818257539886460928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2049776170246471804",
+        "created_at": "2026-04-30T09:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T10:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049776170246471804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S5BruhcWpN",
+              "end": 199,
+              "expanded_url": "https://x.com/qqqqqf_/status/2049776170246471804/video/1",
+              "media_key": "13_2049771881918803968",
+              "start": 176,
+              "url": "https://t.co/S5BruhcWpN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049776170246471804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q/Arklo…",
+                "end": 889,
+                "expanded_url": "https://github.com/qqqqqf-q/Arkloop",
+                "start": 866,
+                "url": "https://t.co/usHZDiOERj"
+              },
+              {
+                "display_url": "arkloop.cn",
+                "end": 927,
+                "expanded_url": "https://arkloop.cn",
+                "start": 904,
+                "url": "https://t.co/ZAAursWEl6"
+              },
+              {
+                "display_url": "x.com/intent/follow?…",
+                "end": 958,
+                "expanded_url": "https://x.com/intent/follow?screen_name=qqqqqf_",
+                "start": 935,
+                "url": "https://t.co/UCFcS7AmUm"
+              },
+              {
+                "display_url": "t.me/Arkloop_io",
+                "end": 1007,
+                "expanded_url": "http://t.me/Arkloop_io",
+                "start": 984,
+                "url": "https://t.co/M7vddLerd6"
+              }
+            ]
+          },
+          "text": "做了个叫 Arkloop的东西,是个 Agent 客户端\n开源,本地优先,简单优先\n你可以把他想象成 claude desktop but open source, 并且带有自己的 taste\n哦对了,另说一点,不是任何 agent sdk 套壳,也没有任何 base 任何 claudecode 行为,我一个人打磨了三个月\n\n和市面上大部分产品不同\n我花了很多时间在一个细节上 : 减少认知负担\n\n一个例子 : 我平常只用一个模型聊天，那为什么每条消息前面都要告诉我用了什么模型？这是噪音\n再举一个 : 开发者总是喜欢让 agent 的 tool use 完整的展示到前端,但是背后真正的用户体验逻辑是我需要知道 agent 在工作/在往哪个方向偏,所以我们并不需要如此详细的信息\n\n设计哲学：认知负担,信息,价值导向,美学\n\n换个话题\n我一个人做 Arkloop 用了三个月,现在他能用了,但是它离完美很远\n做产品很重要的一件事是…不要闭门造车,也就是我需要你们的真诚建议\n\n引用来自 Arkloop readme 中的一句话\n“我欢迎所有形式的贡献。即使你不是开发者，只是一个普通用户——如果你在使用中感到任何不舒服的地方，哪怕只是一点间距、一个颜色、一个很小很小的细节，或者是一个很大的方向，都可以直接开一个 issue。\n我认真对待每一个体验细节，你的反馈会让所有人的体验变得更好。\n如果你是开发者，Arkloop 的 Agent 核心、记忆系统、hook 机制都是开放的。你可以接自己的 provider、写自己的插件、甚至改掉你不喜欢的任何设计。”\n\n这是我认为整个项目最精髓的一点,我希望看到你们的反馈,不管是细节还是方向\n我在用 dify 的时候,我常常发现,一个特别小的间距问题,竟然在这么大的仓库里没人修\n因此,我很重视这点理念\n\nArkloop 现在并不稳定，还有很多不完善的地方。希望大家多多包容,多提意见\n\n另带一提,Arkloop 可以从 openclaw/hermes 导入配置\nGithub 仓库:https://t.co/usHZDiOERj\nArkloop 官网兼下载:https://t.co/ZAAursWEl6\n关注我的推特:https://t.co/UCFcS7AmUm\n加入 Arkloop 的 telegram 群组:https://t.co/M7vddLerd6"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 102,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "做了个叫 Arkloop的东西,是个 Agent 客户端\n开源,本地优先,简单优先\n你可以把他想象成 claude desktop but open source, 并且带有自己的 taste\n哦对了,另说一点,不是任何 agent sdk 套壳,也没有任何 base 任何 claudecode 行为,我一个人打磨了三个月\n\n和市面上大部分产品不同 https://t.co/S5BruhcWpN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 99,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 76,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！",
+        "pinned_tweet_id": "2048204898882531422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 884,
+          "like_count": 2344,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 604
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T12:09:26.000Z",
+        "description": "building Arkloop\n博客:https://t.co/4xjp1fLrtP  \nArkloop的TelegramGroup :https://t.co/GiCrumiY7W",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "清凤.fun",
+                "end": 43,
+                "expanded_url": "http://xn--l9qq99d.fun",
+                "start": 20,
+                "url": "https://t.co/4xjp1fLrtP"
+              },
+              {
+                "display_url": "t.me/Arkloop_io",
+                "end": 92,
+                "expanded_url": "https://t.me/Arkloop_io",
+                "start": 69,
+                "url": "https://t.co/GiCrumiY7W"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/jrg4ChmKLg"
+              }
+            ]
+          }
+        },
+        "id": "1818257539886460928",
+        "location": "Ningbo,Zhejiang",
+        "name": "清凤",
+        "pinned_tweet_id": "2049776170246471804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021583893238059008/7Mh6eK6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 593,
+          "like_count": 10290,
+          "listed_count": 1,
+          "media_count": 222,
+          "tweet_count": 1021
+        },
+        "url": "https://t.co/jrg4ChmKLg",
+        "username": "qqqqqf_",
+        "verified": true
+      }
+    ]
+  }
+}

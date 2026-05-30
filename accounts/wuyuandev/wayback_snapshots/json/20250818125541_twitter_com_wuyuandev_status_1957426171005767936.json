@@ -1,0 +1,626 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Microsoft Edge",
+          "id": "10052778497",
+          "name": "Microsoft Edge"
+        }
+      }
+    ],
+    "conversation_id": "1957425289321160760",
+    "created_at": "2025-08-18T12:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T13:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957426171005767936"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 81,
+          "normalized_text": "MicrosoftEdge",
+          "probability": 0.7965,
+          "start": 69,
+          "type": "Other"
+        },
+        {
+          "end": 95,
+          "normalized_text": "EdgeDevTools",
+          "probability": 0.9104,
+          "start": 84,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 82,
+          "start": 68,
+          "tag": "MicrosoftEdge"
+        },
+        {
+          "end": 96,
+          "start": 83,
+          "tag": "EdgeDevTools"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 110,
+          "id": "2244220190",
+          "start": 97,
+          "username": "EdgeDevTools"
+        },
+        {
+          "end": 125,
+          "id": "19315174",
+          "start": 111,
+          "username": "MicrosoftEdge"
+        },
+        {
+          "end": 136,
+          "id": "1141081634",
+          "start": 126,
+          "username": "MSEdgeDev"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Starting with Edge 143, the Network Console tool will be removed from Edge DevTools with no replacement. As our team shifts focus toward delivering more stable features and improving alignment with...",
+          "display_url": "github.com/MicrosoftEdge/…",
+          "end": 66,
+          "expanded_url": "https://github.com/MicrosoftEdge/DevTools/issues/348",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/1957425333155794944/I2X0h_jI?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1957425333155794944/I2X0h_jI?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 43,
+          "status": 200,
+          "title": "[Feedback] Network Console will be removed in Edge 143 · Issue #348 · MicrosoftEdge/DevTools",
+          "unwound_url": "https://github.com/MicrosoftEdge/DevTools/issues/348",
+          "url": "https://t.co/3JFxD8ZwNf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957426171005767936",
+    "in_reply_to_user_id": "1436287470207832064",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957425289321160760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "I want to know what you guys are thinking\n\nhttps://t.co/3JFxD8ZwNf\n\n#MicrosoftEdge #EdgeDevTools @EdgeDevTools @MicrosoftEdge @MSEdgeDev"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 730,
+        "media_key": "3_1957425265178705920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyor6GVaAAAkL4b.png",
+        "width": 964
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Microsoft Edge",
+              "id": "10052778497",
+              "name": "Microsoft Edge"
+            }
+          }
+        ],
+        "conversation_id": "1957425289321160760",
+        "created_at": "2025-08-18T12:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T13:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957426171005767936"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 81,
+              "normalized_text": "MicrosoftEdge",
+              "probability": 0.7965,
+              "start": 69,
+              "type": "Other"
+            },
+            {
+              "end": 95,
+              "normalized_text": "EdgeDevTools",
+              "probability": 0.9104,
+              "start": 84,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 68,
+              "tag": "MicrosoftEdge"
+            },
+            {
+              "end": 96,
+              "start": 83,
+              "tag": "EdgeDevTools"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 110,
+              "id": "2244220190",
+              "start": 97,
+              "username": "EdgeDevTools"
+            },
+            {
+              "end": 125,
+              "id": "19315174",
+              "start": 111,
+              "username": "MicrosoftEdge"
+            },
+            {
+              "end": 136,
+              "id": "1141081634",
+              "start": 126,
+              "username": "MSEdgeDev"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Starting with Edge 143, the Network Console tool will be removed from Edge DevTools with no replacement. As our team shifts focus toward delivering more stable features and improving alignment with...",
+              "display_url": "github.com/MicrosoftEdge/…",
+              "end": 66,
+              "expanded_url": "https://github.com/MicrosoftEdge/DevTools/issues/348",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1957425333155794944/I2X0h_jI?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1957425333155794944/I2X0h_jI?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 43,
+              "status": 200,
+              "title": "[Feedback] Network Console will be removed in Edge 143 · Issue #348 · MicrosoftEdge/DevTools",
+              "unwound_url": "https://github.com/MicrosoftEdge/DevTools/issues/348",
+              "url": "https://t.co/3JFxD8ZwNf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957426171005767936",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957425289321160760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I want to know what you guys are thinking\n\nhttps://t.co/3JFxD8ZwNf\n\n#MicrosoftEdge #EdgeDevTools @EdgeDevTools @MicrosoftEdge @MSEdgeDev"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957425265178705920"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "1957425289321160760",
+        "created_at": "2025-08-18T12:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T13:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957425289321160760"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Microsoft",
+              "probability": 0.956,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 34,
+              "normalized_text": "Copilot",
+              "probability": 0.9556,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Starting with Edge 143, the Network Console tool will be removed from Edge DevTools with no replacement. As our team shifts focus toward delivering more stable features and improving alignment with...",
+              "display_url": "github.com/MicrosoftEdge/…",
+              "end": 203,
+              "expanded_url": "https://github.com/MicrosoftEdge/DevTools/issues/348",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1957425333155794944/I2X0h_jI?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1957425333155794944/I2X0h_jI?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 180,
+              "status": 200,
+              "title": "[Feedback] Network Console will be removed in Edge 143 · Issue #348 · MicrosoftEdge/DevTools",
+              "unwound_url": "https://github.com/MicrosoftEdge/DevTools/issues/348",
+              "url": "https://t.co/3JFxD8ZwNf"
+            },
+            {
+              "display_url": "pic.x.com/1jJ8h2pmAz",
+              "end": 227,
+              "expanded_url": "https://x.com/wuyuandev/status/1957425289321160760/photo/1",
+              "media_key": "3_1957425265178705920",
+              "start": 204,
+              "url": "https://t.co/1jJ8h2pmAz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957425289321160760",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Microsoft is willing to add Copilot to devtools , although it is almost unusable for programming, but unwilling to maintain a useful tool for quickly debugging network requests .\n\nhttps://t.co/3JFxD8ZwNf https://t.co/1jJ8h2pmAz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/4K66E55Pni",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.houlangs.com",
+                "end": 37,
+                "expanded_url": "https://zerocat.houlangs.com",
+                "start": 14,
+                "url": "https://t.co/4K66E55Pni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 231,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 53
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-13T17:32:10.000Z",
+        "description": "Official news and updates from the #MicrosoftEdge Developer Tools team.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 35,
+                "tag": "MicrosoftEdge"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.microsoft.com/en-us/microsof…",
+                "end": 23,
+                "expanded_url": "https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium",
+                "start": 0,
+                "url": "https://t.co/hP8j0VLmxD"
+              }
+            ]
+          }
+        },
+        "id": "2244220190",
+        "location": "Redmond, WA",
+        "name": "Microsoft Edge DevTools",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1197303523303538688/NNUwQ9pT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8768,
+          "following_count": 124,
+          "like_count": 345,
+          "listed_count": 236,
+          "media_count": 143,
+          "tweet_count": 804
+        },
+        "url": "https://t.co/hP8j0VLmxD",
+        "username": "EdgeDevTools",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-21T23:42:14.000Z",
+        "description": "A whole new way to pilot the web. Try now.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aka.ms/copilot-mode",
+                "end": 23,
+                "expanded_url": "http://aka.ms/copilot-mode",
+                "start": 0,
+                "url": "https://t.co/IlSkYMQNGY"
+              }
+            ]
+          }
+        },
+        "id": "19315174",
+        "location": "Redmond, WA",
+        "name": "Microsoft Edge",
+        "pinned_tweet_id": "1949878952853459413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841902654320214017/-_5zyP6W_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993860,
+          "following_count": 10,
+          "like_count": 2693,
+          "listed_count": 5963,
+          "media_count": 2806,
+          "tweet_count": 37196
+        },
+        "url": "https://t.co/IlSkYMQNGY",
+        "username": "MicrosoftEdge",
+        "verified": true
+      },
+      {
+        "created_at": "2013-02-02T00:26:21.000Z",
+        "description": "Official news and updates from the Microsoft Edge team on #MicrosoftEdgeforBusiness",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 83,
+                "start": 58,
+                "tag": "MicrosoftEdgeforBusiness"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "microsoftedgeinsider.com",
+                "end": 23,
+                "expanded_url": "http://www.microsoftedgeinsider.com",
+                "start": 0,
+                "url": "https://t.co/i7pd1HNM4L"
+              }
+            ]
+          }
+        },
+        "id": "1141081634",
+        "location": "Redmond, WA",
+        "name": "Microsoft Edge Dev",
+        "pinned_tweet_id": "1947384962174619871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1316097635476926464/g9Uuc8GS_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90125,
+          "following_count": 179,
+          "like_count": 1322,
+          "listed_count": 1291,
+          "media_count": 1147,
+          "tweet_count": 5700
+        },
+        "url": "https://t.co/i7pd1HNM4L",
+        "username": "MSEdgeDev",
+        "verified": true
+      }
+    ]
+  }
+}

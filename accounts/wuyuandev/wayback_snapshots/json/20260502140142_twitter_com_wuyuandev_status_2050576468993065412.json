@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050576466040238080"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2050576468993065412",
+    "created_at": "2026-05-02T14:01:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T15:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050576468993065412"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 20,
+          "tag": "image2"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1818257539886460928",
+          "start": 0,
+          "username": "qqqqqf_"
+        },
+        {
+          "end": 19,
+          "id": "4398626122",
+          "start": 12,
+          "username": "OpenAI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4ekPLraOYx",
+          "end": 93,
+          "expanded_url": "https://x.com/wuyuandev/status/2050576468993065412/photo/1",
+          "media_key": "3_2050576466040238080",
+          "start": 70,
+          "url": "https://t.co/4ekPLraOYx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050576468993065412",
+    "in_reply_to_user_id": "1818257539886460928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@qqqqqf_ 你被 @OpenAI #image2 训练进模型里了！调用画图画出了你的。。。博客？\n\nimage-2都喂了些什么。。。 https://t.co/4ekPLraOYx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1312,
+        "media_key": "3_2050576466040238080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUcbnMasAADtnf.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050576466040238080"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2050576468993065412",
+        "created_at": "2026-05-02T14:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050576468993065412"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 20,
+              "tag": "image2"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1818257539886460928",
+              "start": 0,
+              "username": "qqqqqf_"
+            },
+            {
+              "end": 19,
+              "id": "4398626122",
+              "start": 12,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ekPLraOYx",
+              "end": 93,
+              "expanded_url": "https://x.com/wuyuandev/status/2050576468993065412/photo/1",
+              "media_key": "3_2050576466040238080",
+              "start": 70,
+              "url": "https://t.co/4ekPLraOYx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050576468993065412",
+        "in_reply_to_user_id": "1818257539886460928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@qqqqqf_ 你被 @OpenAI #image2 训练进模型里了！调用画图画出了你的。。。博客？\n\nimage-2都喂了些什么。。。 https://t.co/4ekPLraOYx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸 | 坐标HNCS\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 123,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 100,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！",
+        "pinned_tweet_id": "2048204898882531422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 830,
+          "like_count": 2667,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 665
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T12:09:26.000Z",
+        "description": "building Arkloop\n博客:https://t.co/4xjp1fLrtP  \nArkloop的TelegramGroup :https://t.co/GiCrumiY7W",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "清凤.fun",
+                "end": 43,
+                "expanded_url": "http://xn--l9qq99d.fun",
+                "start": 20,
+                "url": "https://t.co/4xjp1fLrtP"
+              },
+              {
+                "display_url": "t.me/Arkloop_io",
+                "end": 92,
+                "expanded_url": "https://t.me/Arkloop_io",
+                "start": 69,
+                "url": "https://t.co/GiCrumiY7W"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/jrg4ChmKLg"
+              }
+            ]
+          }
+        },
+        "id": "1818257539886460928",
+        "location": "Ningbo,Zhejiang",
+        "name": "清凤",
+        "pinned_tweet_id": "2049776170246471804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021583893238059008/7Mh6eK6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 606,
+          "like_count": 10459,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 1041
+        },
+        "url": "https://t.co/jrg4ChmKLg",
+        "username": "qqqqqf_",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2049535650626785334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4803477,
+          "following_count": 4,
+          "like_count": 2018,
+          "listed_count": 29157,
+          "media_count": 574,
+          "tweet_count": 1815
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      }
+    ]
+  }
+}

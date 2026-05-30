@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2055796262461685915",
+    "created_at": "2026-05-16T23:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T00:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055796262461685915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 44,
+          "id": "1928705633135767600",
+          "start": 29,
+          "username": "AuroraLight_01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/XynUnk/status/…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/XynUnk/status/2055709006635954520",
+          "start": 49,
+          "url": "https://t.co/IUvuLzXiQC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055796262461685915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055709006635954520",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "继续《论上Twitter是如何改变一个人的------以 @AuroraLight_01 为例》 https://t.co/IUvuLzXiQC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055709001267208192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdYce4a4AAt3B5.jpg",
+        "width": 746
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055709003943219200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdYco2bkAAoyqf.jpg",
+        "width": 622
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055709001074290688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdYceKbMAAqC8d.jpg",
+        "width": 607
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2055796262461685915",
+        "created_at": "2026-05-16T23:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T00:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055796262461685915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "1928705633135767600",
+              "start": 29,
+              "username": "AuroraLight_01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/XynUnk/status/…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/XynUnk/status/2055709006635954520",
+              "start": 49,
+              "url": "https://t.co/IUvuLzXiQC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055796262461685915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055709006635954520",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "继续《论上Twitter是如何改变一个人的------以 @AuroraLight_01 为例》 https://t.co/IUvuLzXiQC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055709001267208192",
+            "3_2055709003943219200",
+            "3_2055709001074290688"
+          ]
+        },
+        "author_id": "2015213345847300096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055709006635954520",
+        "created_at": "2026-05-16T17:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055709006635954520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1928705633135767600",
+              "start": 5,
+              "username": "AuroraLight_01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MST40qQ7E4",
+              "end": 91,
+              "expanded_url": "https://x.com/XynUnk/status/2055709006635954520/photo/1",
+              "media_key": "3_2055709001267208192",
+              "start": 68,
+              "url": "https://t.co/MST40qQ7E4"
+            },
+            {
+              "display_url": "pic.x.com/MST40qQ7E4",
+              "end": 91,
+              "expanded_url": "https://x.com/XynUnk/status/2055709006635954520/photo/1",
+              "media_key": "3_2055709003943219200",
+              "start": 68,
+              "url": "https://t.co/MST40qQ7E4"
+            },
+            {
+              "display_url": "pic.x.com/MST40qQ7E4",
+              "end": 91,
+              "expanded_url": "https://x.com/XynUnk/status/2055709006635954520/photo/1",
+              "media_key": "3_2055709001074290688",
+              "start": 68,
+              "url": "https://t.co/MST40qQ7E4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055709006635954520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 946,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感觉芸光酱@AuroraLight_01要开始od了😭，还想得抑郁和双向😱，咋办，谁能劝一下🫠，不想让她这样堕落下去😭，感觉我劝不动😭 https://t.co/MST40qQ7E4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "langs.ink",
+                "end": 23,
+                "expanded_url": "https://langs.ink",
+                "start": 0,
+                "url": "https://t.co/Z142BBjByr"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "死与生 云与雨",
+        "pinned_tweet_id": "2051211437847290211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 227,
+          "like_count": 3565,
+          "listed_count": 3,
+          "media_count": 203,
+          "tweet_count": 1007
+        },
+        "url": "https://t.co/Z142BBjByr",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13岁 7年级 也许是泛性恋？推龄最小的? \n无证小药娘🍥2026.4.7 MTF\n从小想做个女孩子-炸柜：5.2,/继续深柜ing\n喜欢折腾电脑和会一点编程\n分享Hrt日常-自残🔪  不Od💊  \n关注芸光谢谢喵~（目标900fo QWQ）\n@TeamRain_2024\n—————\n我只想要与你留住每个瞬间”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 122,
+                "username": "TeamRain_2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qm.qq.com/q/C6yfDDtTsQ?f…",
+                "end": 23,
+                "expanded_url": "http://qm.qq.com/q/C6yfDDtTsQ?from=tim",
+                "start": 0,
+                "url": "https://t.co/vECIHmc0mr"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝐴𝑢𝑟𝑜𝑟𝑎𝐿𝑖𝑔ℎ𝑡 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2053779388169412843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050189894278897664/xk4hCXpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 5,
+          "like_count": 1734,
+          "listed_count": 5,
+          "media_count": 98,
+          "tweet_count": 633
+        },
+        "url": "https://t.co/vECIHmc0mr",
+        "username": "AuroraLight_01",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-25T00:02:43.000Z",
+        "description": "MtX?🏳️‍⚧️|Hrt🍥01.28.2026，无证含糖|年龄党+家长不管党|已炸柜|生产日期:11.13.2011|161cm52kg|INFP-T，重度社恐|初二牲，成绩倒数，休学中🥰|同类互fo喵～|一代目@UnkXyn|https://t.co/aB65o8oOXI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 107,
+                "username": "UnkXyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 138,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 115,
+                "url": "https://t.co/aB65o8oOXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mwdxj29477",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mwdxj29477",
+                "start": 0,
+                "url": "https://t.co/2KoP9pAGCu"
+              }
+            ]
+          }
+        },
+        "id": "2015213345847300096",
+        "name": "Unk~🍥🏳️‍⚧️(二代目",
+        "pinned_tweet_id": "2054692978460078311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053140552099749888/BhRMG_MC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 491,
+          "like_count": 555,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 59
+        },
+        "url": "https://t.co/2KoP9pAGCu",
+        "username": "XynUnk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2048568309877264419",
+    "created_at": "2026-04-27T14:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T15:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048773503667851745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048773503667851745",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048568309877264419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech 币圈和AI带来最大危害就是把钱都变成普通文件了存本的了，安全性还完全没有，盗起来那叫一个快，无语😶。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2048440499573575680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2FyACbUAAqVK_.jpg",
+        "width": 1600
+      },
+      {
+        "height": 900,
+        "media_key": "3_2048440499284099072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2Fx-9aQAAp5fH.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2048568309877264419",
+        "created_at": "2026-04-27T14:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048773503667851745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048773503667851745",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048568309877264419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech 币圈和AI带来最大危害就是把钱都变成普通文件了存本的了，安全性还完全没有，盗起来那叫一个快，无语😶。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048440499573575680",
+            "3_2048440499284099072"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2048568309877264419",
+        "created_at": "2026-04-27T01:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048568309877264419"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 5,
+              "tag": "Chrome"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LyPWu5jHoe",
+              "end": 191,
+              "expanded_url": "https://x.com/landiantech/status/2048568309877264419/photo/1",
+              "media_key": "3_2048440499573575680",
+              "start": 168,
+              "url": "https://t.co/LyPWu5jHoe"
+            },
+            {
+              "display_url": "pic.x.com/LyPWu5jHoe",
+              "end": 191,
+              "expanded_url": "https://x.com/landiantech/status/2048568309877264419/photo/1",
+              "media_key": "3_2048440499284099072",
+              "start": 168,
+              "url": "https://t.co/LyPWu5jHoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048568309877264419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 5,
+                "tag": "Chrome"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ourl.co/112825",
+                "end": 247,
+                "expanded_url": "https://ourl.co/112825",
+                "start": 224,
+                "url": "https://t.co/NzPm0f5pUT"
+              }
+            ]
+          },
+          "text": "必应搜索 #Chrome 被奇怪的山寨网站占领，这些网站均使用黑龙江省级域名 hl[.]cn 的子域名，直接霸占 Chrome 关键词搜索结果前三。\n\n山寨网站只允许通过必应搜索访问，直接访问会报错，而在沙盒中安装山寨版则会下载官方版 Chrome，说明安装程序也会对抗检测，考虑到 Windows 11 默认预装 Microsoft Edge 以及默认使用必应搜索，这可能导致新装系统想要安装 Chrome 的用户直接进入钓鱼网站。\n\n查看详情：https://t.co/NzPm0f5pUT"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 39187,
+          "like_count": 208,
+          "quote_count": 2,
+          "reply_count": 34,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "必应搜索 #Chrome 被奇怪的山寨网站占领，这些网站均使用黑龙江省级域名 hl[.]cn 的子域名，直接霸占 Chrome 关键词搜索结果前三。\n\n山寨网站只允许通过必应搜索访问，直接访问会报错，而在沙盒中安装山寨版则会下载官方版 Chrome，说明安装程序也会对抗检测，考虑到 Windows 11 默认预装 Microsoft https://t.co/LyPWu5jHoe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 99,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 76,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！来关注本喵！",
+        "pinned_tweet_id": "2048204898882531422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 880,
+          "like_count": 2278,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 577
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / OpenClaw 重度用户🦞🦞🦞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34878,
+          "following_count": 721,
+          "like_count": 4803,
+          "listed_count": 274,
+          "media_count": 5429,
+          "tweet_count": 15188
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

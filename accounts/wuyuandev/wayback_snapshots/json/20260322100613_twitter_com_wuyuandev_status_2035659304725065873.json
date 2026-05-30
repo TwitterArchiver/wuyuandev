@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2035634446792331769",
+    "created_at": "2026-03-22T10:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T11:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035659304725065873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1352281301613568000",
+          "start": 0,
+          "username": "Starlight4You_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035659304725065873",
+    "in_reply_to_user_id": "1352281301613568000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035634446792331769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Starlight4You_ 原来我成营销号了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2035634446792331769",
+        "created_at": "2026-03-22T10:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T11:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035659304725065873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1352281301613568000",
+              "start": 0,
+              "username": "Starlight4You_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035659304725065873",
+        "in_reply_to_user_id": "1352281301613568000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035634446792331769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starlight4You_ 原来我成营销号了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1352281301613568000",
+        "conversation_id": "2035634446792331769",
+        "created_at": "2026-03-22T08:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T09:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035634446792331769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035634446792331769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 551,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非常多的营销号。\n\n一句话一个句号。\n\n一句话换行一次。\n\n说话能有点人味吗。\n\n哪个AI写文案是这么写的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 41,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 18,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2025788939731439975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 776,
+          "like_count": 1470,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 278
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-21T15:46:11.000Z",
+        "description": "",
+        "id": "1352281301613568000",
+        "name": "Starlight✨",
+        "pinned_tweet_id": "1856285866831823171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776753869571399680/nqm8DMRZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5683,
+          "following_count": 334,
+          "like_count": 40289,
+          "listed_count": 20,
+          "media_count": 3048,
+          "tweet_count": 17076
+        },
+        "username": "Starlight4You_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2025744309388218493",
+    "created_at": "2026-02-23T08:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T09:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025847709173956681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1079519718",
+          "start": 0,
+          "username": "Megabits_mzq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025847709173956681",
+    "in_reply_to_user_id": "1079519718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025744309388218493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Megabits_mzq 应该是nightly版本的，构建炸了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025744294389391361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBzjs_DaoAE0AHo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2025744309388218493",
+        "created_at": "2026-02-23T08:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T09:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025847709173956681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1079519718",
+              "start": 0,
+              "username": "Megabits_mzq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025847709173956681",
+        "in_reply_to_user_id": "1079519718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025744309388218493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Megabits_mzq 应该是nightly版本的，构建炸了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025744294389391361"
+          ]
+        },
+        "author_id": "1079519718",
+        "conversation_id": "2025744309388218493",
+        "created_at": "2026-02-23T01:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T02:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025744309388218493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZcFVQFJoSV",
+              "end": 47,
+              "expanded_url": "https://x.com/Megabits_mzq/status/2025744309388218493/photo/1",
+              "media_key": "3_2025744294389391361",
+              "start": 24,
+              "url": "https://t.co/ZcFVQFJoSV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025744309388218493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1193,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "从朋友那下载了两个 VLC，怎么感觉版本不太对 https://t.co/ZcFVQFJoSV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "今年欢笑复明年，秋月春风等闲度。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2025788939731439975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 488,
+          "like_count": 866,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 149
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-11T12:34:38.000Z",
+        "description": "English: @Megabits_Studio / 日本語: @Megabits_mzq_jp 金鱼一条 / 想当个艺术家，但只会写代码 / 这下人类文明凶多吉少了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "Megabits_Studio"
+              },
+              {
+                "end": 49,
+                "start": 33,
+                "username": "Megabits_mzq_jp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "megabits.xyz",
+                "end": 23,
+                "expanded_url": "http://megabits.xyz",
+                "start": 0,
+                "url": "https://t.co/Y0tbaG653d"
+              }
+            ]
+          }
+        },
+        "id": "1079519718",
+        "location": "東京·鱼缸",
+        "name": "Megabits ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729733422757892096/WEmf0gS1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10200,
+          "following_count": 1420,
+          "like_count": 28321,
+          "listed_count": 115,
+          "media_count": 2244,
+          "tweet_count": 10640
+        },
+        "url": "https://t.co/Y0tbaG653d",
+        "username": "Megabits_mzq",
+        "verified": false
+      }
+    ]
+  }
+}

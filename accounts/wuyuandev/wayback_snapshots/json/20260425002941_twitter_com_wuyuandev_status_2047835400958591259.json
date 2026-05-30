@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2047835400958591259",
+    "created_at": "2026-04-25T00:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T01:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047835400958591259"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yzx345666/stat…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/yzx345666/status/2047575555198095714",
+          "start": 20,
+          "url": "https://t.co/MF48FD02dj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047835400958591259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047575555198095714",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你在推上怼人的人就这种智商，我都嫌可怜 https://t.co/MF48FD02dj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2047835400958591259",
+        "created_at": "2026-04-25T00:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T01:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047835400958591259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yzx345666/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/yzx345666/status/2047575555198095714",
+              "start": 20,
+              "url": "https://t.co/MF48FD02dj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047835400958591259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047575555198095714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你在推上怼人的人就这种智商，我都嫌可怜 https://t.co/MF48FD02dj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803238927173820417",
+        "conversation_id": "2047574177746751565",
+        "created_at": "2026-04-24T07:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T08:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047575555198095714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1824324977379905537",
+              "start": 0,
+              "username": "siyu060910"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047575555198095714",
+        "in_reply_to_user_id": "1824324977379905537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 830,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047575217388855543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siyu060910 到底是哪一所啊？我就问问你图里是哪一所学校啊？不会六所学校公用一个办公柜吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 73,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 50,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 喵喵喵~~~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 954,
+          "like_count": 2099,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 507
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T01:30:48.000Z",
+        "description": "",
+        "id": "1803238927173820417",
+        "name": "锋龙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995378770031874048/yzOdWcjW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 270,
+          "like_count": 9,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 1326
+        },
+        "username": "yzx345666",
+        "verified": false
+      }
+    ]
+  }
+}

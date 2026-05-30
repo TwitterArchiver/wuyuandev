@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2025731013880729673",
+    "created_at": "2026-02-23T07:40:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T08:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025838235621175576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1470943033365438470",
+          "start": 0,
+          "username": "CamanoDiana_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025838235621175576",
+    "in_reply_to_user_id": "1470943033365438470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025731013880729673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CamanoDiana_404 诶，这个已经被提过了哦！就是那个si ma的课后服务，诶非但没有减少作业，还凭空增加1节课增加作业。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2025731013880729673",
+        "created_at": "2026-02-23T07:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T08:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025838235621175576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1470943033365438470",
+              "start": 0,
+              "username": "CamanoDiana_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025838235621175576",
+        "in_reply_to_user_id": "1470943033365438470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025731013880729673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CamanoDiana_404 诶，这个已经被提过了哦！就是那个si ma的课后服务，诶非但没有减少作业，还凭空增加1节课增加作业。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1470943033365438470",
+        "conversation_id": "2025731013880729673",
+        "created_at": "2026-02-23T00:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T01:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025731013880729673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yurain_is_doll…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/yurain_is_doll/status/2025521892363223189",
+              "start": 35,
+              "url": "https://t.co/bdeWcp3jQT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025731013880729673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 322,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025521892363223189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我提议，中小学生取消家庭作业，作业统一在课堂中解决，当天做完当天评讲 https://t.co/bdeWcp3jQT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "今年欢笑复明年，秋月春风等闲度。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2025788939731439975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 481,
+          "like_count": 856,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 146
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-15T02:25:55.000Z",
+        "description": "Status: 404 Not Found.",
+        "id": "1470943033365438470",
+        "location": "0",
+        "name": "然子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006754677745135617/PTxLN9py_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2858,
+          "following_count": 850,
+          "like_count": 26670,
+          "listed_count": 11,
+          "media_count": 1453,
+          "tweet_count": 19141
+        },
+        "username": "CamanoDiana_404",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2026677820148298079",
+    "created_at": "2026-02-26T04:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T05:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026879463057711506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2022181719835914242",
+          "start": 0,
+          "username": "z8897031948836"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026879463057711506",
+    "in_reply_to_user_id": "2022181719835914242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026677820148298079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@z8897031948836 给了5块，吃瓜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1290,
+        "media_key": "3_2026677809645760512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCA0uuYaMAAHYis.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2026677820148298079",
+        "created_at": "2026-02-26T04:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T05:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026879463057711506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2022181719835914242",
+              "start": 0,
+              "username": "z8897031948836"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026879463057711506",
+        "in_reply_to_user_id": "2022181719835914242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026677820148298079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z8897031948836 给了5块，吃瓜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026677809645760512"
+          ]
+        },
+        "author_id": "2022181719835914242",
+        "conversation_id": "2026677820148298079",
+        "created_at": "2026-02-25T15:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026677820148298079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/obCtt4VV0T",
+              "end": 64,
+              "expanded_url": "https://x.com/z8897031948836/status/2026677820148298079/photo/1",
+              "media_key": "3_2026677809645760512",
+              "start": 41,
+              "url": "https://t.co/obCtt4VV0T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026677820148298079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 83576,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有人能施舍一点钱吗…被家里人抛弃了…目前骨折和蛋皮有口子，还有嗓子的病毒没治好… https://t.co/obCtt4VV0T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mfl9Y8a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 41,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 18,
+                "url": "https://t.co/Ch2mfl9Y8a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2025788939731439975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 542,
+          "like_count": 989,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 170
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T05:31:26.000Z",
+        "description": "MTF｜出厂日期2008.11.25｜hrt日期2025.5.31｜翻车的反跨顺直男，曾经是见证小子",
+        "id": "2022181719835914242",
+        "name": "N₂O🍥",
+        "pinned_tweet_id": "2026677820148298079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025068345356419072/LGtuGP03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4170,
+          "following_count": 72,
+          "like_count": 63,
+          "listed_count": 5,
+          "media_count": 15,
+          "tweet_count": 82
+        },
+        "username": "z8897031948836",
+        "verified": false
+      }
+    ]
+  }
+}

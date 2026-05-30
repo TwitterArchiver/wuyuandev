@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996873066253897729"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "1996873070456500551",
+    "created_at": "2025-12-05T09:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T10:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996873070456500551"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 9,
+          "normalized_text": "Cloudflare",
+          "probability": 0.7601,
+          "start": 0,
+          "type": "Other"
+        },
+        {
+          "end": 31,
+          "normalized_text": "cloudflaredown",
+          "probability": 0.9204,
+          "start": 18,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 17,
+          "tag": "cloudflaredown"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6sXt7C56a9",
+          "end": 56,
+          "expanded_url": "https://x.com/wuyuandev/status/1996873070456500551/photo/1",
+          "media_key": "3_1996873066253897729",
+          "start": 33,
+          "url": "https://t.co/6sXt7C56a9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996873070456500551",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Cloudflare again #cloudflaredown https://t.co/6sXt7C56a9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 415,
+        "media_key": "3_1996873066253897729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ZReU-b0AENccd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996873066253897729"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "1996873070456500551",
+        "created_at": "2025-12-05T09:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T10:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996873070456500551"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Cloudflare",
+              "probability": 0.7601,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 31,
+              "normalized_text": "cloudflaredown",
+              "probability": 0.9204,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 17,
+              "tag": "cloudflaredown"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6sXt7C56a9",
+              "end": 56,
+              "expanded_url": "https://x.com/wuyuandev/status/1996873070456500551/photo/1",
+              "media_key": "3_1996873066253897729",
+              "start": 33,
+              "url": "https://t.co/6sXt7C56a9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996873070456500551",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Cloudflare again #cloudflaredown https://t.co/6sXt7C56a9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/6Zcu6y11gj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.dev",
+                "end": 37,
+                "expanded_url": "https://zerocat.dev",
+                "start": 14,
+                "url": "https://t.co/6Zcu6y11gj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 298,
+          "like_count": 359,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 74
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      }
+    ]
+  }
+}

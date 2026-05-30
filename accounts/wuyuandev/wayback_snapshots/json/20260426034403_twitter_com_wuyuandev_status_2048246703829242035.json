@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2048238950226264384",
+    "created_at": "2026-04-26T03:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T04:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048246703829242035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1931737655043305472",
+          "start": 0,
+          "username": "longiveictory"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048246703829242035",
+    "in_reply_to_user_id": "1931737655043305472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048238950226264384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longiveictory 吃饭，喝水。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2048238935680450560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzOdcBbgAAYi4I.jpg",
+        "width": 1408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2048238950226264384",
+        "created_at": "2026-04-26T03:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048246703829242035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1931737655043305472",
+              "start": 0,
+              "username": "longiveictory"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048246703829242035",
+        "in_reply_to_user_id": "1931737655043305472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048238950226264384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longiveictory 吃饭，喝水。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048238935680450560"
+          ]
+        },
+        "author_id": "1931737655043305472",
+        "conversation_id": "2048238950226264384",
+        "created_at": "2026-04-26T03:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048238950226264384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c9PMwleaJW",
+              "end": 46,
+              "expanded_url": "https://x.com/longiveictory/status/2048238950226264384/photo/1",
+              "media_key": "3_2048238935680450560",
+              "start": 23,
+              "url": "https://t.co/c9PMwleaJW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048238950226264384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "敢不敢自爆一个很烧钱又戒不掉的爱好？\n我先说 https://t.co/c9PMwleaJW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 99,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 76,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！来关注本喵！",
+        "pinned_tweet_id": "2048204898882531422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 924,
+          "like_count": 2204,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 548
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T15:39:46.000Z",
+        "description": "U.S. political commentator🧐Global affairs observer👀Neutral news commentator🤓\n\n😁新人报道各路大佬多多关照😎纯野生成长型玩家🤖️AI实践探索者📝常驻X评论区深度用户📚生活杂学冷门知识",
+        "id": "1931737655043305472",
+        "name": "Emin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012948643288891392/EZ6TwsFq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 532,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 129
+        },
+        "username": "longiveictory",
+        "verified": true
+      }
+    ]
+  }
+}

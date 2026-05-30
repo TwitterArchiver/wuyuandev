@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2040746492986835080",
+    "created_at": "2026-04-05T12:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T13:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040764365251719335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "28530405",
+          "start": 0,
+          "username": "manateelazycat"
+        }
+      ],
+      "urls": [
+        {
+          "description": "国内缓存，自动回源。高速拉取 Docker Hub、GHCR 等公开镜像，限时免费。",
+          "display_url": "mirror.houlang.cloud",
+          "end": 45,
+          "expanded_url": "https://mirror.houlang.cloud/",
+          "start": 22,
+          "status": 200,
+          "title": "厚浪镜像 — 高速拉取所有 Docker 镜像",
+          "unwound_url": "https://mirror.houlang.cloud/",
+          "url": "https://t.co/1Q9RFYbPxn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040764365251719335",
+    "in_reply_to_user_id": "28530405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040746492986835080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manateelazycat 看看这个\n\nhttps://t.co/1Q9RFYbPxn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2040746492986835080",
+        "created_at": "2026-04-05T12:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040764365251719335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "28530405",
+              "start": 0,
+              "username": "manateelazycat"
+            }
+          ],
+          "urls": [
+            {
+              "description": "国内缓存，自动回源。高速拉取 Docker Hub、GHCR 等公开镜像，限时免费。",
+              "display_url": "mirror.houlang.cloud",
+              "end": 45,
+              "expanded_url": "https://mirror.houlang.cloud/",
+              "start": 22,
+              "status": 200,
+              "title": "厚浪镜像 — 高速拉取所有 Docker 镜像",
+              "unwound_url": "https://mirror.houlang.cloud/",
+              "url": "https://t.co/1Q9RFYbPxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040764365251719335",
+        "in_reply_to_user_id": "28530405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040746492986835080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manateelazycat 看看这个\n\nhttps://t.co/1Q9RFYbPxn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "28530405",
+        "conversation_id": "2040746492986835080",
+        "created_at": "2026-04-05T11:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040746492986835080"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040746492986835080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6166,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "最近GFW干机场有点猛啊， 我的三个机场都快干废了\n\n大佬们，你们有啥小众机场推荐？ 我主要挂上去 pull docker 镜像下来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 41,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 18,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2025788939731439975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 848,
+          "like_count": 1607,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 329
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-03T09:01:38.000Z",
+        "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lazycat.cloud",
+                "end": 64,
+                "expanded_url": "https://lazycat.cloud/",
+                "start": 41,
+                "url": "https://t.co/KVqgWHE3yR"
+              },
+              {
+                "display_url": "x.com/manateelazycat…",
+                "end": 97,
+                "expanded_url": "https://x.com/manateelazycat/status/1970815014861930775",
+                "start": 74,
+                "url": "https://t.co/SF9p24C2IS"
+              },
+              {
+                "display_url": "x.com/andy_lcmd",
+                "end": 128,
+                "expanded_url": "https://x.com/andy_lcmd",
+                "start": 105,
+                "url": "https://t.co/OjwSfdlyu8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manateelazycat.github.io",
+                "end": 23,
+                "expanded_url": "https://manateelazycat.github.io",
+                "start": 0,
+                "url": "https://t.co/twDx1tx1YW"
+              }
+            ]
+          }
+        },
+        "id": "28530405",
+        "location": "China",
+        "name": "Andy Stewart",
+        "pinned_tweet_id": "2039939966281920843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51073,
+          "following_count": 298,
+          "like_count": 19681,
+          "listed_count": 363,
+          "media_count": 6777,
+          "tweet_count": 50405
+        },
+        "url": "https://t.co/twDx1tx1YW",
+        "username": "manateelazycat",
+        "verified": true
+      }
+    ]
+  }
+}

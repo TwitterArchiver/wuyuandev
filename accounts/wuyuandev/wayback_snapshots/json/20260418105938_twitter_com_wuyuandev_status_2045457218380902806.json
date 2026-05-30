@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2045367481318195421",
+    "created_at": "2026-04-18T10:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T11:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045457218380902806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1890029305205608448",
+          "start": 0,
+          "username": "wsl8297"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045457218380902806",
+    "in_reply_to_user_id": "1890029305205608448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045367481318195421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsl8297 要下载应用已经很折腾了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1285,
+        "media_key": "3_2045367478608699392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKa4o2boAAVs5W.jpg",
+        "width": 1941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2045367481318195421",
+        "created_at": "2026-04-18T10:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T11:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045457218380902806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1890029305205608448",
+              "start": 0,
+              "username": "wsl8297"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045457218380902806",
+        "in_reply_to_user_id": "1890029305205608448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045367481318195421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsl8297 要下载应用已经很折腾了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045367478608699392"
+          ]
+        },
+        "author_id": "1890029305205608448",
+        "conversation_id": "2045367481318195421",
+        "created_at": "2026-04-18T05:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T06:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045367481318195421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mZgKqpCIzL",
+              "end": 166,
+              "expanded_url": "https://x.com/wsl8297/status/2045367481318195421/photo/1",
+              "media_key": "3_2045367478608699392",
+              "start": 143,
+              "url": "https://t.co/mZgKqpCIzL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045367481318195421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/tonyantony300/…",
+                "end": 174,
+                "expanded_url": "http://github.com/tonyantony300/alt-sendme",
+                "start": 151,
+                "url": "https://t.co/p7iJCWCEFu"
+              },
+              {
+                "display_url": "altsendme.com",
+                "end": 204,
+                "expanded_url": "https://www.altsendme.com/",
+                "start": 181,
+                "url": "https://t.co/m8wpYazA6N"
+              }
+            ]
+          },
+          "text": "有时要给朋友或同事发几个 GB 的大文件，网盘不仅限速，还得对方注册登录一套流程，真挺折腾。\n\n后来偶然发现 AltSendme 这个开源工具：点对点直连传输，不走云服务器，实测稳定好用。\n\n全程端到端加密，文件在两台设备间直接传过去；无需账号；不挑大小、不限格式，想发什么就发什么。\n\nGitHub：https://t.co/p7iJCWCEFu\n\n在线地址：https://t.co/m8wpYazA6N\n\n更省心的是支持断点续传：传到一半断了，恢复后自动从断点继续，不用重来。\n\n还提供开箱即用的安装包，Windows、Linux、macOS 都能用，并支持中文、英文等多语言界面。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 1135,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "有时要给朋友或同事发几个 GB 的大文件，网盘不仅限速，还得对方注册登录一套流程，真挺折腾。\n\n后来偶然发现 AltSendme 这个开源工具：点对点直连传输，不走云服务器，实测稳定好用。\n\n全程端到端加密，文件在两台设备间直接传过去；无需账号；不挑大小、不限格式，想发什么就发什么。 https://t.co/mZgKqpCIzL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 全(A)栈(I)开发者 | 互fo喵～ | 今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 71,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 48,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 961,
+          "like_count": 1925,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 423
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T13:24:51.000Z",
+        "description": "🧠 AI 程序员，写提示词比写代码还多\n💻 坚持分享高质量、有趣、实用的教程、AI工具\n💃 梦想是成为一名秧歌 STAR",
+        "id": "1890029305205608448",
+        "name": "Joruno",
+        "pinned_tweet_id": "2031654192817873253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890029372645720064/E4FVs5WU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4968,
+          "following_count": 407,
+          "like_count": 6319,
+          "listed_count": 26,
+          "media_count": 189,
+          "tweet_count": 6776
+        },
+        "username": "wsl8297",
+        "verified": true
+      }
+    ]
+  }
+}

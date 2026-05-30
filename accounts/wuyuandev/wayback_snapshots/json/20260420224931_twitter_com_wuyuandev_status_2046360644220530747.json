@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2046334876924940531",
+    "created_at": "2026-04-20T22:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T23:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046360644220530747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2028321716049743872",
+          "start": 0,
+          "username": "xynMTFxyn"
+        },
+        {
+          "end": 26,
+          "id": "1845454917236031495",
+          "start": 11,
+          "username": "Dontbesadforit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046360644220530747",
+    "in_reply_to_user_id": "2028321716049743872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046334876924940531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xynMTFxyn @Dontbesadforit 这个UI确实很AI，代码开源吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046334871468113920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGYKuUFaAAAYYf_.jpg",
+        "width": 940
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046334872609017856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGYKuYVa0AAVSzK.jpg",
+        "width": 940
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046334873342967808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGYKubEaAAATmbQ.jpg",
+        "width": 940
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046334874299297792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGYKueoacAAbra_.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2046334876924940531",
+        "created_at": "2026-04-20T22:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T23:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046360644220530747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2028321716049743872",
+              "start": 0,
+              "username": "xynMTFxyn"
+            },
+            {
+              "end": 26,
+              "id": "1845454917236031495",
+              "start": 11,
+              "username": "Dontbesadforit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046360644220530747",
+        "in_reply_to_user_id": "2028321716049743872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046334876924940531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xynMTFxyn @Dontbesadforit 这个UI确实很AI，代码开源吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046334871468113920",
+            "3_2046334872609017856",
+            "3_2046334873342967808",
+            "3_2046334874299297792"
+          ]
+        },
+        "author_id": "2028321716049743872",
+        "conversation_id": "2046334876924940531",
+        "created_at": "2026-04-20T21:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T22:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046334876924940531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 79,
+              "id": "1845454917236031495",
+              "start": 64,
+              "username": "Dontbesadforit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "hrt.mahiro.uk",
+              "end": 106,
+              "expanded_url": "http://hrt.mahiro.uk",
+              "start": 83,
+              "status": 200,
+              "title": "HRT Tracker",
+              "unwound_url": "https://hrt.mahiro.uk/",
+              "url": "https://t.co/1wFtZWan5I"
+            },
+            {
+              "display_url": "pic.x.com/EitVX8uhHF",
+              "end": 195,
+              "expanded_url": "https://x.com/xynMTFxyn/status/2046334876924940531/photo/1",
+              "media_key": "3_2046334871468113920",
+              "start": 172,
+              "url": "https://t.co/EitVX8uhHF"
+            },
+            {
+              "display_url": "pic.x.com/EitVX8uhHF",
+              "end": 195,
+              "expanded_url": "https://x.com/xynMTFxyn/status/2046334876924940531/photo/1",
+              "media_key": "3_2046334872609017856",
+              "start": 172,
+              "url": "https://t.co/EitVX8uhHF"
+            },
+            {
+              "display_url": "pic.x.com/EitVX8uhHF",
+              "end": 195,
+              "expanded_url": "https://x.com/xynMTFxyn/status/2046334876924940531/photo/1",
+              "media_key": "3_2046334873342967808",
+              "start": 172,
+              "url": "https://t.co/EitVX8uhHF"
+            },
+            {
+              "display_url": "pic.x.com/EitVX8uhHF",
+              "end": 195,
+              "expanded_url": "https://x.com/xynMTFxyn/status/2046334876924940531/photo/1",
+              "media_key": "3_2046334874299297792",
+              "start": 172,
+              "url": "https://t.co/EitVX8uhHF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046334876924940531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 79,
+                "id": "1845454917236031495",
+                "start": 64,
+                "username": "Dontbesadforit"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 106,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 83,
+                "url": "https://t.co/w4IS7vKi7H"
+              },
+              {
+                "display_url": "123865.com/s/wfXtTd-QErxh…",
+                "end": 621,
+                "expanded_url": "https://www.123865.com/s/wfXtTd-QErxh?pwd=IHRT#",
+                "start": 598,
+                "url": "https://t.co/AUuLaDPJ5V"
+              },
+              {
+                "display_url": "play.google.com/apps/testing/c…",
+                "end": 661,
+                "expanded_url": "https://play.google.com/apps/testing/com.nanxin.hrtrecorder",
+                "start": 638,
+                "url": "https://t.co/P1oGBTdA3k"
+              }
+            ]
+          },
+          "text": "HRT Recorder 1.4.3(21) 大更新来啦！\n\n1.终于强兼(强行兼容)了小中！（bushi）：\n现在可以直接从 @Dontbesadforit\n 的 https://t.co/w4IS7vKi7H 网站导入导出数据，完全无损双向同步～\n以后在网站上记录的也能直接拉到 App 里，用起来更方便了。\n\n2.上个版本的所有 bug 全部修复，体验应该会顺畅很多。\n\n3.UI 整体换成了更舒服的粉蓝白色调，看起来清新又温柔。\n药物种类大幅增加，现在支持记录：  苯甲酸雌二醇、庚酸雌二醇、环丙戊酸雌二醇 等多种雌二醇\n还增加了色谱龙和睾酮（环丙戊酸、庚酸、十一酸）\n基本把主流的 HRT 用药都覆盖进去了，真的非常全面了 QwQ\n\n\r4.新增自定义色调功能，可以自己调整个 App 的配色，实测兼容性很好，改完之后会特别好看～\n\n另外提醒一下：\n这个 App 完全离线使用，不会收集任何个人信息，也不会上传数据到服务器，这点在 Google Play 页面也有明确说明，已经通过谷歌审核。App 已经在 Google Play 开启了封闭测试，不过目前需要手动审核邮箱才能加入。\n想参加测试的朋友，可以私信把你的 Gmail 邮箱发给我～\n我还建了一个群聊，大家有问题或者想交流都可以进来一起聊。感谢大家一直以来的支持！\n\n希望这次更新可以让大家有更好的体验！\n123网盘下载链接：\nhttps://t.co/AUuLaDPJ5V\n\nPLAY谷歌商店封闭测试链接：https://t.co/P1oGBTdA3k\n（温馨提醒喵，本链接需要先进群，然后发送你的谷歌邮箱，一个一个同意！不然将会访问无效！）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 57,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "HRT Recorder 1.4.3(21) 大更新来啦！\n\n1.终于强兼(强行兼容)了小中！（bushi）：\n现在可以直接从 @Dontbesadforit\n 的 https://t.co/1wFtZWan5I 网站导入导出数据，完全无损双向同步～\n以后在网站上记录的也能直接拉到 App 里，用起来更方便了。\n\n2.上个版本的所有 bug https://t.co/EitVX8uhHF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 73,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 50,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 993,
+          "like_count": 2033,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 451
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T04:14:51.000Z",
+        "description": "MtF 🏳️‍⚧️| 无证 🍥:2025/6/30|药娘小资历| ENTP| 生产日期2010/10/19 | 174厘米 | 75公斤| 摄影📹| LGBT 🏳️‍🌈 | 青岛|私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍| 非常helpful的南盺 | 小南 |",
+        "id": "2028321716049743872",
+        "name": "南盺酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2046260442465763533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028373556783153152/usYeYRCS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 91,
+          "like_count": 85,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 535
+        },
+        "username": "xynMTFxyn",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "07 吃补也不算翻车 高中 自然科学 生物学大好き | 为什么还活着：没见到绪山美波里/世界上还有爱我的人 | 大白妹妹：@haku_dabai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "haku_dabai"
+              }
+            ]
+          }
+        },
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "中畜",
+        "pinned_tweet_id": "2032491408985333996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039262837353447424/msbymfsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2352,
+          "following_count": 998,
+          "like_count": 70617,
+          "listed_count": 5,
+          "media_count": 444,
+          "tweet_count": 9011
+        },
+        "username": "Dontbesadforit",
+        "verified": true
+      }
+    ]
+  }
+}

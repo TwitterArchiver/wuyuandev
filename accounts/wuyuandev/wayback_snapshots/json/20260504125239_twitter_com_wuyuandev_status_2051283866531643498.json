@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2051283866531643498",
+    "created_at": "2026-05-04T12:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T13:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051283866531643498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/520illusion/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/520illusion/status/2051270917033173253",
+          "start": 10,
+          "url": "https://t.co/rB7NjF3wq9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051283866531643498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051270917033173253",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ill依旧稳定发挥 https://t.co/rB7NjF3wq9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2051283866531643498",
+        "created_at": "2026-05-04T12:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051283866531643498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/520illusion/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/520illusion/status/2051270917033173253",
+              "start": 10,
+              "url": "https://t.co/rB7NjF3wq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051283866531643498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051270917033173253",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ill依旧稳定发挥 https://t.co/rB7NjF3wq9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780369819310981120",
+        "conversation_id": "2051238821426262374",
+        "created_at": "2026-05-04T12:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051270917033173253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811265295849598976",
+              "start": 0,
+              "username": "KiraMyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051270917033173253",
+        "in_reply_to_user_id": "1811265295849598976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051270539902410948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiraMyao 我觉得应该把头像背后的蓝粉白去掉\n这段时间跨圈名声不是很好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸 | 坐标HNCS\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 123,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 100,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！",
+        "pinned_tweet_id": "2051211437847290211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 314,
+          "like_count": 2896,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 746
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "All in crypto | 08 | 杭州南京合肥随机刷新 想和可爱的人面面 | illusion | 抑郁幻想向 | 坠落星空 | 梦幻主义 | 蓝 | 终将成为你 | 我向神明祈祷 许你岁岁平安  | 故里蓝鸢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/ecnOMDHn8U"
+              }
+            ]
+          }
+        },
+        "id": "1780369819310981120",
+        "location": "浙江省宁波市轨道交通3号线中兴大桥南站A出口",
+        "name": "ill",
+        "pinned_tweet_id": "1879295666419286059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028863680889372672/zT5FAaR9_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4657,
+          "following_count": 190,
+          "like_count": 10149,
+          "listed_count": 7,
+          "media_count": 887,
+          "tweet_count": 5884
+        },
+        "url": "https://t.co/ecnOMDHn8U",
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

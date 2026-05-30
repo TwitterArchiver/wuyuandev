@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2029027817615441979",
+    "created_at": "2026-03-04T04:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T05:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029052164170235963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2022181719835914242",
+          "start": 0,
+          "username": "N2OXYN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029052164170235963",
+    "in_reply_to_user_id": "2022181719835914242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029027817615441979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N2OXYN 啊？还来？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029027808220254208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCiOCpRbkAAmY6i.jpg",
+        "width": 993
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2029027817615441979",
+        "created_at": "2026-03-04T04:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T05:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029052164170235963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2022181719835914242",
+              "start": 0,
+              "username": "N2OXYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029052164170235963",
+        "in_reply_to_user_id": "2022181719835914242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029027817615441979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N2OXYN 啊？还来？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029027808220254208"
+          ]
+        },
+        "author_id": "2022181719835914242",
+        "conversation_id": "2029027817615441979",
+        "created_at": "2026-03-04T02:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T03:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029027817615441979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dN8E6mlKeK",
+              "end": 59,
+              "expanded_url": "https://x.com/N2OXYN/status/2029027817615441979/photo/1",
+              "media_key": "3_2029027808220254208",
+              "start": 36,
+              "url": "https://t.co/dN8E6mlKeK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029027817615441979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第二次预告：\n4月30日左右第二次自切，这次充分吸取了第一次失败的经验 https://t.co/dN8E6mlKeK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 41,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 18,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2025788939731439975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 672,
+          "like_count": 1209,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 228
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T05:31:26.000Z",
+        "description": "MTF｜出厂日期2008.11.25｜hrt日期2025.5.31｜翻车的反跨顺直男，曾经是见证小子",
+        "id": "2022181719835914242",
+        "name": "N₂O🍥",
+        "pinned_tweet_id": "2028367797513035790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028991304856944641/ZcWtwibI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4264,
+          "following_count": 111,
+          "like_count": 110,
+          "listed_count": 4,
+          "media_count": 28,
+          "tweet_count": 158
+        },
+        "username": "N2OXYN",
+        "verified": false
+      }
+    ]
+  }
+}

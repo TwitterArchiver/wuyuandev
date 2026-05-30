@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2055809323763474532",
+    "created_at": "2026-05-17T13:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T14:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056010847886164435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1961080629468028928",
+          "start": 0,
+          "username": "qikieye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056010847886164435",
+    "in_reply_to_user_id": "1961080629468028928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055992005856252211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qikieye 下周见了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2055809323763474532",
+        "created_at": "2026-05-17T13:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056010847886164435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1961080629468028928",
+              "start": 0,
+              "username": "qikieye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056010847886164435",
+        "in_reply_to_user_id": "1961080629468028928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055992005856252211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qikieye 下周见了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961080629468028928",
+        "conversation_id": "2055809323763474532",
+        "created_at": "2026-05-17T12:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055992005856252211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055992005856252211",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055809323763474532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev 哈哈哈哈哈哈这种大合照没找到过自己一会哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "langs.ink",
+                "end": 23,
+                "expanded_url": "https://langs.ink",
+                "start": 0,
+                "url": "https://t.co/Z142BBjByr"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "死与生 云与雨",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 227,
+          "like_count": 3723,
+          "listed_count": 4,
+          "media_count": 211,
+          "tweet_count": 1038
+        },
+        "url": "https://t.co/Z142BBjByr",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T14:57:28.000Z",
+        "description": "介里是qikio，qiki滴第二人格（qiki已经完全上号），od咨询（常规药物），hrt咨询，日常聊天，私信过🚪52r，原号@qikiqwq（封禁），关联@qikiowo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "qikiqwq"
+              },
+              {
+                "end": 86,
+                "start": 78,
+                "username": "qikiowo"
+              }
+            ]
+          }
+        },
+        "id": "1961080629468028928",
+        "name": "qiki🍥（qiki重生版）",
+        "pinned_tweet_id": "2008562527681343928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013687970067267584/mPU39IrW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 278,
+          "like_count": 76,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 134
+        },
+        "username": "qikieye",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2055294379406082553",
+    "created_at": "2026-05-15T22:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T23:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055418756172841468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902568136450424832",
+          "start": 0,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055418756172841468",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055294379406082553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoim33 云，与雨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 854,
+        "media_key": "3_2055294372925804544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXfV78aEAATrHK.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2055294379406082553",
+        "created_at": "2026-05-15T22:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T23:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055418756172841468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055418756172841468",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055294379406082553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 云，与雨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055294372925804544"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2055294379406082553",
+        "created_at": "2026-05-15T14:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055294379406082553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tX3OLFDtm4",
+              "end": 39,
+              "expanded_url": "https://x.com/aoim33/status/2055294379406082553/photo/1",
+              "media_key": "3_2055294372925804544",
+              "start": 16,
+              "url": "https://t.co/tX3OLFDtm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055294379406082553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 730,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关们觉得我的性格像什么天气？ https://t.co/tX3OLFDtm4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "langs.ink",
+                "end": 23,
+                "expanded_url": "https://langs.ink",
+                "start": 0,
+                "url": "https://t.co/Z142BBjByr"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "死与生 云与雨",
+        "pinned_tweet_id": "2051211437847290211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 226,
+          "like_count": 3405,
+          "listed_count": 3,
+          "media_count": 196,
+          "tweet_count": 968
+        },
+        "url": "https://t.co/Z142BBjByr",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / SH HZ metro bot / maimai & arcaea / CN EN JP KR / @supernovaArcaea team member / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信 / 财经小趴菜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 102,
+                "start": 95,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5310,
+          "following_count": 2933,
+          "like_count": 48766,
+          "listed_count": 19,
+          "media_count": 2821,
+          "tweet_count": 12169
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

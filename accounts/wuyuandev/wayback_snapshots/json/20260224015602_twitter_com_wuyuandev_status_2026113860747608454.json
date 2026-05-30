@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026113856184164352"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "2026113860747608454",
+    "created_at": "2026-02-24T01:56:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T02:56:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026113860747608454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ufCbXlyEJG",
+          "end": 59,
+          "expanded_url": "https://x.com/wuyuandev/status/2026113860747608454/photo/1",
+          "media_key": "3_2026113856184164352",
+          "start": 36,
+          "url": "https://t.co/ufCbXlyEJG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026113860747608454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不需要真看到人、手、血就能理解您想要表达什么，请为您的内容添加标记。 https://t.co/ufCbXlyEJG"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "为一张自残的照片标记为敏感媒体",
+        "height": 1564,
+        "media_key": "3_2026113856184164352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB4z0UBaoAAxiOV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026113856184164352"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2026113860747608454",
+        "created_at": "2026-02-24T01:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T02:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026113860747608454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ufCbXlyEJG",
+              "end": 59,
+              "expanded_url": "https://x.com/wuyuandev/status/2026113860747608454/photo/1",
+              "media_key": "3_2026113856184164352",
+              "start": 36,
+              "url": "https://t.co/ufCbXlyEJG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026113860747608454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不需要真看到人、手、血就能理解您想要表达什么，请为您的内容添加标记。 https://t.co/ufCbXlyEJG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "今年欢笑复明年，秋月春风等闲度。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2025788939731439975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 502,
+          "like_count": 878,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 156
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      }
+    ]
+  }
+}

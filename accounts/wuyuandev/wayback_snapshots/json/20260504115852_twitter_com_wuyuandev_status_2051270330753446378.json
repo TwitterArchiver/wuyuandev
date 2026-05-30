@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2051270330753446378",
+    "created_at": "2026-05-04T11:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T12:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051270330753446378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1964265669362667520",
+          "start": 3,
+          "username": "zuiaiyiyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051270330753446378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050863944160751804",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zuiaiyiyi: 刷色图刷多了，感觉带锁男娘很色"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2051270330753446378",
+        "created_at": "2026-05-04T11:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T12:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051270330753446378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964265669362667520",
+              "start": 3,
+              "username": "zuiaiyiyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051270330753446378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050863944160751804",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zuiaiyiyi: 刷色图刷多了，感觉带锁男娘很色"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964265669362667520",
+        "conversation_id": "2050863944160751804",
+        "created_at": "2026-05-03T09:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T10:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050863944160751804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050863944160751804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 45028,
+          "like_count": 341,
+          "quote_count": 4,
+          "reply_count": 104,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "刷色图刷多了，感觉带锁男娘很色"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸 | 坐标HNCS\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 123,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 100,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！",
+        "pinned_tweet_id": "2051211437847290211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 314,
+          "like_count": 2871,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 743
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T09:53:43.000Z",
+        "description": "止于推，只聊天。\n如果关注我，我很开心。\n回复看心情没礼貌我不回。\n标签纯引流，当真的那你这辈子有了。我会用ai修图，介意勿烦我。\n不加墙内联系方式，没有门槛，给一百万也不加vq\nx唯一亲友@羊奇羊https://t.co/uLfKv4PlwH\n纯擦着玩，🈚️收费内容，说菩萨可以，说我是福利姬死老冯",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/cuteyangqi",
+                "end": 122,
+                "expanded_url": "https://x.com/cuteyangqi",
+                "start": 99,
+                "url": "https://t.co/uLfKv4PlwH"
+              }
+            ]
+          }
+        },
+        "id": "1964265669362667520",
+        "location": "亚特兰蒂斯",
+        "name": "熠熠舞",
+        "pinned_tweet_id": "2049070365826228308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004200904413925379/m3cu8rDM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21328,
+          "following_count": 12,
+          "like_count": 20,
+          "listed_count": 49,
+          "media_count": 215,
+          "tweet_count": 1119
+        },
+        "username": "zuiaiyiyi",
+        "verified": false
+      }
+    ]
+  }
+}

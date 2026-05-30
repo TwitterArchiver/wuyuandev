@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2055885283179278840",
+    "created_at": "2026-05-17T22:52:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T23:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056145784144584793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053360211948109826",
+          "start": 0,
+          "username": "axzameyzed"
+        },
+        {
+          "end": 24,
+          "id": "2011073315763601416",
+          "start": 12,
+          "username": "kilock_1208"
+        },
+        {
+          "end": 33,
+          "id": "1818257539886460928",
+          "start": 25,
+          "username": "qqqqqf_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056145784144584793",
+    "in_reply_to_user_id": "2053360211948109826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055946817968439460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@axzameyzed @kilock_1208 @qqqqqf_ （但我觉得写三元运算符挺方便的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2055885283179278840",
+        "created_at": "2026-05-17T22:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T23:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056145784144584793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            },
+            {
+              "end": 24,
+              "id": "2011073315763601416",
+              "start": 12,
+              "username": "kilock_1208"
+            },
+            {
+              "end": 33,
+              "id": "1818257539886460928",
+              "start": 25,
+              "username": "qqqqqf_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056145784144584793",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055946817968439460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed @kilock_1208 @qqqqqf_ （但我觉得写三元运算符挺方便的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2055885283179278840",
+        "created_at": "2026-05-17T09:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055946817968439460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011073315763601416",
+              "start": 0,
+              "username": "kilock_1208"
+            },
+            {
+              "end": 21,
+              "id": "1818257539886460928",
+              "start": 13,
+              "username": "qqqqqf_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055946817968439460",
+        "in_reply_to_user_id": "2011073315763601416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055886504963281150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kilock_1208 @qqqqqf_ 学算法的时候考虑精简，写项目的时候代码就要优美了，写算法类题目可以define一堆东西，别人看到这样的代码只会说“这是人写的啊”，但是要是做项目的时候往死里压行，写一堆三目运算符，到处goto，随意定义一堆宏，估计要被协作者/团队成员大四了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "langs.ink",
+                "end": 23,
+                "expanded_url": "https://langs.ink",
+                "start": 0,
+                "url": "https://t.co/Z142BBjByr"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "死与生 云与雨",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 228,
+          "like_count": 3752,
+          "listed_count": 4,
+          "media_count": 213,
+          "tweet_count": 1055
+        },
+        "url": "https://t.co/Z142BBjByr",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053875196696687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 127,
+          "like_count": 643,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 344
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-13T13:50:40.000Z",
+        "description": "蒟蒻OIer | 全干开发者 | intp | 宝 @qqqqqf_  | Arkloop的TelegramGroup :https://t.co/gW3NA9111V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "qqqqqf_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Arkloop_io",
+                "end": 84,
+                "expanded_url": "https://t.me/Arkloop_io",
+                "start": 61,
+                "url": "https://t.co/gW3NA9111V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/kilockok",
+                "end": 23,
+                "expanded_url": "https://github.com/kilockok",
+                "start": 0,
+                "url": "https://t.co/ZHBAoZQdfs"
+              }
+            ]
+          }
+        },
+        "id": "2011073315763601416",
+        "location": "The World",
+        "name": "kilock🍥",
+        "pinned_tweet_id": "2037502430506795154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054035995654488064/NJV_p8vX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 684,
+          "like_count": 4764,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 1202
+        },
+        "url": "https://t.co/ZHBAoZQdfs",
+        "username": "kilock_1208",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-30T12:09:26.000Z",
+        "description": "building Arkloop\n博客:https://t.co/YPfuXnEcRK  \nArkloop 的官网:https://t.co/YEVCUIj8aX\nArkloop的TelegramGroup :https://t.co/GiCrumiY7W",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "清凤.fun",
+                "end": 43,
+                "expanded_url": "https://xn--l9qq99d.fun",
+                "start": 20,
+                "url": "https://t.co/YPfuXnEcRK"
+              },
+              {
+                "display_url": "Arkloop.io",
+                "end": 81,
+                "expanded_url": "https://Arkloop.io",
+                "start": 58,
+                "url": "https://t.co/YEVCUIj8aX"
+              },
+              {
+                "display_url": "t.me/Arkloop_io",
+                "end": 128,
+                "expanded_url": "https://t.me/Arkloop_io",
+                "start": 105,
+                "url": "https://t.co/GiCrumiY7W"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/jrg4ChmKLg"
+              }
+            ]
+          }
+        },
+        "id": "1818257539886460928",
+        "location": "Ningbo,Zhejiang",
+        "name": "清凤",
+        "pinned_tweet_id": "2049776170246471804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021583893238059008/7Mh6eK6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 689,
+          "like_count": 12172,
+          "listed_count": 3,
+          "media_count": 245,
+          "tweet_count": 1161
+        },
+        "url": "https://t.co/jrg4ChmKLg",
+        "username": "qqqqqf_",
+        "verified": true
+      }
+    ]
+  }
+}

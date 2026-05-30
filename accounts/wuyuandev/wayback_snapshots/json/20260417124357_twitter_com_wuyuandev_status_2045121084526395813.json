@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2045121084526395813",
+    "created_at": "2026-04-17T12:43:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T13:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045121084526395813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1889714358",
+          "start": 3,
+          "username": "kimm_wei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045121084526395813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044781297273577713",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kimm_wei: 想想好可怕，vpn一断，你就彻底失去跟外界的任何讯息，推特，youtube，gpt cloude…不敢想，我们已经离不开这个软件了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2045121084526395813",
+        "created_at": "2026-04-17T12:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045121084526395813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1889714358",
+              "start": 3,
+              "username": "kimm_wei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045121084526395813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044781297273577713",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kimm_wei: 想想好可怕，vpn一断，你就彻底失去跟外界的任何讯息，推特，youtube，gpt cloude…不敢想，我们已经离不开这个软件了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889714358",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2044781297273577713",
+        "created_at": "2026-04-16T14:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044781297273577713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044781297273577713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 156131,
+          "like_count": 1025,
+          "quote_count": 6,
+          "reply_count": 140,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "想想好可怕，vpn一断，你就彻底失去跟外界的任何讯息，推特，youtube，gpt cloude…不敢想，我们已经离不开这个软件了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ mt猫娘 | 全(A)栈(I)开发者 | 互fo喵～ | 今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 76,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 53,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 949,
+          "like_count": 1882,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 403
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-21T10:35:34.000Z",
+        "description": "2012年买入600个btc，拿住20年，我们2032年见 Bought 600 BTC in 2012, held on for 20 years, see you in 2032.",
+        "id": "1889714358",
+        "name": "kimm",
+        "pinned_tweet_id": "2022609690769920097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1053583835881889793/5mznABAk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3165,
+          "following_count": 365,
+          "like_count": 4413,
+          "listed_count": 17,
+          "media_count": 152,
+          "tweet_count": 2929
+        },
+        "username": "kimm_wei",
+        "verified": true
+      }
+    ]
+  }
+}

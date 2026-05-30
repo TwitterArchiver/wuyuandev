@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "1955832637031112986",
+    "created_at": "2025-08-14T03:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T04:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955832637031112986"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 17,
+          "tag": "NGINX"
+        },
+        {
+          "end": 34,
+          "start": 29,
+          "tag": "ACME"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1602320477347000325",
+          "start": 3,
+          "username": "landiantech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955832637031112986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955820382231134239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @landiantech: #NGINX 宣布集成 #ACME 实现数字证书的申请、签发、部署、管理流程，无需依赖其他软件即可在 NGINX 中实现流程自动化。目前 NGINX 通过模块形式支持 ACME，预览阶段仅支持 HTTP-01 质询，后续将提供 DNS-01 和…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "1955832637031112986",
+        "created_at": "2025-08-14T03:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T04:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955832637031112986"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "NGINX"
+            },
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "ACME"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1602320477347000325",
+              "start": 3,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955832637031112986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955820382231134239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @landiantech: #NGINX 宣布集成 #ACME 实现数字证书的申请、签发、部署、管理流程，无需依赖其他软件即可在 NGINX 中实现流程自动化。目前 NGINX 通过模块形式支持 ACME，预览阶段仅支持 HTTP-01 质询，后续将提供 DNS-01 和…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1602320477347000325",
+        "conversation_id": "1955820382231134239",
+        "created_at": "2025-08-14T02:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T03:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955820382231134239"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "NGINX"
+            },
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "ACME"
+            }
+          ],
+          "urls": [
+            {
+              "description": "#软件资讯 NGINX 宣布集成 ACME 实现数字证书的申请、签发、部署、管理流程，无需依赖其他软件即可在 NGINX 中实现流程…",
+              "display_url": "ourl.co/110209",
+              "end": 172,
+              "expanded_url": "https://ourl.co/110209",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/1955820388480638978/UA6o0eFD?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1955820388480638978/UA6o0eFD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 149,
+              "status": 200,
+              "title": "NGINX带来ACME模块集成 实现从证书申请/签发/部署/更新全流程自动化",
+              "unwound_url": "https://www.landiannews.com/archives/110209.html",
+              "url": "https://t.co/JBNPszbtF5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955820382231134239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 664,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#NGINX 宣布集成 #ACME 实现数字证书的申请、签发、部署、管理流程，无需依赖其他软件即可在 NGINX 中实现流程自动化。目前 NGINX 通过模块形式支持 ACME，预览阶段仅支持 HTTP-01 质询，后续将提供 DNS-01 和 TLS-ALPN 以实现多域名通配符支持。查看全文：https://t.co/JBNPszbtF5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/4K66E55Pni",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.houlangs.com",
+                "end": 37,
+                "expanded_url": "https://zerocat.houlangs.com",
+                "start": 14,
+                "url": "https://t.co/4K66E55Pni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 230,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 47
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 订阅频道：https://t.co/xzeoUEoPcU 联系方式：https://t.co/LJK1g3biPp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/landiansub",
+                "end": 48,
+                "expanded_url": "https://t.me/landiansub",
+                "start": 25,
+                "url": "https://t.co/xzeoUEoPcU"
+              },
+              {
+                "display_url": "t.me/id7371",
+                "end": 77,
+                "expanded_url": "https://t.me/id7371",
+                "start": 54,
+                "url": "https://t.co/LJK1g3biPp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "pinned_tweet_id": "1934117094939033766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26854,
+          "following_count": 645,
+          "like_count": 3578,
+          "listed_count": 241,
+          "media_count": 3949,
+          "tweet_count": 11812
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

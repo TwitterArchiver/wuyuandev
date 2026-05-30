@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2054928882118406630",
+    "created_at": "2026-05-14T14:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T15:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054928882118406630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1842504398850928640",
+          "start": 3,
+          "username": "hsn8086k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054928882118406630",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 130
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054798542062109001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086k: 2026 Linux 重置密码教程大全\n- Dirty Cow (CVE-2016-5195)\n- Dirty Pipe (CVE-2022-0847)\n- io_uring UAF (CVE-2022-2602)\n- Copy Fail (CVE-…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2054928882118406630",
+        "created_at": "2026-05-14T14:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054928882118406630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1842504398850928640",
+              "start": 3,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054928882118406630",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 130
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054798542062109001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086k: 2026 Linux 重置密码教程大全\n- Dirty Cow (CVE-2016-5195)\n- Dirty Pipe (CVE-2022-0847)\n- io_uring UAF (CVE-2022-2602)\n- Copy Fail (CVE-…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2054798542062109001",
+        "created_at": "2026-05-14T05:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054798542062109001"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054798542062109001",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 297,
+          "impression_count": 44698,
+          "like_count": 694,
+          "quote_count": 8,
+          "reply_count": 8,
+          "retweet_count": 130
+        },
+        "reply_settings": "everyone",
+        "text": "2026 Linux 重置密码教程大全\n- Dirty Cow (CVE-2016-5195)\n- Dirty Pipe (CVE-2022-0847)\n- io_uring UAF (CVE-2022-2602)\n- Copy Fail (CVE-2026-31431)\n- io_uring ZCRX freelist (CVE-2026-43121)\n- Dirty Frag (CVE-2026-43284  CVE-2026-43500)\n- Fragnesia (CVE-2026-46300)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸 | 坐标HNCS\n\n没看到私信可以随便找个帖子回复下提醒我\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 144,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 121,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！",
+        "pinned_tweet_id": "2051211437847290211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 225,
+          "like_count": 3358,
+          "listed_count": 3,
+          "media_count": 189,
+          "tweet_count": 924
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1969,
+          "following_count": 219,
+          "like_count": 8050,
+          "listed_count": 8,
+          "media_count": 193,
+          "tweet_count": 2035
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2050854439205175509",
+    "created_at": "2026-05-03T09:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T10:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050863568455979259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1900108524304076800",
+          "start": 0,
+          "username": "qi_bu64350"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050863568455979259",
+    "in_reply_to_user_id": "1900108524304076800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050854439205175509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qi_bu64350 xyn语文第一课之 一词多义：\n晚安\n离开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2050854439205175509",
+        "created_at": "2026-05-03T09:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T10:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050863568455979259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1900108524304076800",
+              "start": 0,
+              "username": "qi_bu64350"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050863568455979259",
+        "in_reply_to_user_id": "1900108524304076800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050854439205175509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi_bu64350 xyn语文第一课之 一词多义：\n晚安\n离开"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900108524304076800",
+        "conversation_id": "2050854439205175509",
+        "created_at": "2026-05-03T08:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T09:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050854439205175509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050854439205175509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于可以离开了吗…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸 | 坐标HNCS\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 123,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 100,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！",
+        "pinned_tweet_id": "2050781395270967467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 393,
+          "like_count": 2764,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 693
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T08:56:07.000Z",
+        "description": "好累……\n依旧把这当QQ空间用\n一切过激言论均由第二人格控制发布\n前@Ciallo_114_514 @YunoQiu56649",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Ciallo_114_514"
+              },
+              {
+                "end": 63,
+                "start": 50,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "1900108524304076800",
+        "location": "第五高原",
+        "name": "Ciallo～(∠・ω ≤ )︵★🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2049667185740775911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049695578402304000/1dyUSXys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 547,
+          "like_count": 475,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 594
+        },
+        "username": "qi_bu64350",
+        "verified": false
+      }
+    ]
+  }
+}

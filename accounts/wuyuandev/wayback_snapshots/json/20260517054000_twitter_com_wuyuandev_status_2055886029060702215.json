@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2055886027844366336"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "2055886029060702215",
+    "created_at": "2026-05-17T05:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T06:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055886029060702215"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055886029060702215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现代工具对原始劳动有着降维打击。。。\n不过似乎没那么有人情味了。。。"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 10080,
+        "end_datetime": "2026-05-24T05:40:00.000Z",
+        "id": "2055886027844366336",
+        "options": [
+          {
+            "label": "贴贴当然要是人自己来贴的才算",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "诶贴到了就行，rua！",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "嗷呜嗷呜",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "看结果",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2055886027844366336"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2055886029060702215",
+        "created_at": "2026-05-17T05:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055886029060702215"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055886029060702215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现代工具对原始劳动有着降维打击。。。\n不过似乎没那么有人情味了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "langs.ink",
+                "end": 23,
+                "expanded_url": "https://langs.ink",
+                "start": 0,
+                "url": "https://t.co/Z142BBjByr"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "死与生 云与雨",
+        "pinned_tweet_id": "2051211437847290211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 227,
+          "like_count": 3649,
+          "listed_count": 3,
+          "media_count": 207,
+          "tweet_count": 1022
+        },
+        "url": "https://t.co/Z142BBjByr",
+        "username": "wuyuandev",
+        "verified": false
+      }
+    ]
+  }
+}

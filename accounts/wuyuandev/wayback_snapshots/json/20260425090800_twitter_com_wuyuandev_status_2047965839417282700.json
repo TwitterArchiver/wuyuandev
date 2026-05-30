@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2047965500077142110",
+    "created_at": "2026-04-25T09:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T10:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047965839417282700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047962981250781184",
+          "start": 0,
+          "username": "cjt_shrimp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047965839417282700",
+    "in_reply_to_user_id": "2047962981250781184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047965500077142110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cjt_shrimp 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2047965500077142110",
+        "created_at": "2026-04-25T09:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047965839417282700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047962981250781184",
+              "start": 0,
+              "username": "cjt_shrimp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047965839417282700",
+        "in_reply_to_user_id": "2047962981250781184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047965500077142110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cjt_shrimp 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047962981250781184",
+        "conversation_id": "2047965500077142110",
+        "created_at": "2026-04-25T09:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047965500077142110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047965500077142110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有人会发现这里的。\nshhh... lets not leak our hard thoughts."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 89,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 66,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 956,
+          "like_count": 2124,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 520
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T08:57:21.000Z",
+        "description": "A coder. A student. A person who wants some fun.\nAlso plays rhythm games, especially osu!\nA cute boy",
+        "id": "2047962981250781184",
+        "location": "Fuzhou, Fujian, China",
+        "name": "chenjintang-shrimp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047964705030017024/dXKa0z2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 11,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "cjt_shrimp",
+        "verified": false
+      }
+    ]
+  }
+}

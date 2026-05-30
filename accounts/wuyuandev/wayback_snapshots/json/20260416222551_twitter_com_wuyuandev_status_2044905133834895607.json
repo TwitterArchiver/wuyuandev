@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2044905133834895607",
+    "created_at": "2026-04-16T22:25:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T23:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044905133834895607"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mrsk_sy_xuelin…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/mrsk_sy_xueling/status/2044838259612905548",
+          "start": 18,
+          "url": "https://t.co/hrWRQuOJYo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044905133834895607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044838259612905548",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想知道怎么买到亚硝酸钠...... https://t.co/hrWRQuOJYo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2044905133834895607",
+        "created_at": "2026-04-16T22:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T23:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044905133834895607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mrsk_sy_xuelin…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/mrsk_sy_xueling/status/2044838259612905548",
+              "start": 18,
+              "url": "https://t.co/hrWRQuOJYo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044905133834895607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044838259612905548",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想知道怎么买到亚硝酸钠...... https://t.co/hrWRQuOJYo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2044838259612905548",
+        "created_at": "2026-04-16T18:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T19:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044838259612905548"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044838259612905548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想知道怎么买到亚硝酸钠......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ mt猫娘 | 全(A)栈(I)开发者 | 互fo喵～ | 今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 76,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 53,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 937,
+          "like_count": 1849,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 399
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "INFP-T｜MtF🏳️‍⚧️｜深柜｜无证无糖｜生日2009.10｜176cm｜中焦｜社恐｜二次元（番/漫/术/音游 百合向）｜横幅与头像侵删｜不od｜不割手（至少现在不了）｜不见证｜同类互fo 会看一点成分 拒见证和黄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mrsk_sy_xuelin…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mrsk_sy_xueling2",
+                "start": 0,
+                "url": "https://t.co/9b4AzSCfjD"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "name": "雪泠🏳️‍⚧️",
+        "pinned_tweet_id": "2041213953406316556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 383,
+          "like_count": 979,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 146
+        },
+        "url": "https://t.co/9b4AzSCfjD",
+        "username": "mrsk_sy_xueling",
+        "verified": false
+      }
+    ]
+  }
+}

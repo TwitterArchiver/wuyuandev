@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1683514315146420225",
+          "name": "X - the everything app"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2047081977485086983",
+    "created_at": "2026-04-22T22:35:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T23:35:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047081977485086983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nikitabier/sta…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/nikitabier/status/2047041338106159484",
+          "start": 35,
+          "url": "https://t.co/ofjzrwadFS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047081977485086983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047041338106159484",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "twitter又开始学腾讯搞朝令夕改和封闭圈子社交、产品让位主推了。 https://t.co/ofjzrwadFS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2047035576524918784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGiIAt1a0AAHXeE.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2047081977485086983",
+        "created_at": "2026-04-22T22:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T23:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047081977485086983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nikitabier/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/nikitabier/status/2047041338106159484",
+              "start": 35,
+              "url": "https://t.co/ofjzrwadFS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047081977485086983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047041338106159484",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "twitter又开始学腾讯搞朝令夕改和封闭圈子社交、产品让位主推了。 https://t.co/ofjzrwadFS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047035576524918784"
+          ]
+        },
+        "author_id": "636513296",
+        "conversation_id": "2047041338106159484",
+        "created_at": "2026-04-22T19:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T20:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047041338106159484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GNcRB99Opc",
+              "end": 304,
+              "expanded_url": "https://x.com/nikitabier/status/2047041338106159484/photo/1",
+              "media_key": "3_2047035576524918784",
+              "start": 281,
+              "url": "https://t.co/GNcRB99Opc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047041338106159484",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Today we're announcing two product changes for organizing communities on X:\n\n1. XChat now supports joinable links for groupchats. Create a public link & share direct to Timeline. With support for 350 members per chat (and growing), Groupchat Links are the fastest way to bring people together on X.\n\n2. Due to declining usage, we're deprecating X Communities on May 6.\n\nTo migrate your Community's members, pin your groupchat link so people can join it over the next 2 weeks.\n\nThis is part of our broader effort to simplify the experience on X. Make no mistake: we are investing heavily in niche communities with the launch of Custom Timelines—and much more to come."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1058,
+          "impression_count": 1287382,
+          "like_count": 4846,
+          "quote_count": 1691,
+          "reply_count": 2306,
+          "retweet_count": 646
+        },
+        "reply_settings": "everyone",
+        "text": "Today we're announcing two product changes for organizing communities on X:\n\n1. XChat now supports joinable links for groupchats. Create a public link &amp; share direct to Timeline. With support for 350 members per chat (and growing), Groupchat Links are the fastest way to bring https://t.co/GNcRB99Opc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 73,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 50,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 992,
+          "like_count": 2060,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 471
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-15T22:44:07.000Z",
+        "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 16,
+                "username": "x"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "username": "solana"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "lightspeedvp"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "gasappteam"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "thetbhapp"
+              }
+            ]
+          }
+        },
+        "id": "636513296",
+        "location": "Palo Alto",
+        "name": "Nikita Bier",
+        "pinned_tweet_id": "2046736181002645520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998171,
+          "following_count": 2036,
+          "like_count": 38281,
+          "listed_count": 5540,
+          "media_count": 1474,
+          "tweet_count": 11153
+        },
+        "username": "nikitabier",
+        "verified": true
+      }
+    ]
+  }
+}

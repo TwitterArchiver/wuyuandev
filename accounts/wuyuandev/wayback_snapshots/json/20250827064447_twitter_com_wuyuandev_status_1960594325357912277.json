@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960594322879078404"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1960026954159022487",
+    "created_at": "2025-08-27T06:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T07:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960594325357912277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2480951",
+          "start": 0,
+          "username": "ubuntu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3EHcfTNYyu",
+          "end": 31,
+          "expanded_url": "https://x.com/wuyuandev/status/1960594325357912277/photo/1",
+          "media_key": "3_1960594322879078404",
+          "start": 8,
+          "url": "https://t.co/3EHcfTNYyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960594325357912277",
+    "in_reply_to_user_id": "2480951",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960026954159022487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ubuntu https://t.co/3EHcfTNYyu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 536,
+        "media_key": "3_1960594322879078404",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzVuJiPa4AQJJcu.jpg",
+        "width": 1024
+      },
+      {
+        "duration_ms": 30000,
+        "height": 720,
+        "media_key": "13_1960026911653982208",
+        "preview_image_url": "https://pbs.twimg.com/media/GzNqHCgXUAAlIOU.jpg",
+        "public_metrics": {
+          "view_count": 34096
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960026911653982208/vid/avc1/480x270/L1U_45ZZ3wougrW3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960026911653982208/vid/avc1/640x360/QeMS0LP3kDqmuuoH.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960026911653982208/vid/avc1/1280x720/IQPhVD_hQrI3BXRx.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1960026911653982208/pl/hjck5ld00Cs_pEQk.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960594322879078404"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1960026954159022487",
+        "created_at": "2025-08-27T06:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T07:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960594325357912277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2480951",
+              "start": 0,
+              "username": "ubuntu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3EHcfTNYyu",
+              "end": 31,
+              "expanded_url": "https://x.com/wuyuandev/status/1960594325357912277/photo/1",
+              "media_key": "3_1960594322879078404",
+              "start": 8,
+              "url": "https://t.co/3EHcfTNYyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960594325357912277",
+        "in_reply_to_user_id": "2480951",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960026954159022487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ubuntu https://t.co/3EHcfTNYyu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1960026911653982208"
+          ]
+        },
+        "author_id": "2480951",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "1960026954159022487",
+        "created_at": "2025-08-25T17:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T18:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960026954159022487"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Linux",
+              "probability": 0.9543,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 103,
+              "normalized_text": "LinuxBirthday",
+              "probability": 0.9602,
+              "start": 91,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 90,
+              "tag": "LinuxBirthday"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MocKuc7PBo",
+              "end": 128,
+              "expanded_url": "https://x.com/ubuntu/status/1960026954159022487/video/1",
+              "media_key": "13_1960026911653982208",
+              "start": 105,
+              "url": "https://t.co/MocKuc7PBo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960026954159022487",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 182,
+          "impression_count": 97180,
+          "like_count": 5271,
+          "quote_count": 92,
+          "reply_count": 89,
+          "retweet_count": 1101
+        },
+        "reply_settings": "everyone",
+        "text": "Happy birthday, Linux! 🐧🎂\n\nHere’s to 34 years of open source, community, and innovation.\n\n#LinuxBirthday https://t.co/MocKuc7PBo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/4K66E55Pni",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.houlangs.com",
+                "end": 37,
+                "expanded_url": "https://zerocat.houlangs.com",
+                "start": 14,
+                "url": "https://t.co/4K66E55Pni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 241,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2007-03-27T12:47:45.000Z",
+        "description": "Ubuntu is an open source software operating system that runs from the desktop, to the cloud, to all your internet connected things.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ubuntu.com",
+                "end": 23,
+                "expanded_url": "http://www.ubuntu.com",
+                "start": 0,
+                "url": "https://t.co/cROykoVbKD"
+              }
+            ]
+          }
+        },
+        "id": "2480951",
+        "location": "Desktop Cloud Server Container",
+        "name": "Ubuntu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630964842197573632/X5VCQoYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689062,
+          "following_count": 1072,
+          "like_count": 4149,
+          "listed_count": 5834,
+          "media_count": 7089,
+          "tweet_count": 13928
+        },
+        "url": "https://t.co/cROykoVbKD",
+        "username": "ubuntu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2054330289741320192"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2054330290986975658",
+    "created_at": "2026-05-12T22:38:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T23:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054330290986975658"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054330290986975658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做一个调查，你介意我大规模的收集、存档并将你的Twitter帖子发布为数据集吗？这可能会被用于分析。\n\n（这不是问合法性问题，我只是想知道你的看法🤚🥲✋）\n\n如果没有数据，就不可能进行分析，亦不可能有留存，Twitter随时出现的封号、不完美的搜索阻碍了信息的传播，but we must know it."
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 10080,
+        "end_datetime": "2026-05-19T22:38:03.000Z",
+        "id": "2054330289741320192",
+        "options": [
+          {
+            "label": "不介意",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "介意，需要可以选择退出",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "介意，应该是选择加入的",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "与我无瓜",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2054330289741320192"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2054330290986975658",
+        "created_at": "2026-05-12T22:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T23:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054330290986975658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054330290986975658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做一个调查，你介意我大规模的收集、存档并将你的Twitter帖子发布为数据集吗？这可能会被用于分析。\n\n（这不是问合法性问题，我只是想知道你的看法🤚🥲✋）\n\n如果没有数据，就不可能进行分析，亦不可能有留存，Twitter随时出现的封号、不完美的搜索阻碍了信息的传播，but we must know it."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸 | 坐标HNCS\n\n没看到私信可以随便找个帖子回复下提醒我\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 144,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 121,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！",
+        "pinned_tweet_id": "2051211437847290211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 223,
+          "like_count": 3315,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 889
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      }
+    ]
+  }
+}

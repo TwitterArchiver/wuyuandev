@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1651716815452504066",
+          "name": "Bluesky"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2044905012699304321",
+    "created_at": "2026-04-16T22:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T23:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044905012699304321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bluesky/status…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/bluesky/status/2044842503388426263",
+          "start": 52,
+          "url": "https://t.co/pU3WZmvSJe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044905012699304321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044842503388426263",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "bluesky在Twitter上更新他们的故障信息，并似乎默认了它的用户们能够看到\n\n很有自知之明了😆 https://t.co/pU3WZmvSJe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1651716815452504066",
+              "name": "Bluesky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2044905012699304321",
+        "created_at": "2026-04-16T22:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T23:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044905012699304321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bluesky/status…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/bluesky/status/2044842503388426263",
+              "start": 52,
+              "url": "https://t.co/pU3WZmvSJe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044905012699304321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044842503388426263",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "bluesky在Twitter上更新他们的故障信息，并似乎默认了它的用户们能够看到\n\n很有自知之明了😆 https://t.co/pU3WZmvSJe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1199812749469126657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1651716815452504066",
+              "name": "Bluesky"
+            }
+          }
+        ],
+        "conversation_id": "2044842503388426263",
+        "created_at": "2026-04-16T18:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T19:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044842503388426263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "status.bsky.app",
+              "end": 143,
+              "expanded_url": "http://status.bsky.app",
+              "start": 120,
+              "status": 200,
+              "title": "Bluesky",
+              "unwound_url": "https://status.bsky.app/",
+              "url": "https://t.co/iYbZ9JDpdW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044842503388426263",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 54530,
+          "like_count": 530,
+          "quote_count": 69,
+          "reply_count": 198,
+          "retweet_count": 143
+        },
+        "reply_settings": "everyone",
+        "text": "We are experiencing some service interruptions and our team is working on the issue. You can find the latest updates at https://t.co/iYbZ9JDpdW."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ mt猫娘 | 全(A)栈(I)开发者 | 互fo喵～ | 今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 76,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 53,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 937,
+          "like_count": 1848,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 398
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-27T22:10:52.000Z",
+        "description": "The conversation is better on Bluesky. Sign up now: https://t.co/rC9PCGfQVx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app",
+                "end": 75,
+                "expanded_url": "https://bsky.app/",
+                "start": 52,
+                "url": "https://t.co/rC9PCGfQVx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app",
+                "end": 23,
+                "expanded_url": "https://bsky.app/",
+                "start": 0,
+                "url": "https://t.co/rC9PCGfQVx"
+              }
+            ]
+          }
+        },
+        "id": "1199812749469126657",
+        "name": "Bluesky",
+        "pinned_tweet_id": "2044101233082876235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014840552437559296/VpBu8j2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428660,
+          "following_count": 1,
+          "like_count": 279,
+          "listed_count": 1867,
+          "media_count": 118,
+          "tweet_count": 530
+        },
+        "url": "https://t.co/rC9PCGfQVx",
+        "username": "bluesky",
+        "verified": true
+      }
+    ]
+  }
+}

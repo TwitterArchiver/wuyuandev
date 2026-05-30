@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "1887015775980151160",
+    "created_at": "2025-02-06T09:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T10:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887430759218061643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "984044774700167168",
+          "start": 0,
+          "username": "Kevin11164918"
+        },
+        {
+          "end": 24,
+          "id": "1181466109335064576",
+          "start": 15,
+          "username": "god77774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887430759218061643",
+    "in_reply_to_user_id": "984044774700167168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887293212085395728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kevin11164918 @god77774 是的是这样的，显然你的经济不包含底层的一部分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "1887015775980151160",
+        "created_at": "2025-02-06T09:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T10:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887430759218061643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "984044774700167168",
+              "start": 0,
+              "username": "Kevin11164918"
+            },
+            {
+              "end": 24,
+              "id": "1181466109335064576",
+              "start": 15,
+              "username": "god77774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887430759218061643",
+        "in_reply_to_user_id": "984044774700167168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887293212085395728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kevin11164918 @god77774 是的是这样的，显然你的经济不包含底层的一部分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "984044774700167168",
+        "conversation_id": "1887015775980151160",
+        "created_at": "2025-02-06T00:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T01:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887293212085395728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1181466109335064576",
+              "start": 0,
+              "username": "god77774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887293212085395728",
+        "in_reply_to_user_id": "1181466109335064576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887015775980151160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@god77774 拼多多在任何国家都是经济毒瘤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/4K66E55Pni",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.houlangs.com",
+                "end": 37,
+                "expanded_url": "https://zerocat.houlangs.com",
+                "start": 14,
+                "url": "https://t.co/4K66E55Pni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 171,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-11T12:25:31.000Z",
+        "description": "🇺🇦",
+        "id": "984044774700167168",
+        "name": "Kevin 🇨🇦🇺🇦🇮🇱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1508772770930257922/qBAUBC8P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 1967,
+          "like_count": 17427,
+          "listed_count": 6,
+          "media_count": 51,
+          "tweet_count": 10088
+        },
+        "username": "Kevin11164918",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-08T07:07:40.000Z",
+        "description": "2004年信主得救。我1997年开始做生意至今，可以见证先寻求神的国和义，神的信实也将我所需的加给我。人活着不是只靠自己，而是靠神口中的话，以实行天父的旨意为生活。本人有开基督徒信仰生活社区，感兴趣可以先按社区键-界面下2个小人，再用界面右上方搜寻键，搜索“基督徒信仰生活” 加入）",
+        "id": "1181466109335064576",
+        "name": "一个新人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634308567212892161/WcdNc00M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8222,
+          "following_count": 534,
+          "like_count": 10169,
+          "listed_count": 22,
+          "media_count": 3442,
+          "tweet_count": 13632
+        },
+        "username": "god77774",
+        "verified": true
+      }
+    ]
+  }
+}

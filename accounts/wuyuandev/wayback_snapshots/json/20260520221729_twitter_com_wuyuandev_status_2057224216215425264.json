@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2057108874042417281",
+    "created_at": "2026-05-20T22:17:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T23:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057224216215425264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1224020250733268995",
+          "start": 0,
+          "username": "appleneko2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057224216215425264",
+    "in_reply_to_user_id": "1224020250733268995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057219314252718166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@appleneko2001 这是我QQ群里发了半个礼拜的存货，放心吧暂时没事的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2057219314252718166].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2057219314252718166",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2057219314252718166"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2057108874042417281",
+        "created_at": "2026-05-20T22:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T23:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057224216215425264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057224216215425264",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057219314252718166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 这是我QQ群里发了半个礼拜的存货，放心吧暂时没事的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，构建社区、AI、规模化的数据收集 | \n\n每周更新跨圈大合照 | \n说话含喵量巨大 | \n今年欢笑复明年，秋月春风等闲度。| \n关注牢喵喵！关注牢喵谢谢喵！| \n你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我\n\n要饭：https://t.co/aMQp3GpkVJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 147,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 124,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "langs.ink",
+                "end": 23,
+                "expanded_url": "https://langs.ink",
+                "start": 0,
+                "url": "https://t.co/Z142BBjByr"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "死与生 云与雨",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 234,
+          "like_count": 3873,
+          "listed_count": 4,
+          "media_count": 218,
+          "tweet_count": 1090
+        },
+        "url": "https://t.co/Z142BBjByr",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶，正在被修好…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "期待着的笨蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 351,
+          "like_count": 105097,
+          "listed_count": 4,
+          "media_count": 1637,
+          "tweet_count": 16899
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

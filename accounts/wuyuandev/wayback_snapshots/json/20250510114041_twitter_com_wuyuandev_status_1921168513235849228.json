@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "1921154887661789260",
+    "created_at": "2025-05-10T11:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T12:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921168513235849228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1669376642094092290",
+          "start": 0,
+          "username": "yxzlwz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921168513235849228",
+    "in_reply_to_user_id": "1669376642094092290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921154887661789260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yxzlwz 我见世人多失望，料世人见我应如是。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "1921154887661789260",
+        "created_at": "2025-05-10T11:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T12:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921168513235849228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1669376642094092290",
+              "start": 0,
+              "username": "yxzlwz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921168513235849228",
+        "in_reply_to_user_id": "1669376642094092290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921154887661789260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yxzlwz 我见世人多失望，料世人见我应如是。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669376642094092290",
+        "conversation_id": "1921154887661789260",
+        "created_at": "2025-05-10T10:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T11:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921154887661789260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1921154887661789260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多时候当你对一个人或一个团体有点失望的时候，你还在用心发现他们的好，反问自己是否有些偏激\n而当他们知道了你的观点后，他们会想方设法让你更失望一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/4K66E55Pni",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.houlangs.com",
+                "end": 37,
+                "expanded_url": "https://zerocat.houlangs.com",
+                "start": 14,
+                "url": "https://t.co/4K66E55Pni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 200,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T16:09:52.000Z",
+        "description": "Student & Developer\nFeel free to chat with me!\nInstagram: https://t.co/Iri82K1P78\nTelegram: https://t.co/RZCJW60phB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yxzlwz",
+                "end": 81,
+                "expanded_url": "https://www.instagram.com/yxzlwz",
+                "start": 58,
+                "url": "https://t.co/Iri82K1P78"
+              },
+              {
+                "display_url": "t.me/yxzlwz",
+                "end": 115,
+                "expanded_url": "https://t.me/yxzlwz",
+                "start": 92,
+                "url": "https://t.co/RZCJW60phB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yixiangzhilv.com",
+                "end": 23,
+                "expanded_url": "https://www.yixiangzhilv.com/",
+                "start": 0,
+                "url": "https://t.co/azfwmLQEBt"
+              }
+            ]
+          }
+        },
+        "id": "1669376642094092290",
+        "location": "Qingdao, China",
+        "name": "异想之旅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1669935582678745089/52FE6u3K_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 215,
+          "like_count": 1720,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 492
+        },
+        "url": "https://t.co/azfwmLQEBt",
+        "username": "yxzlwz",
+        "verified": false
+      }
+    ]
+  }
+}

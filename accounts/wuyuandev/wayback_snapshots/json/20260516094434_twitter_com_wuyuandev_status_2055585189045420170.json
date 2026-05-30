@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055585181722099712",
+        "3_2055585181730516992"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899619193749511",
+          "name": "Sandbox games"
+        }
+      }
+    ],
+    "conversation_id": "2055585189045420170",
+    "created_at": "2026-05-16T09:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T10:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055585189045420170"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 49,
+          "tag": "minecraft"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 77,
+          "id": "62821796",
+          "start": 63,
+          "username": "WinRAR_RARLAB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sp0GXIAuCH",
+          "end": 182,
+          "expanded_url": "https://x.com/wuyuandev/status/2055585189045420170/photo/1",
+          "media_key": "3_2055585181722099712",
+          "start": 159,
+          "url": "https://t.co/sp0GXIAuCH"
+        },
+        {
+          "display_url": "pic.x.com/sp0GXIAuCH",
+          "end": 182,
+          "expanded_url": "https://x.com/wuyuandev/status/2055585189045420170/photo/1",
+          "media_key": "3_2055585181730516992",
+          "start": 159,
+          "url": "https://t.co/sp0GXIAuCH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055585189045420170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么我说 @ vuetifyjs 是这个世界上最伟大的UI库。\n祂们将付费的东西让你用到（就像 #minecraft  和 @WinRAR_RARLAB  做的那样），这个漏洞已经有三年了，却从未被修复。我知道这不道德，我实在是没有几百美元去买高级版（也没有时间研究黑盒UI库的各种参数），我会在以后补票的。感激！ https://t.co/sp0GXIAuCH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2055585181722099712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbn1PIaQAArTr7.jpg",
+        "width": 1199
+      },
+      {
+        "height": 768,
+        "media_key": "3_2055585181730516992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbn1PKasAAWGdX.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055585181722099712",
+            "3_2055585181730516992"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "2055585189045420170",
+        "created_at": "2026-05-16T09:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055585189045420170"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 49,
+              "tag": "minecraft"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 77,
+              "id": "62821796",
+              "start": 63,
+              "username": "WinRAR_RARLAB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sp0GXIAuCH",
+              "end": 182,
+              "expanded_url": "https://x.com/wuyuandev/status/2055585189045420170/photo/1",
+              "media_key": "3_2055585181722099712",
+              "start": 159,
+              "url": "https://t.co/sp0GXIAuCH"
+            },
+            {
+              "display_url": "pic.x.com/sp0GXIAuCH",
+              "end": 182,
+              "expanded_url": "https://x.com/wuyuandev/status/2055585189045420170/photo/1",
+              "media_key": "3_2055585181730516992",
+              "start": 159,
+              "url": "https://t.co/sp0GXIAuCH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055585189045420170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我说 @ vuetifyjs 是这个世界上最伟大的UI库。\n祂们将付费的东西让你用到（就像 #minecraft  和 @WinRAR_RARLAB  做的那样），这个漏洞已经有三年了，却从未被修复。我知道这不道德，我实在是没有几百美元去买高级版（也没有时间研究黑盒UI库的各种参数），我会在以后补票的。感激！ https://t.co/sp0GXIAuCH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "langs.ink",
+                "end": 23,
+                "expanded_url": "https://langs.ink",
+                "start": 0,
+                "url": "https://t.co/Z142BBjByr"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "死与生 云与雨",
+        "pinned_tweet_id": "2051211437847290211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 228,
+          "like_count": 3492,
+          "listed_count": 3,
+          "media_count": 200,
+          "tweet_count": 985
+        },
+        "url": "https://t.co/Z142BBjByr",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-04T13:47:19.000Z",
+        "description": "Official Account for WinRAR (blue tick!)\nPowerful, Fast, Secure and Stable Compression Software! \nPublisher of RAR and WinRAR",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "win-rar.com",
+                "end": 23,
+                "expanded_url": "http://www.win-rar.com",
+                "start": 0,
+                "url": "https://t.co/Tb8kO7RZVL"
+              }
+            ]
+          }
+        },
+        "id": "62821796",
+        "location": "Berlin, Germany",
+        "name": "WinRAR",
+        "pinned_tweet_id": "1888182682720354470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1452954428240273411/kCjHOffW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115447,
+          "following_count": 444,
+          "like_count": 28344,
+          "listed_count": 103,
+          "media_count": 389,
+          "tweet_count": 6480
+        },
+        "url": "https://t.co/Tb8kO7RZVL",
+        "username": "WinRAR_RARLAB",
+        "verified": true
+      }
+    ]
+  }
+}

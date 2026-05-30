@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2004387491366023493",
+    "created_at": "2025-12-27T00:57:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T01:57:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004718289252241526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "42168100",
+          "start": 0,
+          "username": "sjdx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004718289252241526",
+    "in_reply_to_user_id": "1436287470207832064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004717351703654749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjdx 其实你自己搜一下，很简单的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2004387491366023493",
+        "created_at": "2025-12-27T00:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T01:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004718289252241526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "42168100",
+              "start": 0,
+              "username": "sjdx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004718289252241526",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004717351703654749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjdx 其实你自己搜一下，很简单的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2004387491366023493",
+        "created_at": "2025-12-27T00:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T01:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004717351703654749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "42168100",
+              "start": 0,
+              "username": "sjdx"
+            },
+            {
+              "end": 21,
+              "id": "44186175",
+              "start": 6,
+              "username": "xiaojingcanxue"
+            }
+          ],
+          "urls": [
+            {
+              "description": "All miniatures from the manuscript Bamberg, Staatsbibliothek, Msc.Bibl.140",
+              "display_url": "artsandculture.google.com/story/lgWhP_Fs…",
+              "end": 113,
+              "expanded_url": "https://artsandculture.google.com/story/lgWhP_Fswg0iLw",
+              "start": 90,
+              "status": 200,
+              "title": "The Bamberg Apocalypse - Google Arts & Culture",
+              "unwound_url": "https://artsandculture.google.com/story/lgWhP_Fswg0iLw",
+              "url": "https://t.co/ddRdOGrQjq"
+            },
+            {
+              "display_url": "en.wikipedia.org/wiki/Saint-Sev…",
+              "end": 180,
+              "expanded_url": "https://en.wikipedia.org/wiki/Saint-Sever_Beatus",
+              "images": [
+                {
+                  "height": 836,
+                  "url": "https://pbs.twimg.com/news_img/2004717394527449088/n8jL7n1J?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2004717394527449088/n8jL7n1J?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 157,
+              "status": 200,
+              "title": "Saint-Sever Beatus - Wikipedia",
+              "unwound_url": "https://en.wikipedia.org/wiki/Saint-Sever_Beatus",
+              "url": "https://t.co/wwQHTG8P9p"
+            },
+            {
+              "display_url": "en.wikipedia.org/wiki/Four_Hors…",
+              "end": 222,
+              "expanded_url": "https://en.wikipedia.org/wiki/Four_Horsemen_of_the_Apocalypse",
+              "images": [
+                {
+                  "height": 629,
+                  "url": "https://pbs.twimg.com/news_img/2003324660403044353/0_3R0re6?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2003324660403044353/0_3R0re6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 199,
+              "status": 200,
+              "title": "Four Horsemen of the Apocalypse - Wikipedia",
+              "unwound_url": "https://en.wikipedia.org/wiki/Four_Horsemen_of_the_Apocalypse",
+              "url": "https://t.co/cSTN4qjAVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004717351703654749",
+        "in_reply_to_user_id": "42168100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004466865452744943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjdx @xiaojingcanxue 最早的应该是10世纪的Bamberg Apocalypse，Google上有，翻到第13页，注意下年代久远书本身泛黄了，颜色要看文字。\nhttps://t.co/ddRdOGrQjq\n\n后面的找到了 Apocalypse of Saint-Sever，图在wiki上看\nhttps://t.co/wwQHTG8P9p\n\n其他文献在哪wiki里写的差不多了https://t.co/cSTN4qjAVc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/6Zcu6y11gj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.dev",
+                "end": 37,
+                "expanded_url": "https://zerocat.dev",
+                "start": 14,
+                "url": "https://t.co/6Zcu6y11gj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002667757222105089/WxV4f_zM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 329,
+          "like_count": 461,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 83
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-24T05:10:09.000Z",
+        "description": "Industrial designer who likes ACG (←Don't want to modify because I used this when I was in SF, for memory ) Never block anyone.",
+        "id": "42168100",
+        "location": "Beijing",
+        "name": "JingS",
+        "pinned_tweet_id": "2001666996291936574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1351262161/large_qydd_5752f204235_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 1441,
+          "like_count": 57770,
+          "listed_count": 10,
+          "media_count": 1735,
+          "tweet_count": 18088
+        },
+        "username": "sjdx",
+        "verified": false
+      }
+    ]
+  }
+}

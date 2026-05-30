@@ -1,0 +1,809 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044185165023588355",
+        "3_2044185165044559873"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Microsoft - AI",
+          "id": "10050907865",
+          "name": "Microsoft - AI"
+        }
+      }
+    ],
+    "conversation_id": "2044185170883031440",
+    "created_at": "2026-04-14T22:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T23:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044185170883031440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "13334762",
+          "start": 0,
+          "username": "github"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/icanvardar/sta…",
+          "end": 123,
+          "expanded_url": "https://x.com/icanvardar/status/2037428786954727588?s=20",
+          "start": 100,
+          "url": "https://t.co/iCw7S3W8wZ"
+        },
+        {
+          "display_url": "pic.x.com/l7TprcsY0I",
+          "end": 147,
+          "expanded_url": "https://x.com/wuyuandev/status/2044185170883031440/photo/1",
+          "media_key": "3_2044185165023588355",
+          "start": 124,
+          "url": "https://t.co/l7TprcsY0I"
+        },
+        {
+          "display_url": "pic.x.com/l7TprcsY0I",
+          "end": 147,
+          "expanded_url": "https://x.com/wuyuandev/status/2044185170883031440/photo/1",
+          "media_key": "3_2044185165044559873",
+          "start": 124,
+          "url": "https://t.co/l7TprcsY0I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044185170883031440",
+    "in_reply_to_user_id": "13334762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037428786954727588",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@github 似乎正在改善它们曾受诟病的首页使用体验，让人专注于代码、pr和问题而非推送流。\n\n然后反手给组织也添加了推送流。\n\n你可以在右上角头像菜单-Feature Preview中找到开关。\nhttps://t.co/iCw7S3W8wZ https://t.co/l7TprcsY0I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 815,
+        "media_key": "3_2044185165023588355",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF5nk7hasAM1gG-.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2041,
+        "media_key": "3_2044185165044559873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF5nk7masAEhmE5.jpg",
+        "width": 1080
+      },
+      {
+        "height": 557,
+        "media_key": "3_2037428779857969152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZmrjaXgAAyBcQ.jpg",
+        "width": 808
+      },
+      {
+        "height": 1069,
+        "media_key": "3_2037428779845320704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZmrjXWgAAjEWE.jpg",
+        "width": 918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044185165023588355",
+            "3_2044185165044559873"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Microsoft - AI",
+              "id": "10050907865",
+              "name": "Microsoft - AI"
+            }
+          }
+        ],
+        "conversation_id": "2044185170883031440",
+        "created_at": "2026-04-14T22:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T23:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044185170883031440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "13334762",
+              "start": 0,
+              "username": "github"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/icanvardar/sta…",
+              "end": 123,
+              "expanded_url": "https://x.com/icanvardar/status/2037428786954727588?s=20",
+              "start": 100,
+              "url": "https://t.co/iCw7S3W8wZ"
+            },
+            {
+              "display_url": "pic.x.com/l7TprcsY0I",
+              "end": 147,
+              "expanded_url": "https://x.com/wuyuandev/status/2044185170883031440/photo/1",
+              "media_key": "3_2044185165023588355",
+              "start": 124,
+              "url": "https://t.co/l7TprcsY0I"
+            },
+            {
+              "display_url": "pic.x.com/l7TprcsY0I",
+              "end": 147,
+              "expanded_url": "https://x.com/wuyuandev/status/2044185170883031440/photo/1",
+              "media_key": "3_2044185165044559873",
+              "start": 124,
+              "url": "https://t.co/l7TprcsY0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044185170883031440",
+        "in_reply_to_user_id": "13334762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037428786954727588",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@github 似乎正在改善它们曾受诟病的首页使用体验，让人专注于代码、pr和问题而非推送流。\n\n然后反手给组织也添加了推送流。\n\n你可以在右上角头像菜单-Feature Preview中找到开关。\nhttps://t.co/iCw7S3W8wZ https://t.co/l7TprcsY0I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037428779857969152",
+            "3_2037428779845320704"
+          ]
+        },
+        "author_id": "524618848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Microsoft - AI",
+              "id": "10050907865",
+              "name": "Microsoft - AI"
+            }
+          }
+        ],
+        "conversation_id": "2037428786954727588",
+        "created_at": "2026-03-27T07:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T08:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037428786954727588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HWql5VWs45",
+              "end": 143,
+              "expanded_url": "https://x.com/icanvardar/status/2037428786954727588/photo/1",
+              "media_key": "3_2037428779857969152",
+              "start": 120,
+              "url": "https://t.co/HWql5VWs45"
+            },
+            {
+              "display_url": "pic.x.com/HWql5VWs45",
+              "end": 143,
+              "expanded_url": "https://x.com/icanvardar/status/2037428786954727588/photo/1",
+              "media_key": "3_2037428779845320704",
+              "start": 120,
+              "url": "https://t.co/HWql5VWs45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037428786954727588",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 61037,
+          "like_count": 534,
+          "quote_count": 10,
+          "reply_count": 71,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "github’s ui is so useless and the platform barely works\n\nmicrosoft is slowly killing it\n\nwish we had a real alternative https://t.co/HWql5VWs45"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ mt猫娘 | 全(A)栈(I)开发者 | 互fo喵～ | 今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 76,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 53,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 930,
+          "like_count": 1793,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 390
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2008-02-11T04:41:50.000Z",
+        "description": "The AI-powered developer platform to build, scale, and deliver secure software.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com",
+                "end": 23,
+                "expanded_url": "http://github.com",
+                "start": 0,
+                "url": "https://t.co/bbJgfyzKzp"
+              }
+            ]
+          }
+        },
+        "id": "13334762",
+        "location": "San Francisco, CA",
+        "name": "GitHub",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1633247750010830848/8zfRrYjA_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2628341,
+          "following_count": 334,
+          "like_count": 8688,
+          "listed_count": 18369,
+          "media_count": 2953,
+          "tweet_count": 10494
+        },
+        "url": "https://t.co/bbJgfyzKzp",
+        "username": "github",
+        "verified": true
+      },
+      {
+        "created_at": "2012-03-14T18:45:00.000Z",
+        "description": "building https://t.co/CrDD2mzZLe and https://t.co/xSL8CDfBHk at @heycupola, swe, not in forbes 30u30",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "heycupola"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "relic.so",
+                "end": 32,
+                "expanded_url": "https://relic.so",
+                "start": 9,
+                "url": "https://t.co/CrDD2mzZLe"
+              },
+              {
+                "display_url": "wrapper.sh",
+                "end": 60,
+                "expanded_url": "https://wrapper.sh",
+                "start": 37,
+                "url": "https://t.co/xSL8CDfBHk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "icanvardar.com",
+                "end": 23,
+                "expanded_url": "https://icanvardar.com",
+                "start": 0,
+                "url": "https://t.co/dcFN3Zs8wa"
+              }
+            ]
+          }
+        },
+        "id": "524618848",
+        "name": "Can Vardar",
+        "pinned_tweet_id": "2044168606187991105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007589161398583297/N6jnElE__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18637,
+          "following_count": 593,
+          "like_count": 56033,
+          "listed_count": 97,
+          "media_count": 2678,
+          "tweet_count": 20898
+        },
+        "url": "https://t.co/dcFN3Zs8wa",
+        "username": "icanvardar",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040212479188631553",
+        "3_2040212508364165120",
+        "3_2040212519642697728",
+        "3_2040212531982274560"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Microsoft Edge",
+          "id": "10052778497",
+          "name": "Microsoft Edge"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2040213305659453881",
+    "created_at": "2026-04-03T23:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T00:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040213305659453881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "19315174",
+          "start": 0,
+          "username": "MicrosoftEdge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/wuyuandev/stat…",
+          "end": 140,
+          "expanded_url": "https://x.com/wuyuandev/status/2026619284496298317",
+          "start": 117,
+          "url": "https://t.co/hgGf2MJPnH"
+        },
+        {
+          "display_url": "pic.x.com/GDq3wi3ZwI",
+          "end": 164,
+          "expanded_url": "https://x.com/wuyuandev/status/2040213305659453881/photo/1",
+          "media_key": "3_2040212479188631553",
+          "start": 141,
+          "url": "https://t.co/GDq3wi3ZwI"
+        },
+        {
+          "display_url": "pic.x.com/GDq3wi3ZwI",
+          "end": 164,
+          "expanded_url": "https://x.com/wuyuandev/status/2040213305659453881/photo/1",
+          "media_key": "3_2040212508364165120",
+          "start": 141,
+          "url": "https://t.co/GDq3wi3ZwI"
+        },
+        {
+          "display_url": "pic.x.com/GDq3wi3ZwI",
+          "end": 164,
+          "expanded_url": "https://x.com/wuyuandev/status/2040213305659453881/photo/1",
+          "media_key": "3_2040212519642697728",
+          "start": 141,
+          "url": "https://t.co/GDq3wi3ZwI"
+        },
+        {
+          "display_url": "pic.x.com/GDq3wi3ZwI",
+          "end": 164,
+          "expanded_url": "https://x.com/wuyuandev/status/2040213305659453881/photo/1",
+          "media_key": "3_2040212531982274560",
+          "start": 141,
+          "url": "https://t.co/GDq3wi3ZwI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040213305659453881",
+    "in_reply_to_user_id": "19315174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026619284496298317",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MicrosoftEdge  又开始整没用的了，给整个应用加上了很难看的ms copilot类似深灰色UI效果。不过好在这次是改原先的UI，没有完全重写组件。有这时间写UI没时间维护network console？微软我佩服你。\n\nhttps://t.co/hgGf2MJPnH https://t.co/GDq3wi3ZwI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 532,
+        "media_key": "3_2040212479188631553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFBKcLhbgAEZ53y.png",
+        "width": 1601
+      },
+      {
+        "height": 792,
+        "media_key": "3_2040212508364165120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFBKd4Na0AAWvmD.png",
+        "width": 405
+      },
+      {
+        "height": 299,
+        "media_key": "3_2040212519642697728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFBKeiObkAAj0WI.png",
+        "width": 639
+      },
+      {
+        "height": 1232,
+        "media_key": "3_2040212531982274560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFBKfQMakAAUHX0.jpg",
+        "width": 856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040212479188631553",
+            "3_2040212508364165120",
+            "3_2040212519642697728",
+            "3_2040212531982274560"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Microsoft Edge",
+              "id": "10052778497",
+              "name": "Microsoft Edge"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2040213305659453881",
+        "created_at": "2026-04-03T23:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T00:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040213305659453881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "19315174",
+              "start": 0,
+              "username": "MicrosoftEdge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/wuyuandev/stat…",
+              "end": 140,
+              "expanded_url": "https://x.com/wuyuandev/status/2026619284496298317",
+              "start": 117,
+              "url": "https://t.co/hgGf2MJPnH"
+            },
+            {
+              "display_url": "pic.x.com/GDq3wi3ZwI",
+              "end": 164,
+              "expanded_url": "https://x.com/wuyuandev/status/2040213305659453881/photo/1",
+              "media_key": "3_2040212479188631553",
+              "start": 141,
+              "url": "https://t.co/GDq3wi3ZwI"
+            },
+            {
+              "display_url": "pic.x.com/GDq3wi3ZwI",
+              "end": 164,
+              "expanded_url": "https://x.com/wuyuandev/status/2040213305659453881/photo/1",
+              "media_key": "3_2040212508364165120",
+              "start": 141,
+              "url": "https://t.co/GDq3wi3ZwI"
+            },
+            {
+              "display_url": "pic.x.com/GDq3wi3ZwI",
+              "end": 164,
+              "expanded_url": "https://x.com/wuyuandev/status/2040213305659453881/photo/1",
+              "media_key": "3_2040212519642697728",
+              "start": 141,
+              "url": "https://t.co/GDq3wi3ZwI"
+            },
+            {
+              "display_url": "pic.x.com/GDq3wi3ZwI",
+              "end": 164,
+              "expanded_url": "https://x.com/wuyuandev/status/2040213305659453881/photo/1",
+              "media_key": "3_2040212531982274560",
+              "start": 141,
+              "url": "https://t.co/GDq3wi3ZwI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040213305659453881",
+        "in_reply_to_user_id": "19315174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026619284496298317",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MicrosoftEdge  又开始整没用的了，给整个应用加上了很难看的ms copilot类似深灰色UI效果。不过好在这次是改原先的UI，没有完全重写组件。有这时间写UI没时间维护network console？微软我佩服你。\n\nhttps://t.co/hgGf2MJPnH https://t.co/GDq3wi3ZwI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Microsoft Edge",
+              "id": "10052778497",
+              "name": "Microsoft Edge"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          }
+        ],
+        "conversation_id": "2026619284496298317",
+        "created_at": "2026-02-25T11:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T12:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026619284496298317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 106,
+              "id": "19315174",
+              "start": 92,
+              "username": "MicrosoftEdge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026619284496298317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Microsoft edge修改了他们的“下载”菜单，现在这个菜单的UI变得难以理解，不再对鼠标按住有视觉反馈。\n\n最重要的是：无法拖拽文件，没法直接把下载的文件拖拽到其他软件中。\n\n@MicrosoftEdge"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 41,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 18,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2025788939731439975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 825,
+          "like_count": 1564,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-21T23:42:14.000Z",
+        "description": "It’s time to question your browser",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "msft.it/CopilotMode",
+                "end": 23,
+                "expanded_url": "https://msft.it/CopilotMode",
+                "start": 0,
+                "url": "https://t.co/Kqh72p9EzK"
+              }
+            ]
+          }
+        },
+        "id": "19315174",
+        "location": "Redmond, WA",
+        "name": "Microsoft Edge",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841902654320214017/-_5zyP6W_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944817,
+          "following_count": 10,
+          "like_count": 2708,
+          "listed_count": 5956,
+          "media_count": 2889,
+          "tweet_count": 38246
+        },
+        "url": "https://t.co/Kqh72p9EzK",
+        "username": "MicrosoftEdge",
+        "verified": true
+      }
+    ]
+  }
+}

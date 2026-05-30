@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2030161753842274621",
+    "created_at": "2026-03-07T06:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T07:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030161753842274621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Akinoyo_desu/s…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Akinoyo_desu/status/2029913215178809593",
+          "start": 19,
+          "url": "https://t.co/pGxVKhLyqx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030161753842274621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029913215178809593",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "朋友们我已经开学了以后全职在学校坐牢 https://t.co/pGxVKhLyqx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2030161753842274621",
+        "created_at": "2026-03-07T06:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T07:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030161753842274621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Akinoyo_desu/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Akinoyo_desu/status/2029913215178809593",
+              "start": 19,
+              "url": "https://t.co/pGxVKhLyqx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030161753842274621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029913215178809593",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "朋友们我已经开学了以后全职在学校坐牢 https://t.co/pGxVKhLyqx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2029913215178809593",
+        "created_at": "2026-03-06T13:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T14:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029913215178809593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/2029910739012698554",
+              "start": 19,
+              "url": "https://t.co/JmhIHjWPBy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029913215178809593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 444,
+          "like_count": 11,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029910739012698554",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "朋友们我已经退学了以后全职跟大家聊天 https://t.co/JmhIHjWPBy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 41,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 18,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2025788939731439975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 680,
+          "like_count": 1285,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 235
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ 旧名义：仿生喹硫平/ 涘🧊@winterfruit_1 /聖 🍜@shungleemain /♠️🅰️@w0sh1Asak1 /渡 🚣‍♂️@justyanwu14/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "shungleemain"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "justyanwu14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 119,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 96,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/bYHkyXl80J"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "Akino5150#海山二",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011689303659986945/O3P_h217_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 780,
+          "like_count": 3028,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 891
+        },
+        "url": "https://t.co/bYHkyXl80J",
+        "username": "Akinoyo_desu",
+        "verified": true
+      }
+    ]
+  }
+}

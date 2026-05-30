@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2058464070941217000",
+    "created_at": "2026-05-24T08:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T09:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058464070941217000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2018986573090717696",
+          "start": 3,
+          "username": "xhFK114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058464070941217000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042861540156805277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xhFK114514: 亚硝酸钠和碳酸钡哪个吃起来痛苦更少？\n（只是好奇）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2058464070941217000",
+        "created_at": "2026-05-24T08:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T09:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058464070941217000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2018986573090717696",
+              "start": 3,
+              "username": "xhFK114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058464070941217000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042861540156805277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xhFK114514: 亚硝酸钠和碳酸钡哪个吃起来痛苦更少？\n（只是好奇）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018986573090717696",
+        "conversation_id": "2042861540156805277",
+        "created_at": "2026-04-11T07:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042861540156805277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042861540156805277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2764,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亚硝酸钠和碳酸钡哪个吃起来痛苦更少？\n（只是好奇）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，构建社区、AI工具和规模化的数据收集 | \n\n每周更新跨圈大合照 | \n说话含喵量巨大 | \n今年欢笑复明年，秋月春风等闲度。| \n关注牢喵喵！关注牢喵谢谢喵！| \n你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我\n\n要饭：https://t.co/aMQp3GpkVJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 149,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 126,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 222,
+          "like_count": 4449,
+          "listed_count": 5,
+          "media_count": 248,
+          "tweet_count": 1280
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T09:56:48.000Z",
+        "description": "FuKarl7/2026年3月21日起活跃在此号/友跨🏳️‍⚧️(没翻车!)/高三/无糖(?)/含糖(?)/不od/不割手/(选择性)互关/喵\n❤️❤️❤️❤️❤️：@ruoruoruoMing\n❤️❤️❤️❤️❤️：@happiness_sleep\n意义重大的日子：2026年3月15日/2026年5月2日",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "ruoruoruoMing"
+              },
+              {
+                "end": 125,
+                "start": 109,
+                "username": "happiness_sleep"
+              }
+            ]
+          }
+        },
+        "id": "2018986573090717696",
+        "location": "天津",
+        "name": "阿这",
+        "pinned_tweet_id": "2053410325878522002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037862051725594624/P9TAAf07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 821,
+          "like_count": 7064,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 1060
+        },
+        "username": "xhFK114514",
+        "verified": false
+      }
+    ]
+  }
+}

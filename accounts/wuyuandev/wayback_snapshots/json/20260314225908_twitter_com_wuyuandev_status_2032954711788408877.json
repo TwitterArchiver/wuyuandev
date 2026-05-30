@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2032843632617963833",
+    "created_at": "2026-03-14T22:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T23:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032954711788408877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011073315763601416",
+          "start": 0,
+          "username": "kilock_1208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032954711788408877",
+    "in_reply_to_user_id": "2011073315763601416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032843632617963833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kilock_1208 头像继承一半nachoneko可爱基因的喵！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2032843632617963833",
+        "created_at": "2026-03-14T22:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T23:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032954711788408877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011073315763601416",
+              "start": 0,
+              "username": "kilock_1208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032954711788408877",
+        "in_reply_to_user_id": "2011073315763601416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032843632617963833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kilock_1208 头像继承一半nachoneko可爱基因的喵！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011073315763601416",
+        "conversation_id": "2032843632617963833",
+        "created_at": "2026-03-14T15:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032843632617963833"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032843632617963833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 324,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家对我的印象是怎么样的呢，很好奇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 41,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 18,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2025788939731439975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 726,
+          "like_count": 1403,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 264
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-13T13:50:40.000Z",
+        "description": "蒟蒻OIer | 或许是个开发者？) | intp | 爱人 @qqqqqf5 大号登不上了wwwww",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "qqqqqf5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/kilockok",
+                "end": 23,
+                "expanded_url": "https://github.com/kilockok",
+                "start": 0,
+                "url": "https://t.co/ZHBAoZQdfs"
+              }
+            ]
+          }
+        },
+        "id": "2011073315763601416",
+        "location": "The World",
+        "name": "kilock🍥",
+        "pinned_tweet_id": "2023139129526223253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011497532711714818/f-A8QXeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 551,
+          "like_count": 2722,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 601
+        },
+        "url": "https://t.co/ZHBAoZQdfs",
+        "username": "kilock_1208",
+        "verified": true
+      }
+    ]
+  }
+}

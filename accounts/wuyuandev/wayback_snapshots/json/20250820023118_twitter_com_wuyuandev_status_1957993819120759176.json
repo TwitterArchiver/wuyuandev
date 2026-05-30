@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "1957858703824011459",
+    "created_at": "2025-08-20T02:31:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T03:31:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957993819120759176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1328748402947964933",
+          "start": 0,
+          "username": "CloudflareRadar"
+        },
+        {
+          "end": 26,
+          "id": "1106939452658638849",
+          "start": 17,
+          "username": "angus_cx"
+        },
+        {
+          "end": 40,
+          "id": "194112560",
+          "start": 27,
+          "username": "PTCLOfficial"
+        },
+        {
+          "end": 54,
+          "id": "980819940415426560",
+          "start": 41,
+          "username": "1111Resolver"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957993819120759176",
+    "in_reply_to_user_id": "1328748402947964933",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957899080451129808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CloudflareRadar @angus_cx @PTCLOfficial @1111Resolver A very obvious Internet outage. It only affects 443😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "1957858703824011459",
+        "created_at": "2025-08-20T02:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T03:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957993819120759176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1328748402947964933",
+              "start": 0,
+              "username": "CloudflareRadar"
+            },
+            {
+              "end": 26,
+              "id": "1106939452658638849",
+              "start": 17,
+              "username": "angus_cx"
+            },
+            {
+              "end": 40,
+              "id": "194112560",
+              "start": 27,
+              "username": "PTCLOfficial"
+            },
+            {
+              "end": 54,
+              "id": "980819940415426560",
+              "start": 41,
+              "username": "1111Resolver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957993819120759176",
+        "in_reply_to_user_id": "1328748402947964933",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957899080451129808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CloudflareRadar @angus_cx @PTCLOfficial @1111Resolver A very obvious Internet outage. It only affects 443😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1328748402947964933",
+        "conversation_id": "1957858703824011459",
+        "created_at": "2025-08-19T20:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T21:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957899080451129808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1106939452658638849",
+              "start": 0,
+              "username": "angus_cx"
+            },
+            {
+              "end": 23,
+              "id": "194112560",
+              "start": 10,
+              "username": "PTCLOfficial"
+            },
+            {
+              "end": 37,
+              "id": "980819940415426560",
+              "start": 24,
+              "username": "1111Resolver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957899080451129808",
+        "in_reply_to_user_id": "1106939452658638849",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957876601783501126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angus_cx @PTCLOfficial @1111Resolver Unclear what happened there - looking into it."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/4K66E55Pni",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.houlangs.com",
+                "end": 37,
+                "expanded_url": "https://zerocat.houlangs.com",
+                "start": 14,
+                "url": "https://t.co/4K66E55Pni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 237,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 56
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-17T17:15:21.000Z",
+        "description": "Internet trends, as seen by the @Cloudflare global network.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "Cloudflare"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "radar.cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://radar.cloudflare.com/",
+                "start": 0,
+                "url": "https://t.co/YQlPsMB4VK"
+              }
+            ]
+          }
+        },
+        "id": "1328748402947964933",
+        "location": "Earth",
+        "name": "Cloudflare Radar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763583568888922112/tSuYI8FM_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21665,
+          "following_count": 8,
+          "like_count": 347,
+          "listed_count": 185,
+          "media_count": 1084,
+          "tweet_count": 1662
+        },
+        "url": "https://t.co/YQlPsMB4VK",
+        "username": "CloudflareRadar",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-16T15:25:06.000Z",
+        "description": "",
+        "id": "1106939452658638849",
+        "name": "Angus",
+        "pinned_tweet_id": "1804201016654729679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904801842531590144/T3zet2NN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 1864,
+          "like_count": 16879,
+          "listed_count": 5,
+          "media_count": 382,
+          "tweet_count": 2551
+        },
+        "username": "angus_cx",
+        "verified": true
+      },
+      {
+        "created_at": "2010-09-23T13:22:42.000Z",
+        "description": "Nation Ka Connection",
+        "id": "194112560",
+        "location": "Pakistan",
+        "name": "PTCL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851996663847456769/WHokExxm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212205,
+          "following_count": 1,
+          "like_count": 290,
+          "listed_count": 127,
+          "media_count": 6245,
+          "tweet_count": 60875
+        },
+        "username": "PTCLOfficial",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-02T14:51:11.000Z",
+        "description": "Tweet your DNS queries to me and I'll resolve them with 1.1.1.1! A and AAAA only. Built by @hascj.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 91,
+                "username": "hascj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cloudflare-dns.com",
+                "end": 23,
+                "expanded_url": "https://cloudflare-dns.com",
+                "start": 0,
+                "url": "https://t.co/FcEQYEXDLC"
+              }
+            ]
+          }
+        },
+        "id": "980819940415426560",
+        "location": "1.1.1.1, 1.0.0.1, 2606:4700:4700:: 1111, 2606:4700:4700::1001",
+        "name": "Cloudflare DNS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/981231153498669056/CeaaRcDf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3225,
+          "following_count": 0,
+          "like_count": 7,
+          "listed_count": 47,
+          "media_count": 1,
+          "tweet_count": 1627
+        },
+        "url": "https://t.co/FcEQYEXDLC",
+        "username": "1111Resolver",
+        "verified": false
+      }
+    ]
+  }
+}

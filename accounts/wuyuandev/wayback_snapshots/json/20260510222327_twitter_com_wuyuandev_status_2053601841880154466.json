@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2053601841880154466",
+    "created_at": "2026-05-10T22:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T23:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053601841880154466"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/123mp27/status…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/123mp27/status/2053403493181124632",
+          "start": 66,
+          "url": "https://t.co/T40frIF42t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053601841880154466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053403493181124632",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "死后是一片虚无，或者说没有“死后”的概念，毕竟我思故我在。不过对于我身边的人，这或许是件好事，家人可以更轻松，同学可以少补几天课。 https://t.co/T40frIF42t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2053601841880154466",
+        "created_at": "2026-05-10T22:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T23:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053601841880154466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/123mp27/status…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/123mp27/status/2053403493181124632",
+              "start": 66,
+              "url": "https://t.co/T40frIF42t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053601841880154466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053403493181124632",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "死后是一片虚无，或者说没有“死后”的概念，毕竟我思故我在。不过对于我身边的人，这或许是件好事，家人可以更轻松，同学可以少补几天课。 https://t.co/T40frIF42t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944989354239385600",
+        "conversation_id": "2053403493181124632",
+        "created_at": "2026-05-10T09:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053403493181124632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053403493181124632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5570,
+          "like_count": 93,
+          "quote_count": 3,
+          "reply_count": 92,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你认为死后是怎样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸 | 坐标HNCS\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 123,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 100,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！",
+        "pinned_tweet_id": "2051211437847290211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 222,
+          "like_count": 3263,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 863
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T05:16:48.000Z",
+        "description": "11年落地组装在河北承德，现居辽宁朝阳(intp)\n/欢迎私信，接受宣泄和游戏，不会泄露\n/实名王艳阳\n/我是低龄大傻逼\n/温和好猫！\n/匿名消息https://t.co/bvZlqGKxZu\n/可爱的人@DIC_EWE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 102,
+                "username": "DIC_EWE"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/123mp27",
+                "end": 96,
+                "expanded_url": "https://ngl.link/123mp27",
+                "start": 73,
+                "url": "https://t.co/bvZlqGKxZu"
+              }
+            ]
+          }
+        },
+        "id": "1944989354239385600",
+        "location": "互fo需要查成分，只要不是傻逼和重度鉴证就可以",
+        "name": "Rana (e…...mmm.....baka!.",
+        "pinned_tweet_id": "2052972523311042954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022327136024252416/SQnOL9qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 401,
+          "like_count": 4119,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2776
+        },
+        "username": "123mp27",
+        "verified": false
+      }
+    ]
+  }
+}

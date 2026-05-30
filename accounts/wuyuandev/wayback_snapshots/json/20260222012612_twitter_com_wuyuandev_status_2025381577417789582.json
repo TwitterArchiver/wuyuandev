@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2025232017349378558",
+    "created_at": "2026-02-22T01:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T02:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025381577417789582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025381577417789582",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025232017349378558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech 盲猜是上次gptteam里面扒的，我拿来加team的临时邮箱就收到过类似的。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1300,
+        "media_key": "3_2025231736649719808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsRiMraoAA8H-E.jpg",
+        "width": 1411
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2025232017349378558",
+        "created_at": "2026-02-22T01:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T02:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025381577417789582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025381577417789582",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025232017349378558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech 盲猜是上次gptteam里面扒的，我拿来加team的临时邮箱就收到过类似的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025231736649719808"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "conversation_id": "2025232017349378558",
+        "created_at": "2026-02-21T15:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T16:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025232017349378558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ahDSYaZhfl",
+              "end": 110,
+              "expanded_url": "https://x.com/landiantech/status/2025232017349378558/photo/1",
+              "media_key": "3_2025231736649719808",
+              "start": 87,
+              "url": "https://t.co/ahDSYaZhfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025232017349378558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3399,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是哪家API中转站？我未注册、也未听过，就这么发广告邮件来了。以及：底部的蓝色带下划线的退订按钮是不包含链接的，就是个样式，点了半天点不动，谁告诉你们这么发广告邮件的？🤨 https://t.co/ahDSYaZhfl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "今年欢笑复明年，秋月春风等闲度。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 434,
+          "like_count": 748,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 124
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / OpenClaw 重度用户🦞🦞🦞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32319,
+          "following_count": 662,
+          "like_count": 4007,
+          "listed_count": 259,
+          "media_count": 4794,
+          "tweet_count": 13888
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2049495663566823434",
+    "created_at": "2026-04-29T14:26:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T15:26:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049495663566823434"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SonogamiRinneT…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/SonogamiRinneTS/status/2049310395660382219",
+          "start": 30,
+          "url": "https://t.co/afs8Z3tMsD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049495663566823434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049310395660382219",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "米游（除 原神：千星奇遇 外）竟然是反跨游戏！已严肃批判！ https://t.co/afs8Z3tMsD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_2049310384973312000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHCc7_racAAbfSN.jpg",
+        "width": 1282
+      },
+      {
+        "height": 944,
+        "media_key": "3_2049310384960737280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHCc7_oakAABSFD.jpg",
+        "width": 1282
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049310384973385730",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHCc7_rbkAIzvkK.jpg",
+        "width": 1164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2049495663566823434",
+        "created_at": "2026-04-29T14:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049495663566823434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SonogamiRinneT…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/SonogamiRinneTS/status/2049310395660382219",
+              "start": 30,
+              "url": "https://t.co/afs8Z3tMsD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049495663566823434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049310395660382219",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "米游（除 原神：千星奇遇 外）竟然是反跨游戏！已严肃批判！ https://t.co/afs8Z3tMsD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049310384973312000",
+            "3_2049310384960737280",
+            "3_2049310384973385730"
+          ]
+        },
+        "author_id": "1701484460250890240",
+        "conversation_id": "2049310395660382219",
+        "created_at": "2026-04-29T02:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049310395660382219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BHp6evc7UP",
+              "end": 49,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2049310395660382219/photo/1",
+              "media_key": "3_2049310384973312000",
+              "start": 26,
+              "url": "https://t.co/BHp6evc7UP"
+            },
+            {
+              "display_url": "pic.x.com/BHp6evc7UP",
+              "end": 49,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2049310395660382219/photo/1",
+              "media_key": "3_2049310384960737280",
+              "start": 26,
+              "url": "https://t.co/BHp6evc7UP"
+            },
+            {
+              "display_url": "pic.x.com/BHp6evc7UP",
+              "end": 49,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2049310395660382219/photo/1",
+              "media_key": "3_2049310384973385730",
+              "start": 26,
+              "url": "https://t.co/BHp6evc7UP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049310395660382219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1986,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这么看来《蓝色星原：旅谣》是友跨游戏，已经预约了😁 https://t.co/BHp6evc7UP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 99,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 76,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！",
+        "pinned_tweet_id": "2048204898882531422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 879,
+          "like_count": 2320,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 596
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4255,
+          "following_count": 3281,
+          "like_count": 1245,
+          "listed_count": 15,
+          "media_count": 235,
+          "tweet_count": 1602
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

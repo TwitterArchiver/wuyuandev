@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053603534424485888"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "2053512488684257737",
+    "created_at": "2026-05-10T22:30:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T23:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053603547535790365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JqaxVQyIUs",
+          "end": 36,
+          "expanded_url": "https://x.com/wuyuandev/status/2053603547535790365/photo/1",
+          "media_key": "3_2053603534424485888",
+          "start": 13,
+          "url": "https://t.co/JqaxVQyIUs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053603547535790365",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053512488684257737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 省流 https://t.co/JqaxVQyIUs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2247,
+        "media_key": "3_2053603534424485888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH_diLrbsAAHGxQ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1542,
+        "media_key": "3_2053512484502614016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-KuYSbsAAyb_Z.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2053512483789479936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-KuVoaIAAcxWB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2053512485874126848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-KudZbUAAfCQO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2053512485328887808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-KubXboAAcUEW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053603534424485888"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2053512488684257737",
+        "created_at": "2026-05-10T22:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T23:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053603547535790365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JqaxVQyIUs",
+              "end": 36,
+              "expanded_url": "https://x.com/wuyuandev/status/2053603547535790365/photo/1",
+              "media_key": "3_2053603534424485888",
+              "start": 13,
+              "url": "https://t.co/JqaxVQyIUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053603547535790365",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053512488684257737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 省流 https://t.co/JqaxVQyIUs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053512484502614016",
+            "3_2053512483789479936",
+            "3_2053512485874126848",
+            "3_2053512485328887808"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053512488684257737",
+        "created_at": "2026-05-10T16:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T17:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053512488684257737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0kfNzkIFZS",
+              "end": 52,
+              "expanded_url": "https://x.com/jlxc2001/status/2053512488684257737/photo/1",
+              "media_key": "3_2053512484502614016",
+              "start": 29,
+              "url": "https://t.co/0kfNzkIFZS"
+            },
+            {
+              "display_url": "pic.x.com/0kfNzkIFZS",
+              "end": 52,
+              "expanded_url": "https://x.com/jlxc2001/status/2053512488684257737/photo/1",
+              "media_key": "3_2053512483789479936",
+              "start": 29,
+              "url": "https://t.co/0kfNzkIFZS"
+            },
+            {
+              "display_url": "pic.x.com/0kfNzkIFZS",
+              "end": 52,
+              "expanded_url": "https://x.com/jlxc2001/status/2053512488684257737/photo/1",
+              "media_key": "3_2053512485874126848",
+              "start": 29,
+              "url": "https://t.co/0kfNzkIFZS"
+            },
+            {
+              "display_url": "pic.x.com/0kfNzkIFZS",
+              "end": 52,
+              "expanded_url": "https://x.com/jlxc2001/status/2053512488684257737/photo/1",
+              "media_key": "3_2053512485328887808",
+              "start": 29,
+              "url": "https://t.co/0kfNzkIFZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053512488684257737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 19637,
+          "like_count": 291,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "说实话，这台打印机的打印精度，比很多正版谷子质量还更高（ https://t.co/0kfNzkIFZS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸 | 坐标HNCS\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 123,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 100,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！",
+        "pinned_tweet_id": "2051211437847290211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 222,
+          "like_count": 3274,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 865
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n公司在深圳和江西萍乡，有手机或者汽车发布会的时候，发布会所在城市线下可面基\n\nこちら技術オタクです（たぶん\nガジェット、DIY、そして初音ミクが大好きなプロダクトマネージャーです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7xqCz"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16562,
+          "following_count": 206,
+          "like_count": 550,
+          "listed_count": 37,
+          "media_count": 1017,
+          "tweet_count": 2728
+        },
+        "url": "https://t.co/pIA1Q7xqCz",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

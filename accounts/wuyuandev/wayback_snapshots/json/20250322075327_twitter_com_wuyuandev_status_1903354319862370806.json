@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "1902976450132681090",
+    "created_at": "2025-03-22T07:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T08:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903354319862370806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1315639147248246785",
+          "start": 0,
+          "username": "GithubProjects"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903354319862370806",
+    "in_reply_to_user_id": "1315639147248246785",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902976450132681090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GithubProjects git....-v !"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "1902976450132681090",
+        "created_at": "2025-03-22T07:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T08:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903354319862370806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1315639147248246785",
+              "start": 0,
+              "username": "GithubProjects"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903354319862370806",
+        "in_reply_to_user_id": "1315639147248246785",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902976450132681090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GithubProjects git....-v !"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1315639147248246785",
+        "conversation_id": "1902976450132681090",
+        "created_at": "2025-03-21T06:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T07:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902976450132681090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902976450132681090",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 542,
+          "impression_count": 57010,
+          "like_count": 1320,
+          "quote_count": 21,
+          "reply_count": 185,
+          "retweet_count": 140
+        },
+        "reply_settings": "everyone",
+        "text": "Have you used all of these git commands? \n\ngit config\ngit init\ngit clone\ngit add\ngit commit\ngit diff\ngit reset\ngit status\ngit rm\ngit log\ngit show\ngit tag\ngit branch\ngit checkout\ngit merge\ngit remote\ngit push\ngit pull\ngit stash\n\nWrite in comments..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/4K66E55Pni",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.houlangs.com",
+                "end": 37,
+                "expanded_url": "https://zerocat.houlangs.com",
+                "start": 14,
+                "url": "https://t.co/4K66E55Pni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 187,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-12T13:03:35.000Z",
+        "description": "We're sharing/showcasing best of @github projects/repos. Follow to stay in loop. Promoting Open-Source Contributions. UNOFFICIAL, but followed by github",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 33,
+                "username": "github"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/githubprojects",
+                "end": 23,
+                "expanded_url": "http://ko-fi.com/githubprojects",
+                "start": 0,
+                "url": "https://t.co/bBwZV6SJRz"
+              }
+            ]
+          }
+        },
+        "id": "1315639147248246785",
+        "location": "San Francisco, CA",
+        "name": "GitHub Projects Community",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679831765744259073/hoVtsOZ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85124,
+          "following_count": 298,
+          "like_count": 8685,
+          "listed_count": 423,
+          "media_count": 895,
+          "tweet_count": 4338
+        },
+        "url": "https://t.co/bBwZV6SJRz",
+        "username": "GithubProjects",
+        "verified": true
+      }
+    ]
+  }
+}

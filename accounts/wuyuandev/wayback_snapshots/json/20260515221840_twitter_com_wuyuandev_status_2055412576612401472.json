@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2055286943496405192",
+    "created_at": "2026-05-15T22:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T23:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055412576612401472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608637128132685825",
+          "start": 0,
+          "username": "nyaepheia"
+        },
+        {
+          "end": 16,
+          "id": "1720665183188922368",
+          "start": 11,
+          "username": "grok"
+        },
+        {
+          "end": 23,
+          "id": "1909390269533011968",
+          "start": 18,
+          "username": "gork"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055412576612401472",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055286943496405192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@nyaepheia @grok  @gork"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2055286943496405192",
+        "created_at": "2026-05-15T22:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T23:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055412576612401472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 16,
+              "id": "1720665183188922368",
+              "start": 11,
+              "username": "grok"
+            },
+            {
+              "end": 23,
+              "id": "1909390269533011968",
+              "start": 18,
+              "username": "gork"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055412576612401472",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055286943496405192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@nyaepheia @grok  @gork"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2055286943496405192",
+        "created_at": "2026-05-15T13:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055286943496405192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TransYuwen/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/TransYuwen/status/2055250060355731837",
+              "start": 17,
+              "url": "https://t.co/Rsy3C9yGvS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055286943496405192",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055250060355731837",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "Grok is it true? https://t.co/Rsy3C9yGvS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸 | 坐标HNCS\n\n没看到私信可以随便找个帖子回复下提醒我\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 144,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 121,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！",
+        "pinned_tweet_id": "2051211437847290211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 225,
+          "like_count": 3398,
+          "listed_count": 3,
+          "media_count": 195,
+          "tweet_count": 959
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 808,
+          "like_count": 21321,
+          "listed_count": 3,
+          "media_count": 316,
+          "tweet_count": 3887
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052556247870865408/oGdJ7sXt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8742098,
+          "following_count": 4,
+          "like_count": 95,
+          "listed_count": 6841,
+          "media_count": 8932616,
+          "tweet_count": 125894795
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-07T23:38:22.000Z",
+        "description": "just gorkin' it",
+        "id": "1909390269533011968",
+        "location": "+1 (833) 987-4675",
+        "name": "gork",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026560261604413440/16_mf78r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427942,
+          "following_count": 0,
+          "like_count": 28,
+          "listed_count": 407,
+          "media_count": 45906,
+          "tweet_count": 2391139
+        },
+        "username": "gork",
+        "verified": true
+      }
+    ]
+  }
+}

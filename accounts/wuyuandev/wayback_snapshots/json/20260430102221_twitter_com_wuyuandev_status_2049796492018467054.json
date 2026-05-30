@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049796488528871424"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2049796492018467054",
+    "created_at": "2026-04-30T10:22:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T11:22:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049796492018467054"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "The Exa API retrieves the best, realtime data from the web for your AI",
+          "display_url": "exa.ai/why",
+          "end": 50,
+          "expanded_url": "https://exa.ai/why",
+          "images": [
+            {
+              "height": 1000,
+              "url": "https://pbs.twimg.com/news_img/2049796501749301248/1azDq1XO?format=png&name=orig",
+              "width": 1910
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2049796501749301248/1azDq1XO?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 27,
+          "status": 200,
+          "title": "Exa",
+          "unwound_url": "https://exa.ai/why",
+          "url": "https://t.co/xMRsLaqJVw"
+        },
+        {
+          "display_url": "pic.x.com/cPudPa5Nua",
+          "end": 74,
+          "expanded_url": "https://x.com/wuyuandev/status/2049796492018467054/photo/1",
+          "media_key": "3_2049796488528871424",
+          "start": 51,
+          "url": "https://t.co/cPudPa5Nua"
+        },
+        {
+          "display_url": "x.com/galaxy1025850/…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/galaxy1025850/status/2049341921563447796",
+          "start": 75,
+          "url": "https://t.co/asZz9iyLR0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049796492018467054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049341921563447796",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "等等，你给Google下的战书广告费都还没过期呢！\n\nhttps://t.co/xMRsLaqJVw https://t.co/cPudPa5Nua https://t.co/asZz9iyLR0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1720,
+        "media_key": "3_2049796488528871424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJXC8ibQAAcQus.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2049341802239709184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHC5guHbUAAMjlA.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049796488528871424"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2049796492018467054",
+        "created_at": "2026-04-30T10:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T11:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049796492018467054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "The Exa API retrieves the best, realtime data from the web for your AI",
+              "display_url": "exa.ai/why",
+              "end": 50,
+              "expanded_url": "https://exa.ai/why",
+              "images": [
+                {
+                  "height": 1000,
+                  "url": "https://pbs.twimg.com/news_img/2049796501749301248/1azDq1XO?format=png&name=orig",
+                  "width": 1910
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049796501749301248/1azDq1XO?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 27,
+              "status": 200,
+              "title": "Exa",
+              "unwound_url": "https://exa.ai/why",
+              "url": "https://t.co/xMRsLaqJVw"
+            },
+            {
+              "display_url": "pic.x.com/cPudPa5Nua",
+              "end": 74,
+              "expanded_url": "https://x.com/wuyuandev/status/2049796492018467054/photo/1",
+              "media_key": "3_2049796488528871424",
+              "start": 51,
+              "url": "https://t.co/cPudPa5Nua"
+            },
+            {
+              "display_url": "x.com/galaxy1025850/…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/galaxy1025850/status/2049341921563447796",
+              "start": 75,
+              "url": "https://t.co/asZz9iyLR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049796492018467054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049341921563447796",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "等等，你给Google下的战书广告费都还没过期呢！\n\nhttps://t.co/xMRsLaqJVw https://t.co/cPudPa5Nua https://t.co/asZz9iyLR0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049341802239709184"
+          ]
+        },
+        "author_id": "2008233761763409920",
+        "conversation_id": "2049341921563447796",
+        "created_at": "2026-04-29T04:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T05:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049341921563447796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "The Exa API retrieves the best, realtime data from the web for your AI",
+              "display_url": "exa.ai/blog/exa-googl…",
+              "end": 23,
+              "expanded_url": "https://exa.ai/blog/exa-google-cloud",
+              "images": [
+                {
+                  "height": 1000,
+                  "url": "https://pbs.twimg.com/news_img/2049200507361853440/0-f57Kiq?format=png&name=orig",
+                  "width": 1910
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049200507361853440/0-f57Kiq?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Exa",
+              "unwound_url": "https://exa.ai/blog/exa-google-cloud",
+              "url": "https://t.co/OkVtVtK81z"
+            },
+            {
+              "display_url": "pic.x.com/emJXrkWCpz",
+              "end": 76,
+              "expanded_url": "https://x.com/galaxy1025850/status/2049341921563447796/photo/1",
+              "media_key": "3_2049341802239709184",
+              "start": 53,
+              "url": "https://t.co/emJXrkWCpz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049341921563447796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 21818,
+          "like_count": 98,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OkVtVtK81z\n？？？你是说你开了个初创公司做搜索然后谷歌成你客户了是吗 https://t.co/emJXrkWCpz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 99,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 76,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！",
+        "pinned_tweet_id": "2048204898882531422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 886,
+          "like_count": 2360,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 608
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T17:47:02.000Z",
+        "description": "喜欢到处乱窜的北方网友 。 \nPassion in AI & Cloud computing  Pansexual,友跨\n已被Musk干掉两个号。如果是真人，光速回fo \n脾气超好，啥都能聊，经常在线，欢迎pm~ \n家猫🐱@LumidexNZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 111,
+                "username": "LumidexNZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.17co.de",
+                "end": 23,
+                "expanded_url": "https://blog.17co.de",
+                "start": 0,
+                "url": "https://t.co/3iZAC7R5oH"
+              }
+            ]
+          }
+        },
+        "id": "2008233761763409920",
+        "location": "不一定在哪（）",
+        "name": "galaxy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021479451532591107/PByiQPHP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 245,
+          "like_count": 700,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 445
+        },
+        "url": "https://t.co/3iZAC7R5oH",
+        "username": "galaxy1025850",
+        "verified": false
+      }
+    ]
+  }
+}

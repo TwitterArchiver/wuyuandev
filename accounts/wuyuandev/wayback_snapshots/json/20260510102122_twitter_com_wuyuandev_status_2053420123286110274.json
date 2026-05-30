@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2053420123286110274",
+    "created_at": "2026-05-10T10:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053420123286110274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1802704441961017344",
+          "start": 3,
+          "username": "misumikaede3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053420123286110274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053335846645051630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @misumikaede3: 我真的这辈子一点苦都不想吃了，一点都不想努力了，努力学语言，学技能找工作，我就想摆一辈子，一辈子也不工作，没钱了就去死，我的20年的过去尽是痛苦、遗憾和后悔，它们不足以支撑我前进"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2053420123286110274",
+        "created_at": "2026-05-10T10:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053420123286110274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1802704441961017344",
+              "start": 3,
+              "username": "misumikaede3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053420123286110274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053335846645051630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @misumikaede3: 我真的这辈子一点苦都不想吃了，一点都不想努力了，努力学语言，学技能找工作，我就想摆一辈子，一辈子也不工作，没钱了就去死，我的20年的过去尽是痛苦、遗憾和后悔，它们不足以支撑我前进"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802704441961017344",
+        "conversation_id": "2053335846645051630",
+        "created_at": "2026-05-10T04:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053335846645051630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053335846645051630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 190,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的这辈子一点苦都不想吃了，一点都不想努力了，努力学语言，学技能找工作，我就想摆一辈子，一辈子也不工作，没钱了就去死，我的20年的过去尽是痛苦、遗憾和后悔，它们不足以支撑我前进"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸 | 坐标HNCS\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 123,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 100,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！",
+        "pinned_tweet_id": "2051211437847290211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 222,
+          "like_count": 3262,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 860
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "2009年生（并非）enby 🏳️‍⚧️2025.11.14 oder💊｜不论虚无与现实，且行，且行，行动以得知，得知而正行｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯对不起请原谅我 小号的我：@shirokanearashi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 117,
+                "username": "shirokanearashi"
+              }
+            ]
+          }
+        },
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "三角枫🍥#柳宿六",
+        "pinned_tweet_id": "2033998879956619524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041239223823695872/oskidzdg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 1123,
+          "like_count": 31961,
+          "listed_count": 6,
+          "media_count": 287,
+          "tweet_count": 9775
+        },
+        "username": "misumikaede3",
+        "verified": false
+      }
+    ]
+  }
+}

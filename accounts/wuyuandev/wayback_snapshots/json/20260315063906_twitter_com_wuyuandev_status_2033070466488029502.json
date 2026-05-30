@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2032998561688990076",
+    "created_at": "2026-03-15T06:39:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T07:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033070466488029502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828632343680294916",
+          "start": 0,
+          "username": "jianlvya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033070466488029502",
+    "in_reply_to_user_id": "1828632343680294916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032998561688990076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvya 不认真度的结果，你们校规肯定附带违纪处分条例里写明违规后果，但又不是法律怎么可能让你不得违反呢。还有，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 738,
+        "media_key": "3_2032998559617105920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDapay7bwAAJdDy.jpg",
+        "width": 976
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2032998561688990076",
+        "created_at": "2026-03-15T06:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T07:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033070466488029502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828632343680294916",
+              "start": 0,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033070466488029502",
+        "in_reply_to_user_id": "1828632343680294916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032998561688990076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvya 不认真度的结果，你们校规肯定附带违纪处分条例里写明违规后果，但又不是法律怎么可能让你不得违反呢。还有，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032998559617105920"
+          ]
+        },
+        "author_id": "1828632343680294916",
+        "conversation_id": "2032998561688990076",
+        "created_at": "2026-03-15T01:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T02:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032998561688990076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4imUbxSjGv",
+              "end": 26,
+              "expanded_url": "https://x.com/jianlvya/status/2032998561688990076/photo/1",
+              "media_key": "3_2032998559617105920",
+              "start": 3,
+              "url": "https://t.co/4imUbxSjGv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032998561688990076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 14798,
+          "like_count": 799,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "对哟 https://t.co/4imUbxSjGv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 41,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 18,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2025788939731439975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 731,
+          "like_count": 1413,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 265
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T03:15:12.000Z",
+        "description": "会点赞 INTJ 欢迎交流 私信互关\n伙伴：@KawawaDiana8964\n逃生舱：@fanlvup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "fanlvup"
+              }
+            ]
+          }
+        },
+        "id": "1828632343680294916",
+        "location": "Hi，你好，繁律！",
+        "name": "繁律",
+        "pinned_tweet_id": "2032995830836375848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016260938069061632/4QiMAEi1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3876,
+          "following_count": 930,
+          "like_count": 13171,
+          "listed_count": 7,
+          "media_count": 484,
+          "tweet_count": 994
+        },
+        "username": "jianlvya",
+        "verified": true
+      }
+    ]
+  }
+}

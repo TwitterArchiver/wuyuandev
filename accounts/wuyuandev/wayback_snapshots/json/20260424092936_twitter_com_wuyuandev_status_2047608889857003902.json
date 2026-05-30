@@ -1,0 +1,555 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2047608889857003902",
+    "created_at": "2026-04-24T09:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T10:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047608889857003902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tuturetom/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/tuturetom/status/2047341521465122929",
+          "start": 15,
+          "url": "https://t.co/rJdhc33Pxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047608889857003902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047341521465122929",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还我正常的GitHub！！！ https://t.co/rJdhc33Pxx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28566,
+        "height": 720,
+        "media_key": "13_2047335460242923520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047335460242923520/img/y3RIadN3CcRWmnrU.jpg",
+        "public_metrics": {
+          "view_count": 17862
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047335460242923520/vid/avc1/414x270/pUe98WsdGNiNm576.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047335460242923520/vid/avc1/552x360/iMpVkkcEgKZJXir0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047335460242923520/vid/avc1/1106x720/UsQBCrIhFK2wMSnw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047335460242923520/pl/bSdSeimXWns6pIlA.m3u8?v=cfc"
+          }
+        ],
+        "width": 1106
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2047608889857003902",
+        "created_at": "2026-04-24T09:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047608889857003902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tuturetom/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/tuturetom/status/2047341521465122929",
+              "start": 15,
+              "url": "https://t.co/rJdhc33Pxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047608889857003902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047341521465122929",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还我正常的GitHub！！！ https://t.co/rJdhc33Pxx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047335460242923520"
+          ]
+        },
+        "author_id": "806464682823282688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2047341521465122929",
+        "created_at": "2026-04-23T15:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047341521465122929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Contribute to nexu-io/auto-github-contributor development by creating an account on GitHub.",
+              "display_url": "github.com/nexu-io/auto-g…",
+              "end": 189,
+              "expanded_url": "https://github.com/nexu-io/auto-github-contributor",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2047341524963266560/JGDfHDPa?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2047341524963266560/JGDfHDPa?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 166,
+              "status": 200,
+              "title": "GitHub - nexu-io/auto-github-contributor",
+              "unwound_url": "https://github.com/nexu-io/auto-github-contributor",
+              "url": "https://t.co/jRspkDCLJg"
+            },
+            {
+              "display_url": "pic.x.com/UNLygx3eC2",
+              "end": 213,
+              "expanded_url": "https://x.com/tuturetom/status/2047341521465122929/video/1",
+              "media_key": "13_2047335460242923520",
+              "start": 190,
+              "url": "https://t.co/UNLygx3eC2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047341521465122929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 342,
+          "impression_count": 44861,
+          "like_count": 256,
+          "quote_count": 17,
+          "reply_count": 28,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "真的太需要了！再也不用担心面试没东西写了，人人都可以成为顶级 Github 仓库贡献者🔥\n\n正式开源 「自动 Github 贡献者」Skills 🌟\n\n1. 填入 github 地址\n2. 自动扫 issues + repo，寻找最快可贡献的内容\n4. Boom！自动写代码提 PR 等待合并\n5. 成为顶级贡献者\n\n开源地址👉  https://t.co/jRspkDCLJg https://t.co/UNLygx3eC2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 73,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 50,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 997,
+          "like_count": 2078,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 482
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-07T11:45:38.000Z",
+        "description": "Co-founder & CEO  https://t.co/eGKVbEWlsA  — your AI coworker, next to you, not instead of you. Open source → https://t.co/MpnKdeInzW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nexu.io",
+                "end": 41,
+                "expanded_url": "http://nexu.io",
+                "start": 18,
+                "url": "https://t.co/eGKVbEWlsA"
+              },
+              {
+                "display_url": "github.com/nexu-io/nexu",
+                "end": 133,
+                "expanded_url": "http://github.com/nexu-io/nexu",
+                "start": 110,
+                "url": "https://t.co/MpnKdeInzW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/nexu-io/nexu",
+                "end": 23,
+                "expanded_url": "https://github.com/nexu-io/nexu",
+                "start": 0,
+                "url": "https://t.co/eJf6I0QF7K"
+              }
+            ]
+          }
+        },
+        "id": "806464682823282688",
+        "name": "Tom Huang",
+        "pinned_tweet_id": "2035607963092615357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1033199673035522048/WI-JLSAc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31825,
+          "following_count": 6457,
+          "like_count": 8991,
+          "listed_count": 489,
+          "media_count": 2564,
+          "tweet_count": 9163
+        },
+        "url": "https://t.co/eJf6I0QF7K",
+        "username": "tuturetom",
+        "verified": true
+      }
+    ]
+  }
+}

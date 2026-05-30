@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2043207536204235002",
+    "created_at": "2026-04-12T06:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T07:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043213876125384871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "776096283802996737",
+          "start": 0,
+          "username": "yottan20001202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043213876125384871",
+    "in_reply_to_user_id": "776096283802996737",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043207536204235002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yottan20001202 As a reward, you don't have to take part in the school's unified sports activities."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2043207515643768832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFruaPxa8AAZmGK.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2043207536204235002",
+        "created_at": "2026-04-12T06:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T07:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043213876125384871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "776096283802996737",
+              "start": 0,
+              "username": "yottan20001202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043213876125384871",
+        "in_reply_to_user_id": "776096283802996737",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043207536204235002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yottan20001202 As a reward, you don't have to take part in the school's unified sports activities."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043207515643768832"
+          ]
+        },
+        "author_id": "776096283802996737",
+        "conversation_id": "2043207536204235002",
+        "created_at": "2026-04-12T06:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T07:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043207536204235002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yWeRgyJASf",
+              "end": 33,
+              "expanded_url": "https://x.com/yottan20001202/status/2043207536204235002/photo/1",
+              "media_key": "3_2043207515643768832",
+              "start": 10,
+              "url": "https://t.co/yWeRgyJASf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043207536204235002",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2177,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "これは何ですか？？ https://t.co/yWeRgyJASf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ mt猫娘 | 全(A)栈(I)开发者 | 互fo | 今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 74,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 51,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 907,
+          "like_count": 1707,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 373
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-14T16:32:28.000Z",
+        "description": "maimai／全国大会優勝7回🏆(2020~6th 5連覇)／KoP4th.5thスコアタ1位(4th単独303%)／フジテレビ2時間生放送出演+優勝／地上波テレビ出演／公式生放送出演／元紫白全曲理論値／PANDORA白世界初完走/理論値/☆5／太鼓、ウニ、プロセカ／サブ垢→@ysk__sub_／KoP皆勤賞(単独)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 138,
+                "username": "ysk__sub_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC3HT8…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC3HT8BsvQAa4WNZgOjCkIfQ",
+                "start": 0,
+                "url": "https://t.co/4IMXwPomYi"
+              }
+            ]
+          }
+        },
+        "id": "776096283802996737",
+        "location": "↓   チャンネル登録してね♪   ↓",
+        "name": "よしき",
+        "pinned_tweet_id": "2039648819839898031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893924468168290304/wLCBA0FG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54476,
+          "following_count": 830,
+          "like_count": 24832,
+          "listed_count": 93,
+          "media_count": 13903,
+          "tweet_count": 65498
+        },
+        "url": "https://t.co/4IMXwPomYi",
+        "username": "yottan20001202",
+        "verified": true
+      }
+    ]
+  }
+}

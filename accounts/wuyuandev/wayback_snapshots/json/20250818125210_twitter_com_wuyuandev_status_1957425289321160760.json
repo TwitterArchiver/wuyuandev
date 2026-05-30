@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957425265178705920"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1838998617064878080",
+          "name": "developers"
+        }
+      }
+    ],
+    "conversation_id": "1957425289321160760",
+    "created_at": "2025-08-18T12:52:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T13:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957425289321160760"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 8,
+          "normalized_text": "Microsoft",
+          "probability": 0.956,
+          "start": 0,
+          "type": "Organization"
+        },
+        {
+          "end": 34,
+          "normalized_text": "Copilot",
+          "probability": 0.9556,
+          "start": 28,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Starting with Edge 143, the Network Console tool will be removed from Edge DevTools with no replacement. As our team shifts focus toward delivering more stable features and improving alignment with...",
+          "display_url": "github.com/MicrosoftEdge/…",
+          "end": 203,
+          "expanded_url": "https://github.com/MicrosoftEdge/DevTools/issues/348",
+          "start": 180,
+          "status": 200,
+          "title": "[Feedback] Network Console will be removed in Edge 143 · Issue #348 · MicrosoftEdge/DevTools",
+          "unwound_url": "https://github.com/MicrosoftEdge/DevTools/issues/348",
+          "url": "https://t.co/3JFxD8ZwNf"
+        },
+        {
+          "display_url": "pic.x.com/1jJ8h2pmAz",
+          "end": 227,
+          "expanded_url": "https://x.com/wuyuandev/status/1957425289321160760/photo/1",
+          "media_key": "3_1957425265178705920",
+          "start": 204,
+          "url": "https://t.co/1jJ8h2pmAz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957425289321160760",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Microsoft is willing to add Copilot to devtools , although it is almost unusable for programming, but unwilling to maintain a useful tool for quickly debugging network requests .\n\nhttps://t.co/3JFxD8ZwNf https://t.co/1jJ8h2pmAz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 730,
+        "media_key": "3_1957425265178705920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyor6GVaAAAkL4b.png",
+        "width": 964
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957425265178705920"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "1957425289321160760",
+        "created_at": "2025-08-18T12:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T13:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957425289321160760"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Microsoft",
+              "probability": 0.956,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 34,
+              "normalized_text": "Copilot",
+              "probability": 0.9556,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Starting with Edge 143, the Network Console tool will be removed from Edge DevTools with no replacement. As our team shifts focus toward delivering more stable features and improving alignment with...",
+              "display_url": "github.com/MicrosoftEdge/…",
+              "end": 203,
+              "expanded_url": "https://github.com/MicrosoftEdge/DevTools/issues/348",
+              "start": 180,
+              "status": 200,
+              "title": "[Feedback] Network Console will be removed in Edge 143 · Issue #348 · MicrosoftEdge/DevTools",
+              "unwound_url": "https://github.com/MicrosoftEdge/DevTools/issues/348",
+              "url": "https://t.co/3JFxD8ZwNf"
+            },
+            {
+              "display_url": "pic.x.com/1jJ8h2pmAz",
+              "end": 227,
+              "expanded_url": "https://x.com/wuyuandev/status/1957425289321160760/photo/1",
+              "media_key": "3_1957425265178705920",
+              "start": 204,
+              "url": "https://t.co/1jJ8h2pmAz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957425289321160760",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Microsoft is willing to add Copilot to devtools , although it is almost unusable for programming, but unwilling to maintain a useful tool for quickly debugging network requests .\n\nhttps://t.co/3JFxD8ZwNf https://t.co/1jJ8h2pmAz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/4K66E55Pni",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.houlangs.com",
+                "end": 37,
+                "expanded_url": "https://zerocat.houlangs.com",
+                "start": 14,
+                "url": "https://t.co/4K66E55Pni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 231,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 51
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      }
+    ]
+  }
+}

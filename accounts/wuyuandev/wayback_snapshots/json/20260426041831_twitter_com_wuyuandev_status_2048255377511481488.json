@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048255374994898945",
+        "3_2048255374961283072"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2048254289823564203",
+    "created_at": "2026-04-26T04:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T05:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048255377511481488"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kxTAv3swzh",
+          "end": 75,
+          "expanded_url": "https://x.com/wuyuandev/status/2048255377511481488/photo/1",
+          "media_key": "3_2048255374994898945",
+          "start": 52,
+          "url": "https://t.co/kxTAv3swzh"
+        },
+        {
+          "display_url": "pic.x.com/kxTAv3swzh",
+          "end": 75,
+          "expanded_url": "https://x.com/wuyuandev/status/2048255377511481488/photo/1",
+          "media_key": "3_2048255374961283072",
+          "start": 52,
+          "url": "https://t.co/kxTAv3swzh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048255377511481488",
+    "in_reply_to_user_id": "1436287470207832064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048254289823564203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又及，这玩意在手机上会挤掉你推带的图，而电脑上又可能不显示加入卡片。\n\ntwitter这代码写的。。。 https://t.co/kxTAv3swzh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2048255374994898945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzdaVPbAAE8aPQ.jpg",
+        "width": 618
+      },
+      {
+        "height": 747,
+        "media_key": "3_2048255374961283072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzdaVHaEAAow4c.jpg",
+        "width": 717
+      },
+      {
+        "height": 555,
+        "media_key": "3_2048254283418902528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzcayzbIAATtcl.png",
+        "width": 789
+      },
+      {
+        "height": 573,
+        "media_key": "3_2048254283389493248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzcaysaYAAAn9L.png",
+        "width": 761
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048255374994898945",
+            "3_2048255374961283072"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2048254289823564203",
+        "created_at": "2026-04-26T04:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048255377511481488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxTAv3swzh",
+              "end": 75,
+              "expanded_url": "https://x.com/wuyuandev/status/2048255377511481488/photo/1",
+              "media_key": "3_2048255374994898945",
+              "start": 52,
+              "url": "https://t.co/kxTAv3swzh"
+            },
+            {
+              "display_url": "pic.x.com/kxTAv3swzh",
+              "end": 75,
+              "expanded_url": "https://x.com/wuyuandev/status/2048255377511481488/photo/1",
+              "media_key": "3_2048255374961283072",
+              "start": 52,
+              "url": "https://t.co/kxTAv3swzh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048255377511481488",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048254289823564203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又及，这玩意在手机上会挤掉你推带的图，而电脑上又可能不显示加入卡片。\n\ntwitter这代码写的。。。 https://t.co/kxTAv3swzh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048254283418902528",
+            "3_2048254283389493248"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2048254289823564203",
+        "created_at": "2026-04-26T04:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048254289823564203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "783214",
+              "start": 42,
+              "username": "X"
+            },
+            {
+              "end": 51,
+              "id": "1928879631526141952",
+              "start": 46,
+              "username": "chat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/chat/group_j…",
+              "end": 122,
+              "expanded_url": "http://x.com/i/chat/group_join/g2048253487860076648/5bnTU2TqxF",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2046943268416716800/meknmQ01?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2046943268416716800/meknmQ01?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 99,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://x.com/i/flow/login",
+              "url": "https://t.co/Jrol1C6vXh"
+            },
+            {
+              "display_url": "pic.x.com/fOif7Xc606",
+              "end": 146,
+              "expanded_url": "https://x.com/wuyuandev/status/2048254289823564203/photo/1",
+              "media_key": "3_2048254283418902528",
+              "start": 123,
+              "url": "https://t.co/fOif7Xc606"
+            },
+            {
+              "display_url": "pic.x.com/fOif7Xc606",
+              "end": 146,
+              "expanded_url": "https://x.com/wuyuandev/status/2048254289823564203/photo/1",
+              "media_key": "3_2048254283389493248",
+              "start": 123,
+              "url": "https://t.co/fOif7Xc606"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048254289823564203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "XChat 的极致的安全性！其实任何人都可以随便修改群名、群头像，随便截图，我很好奇@x  @chat  团队都干了些啥，一点权限管理都不做的吗？就这去vs tg的话。。。堪忧\n\n顺便，来群里玩！\nhttps://t.co/Jrol1C6vXh https://t.co/fOif7Xc606"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 99,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 76,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！来关注本喵！",
+        "pinned_tweet_id": "2048204898882531422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 924,
+          "like_count": 2206,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 551
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      }
+    ]
+  }
+}

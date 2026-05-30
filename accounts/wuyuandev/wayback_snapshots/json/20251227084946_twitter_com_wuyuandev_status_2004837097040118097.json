@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2004518832233164912",
+    "created_at": "2025-12-27T08:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T09:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004837097040118097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1948054878036881408",
+          "start": 0,
+          "username": "storopoli"
+        },
+        {
+          "end": 18,
+          "id": "13334762",
+          "start": 11,
+          "username": "github"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004837097040118097",
+    "in_reply_to_user_id": "1948054878036881408",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004537368230216043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@storopoli @github 😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2004518832233164912",
+        "created_at": "2025-12-27T08:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T09:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004837097040118097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1948054878036881408",
+              "start": 0,
+              "username": "storopoli"
+            },
+            {
+              "end": 18,
+              "id": "13334762",
+              "start": 11,
+              "username": "github"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004837097040118097",
+        "in_reply_to_user_id": "1948054878036881408",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004537368230216043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@storopoli @github 😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948054878036881408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2004518832233164912",
+        "created_at": "2025-12-26T12:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T13:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004537368230216043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "13334762",
+              "start": 0,
+              "username": "github"
+            },
+            {
+              "end": 84,
+              "id": "13334762",
+              "start": 77,
+              "username": "github"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004537368230216043",
+        "in_reply_to_user_id": "13334762",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 610,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004518832233164912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@github Do you pay $0.002 per-minute if you carry self-hosted coffee in that @github bottle?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/6Zcu6y11gj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.dev",
+                "end": 37,
+                "expanded_url": "https://zerocat.dev",
+                "start": 14,
+                "url": "https://t.co/6Zcu6y11gj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002667757222105089/WxV4f_zM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 331,
+          "like_count": 470,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 85
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T16:17:58.000Z",
+        "description": "Bitcoin minimalist. eng at @AlpenLabs, recovering academic/research eng with a PhD. Opinions my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "AlpenLabs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "storopoli.com",
+                "end": 23,
+                "expanded_url": "https://storopoli.com",
+                "start": 0,
+                "url": "https://t.co/GqSJadw4VZ"
+              }
+            ]
+          }
+        },
+        "id": "1948054878036881408",
+        "location": "localhost",
+        "name": "Jose Storopoli",
+        "pinned_tweet_id": "1948061057039192304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948055088594882570/oGtE5gzl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 719,
+          "like_count": 650,
+          "listed_count": 6,
+          "media_count": 49,
+          "tweet_count": 536
+        },
+        "url": "https://t.co/GqSJadw4VZ",
+        "username": "storopoli",
+        "verified": true
+      },
+      {
+        "created_at": "2008-02-11T04:41:50.000Z",
+        "description": "The AI-powered developer platform to build, scale, and deliver secure software.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com",
+                "end": 23,
+                "expanded_url": "http://github.com",
+                "start": 0,
+                "url": "https://t.co/bbJgfyzKzp"
+              }
+            ]
+          }
+        },
+        "id": "13334762",
+        "location": "San Francisco, CA",
+        "name": "GitHub",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1633247750010830848/8zfRrYjA_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2596890,
+          "following_count": 329,
+          "like_count": 8460,
+          "listed_count": 18265,
+          "media_count": 2858,
+          "tweet_count": 10214
+        },
+        "url": "https://t.co/bbJgfyzKzp",
+        "username": "github",
+        "verified": true
+      }
+    ]
+  }
+}

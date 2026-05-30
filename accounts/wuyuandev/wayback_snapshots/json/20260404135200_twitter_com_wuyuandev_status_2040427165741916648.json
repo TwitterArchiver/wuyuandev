@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2040344275104436673",
+    "created_at": "2026-04-04T13:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T14:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040427165741916648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2031097520840167424",
+          "start": 0,
+          "username": "Ciallo_114_514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040427165741916648",
+    "in_reply_to_user_id": "2031097520840167424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040344275104436673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ciallo_114_514 太好了，根本没有鲨鲨✋😱🤚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2040344275104436673",
+        "created_at": "2026-04-04T13:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T14:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040427165741916648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2031097520840167424",
+              "start": 0,
+              "username": "Ciallo_114_514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040427165741916648",
+        "in_reply_to_user_id": "2031097520840167424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040344275104436673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ciallo_114_514 太好了，根本没有鲨鲨✋😱🤚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031097520840167424",
+        "conversation_id": "2040344275104436673",
+        "created_at": "2026-04-04T08:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T09:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040344275104436673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kagura_Yukikaz…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/Kagura_Yukikaze/status/2040293119338725880",
+              "start": 82,
+              "url": "https://t.co/2gogqTnDz8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040344275104436673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 670,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040293119338725880",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "xyn不能自杀喔，不然每天抱抱的鲨鲨会没有家的。。然后被父母丢进阴冷潮湿臭臭的垃圾桶。鲨鲨会伤心的，会怀念主人的抱抱的。多抱抱鲨鲨，不要让可爱的鲨鲨无家可归呢。。 https://t.co/2gogqTnDz8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 41,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 18,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2025788939731439975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 839,
+          "like_count": 1574,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 317
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T19:59:37.000Z",
+        "description": "前世@YunoQiu56649\n生日0402｜hrt2026.1.12-3.19 断糖ing｜已炸柜｜中焦重抑｜全部立场中立｜碎碎念｜我不想死了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "2031097520840167424",
+        "location": "你家",
+        "name": "Ciallo～(∠・ω ＜ )︵🍥（互fo寻回ing）",
+        "pinned_tweet_id": "2039687440995365004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035909538168328193/rP91M_1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 465,
+          "like_count": 667,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1730
+        },
+        "username": "Ciallo_114_514",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2057858099621294491",
+    "created_at": "2026-05-22T22:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T23:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057950622318805040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1705272888",
+          "start": 0,
+          "username": "MEGAprivacy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057950622318805040",
+    "in_reply_to_user_id": "1705272888",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057858099621294491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MEGAprivacy I will protect my privacy, but not at the expense of completely losing all convenience. The app of mega is very troublesome to use."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2057858027810689024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI76-SnXkAAvR5p.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2057858099621294491",
+        "created_at": "2026-05-22T22:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T23:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057950622318805040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705272888",
+              "start": 0,
+              "username": "MEGAprivacy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057950622318805040",
+        "in_reply_to_user_id": "1705272888",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057858099621294491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEGAprivacy I will protect my privacy, but not at the expense of completely losing all convenience. The app of mega is very troublesome to use."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057858027810689024"
+          ]
+        },
+        "author_id": "1705272888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google - AI",
+              "id": "10050907858",
+              "name": "Google - AI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490812891380871169",
+              "name": "Comic art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2057858099621294491",
+        "created_at": "2026-05-22T16:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057858099621294491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1lbufx6ZUS",
+              "end": 160,
+              "expanded_url": "https://x.com/MEGAprivacy/status/2057858099621294491/photo/1",
+              "media_key": "3_2057858027810689024",
+              "start": 137,
+              "url": "https://t.co/1lbufx6ZUS"
+            },
+            {
+              "display_url": "x.com/Grummz/status/…",
+              "end": 184,
+              "expanded_url": "https://twitter.com/Grummz/status/2057491549165179362",
+              "start": 161,
+              "url": "https://t.co/rNgqcJeGe6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057858099621294491",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1568,
+          "impression_count": 343937,
+          "like_count": 7717,
+          "quote_count": 98,
+          "reply_count": 192,
+          "retweet_count": 816
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057491549165179362",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Your files should be yours — not scanned, not interpreted by AI.\nThat's why MEGA is built with end-to-end encryption. Privacy by design. https://t.co/1lbufx6ZUS https://t.co/rNgqcJeGe6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，构建社区、AI、规模化的数据收集 | \n\n每周更新跨圈大合照 | \n说话含喵量巨大 | \n今年欢笑复明年，秋月春风等闲度。| \n关注牢喵喵！关注牢喵谢谢喵！| \n你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我\n\n要饭：https://t.co/aMQp3GpkVJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 147,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 124,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 234,
+          "like_count": 4047,
+          "listed_count": 5,
+          "media_count": 225,
+          "tweet_count": 1154
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-27T18:22:01.000Z",
+        "description": "The Privacy Company • End-to-End Encryption • Cloud Storage and Communication • Privacy by Design",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mega.io",
+                "end": 23,
+                "expanded_url": "https://mega.io",
+                "start": 0,
+                "url": "https://t.co/5dlEfYDM4g"
+              }
+            ]
+          }
+        },
+        "id": "1705272888",
+        "location": "New Zealand",
+        "name": "MEGA",
+        "pinned_tweet_id": "2052685187025109255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682157121486610432/hYu-reRT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99615,
+          "following_count": 1,
+          "like_count": 1353,
+          "listed_count": 524,
+          "media_count": 366,
+          "tweet_count": 5312
+        },
+        "url": "https://t.co/5dlEfYDM4g",
+        "username": "MEGAprivacy",
+        "verified": true
+      }
+    ]
+  }
+}

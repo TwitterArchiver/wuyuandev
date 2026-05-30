@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055801914491887616"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055799290321342964",
+    "created_at": "2026-05-17T00:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T01:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055801917180445159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806849464386416640",
+          "start": 0,
+          "username": "tangeorange"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JsKk27FRQB",
+          "end": 39,
+          "expanded_url": "https://x.com/wuyuandev/status/2055801917180445159/photo/1",
+          "media_key": "3_2055801914491887616",
+          "start": 16,
+          "url": "https://t.co/JsKk27FRQB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055801917180445159",
+    "in_reply_to_user_id": "1806849464386416640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055799290321342964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangeorange 喵！ https://t.co/JsKk27FRQB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2055801914491887616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIes8vnbYAA5_oP.jpg",
+        "width": 1283
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055801914491887616"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055799290321342964",
+        "created_at": "2026-05-17T00:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T01:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055801917180445159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806849464386416640",
+              "start": 0,
+              "username": "tangeorange"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JsKk27FRQB",
+              "end": 39,
+              "expanded_url": "https://x.com/wuyuandev/status/2055801917180445159/photo/1",
+              "media_key": "3_2055801914491887616",
+              "start": 16,
+              "url": "https://t.co/JsKk27FRQB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055801917180445159",
+        "in_reply_to_user_id": "1806849464386416640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055799290321342964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangeorange 喵！ https://t.co/JsKk27FRQB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806849464386416640",
+        "conversation_id": "2055799290321342964",
+        "created_at": "2026-05-16T23:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T00:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055799290321342964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055799290321342964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刷推喜欢关注哪些人？\n1. 高质量蓝 v\n2. 互 fo 蓝 v\n3. 猫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "langs.ink",
+                "end": 23,
+                "expanded_url": "https://langs.ink",
+                "start": 0,
+                "url": "https://t.co/Z142BBjByr"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "死与生 云与雨",
+        "pinned_tweet_id": "2051211437847290211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 227,
+          "like_count": 3574,
+          "listed_count": 3,
+          "media_count": 204,
+          "tweet_count": 1009
+        },
+        "url": "https://t.co/Z142BBjByr",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "15 y.o.\n尝试不死 | \nbff @maoxian1527 @kxk1388574 @tangeror @mxyzcdb | \n喜欢编程，AI/ML，DIY，meme，写文章，做游戏，做产品，最近在折腾加密货币。(但是日常帖子居多)| \n我不是精神病。|\n微信 orgudev 🚧35",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "kxk1388574"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "username": "tangeror"
+              },
+              {
+                "end": 63,
+                "start": 55,
+                "username": "mxyzcdb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "橙子",
+        "pinned_tweet_id": "2055354468758429860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053400102610595840/MxufF7uu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2358,
+          "following_count": 2315,
+          "like_count": 7974,
+          "listed_count": 3,
+          "media_count": 1042,
+          "tweet_count": 7358
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": true
+      }
+    ]
+  }
+}

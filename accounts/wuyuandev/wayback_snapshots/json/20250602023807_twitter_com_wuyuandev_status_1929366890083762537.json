@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "1929018203885248574",
+    "created_at": "2025-06-02T02:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T03:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929366890083762537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1884745808605818880",
+          "start": 0,
+          "username": "chen_bowen39014"
+        },
+        {
+          "end": 29,
+          "id": "1602320477347000325",
+          "start": 17,
+          "username": "landiantech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929366890083762537",
+    "in_reply_to_user_id": "1884745808605818880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929255593929330784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chen_bowen39014 @landiantech 我的账户，随便起的名字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "1929018203885248574",
+        "created_at": "2025-06-02T02:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T03:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929366890083762537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1884745808605818880",
+              "start": 0,
+              "username": "chen_bowen39014"
+            },
+            {
+              "end": 29,
+              "id": "1602320477347000325",
+              "start": 17,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929366890083762537",
+        "in_reply_to_user_id": "1884745808605818880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929255593929330784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chen_bowen39014 @landiantech 我的账户，随便起的名字"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884745808605818880",
+        "conversation_id": "1929018203885248574",
+        "created_at": "2025-06-01T19:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T20:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929255593929330784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929255593929330784",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1442,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929018203885248574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech ？？？？名字为什么叫看热闹？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/4K66E55Pni",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.houlangs.com",
+                "end": 37,
+                "expanded_url": "https://zerocat.houlangs.com",
+                "start": 14,
+                "url": "https://t.co/4K66E55Pni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 203,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 27
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T23:30:05.000Z",
+        "description": "",
+        "id": "1884745808605818880",
+        "name": "Bowen Chen",
+        "pinned_tweet_id": "1910187801745797457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884745863534198785/t0P4WW_w_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 60,
+          "like_count": 12895,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1616
+        },
+        "username": "chen_bowen39014",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 订阅频道：https://t.co/xzeoUEoPcU 联系方式：https://t.co/LJK1g3biPp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/landiansub",
+                "end": 48,
+                "expanded_url": "https://t.me/landiansub",
+                "start": 25,
+                "url": "https://t.co/xzeoUEoPcU"
+              },
+              {
+                "display_url": "t.me/id7371",
+                "end": 77,
+                "expanded_url": "https://t.me/id7371",
+                "start": 54,
+                "url": "https://t.co/LJK1g3biPp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "pinned_tweet_id": "1927204694960554076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25662,
+          "following_count": 550,
+          "like_count": 3259,
+          "listed_count": 235,
+          "media_count": 3723,
+          "tweet_count": 10819
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2048243366190829612",
+    "created_at": "2026-04-26T03:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T04:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048243366190829612"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/realNyarime/st…",
+          "end": 105,
+          "expanded_url": "https://twitter.com/realNyarime/status/2048141058484420839",
+          "start": 82,
+          "url": "https://t.co/i6wbx5h2ei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048243366190829612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048141058484420839",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后端也丢工作，要么成为开发大神去写linux，要么成为ai大神去做研发，要么成为安全人员去修的ai写出漏洞，要么去送外卖，要么吃亚硝酸钠。\n我比较趋向于最后一种。 https://t.co/i6wbx5h2ei"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2048243366190829612",
+        "created_at": "2026-04-26T03:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048243366190829612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/realNyarime/status/2048141058484420839",
+              "start": 82,
+              "url": "https://t.co/i6wbx5h2ei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048243366190829612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048141058484420839",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后端也丢工作，要么成为开发大神去写linux，要么成为ai大神去做研发，要么成为安全人员去修的ai写出漏洞，要么去送外卖，要么吃亚硝酸钠。\n我比较趋向于最后一种。 https://t.co/i6wbx5h2ei"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2047904444743086571",
+        "created_at": "2026-04-25T20:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T21:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048141058484420839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2534694942",
+              "start": 0,
+              "username": "zzNeutrino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048141058484420839",
+        "in_reply_to_user_id": "2534694942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 456,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047904444743086571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzNeutrino 去年只是前端丢工作，今年是美工丢工作，明年呢🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 99,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 76,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！来关注本喵！",
+        "pinned_tweet_id": "2048204898882531422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 924,
+          "like_count": 2202,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 546
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30598,
+          "following_count": 556,
+          "like_count": 12914,
+          "listed_count": 149,
+          "media_count": 1565,
+          "tweet_count": 10503
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2042827587664384329",
+    "created_at": "2026-04-11T06:41:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T07:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042855463449170403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1756909109788753920",
+          "start": 0,
+          "username": "__fanqie__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042855463449170403",
+    "in_reply_to_user_id": "1756909109788753920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042827587664384329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__fanqie__ 让他把常见导数的表给每个人抄一遍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 967,
+        "media_key": "3_2042827565023531010",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmU2NaakAIIyi-.jpg",
+        "width": 1164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2042827587664384329",
+        "created_at": "2026-04-11T06:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042855463449170403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042855463449170403",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042827587664384329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__fanqie__ 让他把常见导数的表给每个人抄一遍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042827565023531010"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "2042827587664384329",
+        "created_at": "2026-04-11T04:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042827587664384329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8bwBDlYbQo",
+              "end": 33,
+              "expanded_url": "https://x.com/__fanqie__/status/2042827587664384329/photo/1",
+              "media_key": "3_2042827565023531010",
+              "start": 10,
+              "url": "https://t.co/8bwBDlYbQo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042827587664384329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 249,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以这题该怎么解？ https://t.co/8bwBDlYbQo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️\n今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 47,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 24,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 892,
+          "like_count": 1656,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 354
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点但是无特别喜好\n不讨论政治/发梗图为主/侵权私信删除\n支持私信/线下面基（如果我有空的话）",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2040733914613137731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012161853645074432/8hBhXLsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4384,
+          "following_count": 2980,
+          "like_count": 1492,
+          "listed_count": 6,
+          "media_count": 876,
+          "tweet_count": 8594
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2046722141564104919",
+    "created_at": "2026-04-21T22:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T23:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046722141564104919"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yhbkqs/status/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/yhbkqs/status/2046549930026955255",
+          "start": 12,
+          "url": "https://t.co/C0dhhmVrp3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046722141564104919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046549930026955255",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "注意卖家秀和卖家秀的喵 https://t.co/C0dhhmVrp3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 723,
+        "media_key": "3_2046549861768822784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbOQZXbAAAHtCx.png",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2046722141564104919",
+        "created_at": "2026-04-21T22:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T23:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046722141564104919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yhbkqs/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/yhbkqs/status/2046549930026955255",
+              "start": 12,
+              "url": "https://t.co/C0dhhmVrp3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046722141564104919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046549930026955255",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "注意卖家秀和卖家秀的喵 https://t.co/C0dhhmVrp3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046549861768822784"
+          ]
+        },
+        "author_id": "1603306318139248640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2046549930026955255",
+        "created_at": "2026-04-21T11:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T12:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046549930026955255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xXyajQBPUM",
+              "end": 32,
+              "expanded_url": "https://x.com/yhbkqs/status/2046549930026955255/photo/1",
+              "media_key": "3_2046549861768822784",
+              "start": 9,
+              "url": "https://t.co/xXyajQBPUM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046549930026955255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 38250,
+          "like_count": 346,
+          "quote_count": 3,
+          "reply_count": 80,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "MAGA共产主义 https://t.co/xXyajQBPUM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 73,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 50,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 992,
+          "like_count": 2050,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 463
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-15T08:30:27.000Z",
+        "description": "以知识交流分享为主，既有深度内容也有轻松内容，高信息密度",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nav.wangluobaozang.com",
+                "end": 23,
+                "expanded_url": "http://nav.wangluobaozang.com",
+                "start": 0,
+                "url": "https://t.co/lCCvjCqaKm"
+              }
+            ]
+          }
+        },
+        "id": "1603306318139248640",
+        "location": "California City, CA",
+        "name": "银河百科全书",
+        "pinned_tweet_id": "2022559329149403494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604029153988481025/4LhC3HBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15463,
+          "following_count": 802,
+          "like_count": 46,
+          "listed_count": 71,
+          "media_count": 992,
+          "tweet_count": 5579
+        },
+        "url": "https://t.co/lCCvjCqaKm",
+        "username": "yhbkqs",
+        "verified": true
+      }
+    ]
+  }
+}

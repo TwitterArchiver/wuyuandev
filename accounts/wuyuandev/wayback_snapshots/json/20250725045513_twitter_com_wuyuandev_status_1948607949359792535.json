@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948374359284088832"
+      ],
+      "media_source_tweet_id": [
+        "1948374365160001746"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "1948607949359792535",
+    "created_at": "2025-07-25T04:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T05:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948607949359792535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1550811908990996482",
+          "start": 3,
+          "username": "uwasewaaaau"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wnzHELNKiv",
+          "end": 40,
+          "expanded_url": "https://x.com/uwasewaaaau/status/1948374365160001746/photo/1",
+          "media_key": "3_1948374359284088832",
+          "start": 17,
+          "url": "https://t.co/wnzHELNKiv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948607949359792535",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1701
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948374365160001746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uwasewaaaau: https://t.co/wnzHELNKiv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1614,
+        "media_key": "3_1948374359284088832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwoEKCabgAAWkpM.jpg",
+        "width": 1286
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948374359284088832"
+          ],
+          "media_source_tweet_id": [
+            "1948374365160001746"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "1948607949359792535",
+        "created_at": "2025-07-25T04:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T05:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948607949359792535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1550811908990996482",
+              "start": 3,
+              "username": "uwasewaaaau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wnzHELNKiv",
+              "end": 40,
+              "expanded_url": "https://x.com/uwasewaaaau/status/1948374365160001746/photo/1",
+              "media_key": "3_1948374359284088832",
+              "start": 17,
+              "url": "https://t.co/wnzHELNKiv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948607949359792535",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1701
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948374365160001746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uwasewaaaau: https://t.co/wnzHELNKiv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948374359284088832"
+          ]
+        },
+        "author_id": "1550811908990996482",
+        "conversation_id": "1948374365160001746",
+        "created_at": "2025-07-24T13:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T14:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948374365160001746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wnzHELNKiv",
+              "end": 23,
+              "expanded_url": "https://x.com/uwasewaaaau/status/1948374365160001746/photo/1",
+              "media_key": "3_1948374359284088832",
+              "start": 0,
+              "url": "https://t.co/wnzHELNKiv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948374365160001746",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1198,
+          "impression_count": 155662,
+          "like_count": 14650,
+          "quote_count": 8,
+          "reply_count": 8,
+          "retweet_count": 1701
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wnzHELNKiv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/4K66E55Pni",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.houlangs.com",
+                "end": 37,
+                "expanded_url": "https://zerocat.houlangs.com",
+                "start": 14,
+                "url": "https://t.co/4K66E55Pni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 213,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 37
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-23T11:57:40.000Z",
+        "description": "絵を描きます/オリジナルと二次創作(最近はスタレ)/ ご依頼や絵の使用に関してはこちら→ https://t.co/NOPtUIrrjn / Skeb募集中",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/uwasewawawa",
+                "end": 68,
+                "expanded_url": "https://lit.link/uwasewawawa",
+                "start": 45,
+                "url": "https://t.co/NOPtUIrrjn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@uwasewaaaau",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@uwasewaaaau",
+                "start": 0,
+                "url": "https://t.co/7Lgb9baTOj"
+              }
+            ]
+          }
+        },
+        "id": "1550811908990996482",
+        "name": "上瀬わう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550828253665181696/HW9iQIrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19994,
+          "following_count": 33,
+          "like_count": 7928,
+          "listed_count": 102,
+          "media_count": 255,
+          "tweet_count": 826
+        },
+        "url": "https://t.co/7Lgb9baTOj",
+        "username": "uwasewaaaau",
+        "verified": false
+      }
+    ]
+  }
+}

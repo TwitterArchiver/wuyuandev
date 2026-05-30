@@ -1,0 +1,607 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "733774146434269186",
+          "name": "Cristiano Ronaldo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226232654725120",
+          "name": "Al-Nassr FC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "733774146434269186",
+          "name": "Cristiano Ronaldo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226232654725120",
+          "name": "Al-Nassr FC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733774146434269186",
+          "name": "Cristiano Ronaldo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "2057553113574215734",
+    "created_at": "2026-05-22T14:33:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T15:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057832139454840862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "155659213",
+          "start": 0,
+          "username": "Cristiano"
+        },
+        {
+          "end": 24,
+          "id": "908749393",
+          "start": 11,
+          "username": "AlNassrFC_EN"
+        },
+        {
+          "end": 35,
+          "id": "523926217",
+          "start": 25,
+          "username": "AlNassrFC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057832139454840862",
+    "in_reply_to_user_id": "155659213",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057553113574215734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cristiano @AlNassrFC_EN @AlNassrFC wow！it is cool！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2057553107475714048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI3lpl2XUAAah88.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774146434269186",
+              "name": "Cristiano Ronaldo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226232654725120",
+              "name": "Al-Nassr FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774146434269186",
+              "name": "Cristiano Ronaldo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226232654725120",
+              "name": "Al-Nassr FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774146434269186",
+              "name": "Cristiano Ronaldo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2057553113574215734",
+        "created_at": "2026-05-22T14:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057832139454840862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "155659213",
+              "start": 0,
+              "username": "Cristiano"
+            },
+            {
+              "end": 24,
+              "id": "908749393",
+              "start": 11,
+              "username": "AlNassrFC_EN"
+            },
+            {
+              "end": 35,
+              "id": "523926217",
+              "start": 25,
+              "username": "AlNassrFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057832139454840862",
+        "in_reply_to_user_id": "155659213",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057553113574215734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cristiano @AlNassrFC_EN @AlNassrFC wow！it is cool！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057553107475714048"
+          ]
+        },
+        "author_id": "155659213",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774146434269186",
+              "name": "Cristiano Ronaldo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774146434269186",
+              "name": "Cristiano Ronaldo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774146434269186",
+              "name": "Cristiano Ronaldo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2057553113574215734",
+        "created_at": "2026-05-21T20:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T21:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057553113574215734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8x9nzGHRx1",
+              "end": 43,
+              "expanded_url": "https://x.com/Cristiano/status/2057553113574215734/photo/1",
+              "media_key": "3_2057553107475714048",
+              "start": 20,
+              "url": "https://t.co/8x9nzGHRx1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057553113574215734",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19158,
+          "impression_count": 45825465,
+          "like_count": 1269214,
+          "quote_count": 17776,
+          "reply_count": 47668,
+          "retweet_count": 198729
+        },
+        "reply_settings": "everyone",
+        "text": "CHAMPIONS!!!!! 🏆 🟡🔵 https://t.co/8x9nzGHRx1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，构建社区、AI、规模化的数据收集 | \n\n每周更新跨圈大合照 | \n说话含喵量巨大 | \n今年欢笑复明年，秋月春风等闲度。| \n关注牢喵喵！关注牢喵谢谢喵！| \n你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我\n\n要饭：https://t.co/aMQp3GpkVJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 147,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 124,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 234,
+          "like_count": 3980,
+          "listed_count": 4,
+          "media_count": 223,
+          "tweet_count": 1140
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-14T19:09:20.000Z",
+        "description": "Welcome to the official account of Cristiano Ronaldo.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cristianoronaldo.com",
+                "end": 23,
+                "expanded_url": "https://www.cristianoronaldo.com/",
+                "start": 0,
+                "url": "https://t.co/Pc19xaN1Sp"
+              }
+            ]
+          }
+        },
+        "id": "155659213",
+        "name": "Cristiano Ronaldo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940344470290989057/1OUP8RgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107911267,
+          "following_count": 81,
+          "like_count": 90,
+          "listed_count": 77064,
+          "media_count": 2520,
+          "tweet_count": 4470
+        },
+        "url": "https://t.co/Pc19xaN1Sp",
+        "username": "Cristiano",
+        "verified": true
+      },
+      {
+        "created_at": "2012-10-27T19:11:57.000Z",
+        "description": "💛 The League is Yellow\n🏆 The Champion is Nassr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "alnassr.sa",
+                "end": 23,
+                "expanded_url": "https://alnassr.sa/",
+                "start": 0,
+                "url": "https://t.co/ptGWdvhLK2"
+              }
+            ]
+          }
+        },
+        "id": "908749393",
+        "location": "Riyadh, Saudi Arabia",
+        "name": "AlNassr FC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924480755712794624/Id3LfeBf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838333,
+          "following_count": 55,
+          "like_count": 2,
+          "listed_count": 1192,
+          "media_count": 21362,
+          "tweet_count": 23691
+        },
+        "url": "https://t.co/ptGWdvhLK2",
+        "username": "AlNassrFC_EN",
+        "verified": true
+      },
+      {
+        "created_at": "2012-03-14T02:26:23.000Z",
+        "description": "الحساب الرسمي لنادي #النصر السعودي - AlNassr Saudi Club Official Account - English : @AlNassrFC_EN - رياضات النصر المختلفة @AlNassr_SG",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 20,
+                "tag": "النصر"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "AlNassrFC_EN"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "AlNassr_SG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "alnassr.sa",
+                "end": 23,
+                "expanded_url": "https://alnassr.sa/",
+                "start": 0,
+                "url": "https://t.co/YJQOqPT1It"
+              }
+            ]
+          }
+        },
+        "id": "523926217",
+        "location": "الرياض, السعودية",
+        "name": "نادي النصر السعودي",
+        "pinned_tweet_id": "2044385247551430968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924480383090819072/xdDArNPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4013446,
+          "following_count": 39,
+          "like_count": 0,
+          "listed_count": 4305,
+          "media_count": 36812,
+          "tweet_count": 47485
+        },
+        "url": "https://t.co/YJQOqPT1It",
+        "username": "AlNassrFC",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2050514095254999306",
+    "created_at": "2026-05-03T00:54:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T01:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050740854059618738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "975329340",
+          "start": 0,
+          "username": "shengxj1"
+        }
+      ],
+      "urls": [
+        {
+          "description": "AI development platform.",
+          "display_url": "hub.linux.do",
+          "end": 50,
+          "expanded_url": "http://hub.linux.do",
+          "start": 27,
+          "status": 200,
+          "title": "Loading...",
+          "unwound_url": "https://hub.linux.do/",
+          "url": "https://t.co/LgSqAqL3rm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050740854059618738",
+    "in_reply_to_user_id": "975329340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050514095254999306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shengxj1 关于自己的token卖的，先去看看https://t.co/LgSqAqL3rm？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2050514095254999306",
+        "created_at": "2026-05-03T00:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T01:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050740854059618738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "975329340",
+              "start": 0,
+              "username": "shengxj1"
+            }
+          ],
+          "urls": [
+            {
+              "description": "AI development platform.",
+              "display_url": "hub.linux.do",
+              "end": 50,
+              "expanded_url": "http://hub.linux.do",
+              "start": 27,
+              "status": 200,
+              "title": "Loading...",
+              "unwound_url": "https://hub.linux.do/",
+              "url": "https://t.co/LgSqAqL3rm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050740854059618738",
+        "in_reply_to_user_id": "975329340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050514095254999306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shengxj1 关于自己的token卖的，先去看看https://t.co/LgSqAqL3rm？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "975329340",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2050514095254999306",
+        "created_at": "2026-05-02T09:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T10:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050514095254999306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sunyuchentron/…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/sunyuchentron/status/2050136111981437111",
+              "start": 60,
+              "url": "https://t.co/F7fTKUltmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050514095254999306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4417,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050136111981437111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孙哥中转站搞点特色出来，比如引入交易所挂单撮合，价格由市场深度决定\n大家也可以把自己闲置的token拿出来卖 撮合交易 https://t.co/F7fTKUltmB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸 | 坐标HNCS\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 123,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 100,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！",
+        "pinned_tweet_id": "2048204898882531422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 679,
+          "like_count": 2715,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 681
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-28T04:19:05.000Z",
+        "description": "不爱上班的程序员, 靠谱的前端讲师， 卖课为生，前端 Web3  程序员英语 私教, 独立开发\n努力做最好的程序员讲师\n油管主页：https://t.co/kEcslLs1vs\n加入电报群:  https://t.co/fQEVZn8uNH\n合作微信：itdasheng168",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@shengxj",
+                "end": 88,
+                "expanded_url": "http://www.youtube.com/@shengxj",
+                "start": 65,
+                "url": "https://t.co/kEcslLs1vs"
+              },
+              {
+                "display_url": "t.me/shengxj11",
+                "end": 120,
+                "expanded_url": "http://t.me/shengxj11",
+                "start": 97,
+                "url": "https://t.co/fQEVZn8uNH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/shengxj",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/shengxj",
+                "start": 0,
+                "url": "https://t.co/PIj90O4Mwx"
+              }
+            ]
+          }
+        },
+        "id": "975329340",
+        "location": "Remote",
+        "name": "花果山大圣",
+        "pinned_tweet_id": "2003096843509715432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956649801128329216/9dfodVqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55067,
+          "following_count": 1227,
+          "like_count": 2317,
+          "listed_count": 419,
+          "media_count": 2524,
+          "tweet_count": 12971
+        },
+        "url": "https://t.co/PIj90O4Mwx",
+        "username": "shengxj1",
+        "verified": true
+      }
+    ]
+  }
+}

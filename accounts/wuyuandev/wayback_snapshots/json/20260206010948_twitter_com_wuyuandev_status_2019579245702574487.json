@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2019288115161031009",
+    "created_at": "2026-02-06T01:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T02:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019579245702574487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1128817299954159621",
+          "start": 0,
+          "username": "aroma10928750"
+        },
+        {
+          "end": 24,
+          "id": "126880447",
+          "start": 15,
+          "username": "miantiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019579245702574487",
+    "in_reply_to_user_id": "1128817299954159621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019359668087451658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aroma10928750 @miantiao 缺点是现在一堆bug，我打开文档网站，直接开始全屏闪烁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2019288115161031009",
+        "created_at": "2026-02-06T01:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T02:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019579245702574487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1128817299954159621",
+              "start": 0,
+              "username": "aroma10928750"
+            },
+            {
+              "end": 24,
+              "id": "126880447",
+              "start": 15,
+              "username": "miantiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019579245702574487",
+        "in_reply_to_user_id": "1128817299954159621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019359668087451658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aroma10928750 @miantiao 缺点是现在一堆bug，我打开文档网站，直接开始全屏闪烁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128817299954159621",
+        "conversation_id": "2019288115161031009",
+        "created_at": "2026-02-05T10:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T11:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019359668087451658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "126880447",
+              "start": 0,
+              "username": "miantiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019359668087451658",
+        "in_reply_to_user_id": "126880447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019288115161031009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miantiao 这个库 有什么优缺点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/6Zcu6y11gj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.dev",
+                "end": 37,
+                "expanded_url": "https://zerocat.dev",
+                "start": 14,
+                "url": "https://t.co/6Zcu6y11gj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005066106604863489/XJPt2Baa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 367,
+          "like_count": 572,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 96
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-16T00:19:51.000Z",
+        "description": "Engineer | Product | 聊聊科技、增长、金融相关话题 | prev @Official_CRSHK @ByteDanceTalk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 43,
+                "username": "Official_CRSHK"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "ByteDanceTalk"
+              }
+            ]
+          }
+        },
+        "id": "1128817299954159621",
+        "name": "Rain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004381778858151937/2UCAf6Wg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 5393,
+          "like_count": 35084,
+          "listed_count": 6,
+          "media_count": 92,
+          "tweet_count": 2544
+        },
+        "username": "aroma10928750",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-27T08:25:00.000Z",
+        "description": "前端切图仔🧑🏻‍💻，后端三脚猫🤷🏻‍♂️，运维挖坑人🤦🏻‍♂️，AI 门外汉🧐。\n\n开源: \n⚡ https://t.co/wk0K4h9gd5\n🎨 https://t.co/yhzf63vDcF\n\n玩具: \n🧰 https://t.co/cRxrFndEFH\n🪄 https://t.co/29VYjTugyM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Sink.Cool",
+                "end": 72,
+                "expanded_url": "http://Sink.Cool",
+                "start": 49,
+                "url": "https://t.co/wk0K4h9gd5"
+              },
+              {
+                "display_url": "bm.md",
+                "end": 98,
+                "expanded_url": "http://bm.md",
+                "start": 75,
+                "url": "https://t.co/yhzf63vDcF"
+              },
+              {
+                "display_url": "HTML.ZONE",
+                "end": 130,
+                "expanded_url": "http://HTML.ZONE",
+                "start": 107,
+                "url": "https://t.co/cRxrFndEFH"
+              },
+              {
+                "display_url": "AIGC.FAST",
+                "end": 156,
+                "expanded_url": "http://AIGC.FAST",
+                "start": 133,
+                "url": "https://t.co/29VYjTugyM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buy.mt.a.coffee",
+                "end": 23,
+                "expanded_url": "https://buy.mt.a.coffee",
+                "start": 0,
+                "url": "https://t.co/E2EMh580LC"
+              }
+            ]
+          }
+        },
+        "id": "126880447",
+        "location": "451",
+        "name": "面条",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648180024464539648/L6Na78It_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10855,
+          "following_count": 869,
+          "like_count": 8593,
+          "listed_count": 131,
+          "media_count": 942,
+          "tweet_count": 6654
+        },
+        "url": "https://t.co/E2EMh580LC",
+        "username": "miantiao",
+        "verified": false
+      }
+    ]
+  }
+}

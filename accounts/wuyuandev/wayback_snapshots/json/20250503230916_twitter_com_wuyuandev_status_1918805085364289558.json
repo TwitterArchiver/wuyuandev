@@ -1,0 +1,513 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1524184876139769856",
+          "name": "Figma"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446727181500416",
+          "name": "Tech industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1524184876139769856",
+          "name": "Figma"
+        }
+      }
+    ],
+    "conversation_id": "1918650161607094315",
+    "created_at": "2025-05-03T23:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T00:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918805085364289558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1594371867007131649",
+          "start": 0,
+          "username": "IAmEnochOmondi"
+        },
+        {
+          "end": 22,
+          "id": "3181020308",
+          "start": 16,
+          "username": "figma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918805085364289558",
+    "in_reply_to_user_id": "1594371867007131649",
+    "lang": "et",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918650161607094315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IAmEnochOmondi @figma saas"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3976,
+        "media_key": "3_1918650134197358592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqBqIbEW0AAigEf.jpg",
+        "width": 4022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1524184876139769856",
+              "name": "Figma"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1524184876139769856",
+              "name": "Figma"
+            }
+          }
+        ],
+        "conversation_id": "1918650161607094315",
+        "created_at": "2025-05-03T23:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T00:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918805085364289558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1594371867007131649",
+              "start": 0,
+              "username": "IAmEnochOmondi"
+            },
+            {
+              "end": 22,
+              "id": "3181020308",
+              "start": 16,
+              "username": "figma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918805085364289558",
+        "in_reply_to_user_id": "1594371867007131649",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918650161607094315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IAmEnochOmondi @figma saas"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918650134197358592"
+          ]
+        },
+        "author_id": "1594371867007131649",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1524184876139769856",
+              "name": "Figma"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1524184876139769856",
+              "name": "Figma"
+            }
+          }
+        ],
+        "conversation_id": "1918650161607094315",
+        "created_at": "2025-05-03T12:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T13:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918650161607094315"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 97,
+              "normalized_text": "DESKTOP",
+              "probability": 0.5048,
+              "start": 91,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 79,
+              "id": "3181020308",
+              "start": 73,
+              "username": "figma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RoJt5qKrTn",
+              "end": 241,
+              "expanded_url": "https://x.com/IAmEnochOmondi/status/1918650161607094315/photo/1",
+              "media_key": "3_1918650134197358592",
+              "start": 218,
+              "url": "https://t.co/RoJt5qKrTn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918650161607094315",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 5077,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 72,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "🚨 FREE Template Giveaway\n\nI'm giving away this Saas template\n\nReceive a \n@figma\n file with DESKTOP and MOBILE designs for free\n\nHow to get it?\n\n1. Comment \"saas\"\n2. Retweet\n3. Follow me so I can send it to you via DM. https://t.co/RoJt5qKrTn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/4K66E55Pni",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.houlangs.com",
+                "end": 37,
+                "expanded_url": "https://zerocat.houlangs.com",
+                "start": 14,
+                "url": "https://t.co/4K66E55Pni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 198,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 18
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T16:47:55.000Z",
+        "description": "✦ Founder @salanadigitalHQ\n✦ Premium Figma/@Framer Templates → https://t.co/wxttrMJ4mI\n\nDiscuss your project in DM or book a call.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "salanadigitalHQ"
+              },
+              {
+                "end": 50,
+                "start": 43,
+                "username": "Framer"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laurelsupply.framer.website",
+                "end": 86,
+                "expanded_url": "https://laurelsupply.framer.website",
+                "start": 63,
+                "url": "https://t.co/wxttrMJ4mI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "salanadigital.framer.website",
+                "end": 23,
+                "expanded_url": "https://salanadigital.framer.website/",
+                "start": 0,
+                "url": "https://t.co/Dfe9qDW43i"
+              }
+            ]
+          }
+        },
+        "id": "1594371867007131649",
+        "location": "Let's Build Your Website   👉",
+        "name": "Enoch Omondi - Design Partner",
+        "pinned_tweet_id": "1918650161607094315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918626217554546688/WlDPdS9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 20,
+          "like_count": 907,
+          "listed_count": 3,
+          "media_count": 118,
+          "tweet_count": 1869
+        },
+        "url": "https://t.co/Dfe9qDW43i",
+        "username": "IAmEnochOmondi",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-30T21:48:45.000Z",
+        "description": "Your official #Config2025 news source",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 14,
+                "tag": "Config2025"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "figma.bot/VirtualConfig",
+                "end": 23,
+                "expanded_url": "https://figma.bot/VirtualConfig",
+                "start": 0,
+                "url": "https://t.co/aZCVHfSN0x"
+              }
+            ]
+          }
+        },
+        "id": "3181020308",
+        "name": "Config Crave",
+        "pinned_tweet_id": "1918334711501402281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917616878211719168/CfzwUW-N_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469623,
+          "following_count": 59,
+          "like_count": 41326,
+          "listed_count": 4022,
+          "media_count": 2440,
+          "tweet_count": 29290
+        },
+        "url": "https://t.co/aZCVHfSN0x",
+        "username": "figma",
+        "verified": true
+      }
+    ]
+  }
+}

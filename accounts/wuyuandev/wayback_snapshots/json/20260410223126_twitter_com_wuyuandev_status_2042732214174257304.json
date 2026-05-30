@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      }
+    ],
+    "conversation_id": "2042693811101483267",
+    "created_at": "2026-04-10T22:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T23:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042732214174257304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1928879631526141952",
+          "start": 0,
+          "username": "chat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042732214174257304",
+    "in_reply_to_user_id": "1928879631526141952",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042693811101483267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chat where is android？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2568,
+        "media_key": "3_2042693609603178496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFkbA-lboAAEulC.png",
+        "width": 2568
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2042693811101483267",
+        "created_at": "2026-04-10T22:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T23:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042732214174257304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1928879631526141952",
+              "start": 0,
+              "username": "chat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042732214174257304",
+        "in_reply_to_user_id": "1928879631526141952",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042693811101483267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chat where is android？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042693609603178496"
+          ]
+        },
+        "author_id": "1928879631526141952",
+        "conversation_id": "2042693811101483267",
+        "created_at": "2026-04-10T19:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T20:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042693811101483267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Download XChat by X Corp. on the App Store. See screenshots, ratings and reviews, user tips, and more apps like XChat.",
+              "display_url": "apps.apple.com/us/app/xchat/i…",
+              "end": 83,
+              "expanded_url": "https://apps.apple.com/us/app/xchat/id6760873038",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2042693859004526592/hlqorYCB?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2042693859004526592/hlqorYCB?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 60,
+              "status": 200,
+              "title": "XChat App - App Store",
+              "unwound_url": "https://apps.apple.com/us/app/xchat/id6760873038",
+              "url": "https://t.co/TM8Lk7AMGV"
+            },
+            {
+              "display_url": "pic.x.com/ZJ3yROXK1t",
+              "end": 107,
+              "expanded_url": "https://x.com/chat/status/2042693811101483267/photo/1",
+              "media_key": "3_2042693609603178496",
+              "start": 84,
+              "url": "https://t.co/ZJ3yROXK1t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042693811101483267",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 454,
+          "impression_count": 679178,
+          "like_count": 2702,
+          "quote_count": 410,
+          "reply_count": 590,
+          "retweet_count": 375
+        },
+        "reply_settings": "everyone",
+        "text": "Your encrypted chats deserve their own app.\n\nPre-order now: https://t.co/TM8Lk7AMGV https://t.co/ZJ3yROXK1t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️\n今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 47,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 24,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2025788939731439975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 891,
+          "like_count": 1647,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 347
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T18:22:04.000Z",
+        "description": "Chat freely. Fully encrypted messaging powered by X.",
+        "id": "1928879631526141952",
+        "location": "Palo Alto",
+        "name": "XChat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036559411485773825/8ceAb882_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23926,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 136,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "username": "chat",
+        "verified": true
+      }
+    ]
+  }
+}

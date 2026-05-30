@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956926692758609920"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "1956156388876701780",
+    "created_at": "2025-08-17T03:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T04:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956926694746677360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1580781",
+          "start": 0,
+          "username": "ruanyf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2ifyET3lBc",
+          "end": 31,
+          "expanded_url": "https://x.com/wuyuandev/status/1956926694746677360/photo/1",
+          "media_key": "3_1956926692758609920",
+          "start": 8,
+          "url": "https://t.co/2ifyET3lBc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956926694746677360",
+    "in_reply_to_user_id": "1580781",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956156388876701780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruanyf https://t.co/2ifyET3lBc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_1956926692758609920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyhmdXVbYAABrbU.jpg",
+        "width": 512
+      },
+      {
+        "height": 293,
+        "media_key": "3_1956156380370624517",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyWp3SEa4AU7j9b.jpg",
+        "width": 342
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956926692758609920"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "1956156388876701780",
+        "created_at": "2025-08-17T03:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T04:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956926694746677360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1580781",
+              "start": 0,
+              "username": "ruanyf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ifyET3lBc",
+              "end": 31,
+              "expanded_url": "https://x.com/wuyuandev/status/1956926694746677360/photo/1",
+              "media_key": "3_1956926692758609920",
+              "start": 8,
+              "url": "https://t.co/2ifyET3lBc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956926694746677360",
+        "in_reply_to_user_id": "1580781",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956156388876701780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruanyf https://t.co/2ifyET3lBc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956156380370624517"
+          ]
+        },
+        "author_id": "1580781",
+        "conversation_id": "1956156388876701780",
+        "created_at": "2025-08-15T00:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T01:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956156388876701780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "暗网有专门域名 .onion，这种域名的网站都是要用 Tor 打开的。 这种设计叫做\"洋葱路由\"，就像剥洋葱一样，必须一层层解开所有的中继节点，才能了解完整的访问链路。事实上，Tor 这个词就是洋葱路由（The Onion Router）的首字母缩写。 曾经非常著名的暗网黑市网站\"丝绸之路\"（上图），就是完全依托于 Tor 来访问。但是，2013年被美国政府查封，创始人也被抓了。这也从一个侧面说明，Tor 并不安全。 1、上周，中国的载人月球登陆器\" 揽月 \"，在河北省怀来县进行了着陆起飞测试。 该系统于2021年4月，首先在新西兰和希腊上线，已覆盖98个国家/地区。2023年11月的菲律宾6.7级地震，2023年11月的尼泊尔5.7级地震，它都发送了警报。 CSS 的新语法\"锚点定位\"（anchor position），可以不使用 JavaScript，只用 CSS 就完成弹出菜单对某个锚点元素 < a > 的定位。 NotebookLM 是现在公认的最佳 AI 笔记工具，作者写了他的使用方法，用它来\"看\"没看过的电视剧，我觉得有参考价值。 π² 等于9.86，很接近重力加速度 g 的9.8。本文告诉你，",
+              "display_url": "ruanyifeng.com/blog/2025/08/w…",
+              "end": 135,
+              "expanded_url": "https://www.ruanyifeng.com/blog/2025/08/weekly-issue-361.html",
+              "start": 112,
+              "status": 200,
+              "title": "科技爱好者周刊（第 361 期）：暗网 Tor 安全吗？ - 阮一峰的网络日志",
+              "unwound_url": "https://www.ruanyifeng.com/blog/2025/08/weekly-issue-361.html",
+              "url": "https://t.co/5DN2Z0i4qs"
+            },
+            {
+              "display_url": "pic.x.com/PbGngM0cxX",
+              "end": 159,
+              "expanded_url": "https://x.com/ruanyf/status/1956156388876701780/photo/1",
+              "media_key": "3_1956156380370624517",
+              "start": 136,
+              "url": "https://t.co/PbGngM0cxX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956156388876701780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 478,
+          "impression_count": 374768,
+          "like_count": 609,
+          "quote_count": 40,
+          "reply_count": 102,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "大家知道 Tor 浏览器吧？\n\n它是访问暗网的主要工具。\n\n我一直以为 Tor/暗网很安全，可以保证访问者的匿名，无法找到真人。\n\n上周，我读到一篇文章，彻底动摇了对 Tor 的信心。我震惊地发现，Tor 是美国政府开发的。https://t.co/5DN2Z0i4qs https://t.co/PbGngM0cxX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "ZeroCat社区开发者\n\nhttps://t.co/4K66E55Pni",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerocat.houlangs.com",
+                "end": 37,
+                "expanded_url": "https://zerocat.houlangs.com",
+                "start": 14,
+                "url": "https://t.co/4K66E55Pni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN",
+        "name": "孙悟元",
+        "pinned_tweet_id": "1918113936555343956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657570628822761472/hp54IeoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 231,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 48
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2007-03-20T02:53:02.000Z",
+        "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ruanyifeng.com",
+                "end": 22,
+                "expanded_url": "http://www.ruanyifeng.com",
+                "start": 0,
+                "url": "http://t.co/fw8pEsBuak"
+              }
+            ]
+          }
+        },
+        "id": "1580781",
+        "location": "Shanghai, China",
+        "name": "ruanyf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189749,
+          "following_count": 374,
+          "like_count": 13738,
+          "listed_count": 1491,
+          "media_count": 2934,
+          "tweet_count": 4910
+        },
+        "url": "http://t.co/fw8pEsBuak",
+        "username": "ruanyf",
+        "verified": false
+      }
+    ]
+  }
+}

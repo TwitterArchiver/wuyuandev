@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047138785478213632"
+      ],
+      "media_source_tweet_id": [
+        "2047138787688636501"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "2047316007962964219",
+    "created_at": "2026-04-23T14:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047316007962964219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1662058783215087617",
+          "start": 3,
+          "username": "HacchiTheMaid"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D5yWqNmBEc",
+          "end": 45,
+          "expanded_url": "https://x.com/HacchiTheMaid/status/2047138787688636501/photo/1",
+          "media_key": "3_2047138785478213632",
+          "start": 22,
+          "url": "https://t.co/D5yWqNmBEc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047316007962964219",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047138787688636501",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HacchiTheMaid: 难绷 https://t.co/D5yWqNmBEc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 642,
+        "media_key": "3_2047138785478213632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGjl4RJagAAXBNu.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047138785478213632"
+          ],
+          "media_source_tweet_id": [
+            "2047138787688636501"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2047316007962964219",
+        "created_at": "2026-04-23T14:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047316007962964219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1662058783215087617",
+              "start": 3,
+              "username": "HacchiTheMaid"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D5yWqNmBEc",
+              "end": 45,
+              "expanded_url": "https://x.com/HacchiTheMaid/status/2047138787688636501/photo/1",
+              "media_key": "3_2047138785478213632",
+              "start": 22,
+              "url": "https://t.co/D5yWqNmBEc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047316007962964219",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047138787688636501",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HacchiTheMaid: 难绷 https://t.co/D5yWqNmBEc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047138785478213632"
+          ]
+        },
+        "author_id": "1662058783215087617",
+        "conversation_id": "2047138787688636501",
+        "created_at": "2026-04-23T02:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047138787688636501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D5yWqNmBEc",
+              "end": 26,
+              "expanded_url": "https://x.com/HacchiTheMaid/status/2047138787688636501/photo/1",
+              "media_key": "3_2047138785478213632",
+              "start": 3,
+              "url": "https://t.co/D5yWqNmBEc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047138787688636501",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 99051,
+          "like_count": 727,
+          "quote_count": 12,
+          "reply_count": 63,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "难绷 https://t.co/D5yWqNmBEc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 73,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 50,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 992,
+          "like_count": 2063,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 474
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T11:31:22.000Z",
+        "description": "终其永怀，又窘阴雨。狗狗@Sorsacerba",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Sorsacerba"
+              }
+            ]
+          }
+        },
+        "id": "1662058783215087617",
+        "location": "距离2.4km",
+        "name": "Hacchi🏳️‍⚧️",
+        "pinned_tweet_id": "1927301590777479428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937052623523168256/NWtxx8z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10301,
+          "following_count": 2006,
+          "like_count": 52942,
+          "listed_count": 37,
+          "media_count": 1362,
+          "tweet_count": 36953
+        },
+        "username": "HacchiTheMaid",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,650 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+          "id": "1502373339775397892",
+          "name": "WeChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Leadership",
+          "id": "857878777191211008",
+          "name": "Leadership"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tech Professionals",
+          "id": "1091420346660470784",
+          "name": "Tech personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "2028935357249851463",
+    "created_at": "2026-03-03T23:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T00:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028981257032577436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165044876297134080",
+          "start": 0,
+          "username": "realNyarime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028981257032577436",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028935357249851463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realNyarime elon musk：Twitter will imitate WeChat"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2028934827932827649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCg5eetawAE-6C8.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2028934846572310528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCg5fkJasAAr2Pg.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2028934846576529408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCg5fkKbEAAflpo.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2028935357249851463",
+        "created_at": "2026-03-03T23:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T00:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028981257032577436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028981257032577436",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028935357249851463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime elon musk：Twitter will imitate WeChat"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028934827932827649",
+            "3_2028934846572310528",
+            "3_2028934846576529408"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2028935357249851463",
+        "created_at": "2026-03-03T20:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T21:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028935357249851463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Available on iOS",
+              "display_url": "testflight.apple.com/join/33pZrPJY",
+              "end": 113,
+              "expanded_url": "https://testflight.apple.com/join/33pZrPJY",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/2028873793305743368/Q2bk6Wii?format=jpg&name=orig",
+                  "width": 1080
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028873793305743368/Q2bk6Wii?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 90,
+              "status": 200,
+              "title": "Join the xChat Beta beta",
+              "unwound_url": "https://testflight.apple.com/join/33pZrPJY",
+              "url": "https://t.co/5HzanHiedx"
+            },
+            {
+              "display_url": "pic.x.com/7DlC1lGi1k",
+              "end": 137,
+              "expanded_url": "https://x.com/realNyarime/status/2028935357249851463/photo/1",
+              "media_key": "3_2028934827932827649",
+              "start": 114,
+              "url": "https://t.co/7DlC1lGi1k"
+            },
+            {
+              "display_url": "pic.x.com/7DlC1lGi1k",
+              "end": 137,
+              "expanded_url": "https://x.com/realNyarime/status/2028935357249851463/photo/1",
+              "media_key": "3_2028934846572310528",
+              "start": 114,
+              "url": "https://t.co/7DlC1lGi1k"
+            },
+            {
+              "display_url": "pic.x.com/7DlC1lGi1k",
+              "end": 137,
+              "expanded_url": "https://x.com/realNyarime/status/2028935357249851463/photo/1",
+              "media_key": "3_2028934846576529408",
+              "start": 114,
+              "url": "https://t.co/7DlC1lGi1k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028935357249851463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1421,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "𝕏单独把聊天功能独立出来，做成了XChat，目前可以在iOS设备上测试～\n\n试了下UI也很棒，与𝕏 App互通，点击即可一键授权。\n若要参与测试，请下载TestFlight并访问：https://t.co/5HzanHiedx https://t.co/7DlC1lGi1k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mfl9Y8a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 41,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 18,
+                "url": "https://t.co/Ch2mfl9Y8a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2025788939731439975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 671,
+          "like_count": 1193,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 223
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2023357352980910144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19145,
+          "following_count": 520,
+          "like_count": 10579,
+          "listed_count": 77,
+          "media_count": 1032,
+          "tweet_count": 7897
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

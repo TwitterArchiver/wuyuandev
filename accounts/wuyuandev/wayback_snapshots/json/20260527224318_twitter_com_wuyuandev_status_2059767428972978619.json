@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2059554344564129832",
+    "created_at": "2026-05-27T22:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T23:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059767428972978619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883245404881633280",
+          "start": 0,
+          "username": "YangYi21649"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059767428972978619",
+    "in_reply_to_user_id": "1883245404881633280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059554344564129832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YangYi21649 恭喜喵！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2059554344564129832",
+        "created_at": "2026-05-27T22:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T23:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059767428972978619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883245404881633280",
+              "start": 0,
+              "username": "YangYi21649"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059767428972978619",
+        "in_reply_to_user_id": "1883245404881633280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059554344564129832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangYi21649 恭喜喵！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883245404881633280",
+        "conversation_id": "2059554344564129832",
+        "created_at": "2026-05-27T08:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059554344564129832"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059554344564129832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 997,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈已经开始尝试改变对我的称呼了喵（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，构建社区、AI工具和规模化的数据收集 | \n\n每周更新跨圈大合照 | \n说话含喵量巨大 | \n今年欢笑复明年，秋月春风等闲度。| \n关注牢喵喵！关注牢喵谢谢喵！| \n你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我\n\n要饭：https://t.co/aMQp3GpkVJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 149,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 126,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 226,
+          "like_count": 4540,
+          "listed_count": 4,
+          "media_count": 264,
+          "tweet_count": 1344
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T20:08:08.000Z",
+        "description": "mtf 大龄天残党 超级耐杀王 素质极低 纯种精神病 修电脑的\n前世@h2o2333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 34,
+                "username": "h2o2333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/h2o23332",
+                "end": 23,
+                "expanded_url": "https://ngl.link/h2o23332",
+                "start": 0,
+                "url": "https://t.co/gr3urFeY1G"
+              }
+            ]
+          }
+        },
+        "id": "1883245404881633280",
+        "name": "一氧化二氢",
+        "pinned_tweet_id": "2056425642179408023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055624783837196288/vQoUDe_R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 224,
+          "like_count": 111,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 218
+        },
+        "url": "https://t.co/gr3urFeY1G",
+        "username": "YangYi21649",
+        "verified": false
+      }
+    ]
+  }
+}

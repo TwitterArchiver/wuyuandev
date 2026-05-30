@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2059939941530980672",
+    "created_at": "2026-05-28T22:29:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T23:29:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060126399130964444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1171414629400158208",
+          "start": 0,
+          "username": "zknmoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060126399130964444",
+    "in_reply_to_user_id": "1171414629400158208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059939941530980672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zknmoe 看到了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2059939941530980672",
+        "created_at": "2026-05-28T22:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T23:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060126399130964444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1171414629400158208",
+              "start": 0,
+              "username": "zknmoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060126399130964444",
+        "in_reply_to_user_id": "1171414629400158208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059939941530980672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zknmoe 看到了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1171414629400158208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2059939941530980672",
+        "created_at": "2026-05-28T10:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059939941530980672"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059939941530980672",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 426370,
+          "like_count": 8054,
+          "quote_count": 16,
+          "reply_count": 1788,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "Questo è un tweet in italiano. Voglio vedere quanti cinesi riescono a vederlo."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，构建社区、AI工具和规模化的数据收集 | \n\n每周更新跨圈大合照 | \n说话含喵量巨大 | \n今年欢笑复明年，秋月春风等闲度。| \n关注牢喵喵！关注牢喵谢谢喵！| \n你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我\n\n要饭：https://t.co/aMQp3GpkVJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 149,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 126,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 227,
+          "like_count": 4574,
+          "listed_count": 4,
+          "media_count": 266,
+          "tweet_count": 1367
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-10T13:26:38.000Z",
+        "description": "誰かに認められたくて、今日も生きてる",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zknmoe",
+                "end": 23,
+                "expanded_url": "http://t.me/zknmoe",
+                "start": 0,
+                "url": "https://t.co/napztrf6fW"
+              }
+            ]
+          }
+        },
+        "id": "1171414629400158208",
+        "location": "Italy, PD",
+        "name": "kɑːve/ .k3n",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056524918922113024/bwBtpJ2M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 120,
+          "like_count": 3656,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 1482
+        },
+        "url": "https://t.co/napztrf6fW",
+        "username": "zknmoe",
+        "verified": true
+      }
+    ]
+  }
+}

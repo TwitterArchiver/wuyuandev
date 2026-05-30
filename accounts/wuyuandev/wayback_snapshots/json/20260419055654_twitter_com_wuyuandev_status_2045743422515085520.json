@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2045723257727537157",
+    "created_at": "2026-04-19T05:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T06:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045743422515085520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3347551533",
+          "start": 0,
+          "username": "YigeKing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045743422515085520",
+    "in_reply_to_user_id": "3347551533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045723257727537157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YigeKing 我自建的用了几天没事，用一键脚本配的免得自己配错，reality，服务器在azure"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2045723257727537157",
+        "created_at": "2026-04-19T05:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045743422515085520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3347551533",
+              "start": 0,
+              "username": "YigeKing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045743422515085520",
+        "in_reply_to_user_id": "3347551533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045723257727537157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YigeKing 我自建的用了几天没事，用一键脚本配的免得自己配错，reality，服务器在azure"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3347551533",
+        "conversation_id": "2045723257727537157",
+        "created_at": "2026-04-19T04:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T05:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045723257727537157"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045723257727537157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8124,
+          "like_count": 27,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤡 刷到个自建 VPS 的教程，确实很简单，三两下就买完用上了，但是三两下 IP 就给封了..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 73,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 50,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 971,
+          "like_count": 1963,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 440
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-27T14:38:40.000Z",
+        "description": "「二手机闲鱼店:一格大王 https://t.co/kjzjKGvD2c 」「回收机器私聊或联系微信YigeKing8848」",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "m.tb.cn/h.7HXPVBi?tk=Y…",
+                "end": 36,
+                "expanded_url": "https://m.tb.cn/h.7HXPVBi?tk=YioZUjsasRK",
+                "start": 13,
+                "url": "https://t.co/kjzjKGvD2c"
+              }
+            ]
+          }
+        },
+        "id": "3347551533",
+        "name": "一格",
+        "pinned_tweet_id": "1822121704287859155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1248644298758696960/AtFxNZ5A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57961,
+          "following_count": 1007,
+          "like_count": 473,
+          "listed_count": 226,
+          "media_count": 11369,
+          "tweet_count": 20685
+        },
+        "username": "YigeKing",
+        "verified": false
+      }
+    ]
+  }
+}

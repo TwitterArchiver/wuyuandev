@@ -1,0 +1,495 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2054821513703178720",
+    "created_at": "2026-05-14T22:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T23:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055054852720672802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1834004198612238336",
+          "start": 0,
+          "username": "turningpointjpn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055054852720672802",
+    "in_reply_to_user_id": "1834004198612238336",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054821513703178720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@turningpointjpn Obviously, he has a spirit of daring to break conventions. Very few people would start posting on Twitter during a group photo, but he did it anyway. \nThat willingness to defy convention has undoubtedly helped his career development."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 412,
+        "media_key": "3_2054812678552784896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQpPokbkAAWQ0U.png",
+        "width": 624
+      },
+      {
+        "height": 590,
+        "media_key": "3_2054812702967812096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQpRDhbUAAu4Hw.jpg",
+        "width": 1007
+      },
+      {
+        "height": 598,
+        "media_key": "3_2054812702955233280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQpRDebYAAdCGz.jpg",
+        "width": 922
+      },
+      {
+        "height": 370,
+        "media_key": "3_2054812834476015616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQpYtbbQAAKlEp.png",
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2054821513703178720",
+        "created_at": "2026-05-14T22:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T23:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055054852720672802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1834004198612238336",
+              "start": 0,
+              "username": "turningpointjpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055054852720672802",
+        "in_reply_to_user_id": "1834004198612238336",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054821513703178720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@turningpointjpn Obviously, he has a spirit of daring to break conventions. Very few people would start posting on Twitter during a group photo, but he did it anyway. \nThat willingness to defy convention has undoubtedly helped his career development."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054812678552784896",
+            "3_2054812702967812096",
+            "3_2054812702955233280",
+            "3_2054812834476015616"
+          ]
+        },
+        "author_id": "1834004198612238336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2054821513703178720",
+        "created_at": "2026-05-14T07:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054821513703178720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0VBoOdZI2o",
+              "end": 147,
+              "expanded_url": "https://x.com/turningpointjpn/status/2054821513703178720/photo/1",
+              "media_key": "3_2054812678552784896",
+              "start": 124,
+              "url": "https://t.co/0VBoOdZI2o"
+            },
+            {
+              "display_url": "pic.x.com/0VBoOdZI2o",
+              "end": 147,
+              "expanded_url": "https://x.com/turningpointjpn/status/2054821513703178720/photo/1",
+              "media_key": "3_2054812702967812096",
+              "start": 124,
+              "url": "https://t.co/0VBoOdZI2o"
+            },
+            {
+              "display_url": "pic.x.com/0VBoOdZI2o",
+              "end": 147,
+              "expanded_url": "https://x.com/turningpointjpn/status/2054821513703178720/photo/1",
+              "media_key": "3_2054812702955233280",
+              "start": 124,
+              "url": "https://t.co/0VBoOdZI2o"
+            },
+            {
+              "display_url": "pic.x.com/0VBoOdZI2o",
+              "end": 147,
+              "expanded_url": "https://x.com/turningpointjpn/status/2054821513703178720/photo/1",
+              "media_key": "3_2054812834476015616",
+              "start": 124,
+              "url": "https://t.co/0VBoOdZI2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054821513703178720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 552,
+          "impression_count": 1988952,
+          "like_count": 7679,
+          "quote_count": 137,
+          "reply_count": 279,
+          "retweet_count": 938
+        },
+        "reply_settings": "everyone",
+        "text": "イーロン・マスク氏、北京で勝手な行動を取り始めてしまう🤣\n\nイーロン・マスクが、習近平国家主席主催のトランプ大統領歓迎式典で思わずスマホを取り出し撮影。\n\nきっちり並ぶ米代表団の中で、好奇心を抑えきれない“マスクらしさ”が垣間見える一幕となった。 https://t.co/0VBoOdZI2o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸 | 坐标HNCS\n\n没看到私信可以随便找个帖子回复下提醒我\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 144,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 121,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！",
+        "pinned_tweet_id": "2051211437847290211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 225,
+          "like_count": 3370,
+          "listed_count": 3,
+          "media_count": 189,
+          "tweet_count": 928
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T23:01:15.000Z",
+        "description": "世界で起こる様々な情報をお届けします",
+        "id": "1834004198612238336",
+        "name": "TotalNewsWorld",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973159739082387456/nytf36bB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103746,
+          "following_count": 665,
+          "like_count": 8062,
+          "listed_count": 390,
+          "media_count": 3726,
+          "tweet_count": 6439
+        },
+        "username": "turningpointjpn",
+        "verified": true
+      }
+    ]
+  }
+}

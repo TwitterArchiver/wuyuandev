@@ -1,0 +1,667 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10042847655",
+          "name": "Fitbit"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Fitness",
+          "id": "872553326499422208",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Fitness Brands",
+          "id": "917853669017624576",
+          "name": "Fitness Brands"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Brands (Wellness & Health)",
+          "id": "918538050610782208",
+          "name": "Wellness and health brands"
+        }
+      }
+    ],
+    "conversation_id": "2053967191222243335",
+    "created_at": "2026-05-11T22:36:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T23:36:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053967548308443620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/landiantech/st…",
+          "end": 47,
+          "expanded_url": "https://x.com/landiantech/status/1745369930118443424",
+          "start": 24,
+          "url": "https://t.co/92FfvxarOY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053967548308443620",
+    "in_reply_to_user_id": "1436287470207832064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1745369930118443424",
+        "type": "quoted"
+      },
+      {
+        "id": "2053967191222243335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech \n\n疑似这条的续集：\nhttps://t.co/92FfvxarOY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1745369907003604992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GDjMrtybQAAq86d.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053967183697559552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIEoRWyaQAAUwLN.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10042847655",
+              "name": "Fitbit"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Fitness",
+              "id": "872553326499422208",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fitness Brands",
+              "id": "917853669017624576",
+              "name": "Fitness Brands"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Brands (Wellness & Health)",
+              "id": "918538050610782208",
+              "name": "Wellness and health brands"
+            }
+          }
+        ],
+        "conversation_id": "2053967191222243335",
+        "created_at": "2026-05-11T22:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T23:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053967548308443620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/landiantech/st…",
+              "end": 47,
+              "expanded_url": "https://x.com/landiantech/status/1745369930118443424",
+              "start": 24,
+              "url": "https://t.co/92FfvxarOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053967548308443620",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1745369930118443424",
+            "type": "quoted"
+          },
+          {
+            "id": "2053967191222243335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech \n\n疑似这条的续集：\nhttps://t.co/92FfvxarOY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1745369907003604992"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10042847655",
+              "name": "Fitbit"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Fitness",
+              "id": "872553326499422208",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fitness Brands",
+              "id": "917853669017624576",
+              "name": "Fitness Brands"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Brands (Wellness & Health)",
+              "id": "918538050610782208",
+              "name": "Wellness and health brands"
+            }
+          }
+        ],
+        "conversation_id": "1745369930118443424",
+        "created_at": "2024-01-11T08:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-01-11T09:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1745369930118443424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "ourl.co/101759",
+              "end": 74,
+              "expanded_url": "https://ourl.co/101759",
+              "start": 51,
+              "url": "https://t.co/oHUVZQRzIF"
+            },
+            {
+              "display_url": "pic.x.com/adDH3DO3L6",
+              "end": 183,
+              "expanded_url": "https://x.com/landiantech/status/1745369930118443424/photo/1",
+              "media_key": "3_1745369907003604992",
+              "start": 160,
+              "url": "https://t.co/adDH3DO3L6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1745369930118443424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "ourl.co/101759",
+                "end": 74,
+                "expanded_url": "https://ourl.co/101759",
+                "start": 51,
+                "url": "https://t.co/Yqs6xwU527"
+              }
+            ]
+          },
+          "text": "谷歌又开始了新一轮裁员：硬件工程团队和谷歌助理等团队都被裁员，至少裁员 1,000 人。\n\n查看全文：https://t.co/Yqs6xwU527\n\n今天有传闻称谷歌正在对硬件工程团队进行重组，作为重组的一部分，原 Fitbit 领导层基本都要走人。\n\n之后谷歌确认了裁员，谷歌称正在对多个团队进行重组，每个团队撤销 “几百个” 职位，此次公司内部团队的重组将在全球进行。\n\n谷歌目前已经确认至少裁员 1,000 人，但可能不是全部，谷歌按惯例继续为被裁员工提供转岗机会，如果能找到合适的新岗位并且被接收，那就不用走了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4147,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谷歌又开始了新一轮裁员：硬件工程团队和谷歌助理等团队都被裁员，至少裁员 1,000 人。\n\n查看全文：https://t.co/oHUVZQRzIF\n\n今天有传闻称谷歌正在对硬件工程团队进行重组，作为重组的一部分，原 Fitbit 领导层基本都要走人。\n\n之后谷歌确认了裁员，谷歌称正在对多个团队进行重组，每个团队撤销 https://t.co/adDH3DO3L6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053967183697559552"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10042847655",
+              "name": "Fitbit"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Fitness",
+              "id": "872553326499422208",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fitness Brands",
+              "id": "917853669017624576",
+              "name": "Fitness Brands"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Brands (Wellness & Health)",
+              "id": "918538050610782208",
+              "name": "Wellness and health brands"
+            }
+          }
+        ],
+        "conversation_id": "2053967191222243335",
+        "created_at": "2026-05-11T22:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T23:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053967191222243335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qGAS4AUlKU",
+              "end": 55,
+              "expanded_url": "https://x.com/wuyuandev/status/2053967191222243335/photo/1",
+              "media_key": "3_2053967183697559552",
+              "start": 32,
+              "url": "https://t.co/qGAS4AUlKU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053967191222243335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Fitbit 应用即将更名为 Google Health 应用 https://t.co/qGAS4AUlKU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸 | 坐标HNCS\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 123,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 100,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！",
+        "pinned_tweet_id": "2051211437847290211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 222,
+          "like_count": 3291,
+          "listed_count": 3,
+          "media_count": 177,
+          "tweet_count": 882
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / OpenClaw 重度用户🦞🦞🦞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35045,
+          "following_count": 721,
+          "like_count": 4808,
+          "listed_count": 275,
+          "media_count": 5466,
+          "tweet_count": 15250
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

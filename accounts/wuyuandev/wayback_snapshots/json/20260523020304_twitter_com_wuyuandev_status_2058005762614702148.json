@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2058004562078814242",
+    "created_at": "2026-05-23T02:03:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T03:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058005762614702148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        },
+        {
+          "end": 30,
+          "id": "1512976991976402949",
+          "start": 22,
+          "username": "bghtnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058005762614702148",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058004562078814242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress 冰棍成关键词了？ @bghtnya"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058004556454273024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-APYWXoAALLm6.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058004556508778496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-APYjXUAArikl.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2058004562078814242",
+        "created_at": "2026-05-23T02:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058005762614702148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            },
+            {
+              "end": 30,
+              "id": "1512976991976402949",
+              "start": 22,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058005762614702148",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058004562078814242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress 冰棍成关键词了？ @bghtnya"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058004556454273024",
+            "3_2058004556508778496"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "conversation_id": "2058004562078814242",
+        "created_at": "2026-05-23T01:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T02:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058004562078814242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AkXSzB4Qyz",
+              "end": 34,
+              "expanded_url": "https://x.com/NagiExpress/status/2058004562078814242/photo/1",
+              "media_key": "3_2058004556454273024",
+              "start": 11,
+              "url": "https://t.co/AkXSzB4Qyz"
+            },
+            {
+              "display_url": "pic.x.com/AkXSzB4Qyz",
+              "end": 34,
+              "expanded_url": "https://x.com/NagiExpress/status/2058004562078814242/photo/1",
+              "media_key": "3_2058004556508778496",
+              "start": 11,
+              "url": "https://t.co/AkXSzB4Qyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058004562078814242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冰棍是什么敏感词汇吗 https://t.co/AkXSzB4Qyz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，构建社区、AI、规模化的数据收集 | \n\n每周更新跨圈大合照 | \n说话含喵量巨大 | \n今年欢笑复明年，秋月春风等闲度。| \n关注牢喵喵！关注牢喵谢谢喵！| \n你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我\n\n要饭：https://t.co/aMQp3GpkVJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 147,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 124,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 235,
+          "like_count": 4099,
+          "listed_count": 5,
+          "media_count": 228,
+          "tweet_count": 1168
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "这样我们就可以像nagi一样每三天刷新一个坐标了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhSw2y"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "Brixton",
+        "name": "Nagi想舔你喉结",
+        "pinned_tweet_id": "2055613491499635057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053273167678828553/m1eEnnhP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5655,
+          "following_count": 2317,
+          "like_count": 28111,
+          "listed_count": 9,
+          "media_count": 2493,
+          "tweet_count": 24021
+        },
+        "url": "https://t.co/nRq8LhSw2y",
+        "username": "NagiExpress",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9953,
+          "following_count": 2362,
+          "like_count": 179556,
+          "listed_count": 22,
+          "media_count": 3976,
+          "tweet_count": 48386
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      }
+    ]
+  }
+}

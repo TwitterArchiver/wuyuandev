@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053278838411649024"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2053279217648091427",
+    "created_at": "2026-05-10T01:01:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T02:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053279217648091427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 58,
+          "id": "13334762",
+          "start": 51,
+          "username": "github"
+        },
+        {
+          "end": 72,
+          "id": "13334762",
+          "start": 65,
+          "username": "github"
+        },
+        {
+          "end": 86,
+          "id": "13334762",
+          "start": 79,
+          "username": "github"
+        },
+        {
+          "end": 100,
+          "id": "13334762",
+          "start": 93,
+          "username": "github"
+        },
+        {
+          "end": 114,
+          "id": "13334762",
+          "start": 107,
+          "username": "github"
+        },
+        {
+          "end": 128,
+          "id": "13334762",
+          "start": 121,
+          "username": "github"
+        },
+        {
+          "end": 142,
+          "id": "13334762",
+          "start": 135,
+          "username": "github"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h2U63Edyxs",
+          "end": 166,
+          "expanded_url": "https://x.com/wuyuandev/status/2053279217648091427/photo/1",
+          "media_key": "3_2053278838411649024",
+          "start": 143,
+          "url": "https://t.co/h2U63Edyxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053279217648091427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "github support依旧不回复工单消息。要不是我有些仓库在组织里，我就啥都干不了。\nfuck @github \nfuck @github \nfuck @github \nfuck @github \nfuck @github \nfuck @github \nfuck @github https://t.co/h2U63Edyxs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 310,
+        "media_key": "3_2053278838411649024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH62OYxaYAAyHW2.png",
+        "width": 322
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053278838411649024"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2053279217648091427",
+        "created_at": "2026-05-10T01:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T02:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053279217648091427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 58,
+              "id": "13334762",
+              "start": 51,
+              "username": "github"
+            },
+            {
+              "end": 72,
+              "id": "13334762",
+              "start": 65,
+              "username": "github"
+            },
+            {
+              "end": 86,
+              "id": "13334762",
+              "start": 79,
+              "username": "github"
+            },
+            {
+              "end": 100,
+              "id": "13334762",
+              "start": 93,
+              "username": "github"
+            },
+            {
+              "end": 114,
+              "id": "13334762",
+              "start": 107,
+              "username": "github"
+            },
+            {
+              "end": 128,
+              "id": "13334762",
+              "start": 121,
+              "username": "github"
+            },
+            {
+              "end": 142,
+              "id": "13334762",
+              "start": 135,
+              "username": "github"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h2U63Edyxs",
+              "end": 166,
+              "expanded_url": "https://x.com/wuyuandev/status/2053279217648091427/photo/1",
+              "media_key": "3_2053278838411649024",
+              "start": 143,
+              "url": "https://t.co/h2U63Edyxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053279217648091427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "github support依旧不回复工单消息。要不是我有些仓库在组织里，我就啥都干不了。\nfuck @github \nfuck @github \nfuck @github \nfuck @github \nfuck @github \nfuck @github \nfuck @github https://t.co/h2U63Edyxs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 说话含喵量巨大 | 今年欢笑复明年，秋月春风等闲度。| 关注本喵喵！关注本喵谢谢喵！| 你看白雪人间 你看寒夜无岸 | 坐标HNCS\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 123,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 100,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 ヾ(≧▽≦*)o 喵！",
+        "pinned_tweet_id": "2051211437847290211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 298,
+          "like_count": 3162,
+          "listed_count": 3,
+          "media_count": 162,
+          "tweet_count": 826
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2008-02-11T04:41:50.000Z",
+        "description": "The AI-powered developer platform to build, scale, and deliver secure software.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com",
+                "end": 23,
+                "expanded_url": "http://github.com",
+                "start": 0,
+                "url": "https://t.co/bbJgfyzKzp"
+              }
+            ]
+          }
+        },
+        "id": "13334762",
+        "location": "San Francisco, CA",
+        "name": "GitHub",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051404708766507008/ATxxTJXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2643898,
+          "following_count": 334,
+          "like_count": 8686,
+          "listed_count": 18445,
+          "media_count": 2970,
+          "tweet_count": 10535
+        },
+        "url": "https://t.co/bbJgfyzKzp",
+        "username": "github",
+        "verified": true
+      }
+    ]
+  }
+}

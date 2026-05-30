@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2046951524845375570",
+    "created_at": "2026-04-22T14:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T15:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046960153275388169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1818257539886460928",
+          "start": 0,
+          "username": "qqqqqf_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046960153275388169",
+    "in_reply_to_user_id": "1818257539886460928",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046951524845375570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqf_ Congratulations ! 🎉 🎉 🎉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2046951524845375570",
+        "created_at": "2026-04-22T14:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046960153275388169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1818257539886460928",
+              "start": 0,
+              "username": "qqqqqf_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046960153275388169",
+        "in_reply_to_user_id": "1818257539886460928",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046951524845375570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf_ Congratulations ! 🎉 🎉 🎉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818257539886460928",
+        "conversation_id": "2046951524845375570",
+        "created_at": "2026-04-22T13:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046951524845375570"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046951524845375570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天在基于 Arkloop 的 base platform 做 code agent\n发现过去两三个月对 base 的基建让我做一个code agent 及其的简单\n无非是:prompt 工程和 lsp 接入\n过去我总是思考我搭这 platform 有意义吗\n现在终于看到了回报"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "🏳️‍⚧️ | 𝚂𝚞𝚗𝚠𝚞𝚢𝚞𝚊𝚗 全(A)栈(I)开发者 | 今年欢笑复明年，秋月春风等闲度。\n\nhttps://t.co/Ch2mflavXI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan",
+                "end": 73,
+                "expanded_url": "https://github.com/Sunwuyuan",
+                "start": 50,
+                "url": "https://t.co/Ch2mflavXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663052449406976/4BVe7g4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 991,
+          "like_count": 2058,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 467
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T12:09:26.000Z",
+        "description": "building Arkloop\n博客:https://t.co/4xjp1fLrtP  \nArkloop的TelegramGroup :https://t.co/GiCrumiY7W",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "清凤.fun",
+                "end": 43,
+                "expanded_url": "http://xn--l9qq99d.fun",
+                "start": 20,
+                "url": "https://t.co/4xjp1fLrtP"
+              },
+              {
+                "display_url": "t.me/Arkloop_io",
+                "end": 92,
+                "expanded_url": "https://t.me/Arkloop_io",
+                "start": 69,
+                "url": "https://t.co/GiCrumiY7W"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/jrg4ChmKLg"
+              }
+            ]
+          }
+        },
+        "id": "1818257539886460928",
+        "location": "Ningbo,Zhejiang",
+        "name": "清凤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021583893238059008/7Mh6eK6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 570,
+          "like_count": 9483,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 970
+        },
+        "url": "https://t.co/jrg4ChmKLg",
+        "username": "qqqqqf_",
+        "verified": true
+      }
+    ]
+  }
+}
