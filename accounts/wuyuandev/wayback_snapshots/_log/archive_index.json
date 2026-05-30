@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-05-30T09:29:00",
+  "last_updated": "2026-05-30T09:29:22",
   "html": {
     "https://web.archive.org/web/20250502012253if_/https://twitter.com/wuyuandev/status/1918113936555343956": {
       "status": "done",
@@ -11905,22 +11905,22 @@
       "last_updated": "2026-05-30T08:16:57"
     },
     "https://video.twimg.com/amplify_video/2047561112833695744/vid/avc1/720x1280/1jJkYDtoVlrcb6fg.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260424100331_twitter_com_wuyuandev_status_2047617425559244942.json"
       ],
-      "last_updated": "2026-05-30T08:17:14",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260424100331im_/https://video.twimg.com/amplify_video/2047561112833695744/vid/avc1/720x1280/1jJkYDtoVlrcb6fg.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f63288ea4e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-30T09:29:20",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260424100331/https://video.twimg.com/amplify_video/2047561112833695744/vid/avc1/720x1280/1jJkYDtoVlrcb6fg.mp4",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2047845775397568512/vid/avc1/1180x2556/ki58A6fduJqKuZx1.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20260425013059_twitter_com_wuyuandev_status_2047850830255235171.json"
       ],
-      "last_updated": "2026-05-30T08:16:59",
+      "last_updated": "2026-05-30T09:29:22",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260425013059/https://video.twimg.com/amplify_video/2047845775397568512/vid/avc1/1180x2556/ki58A6fduJqKuZx1.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/HGwCWZEaUAAkmKc.mp4": {
       "status": "done",
@@ -26930,7 +26930,7 @@
       "miss_count": 2
     },
     "20260424100331_twitter_com_wuyuandev_status_2047617425559244942.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -26941,7 +26941,7 @@
           "https://pbs.twimg.com/profile_images/2043059786330312704/Smm3G5ah_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-30T08:17:10",
+      "last_updated": "2026-05-30T09:29:20",
       "miss_count": 2
     },
     "20260424101855_twitter_com_wuyuandev_status_2047621300999610638.json": {
