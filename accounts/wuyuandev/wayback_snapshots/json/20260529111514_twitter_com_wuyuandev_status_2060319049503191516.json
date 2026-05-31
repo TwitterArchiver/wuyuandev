@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2060228304775643136"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "2060319049503191516",
+    "created_at": "2026-05-29T11:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T12:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060319049503191516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1747180238810021888",
+          "start": 3,
+          "username": "wwj23355"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060319049503191516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060228305815810161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wwj23355: 父母貌似同意我自杀了\n今晚要不要跳呢🤔"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-05-30T05:14:39.000Z",
+        "id": "2060228304775643136",
+        "options": [
+          {
+            "label": "Y",
+            "position": 1,
+            "votes": 10
+          },
+          {
+            "label": "Y",
+            "position": 2,
+            "votes": 3
+          },
+          {
+            "label": "N",
+            "position": 3,
+            "votes": 45
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2060228304775643136"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2060319049503191516",
+        "created_at": "2026-05-29T11:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060319049503191516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747180238810021888",
+              "start": 3,
+              "username": "wwj23355"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060319049503191516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060228305815810161",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wwj23355: 父母貌似同意我自杀了\n今晚要不要跳呢🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2060228304775643136"
+          ]
+        },
+        "author_id": "1747180238810021888",
+        "conversation_id": "2060228305815810161",
+        "created_at": "2026-05-29T05:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060228305815810161"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060228305815810161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2384,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "父母貌似同意我自杀了\n今晚要不要跳呢🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，构建社区、AI工具和规模化的数据收集 | \n\n每周更新跨圈大合照 | \n说话含喵量巨大 | \n今年欢笑复明年，秋月春风等闲度。| \n关注牢喵喵！关注牢喵谢谢喵！| \n你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我\n\n要饭：https://t.co/aMQp3GpkVJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 149,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 126,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 227,
+          "like_count": 4607,
+          "listed_count": 4,
+          "media_count": 271,
+          "tweet_count": 1384
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T08:53:40.000Z",
+        "description": "Ciallo～～(∠・ω)⌒☆\n｜重抑重焦｜不od (?) 不割手 (?) 不登校｜183 60的mtf()｜HRT: 26.04.27 - 05.21 |睡眠重度依赖｜满级颓废｜玩车｜BA | CN/EN/KR/JP prob OK |\n｜生产日期：08.09.13｜\n天天发一些负面傻逼言论真的对不起",
+        "id": "1747180238810021888",
+        "name": "WVKI233333🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044056098873978883/TB8Ilmi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 445,
+          "like_count": 2467,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 909
+        },
+        "username": "wwj23355",
+        "verified": false
+      }
+    ]
+  }
+}
