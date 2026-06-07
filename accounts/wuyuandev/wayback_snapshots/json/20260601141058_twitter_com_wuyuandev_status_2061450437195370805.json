@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061450429993795584"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2061450437195370805",
+    "created_at": "2026-06-01T14:10:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T15:10:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061450437195370805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q7OgO7gtvG",
+          "end": 90,
+          "expanded_url": "https://x.com/wuyuandev/status/2061450437195370805/photo/1",
+          "media_key": "3_2061450429993795584",
+          "start": 67,
+          "url": "https://t.co/q7OgO7gtvG"
+        },
+        {
+          "display_url": "x.com/wuyuandev/stat…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/wuyuandev/status/2061085425759064493",
+          "start": 91,
+          "url": "https://t.co/uos1EnSIEA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061450437195370805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061085425759064493",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以防你不知道，Debian认证过的光盘供应商ASYS推出了补佳乐版本的Debian 13安装光盘，预售39元包邮。\n\n纯血xyn系统 https://t.co/q7OgO7gtvG https://t.co/uos1EnSIEA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1196,
+        "media_key": "3_2061450429993795584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJu-PnnbQAATdOP.jpg",
+        "width": 1196
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061450429993795584"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2061450437195370805",
+        "created_at": "2026-06-01T14:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061450437195370805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q7OgO7gtvG",
+              "end": 90,
+              "expanded_url": "https://x.com/wuyuandev/status/2061450437195370805/photo/1",
+              "media_key": "3_2061450429993795584",
+              "start": 67,
+              "url": "https://t.co/q7OgO7gtvG"
+            },
+            {
+              "display_url": "x.com/wuyuandev/stat…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/wuyuandev/status/2061085425759064493",
+              "start": 91,
+              "url": "https://t.co/uos1EnSIEA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061450437195370805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061085425759064493",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以防你不知道，Debian认证过的光盘供应商ASYS推出了补佳乐版本的Debian 13安装光盘，预售39元包邮。\n\n纯血xyn系统 https://t.co/q7OgO7gtvG https://t.co/uos1EnSIEA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2061085425759064493",
+        "created_at": "2026-05-31T14:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061085425759064493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shrinkviolet77…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/shrinkviolet77/status/2060763676697862628",
+              "start": 133,
+              "url": "https://t.co/r9Xr5mzaBp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061085425759064493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2027,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060763676697862628",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我听说每个跨性别女生小时候都会折腾 Linux，而且喜欢 Arch Linux 的跨女长大后会嫁给男人，喜欢 NixOS 的跨女长大后会变成女同。\n什么，你作为跨性别女性，甚至没装过 Linux？\n那你明白“跨性别女性小时候都喜欢 Linux”的说法有多荒谬了吧。 https://t.co/r9Xr5mzaBp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，构建社区、AI工具和规模化的数据收集 | \n\n说话含喵量巨大🤯的高二在校生。 | \n你看白雪人间 你看寒夜无岸 \n|\n跨圈列表私信我，开贴喷没有用。\n没看到私信可以随便找个帖子回复下提醒我\n\n要饭：https://t.co/aMQp3GpkVJ\n\n私人 @lunayurari ❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "lunayurari"
+              },
+              {
+                "end": 155,
+                "start": 146,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 126,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 103,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 301,
+          "like_count": 5009,
+          "listed_count": 5,
+          "media_count": 297,
+          "tweet_count": 1487
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      }
+    ]
+  }
+}

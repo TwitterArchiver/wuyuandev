@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2062680801142006190",
+    "created_at": "2026-06-05T23:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T00:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063039457809551435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1062926939151888385",
+          "start": 0,
+          "username": "druski"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063039457809551435",
+    "in_reply_to_user_id": "1062926939151888385",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062680801142006190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@druski is cool"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 130255,
+        "height": 1920,
+        "media_key": "13_2062680531645456384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062680531645456384/img/lPw5Qirsh1xD-EEl.jpg",
+        "public_metrics": {
+          "view_count": 4344216
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062680531645456384/vid/avc1/480x852/M2R1_qYjAFrMYNLn.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062680531645456384/vid/avc1/320x568/LxtHhNUj7RvCzfec.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062680531645456384/vid/avc1/1080x1920/jWbb8yT-tnVeDwcb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062680531645456384/vid/avc1/720x1280/fbVtpBY9XWkUJz3C.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062680531645456384/pl/cuNAB3Uf6nbEuVfO.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2062680801142006190",
+        "created_at": "2026-06-05T23:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T00:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063039457809551435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1062926939151888385",
+              "start": 0,
+              "username": "druski"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063039457809551435",
+        "in_reply_to_user_id": "1062926939151888385",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062680801142006190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@druski is cool"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062680531645456384"
+          ]
+        },
+        "author_id": "1062926939151888385",
+        "conversation_id": "2062680801142006190",
+        "created_at": "2026-06-04T23:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T00:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062680801142006190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TPOxTU2Fcp",
+              "end": 63,
+              "expanded_url": "https://x.com/druski/status/2062680801142006190/video/1",
+              "media_key": "13_2062680531645456384",
+              "start": 40,
+              "url": "https://t.co/TPOxTU2Fcp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062680801142006190",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47624,
+          "impression_count": 21319805,
+          "like_count": 306808,
+          "quote_count": 4758,
+          "reply_count": 4367,
+          "retweet_count": 32006
+        },
+        "reply_settings": "everyone",
+        "text": "That Oldhead who never Grewup/Matured 😂 https://t.co/TPOxTU2Fcp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥｜构建社区、AI 工具与数据抓取。\n\n高二在校生😅｜说话含喵量巨大🤯\n\n你看白雪人间，你看寒夜无岸\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭：https://t.co/ceQCtxmG75\n\n私人 @lunayurari ｜❤️ @tsgostar\n求关注！喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "lunayurari"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 107,
+                "expanded_url": "http://sink.wuyuan.dev/afd",
+                "start": 84,
+                "url": "https://t.co/ceQCtxmG75"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 399,
+          "like_count": 5283,
+          "listed_count": 5,
+          "media_count": 321,
+          "tweet_count": 1626
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-15T04:35:05.000Z",
+        "description": "",
+        "id": "1062926939151888385",
+        "name": "DRUSKI",
+        "pinned_tweet_id": "2054672369369665637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042040739555590144/R-396Axu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1848935,
+          "following_count": 0,
+          "like_count": 4556,
+          "listed_count": 893,
+          "media_count": 535,
+          "tweet_count": 16058
+        },
+        "username": "druski",
+        "verified": true
+      }
+    ]
+  }
+}

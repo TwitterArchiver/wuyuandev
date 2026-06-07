@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Coffee",
+          "id": "850442647088971776",
+          "name": "Coffee"
+        }
+      }
+    ],
+    "conversation_id": "2060742921318723874",
+    "created_at": "2026-05-30T22:47:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T23:47:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060855627711439081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "920892712416575488",
+          "start": 0,
+          "username": "buymeacoffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060855627711439081",
+    "in_reply_to_user_id": "920892712416575488",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060742921318723874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buymeacoffee Is this really okay? Here's your coffee!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 220,
+        "media_key": "3_2060742911214714880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJk6wmxbgAAze3w.png",
+        "width": 287
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "2060742921318723874",
+        "created_at": "2026-05-30T22:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T23:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060855627711439081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "920892712416575488",
+              "start": 0,
+              "username": "buymeacoffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060855627711439081",
+        "in_reply_to_user_id": "920892712416575488",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060742921318723874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buymeacoffee Is this really okay? Here's your coffee!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060742911214714880"
+          ]
+        },
+        "author_id": "920892712416575488",
+        "conversation_id": "2060742921318723874",
+        "created_at": "2026-05-30T15:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060742921318723874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gZJPkHP38v",
+              "end": 48,
+              "expanded_url": "https://x.com/buymeacoffee/status/2060742921318723874/photo/1",
+              "media_key": "3_2060742911214714880",
+              "start": 25,
+              "url": "https://t.co/gZJPkHP38v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060742921318723874",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 25335,
+          "like_count": 454,
+          "quote_count": 3,
+          "reply_count": 304,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "who wants a follow back? https://t.co/gZJPkHP38v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，构建社区、AI工具和规模化的数据收集 | \n\n说话含喵量巨大🤯的高二在校生。 | \n你看白雪人间 你看寒夜无岸 \n|\n跨圈列表私信我，开贴喷没有用。\n没看到私信可以随便找个帖子回复下提醒我\n\n要饭：https://t.co/aMQp3GpkVJ\n\n私人 @lunayurari ❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "lunayurari"
+              },
+              {
+                "end": 155,
+                "start": 146,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 126,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 103,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 287,
+          "like_count": 4893,
+          "listed_count": 6,
+          "media_count": 286,
+          "tweet_count": 1450
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-19T06:01:46.000Z",
+        "description": "A free, fast, and beautiful way to fund your creative work. Loved by over a million creators. Email support@buymeacoffee.com for account help.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com",
+                "start": 0,
+                "url": "https://t.co/LpfwuAji0K"
+              }
+            ]
+          }
+        },
+        "id": "920892712416575488",
+        "name": "Buy Me a Coffee",
+        "pinned_tweet_id": "2051655749395456210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877558418489356288/CIzNmBCV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113514,
+          "following_count": 3292,
+          "like_count": 37487,
+          "listed_count": 307,
+          "media_count": 1361,
+          "tweet_count": 9697
+        },
+        "url": "https://t.co/LpfwuAji0K",
+        "username": "buymeacoffee",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2060816969268633893",
+    "created_at": "2026-05-30T23:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T00:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060865466923659280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1742923424056713217",
+          "start": 0,
+          "username": "GoogleAIStudio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060865466923659280",
+    "in_reply_to_user_id": "1742923424056713217",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060816969268633893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GoogleAIStudio I'd rather use my brain to write code than pay Google."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2060816969268633893",
+        "created_at": "2026-05-30T23:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T00:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060865466923659280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1742923424056713217",
+              "start": 0,
+              "username": "GoogleAIStudio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060865466923659280",
+        "in_reply_to_user_id": "1742923424056713217",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060816969268633893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GoogleAIStudio I'd rather use my brain to write code than pay Google."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742923424056713217",
+        "conversation_id": "2060816969268633893",
+        "created_at": "2026-05-30T20:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T21:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060816969268633893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060816969268633893",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 27038,
+          "like_count": 394,
+          "quote_count": 12,
+          "reply_count": 172,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "What are you vibe coding this weekend?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，构建社区、AI工具和规模化的数据收集 | \n\n说话含喵量巨大🤯的高二在校生。 | \n你看白雪人间 你看寒夜无岸 \n|\n跨圈列表私信我，开贴喷没有用。\n没看到私信可以随便找个帖子回复下提醒我\n\n要饭：https://t.co/aMQp3GpkVJ\n\n私人 @lunayurari ❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "lunayurari"
+              },
+              {
+                "end": 155,
+                "start": 146,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 126,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 103,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 287,
+          "like_count": 4900,
+          "listed_count": 5,
+          "media_count": 286,
+          "tweet_count": 1456
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-04T14:58:26.000Z",
+        "description": "The fastest path from prompt to prototype to production with Gemini",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ai.studio/build",
+                "end": 23,
+                "expanded_url": "https://ai.studio/build",
+                "start": 0,
+                "url": "https://t.co/dp8Frcr6y8"
+              }
+            ]
+          }
+        },
+        "id": "1742923424056713217",
+        "location": "It's time to build",
+        "name": "Google AI Studio",
+        "pinned_tweet_id": "2056904153562264025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056588677363765248/ATA2alUA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173811,
+          "following_count": 2,
+          "like_count": 270,
+          "listed_count": 1741,
+          "media_count": 70,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/dp8Frcr6y8",
+        "username": "GoogleAIStudio",
+        "verified": true
+      }
+    ]
+  }
+}

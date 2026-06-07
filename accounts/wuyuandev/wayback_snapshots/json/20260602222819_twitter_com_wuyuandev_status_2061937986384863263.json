@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2061812380619669550",
+    "created_at": "2026-06-02T22:28:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T23:28:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061937986384863263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1227265979735887874",
+          "start": 0,
+          "username": "LuminaFable2020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061937986384863263",
+    "in_reply_to_user_id": "1227265979735887874",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061812380619669550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@LuminaFable2020 羡慕了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2061812380619669550",
+        "created_at": "2026-06-02T22:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T23:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061937986384863263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1227265979735887874",
+              "start": 0,
+              "username": "LuminaFable2020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061937986384863263",
+        "in_reply_to_user_id": "1227265979735887874",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061812380619669550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LuminaFable2020 羡慕了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1227265979735887874",
+        "conversation_id": "2061812380619669550",
+        "created_at": "2026-06-02T14:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061812380619669550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061812380619669550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "这算是天赋吗（？\n\n我发现我在不进行任何练习的情况下发出中性化的声音"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，构建社区、AI工具和规模化的数据收集 | \n\n说话含喵量巨大🤯的高二在校生。 | \n你看白雪人间 你看寒夜无岸 \n|\n跨圈列表私信我，开贴喷没有用。\n没看到私信可以随便找个帖子回复下提醒我\n\n要饭：https://t.co/aMQp3GpkVJ\n\n私人 @lunayurari ❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "lunayurari"
+              },
+              {
+                "end": 155,
+                "start": 146,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 126,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 103,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 341,
+          "like_count": 5086,
+          "listed_count": 5,
+          "media_count": 303,
+          "tweet_count": 1532
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-11T16:19:55.000Z",
+        "description": "社恐一枚 喜欢coding和旅游 主要是日常碎碎念？  前世@frankxka05  目标是成为可爱的自己",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "frankxka05"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LuminaSaki",
+                "end": 23,
+                "expanded_url": "https://t.me/LuminaSaki",
+                "start": 0,
+                "url": "https://t.co/tXNFqGvWTa"
+              }
+            ]
+          }
+        },
+        "id": "1227265979735887874",
+        "location": "Changsha",
+        "name": "LuminaSaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055610164711985152/Dga6BtlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 296,
+          "like_count": 841,
+          "listed_count": 4,
+          "media_count": 92,
+          "tweet_count": 530
+        },
+        "url": "https://t.co/tXNFqGvWTa",
+        "username": "LuminaFable2020",
+        "verified": true
+      }
+    ]
+  }
+}

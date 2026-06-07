@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2062849834764087764",
+    "created_at": "2026-06-05T10:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062849834764087764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1844926832967286785",
+          "start": 3,
+          "username": "ZX65535plus1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062849834764087764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062773435852538209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZX65535plus1: 同龄人劝自杀:提供情绪支撑，自己线下前往制止和送医\n我:打电话给其父母把信任我的朋友全都送入精神病院事后炫耀\n就很……你懂吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2062849834764087764",
+        "created_at": "2026-06-05T10:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062849834764087764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1844926832967286785",
+              "start": 3,
+              "username": "ZX65535plus1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062849834764087764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062773435852538209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZX65535plus1: 同龄人劝自杀:提供情绪支撑，自己线下前往制止和送医\n我:打电话给其父母把信任我的朋友全都送入精神病院事后炫耀\n就很……你懂吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "2062773435852538209",
+        "created_at": "2026-06-05T05:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062773435852538209"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062773435852538209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1296,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "同龄人劝自杀:提供情绪支撑，自己线下前往制止和送医\n我:打电话给其父母把信任我的朋友全都送入精神病院事后炫耀\n就很……你懂吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，构建社区、AI工具和规模化的数据收集 | \n\n说话含喵量巨大🤯的高二在校生。 | \n你看白雪人间 你看寒夜无岸 \n|\n跨圈列表私信我，开贴喷没有用。\n没看到私信可以随便找个帖子回复下提醒我\n\n要饭：https://t.co/aMQp3GpkVJ\n\n私人 @lunayurari ❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "lunayurari"
+              },
+              {
+                "end": 155,
+                "start": 146,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 126,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 103,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 380,
+          "like_count": 5180,
+          "listed_count": 5,
+          "media_count": 313,
+          "tweet_count": 1602
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "挨揍不如嘴贱 brat统治世界  |  \n只要不去就诊我就是健全B  |  \n一直试图在没有血缘关系的人身上找到家 | \n非计算机专业 | \n或许是双性恋，不过只对男生有动情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2043367970999832925/7jUBUlO2qh",
+                "start": 0,
+                "url": "https://t.co/pdJCzdgssh"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "万达广场楼下",
+        "name": "小竹子一掰就断🏳️‍⚧️",
+        "pinned_tweet_id": "2062840887370281058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4447,
+          "following_count": 1451,
+          "like_count": 78687,
+          "listed_count": 11,
+          "media_count": 1122,
+          "tweet_count": 22674
+        },
+        "url": "https://t.co/pdJCzdgssh",
+        "username": "ZX65535plus1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2061031040379244613",
+    "created_at": "2026-06-01T23:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T00:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061583714556194920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608637128132685825",
+          "start": 0,
+          "username": "nyaepheia"
+        },
+        {
+          "end": 21,
+          "id": "2016246570312990720",
+          "start": 11,
+          "username": "YuChenawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061583714556194920",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061582261494170094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyaepheia @YuChenawa 协助自杀我可不敢"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2061582261494170094].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2061582261494170094",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2061582261494170094"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2061031040379244613",
+        "created_at": "2026-06-01T23:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T00:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061583714556194920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 21,
+              "id": "2016246570312990720",
+              "start": 11,
+              "username": "YuChenawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061583714556194920",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061582261494170094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia @YuChenawa 协助自杀我可不敢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，构建社区、AI工具和规模化的数据收集 | \n\n说话含喵量巨大🤯的高二在校生。 | \n你看白雪人间 你看寒夜无岸 \n|\n跨圈列表私信我，开贴喷没有用。\n没看到私信可以随便找个帖子回复下提醒我\n\n要饭：https://t.co/aMQp3GpkVJ\n\n私人 @lunayurari ❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "lunayurari"
+              },
+              {
+                "end": 155,
+                "start": 146,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 126,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 103,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 315,
+          "like_count": 5030,
+          "listed_count": 5,
+          "media_count": 298,
+          "tweet_count": 1508
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "https://t.co/nBvMeK1OLJ /ɪˈfiːə/\n好累。好麻烦。\n评论&备用账号@epheiamoe\nNo NSFW.\n日常作息UTC+0\n账号访问权限：@yxrchina @0502railgun1949 @lckmtfdesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "epheiamoe"
+              },
+              {
+                "end": 94,
+                "start": 85,
+                "username": "yxrchina"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "0502railgun1949"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "lckmtfdesu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 23,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/OH6juSIljq"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2061340909577622010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 889,
+          "like_count": 26743,
+          "listed_count": 3,
+          "media_count": 437,
+          "tweet_count": 4994
+        },
+        "url": "https://t.co/OH6juSIljq",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-27T20:27:15.000Z",
+        "description": "這裡是雨辰🥰!小小的爱人:@xiaoyi_0324|無政治傾向,LGBTQIA+全友好!生產日期2009.7.16.請和我社交,我會儘可能認真回復你們的內容的,也歡迎私信騷擾我,雖然說咱不是很會安慰人就是了:D,低俗恶俗人请远离我谢谢!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "xiaoyi_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuchen86833",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuchen86833",
+                "start": 0,
+                "url": "https://t.co/vconkxHXnn"
+              }
+            ]
+          }
+        },
+        "id": "2016246570312990720",
+        "location": "天堂✝️",
+        "name": "𝒴𝓊𝒸𝒽ℯ𝓃🍥",
+        "pinned_tweet_id": "2060749702883332402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017348660867305473/hJCnFu9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 425,
+          "like_count": 1538,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 748
+        },
+        "url": "https://t.co/vconkxHXnn",
+        "username": "YuChenawa",
+        "verified": false
+      }
+    ]
+  }
+}

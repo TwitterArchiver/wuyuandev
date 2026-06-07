@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2061085425759064493",
+    "created_at": "2026-05-31T14:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T15:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061085425759064493"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shrinkviolet77…",
+          "end": 156,
+          "expanded_url": "https://twitter.com/shrinkviolet77/status/2060763676697862628",
+          "start": 133,
+          "url": "https://t.co/r9Xr5mzaBp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061085425759064493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060763676697862628",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我听说每个跨性别女生小时候都会折腾 Linux，而且喜欢 Arch Linux 的跨女长大后会嫁给男人，喜欢 NixOS 的跨女长大后会变成女同。\n什么，你作为跨性别女性，甚至没装过 Linux？\n那你明白“跨性别女性小时候都喜欢 Linux”的说法有多荒谬了吧。 https://t.co/r9Xr5mzaBp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2061085425759064493",
+        "created_at": "2026-05-31T14:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061085425759064493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shrinkviolet77…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/shrinkviolet77/status/2060763676697862628",
+              "start": 133,
+              "url": "https://t.co/r9Xr5mzaBp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061085425759064493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060763676697862628",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我听说每个跨性别女生小时候都会折腾 Linux，而且喜欢 Arch Linux 的跨女长大后会嫁给男人，喜欢 NixOS 的跨女长大后会变成女同。\n什么，你作为跨性别女性，甚至没装过 Linux？\n那你明白“跨性别女性小时候都喜欢 Linux”的说法有多荒谬了吧。 https://t.co/r9Xr5mzaBp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420962557897035781",
+        "conversation_id": "2060763676697862628",
+        "created_at": "2026-05-30T16:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060763676697862628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jane_S_Eye/sta…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/Jane_S_Eye/status/2060686125866594779",
+              "start": 135,
+              "url": "https://t.co/PeHB7qiZYx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060763676697862628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2654,
+          "like_count": 44,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060686125866594779",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我听说每个跨性别女生在小时候都被门夹过，而且我听说被房门夹过的跨女长大后会嫁给男人，被车门夹过的跨女会变成女同。\n什么，你作为变性女人，但是没被门夹过？\n那你明白“跨性别女性小时侯都XXX”的言论有多蠢了吧？\n不过我小时候真的被公交车门夹过。\n两次。\n一次脑袋一次手。 https://t.co/PeHB7qiZYx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，构建社区、AI工具和规模化的数据收集 | \n\n说话含喵量巨大🤯的高二在校生。 | \n你看白雪人间 你看寒夜无岸 \n|\n跨圈列表私信我，开贴喷没有用。\n没看到私信可以随便找个帖子回复下提醒我\n\n要饭：https://t.co/aMQp3GpkVJ\n\n私人 @lunayurari ❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "lunayurari"
+              },
+              {
+                "end": 155,
+                "start": 146,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 126,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 103,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 303,
+          "like_count": 4985,
+          "listed_count": 5,
+          "media_count": 294,
+          "tweet_count": 1479
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-30T04:20:59.000Z",
+        "description": "不辨寒暑，不识春秋，不分虚实，不知死活。\nShe/Her/They/Them | transgender | Demi Lesbian |",
+        "id": "1420962557897035781",
+        "name": "含羞紫罗兰 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760419597789143040/h-TfEGHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 123,
+          "like_count": 43972,
+          "listed_count": 1,
+          "media_count": 551,
+          "tweet_count": 16430
+        },
+        "username": "shrinkviolet77",
+        "verified": false
+      }
+    ]
+  }
+}
