@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2063560052770771369",
+    "created_at": "2026-06-07T10:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063565782974607598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2060632417153503234",
+          "start": 0,
+          "username": "AsahinaShikure"
+        },
+        {
+          "end": 27,
+          "id": "2054877291633909760",
+          "start": 16,
+          "username": "TransYuwen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063565782974607598",
+    "in_reply_to_user_id": "2060632417153503234",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063560052770771369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsahinaShikure @TransYuwen 支持"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [TransYuwen].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "TransYuwen",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "TransYuwen"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063560041026957312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKM87JIaMAAp0AJ.jpg",
+        "width": 1431
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2063560052770771369",
+        "created_at": "2026-06-07T10:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063565782974607598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2060632417153503234",
+              "start": 0,
+              "username": "AsahinaShikure"
+            },
+            {
+              "end": 27,
+              "id": "2054877291633909760",
+              "start": 16,
+              "username": "TransYuwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063565782974607598",
+        "in_reply_to_user_id": "2060632417153503234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063560052770771369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsahinaShikure @TransYuwen 支持"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063560041026957312"
+          ]
+        },
+        "author_id": "2060632417153503234",
+        "conversation_id": "2063560052770771369",
+        "created_at": "2026-06-07T09:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063560052770771369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "2054877291633909760",
+              "start": 11,
+              "username": "TransYuwen"
+            },
+            {
+              "end": 67,
+              "id": "2054877291633909760",
+              "start": 56,
+              "username": "TransYuwen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vo3Wr1kLCJ",
+              "end": 134,
+              "expanded_url": "https://x.com/AsahinaShikure/status/2063560052770771369/photo/1",
+              "media_key": "3_2063560041026957312",
+              "start": 111,
+              "url": "https://t.co/vo3Wr1kLCJ"
+            },
+            {
+              "display_url": "x.com/asahinashikure…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/asahinashikure/status/2062907794613846287",
+              "start": 135,
+              "url": "https://t.co/8jEAy33SUL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063560052770771369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062907794613846287",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然但是，这次唐毓文（@TransYuwen）的X账号真的被封锁了。\nHowever, Tang Yuwen (@TransYuwen)'s X account was really blocked this time. https://t.co/vo3Wr1kLCJ https://t.co/8jEAy33SUL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥｜构建社区、AI 工具与数据抓取。\n\n高二在校生😅｜说话含喵量巨大🤯\n\n你看白雪人间，你看寒夜无岸\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭：https://t.co/ceQCtxmG75\n\n私人 @lunayurari ｜❤️ @tsgostar\n求关注！喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "lunayurari"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 107,
+                "expanded_url": "http://sink.wuyuan.dev/afd",
+                "start": 84,
+                "url": "https://t.co/ceQCtxmG75"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 420,
+          "like_count": 5616,
+          "listed_count": 5,
+          "media_count": 353,
+          "tweet_count": 1770
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-30T08:01:21.000Z",
+        "description": "She/Her 🇸🇬|中三学生|14岁|MtF🏳️‍⚧️|尚未HRT🍥|世界计划🎹|朝比奈まふゆ激推|不od|可键政|社会自由主义🆓|语言🇹🇼🇨🇳🇺🇸🇯🇵🇫🇷均可|世界语🌏学习中|格里芬联邦共和国总统|政府官网https://t.co/o8LDTBhX67 |互fo可私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 128,
+                "expanded_url": "http://gov-urg.net",
+                "start": 105,
+                "url": "https://t.co/o8LDTBhX67"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 23,
+                "expanded_url": "https://www.gov-urg.net/",
+                "start": 0,
+                "url": "https://t.co/RUiH6CfxUm"
+              }
+            ]
+          }
+        },
+        "id": "2060632417153503234",
+        "location": "Central Region, Singapore🇸🇬",
+        "name": "朝比奈丶志暮 Asahina Shikure🏳️‍⚧️",
+        "pinned_tweet_id": "2061802655391866976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060634013363306496/Hl6bmtdb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 736,
+          "like_count": 1708,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 278
+        },
+        "url": "https://t.co/RUiH6CfxUm",
+        "username": "AsahinaShikure",
+        "verified": true
+      }
+    ]
+  }
+}

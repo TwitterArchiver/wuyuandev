@@ -1,0 +1,812 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631722483521921029",
+          "name": "Stripe"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041046235",
+          "name": "Stripe"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Enterprise software",
+          "id": "848959158082617344",
+          "name": "Enterprise software"
+        }
+      }
+    ],
+    "conversation_id": "2063608289489785220",
+    "created_at": "2026-06-07T22:49:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T23:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063755284137627801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1827836118894559232",
+          "start": 0,
+          "username": "dengeplus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20632…",
+          "end": 150,
+          "expanded_url": "https://x.com/i/status/2063253703176671710",
+          "start": 127,
+          "url": "https://t.co/ldPU1RSibM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063755284137627801",
+    "in_reply_to_user_id": "1827836118894559232",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063253703176671710",
+        "type": "quoted"
+      },
+      {
+        "id": "2063608289489785220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dengeplus I don't understand that feeling, but I do know that Stripe's sandbox can simulate many real payment processes here.\nhttps://t.co/ldPU1RSibM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2114,
+        "media_key": "3_2063253696688091136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKImTjia8AAqXpI.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2063606824968847361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNneU5XAAEcIj_.jpg",
+        "width": 1200
+      },
+      {
+        "height": 750,
+        "media_key": "3_2063606824884953088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNneUlW4AAc84g.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631722483521921029",
+              "name": "Stripe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041046235",
+              "name": "Stripe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          }
+        ],
+        "conversation_id": "2063608289489785220",
+        "created_at": "2026-06-07T22:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T23:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063755284137627801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1827836118894559232",
+              "start": 0,
+              "username": "dengeplus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20632…",
+              "end": 150,
+              "expanded_url": "https://x.com/i/status/2063253703176671710",
+              "start": 127,
+              "url": "https://t.co/ldPU1RSibM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063755284137627801",
+        "in_reply_to_user_id": "1827836118894559232",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063253703176671710",
+            "type": "quoted"
+          },
+          {
+            "id": "2063608289489785220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dengeplus I don't understand that feeling, but I do know that Stripe's sandbox can simulate many real payment processes here.\nhttps://t.co/ldPU1RSibM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063253696688091136"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631722483521921029",
+              "name": "Stripe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041046235",
+              "name": "Stripe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2063253703176671710",
+        "created_at": "2026-06-06T13:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063253703176671710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "了解用于在线收款的集成选项。",
+              "display_url": "docs.stripe.com/payments/onlin…",
+              "end": 80,
+              "expanded_url": "https://docs.stripe.com/payments/online-payments?locale=zh-CN",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2063253746923216896/65eIrtOk?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063253746923216896/65eIrtOk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 57,
+              "status": 200,
+              "title": "线上付款",
+              "unwound_url": "https://docs.stripe.com/payments/online-payments?locale=zh-CN",
+              "url": "https://t.co/5eABIxmjQn"
+            },
+            {
+              "display_url": "pic.x.com/gn019ApVNW",
+              "end": 104,
+              "expanded_url": "https://x.com/wuyuandev/status/2063253703176671710/photo/1",
+              "media_key": "3_2063253696688091136",
+              "start": 81,
+              "url": "https://t.co/gn019ApVNW"
+            },
+            {
+              "display_url": "x.com/mizorewww/stat…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/mizorewww/status/2062870408785965471",
+              "start": 105,
+              "url": "https://t.co/Bb6E5gS0jw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063253703176671710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 4215,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062870408785965471",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冷知识：你可以在这里测试 Stripe 的各种付款流程，非常非常有趣！也可以直接呼出Google 付款的演示。\n\nhttps://t.co/5eABIxmjQn https://t.co/gn019ApVNW https://t.co/Bb6E5gS0jw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063606824968847361",
+            "3_2063606824884953088"
+          ]
+        },
+        "author_id": "1827836118894559232",
+        "conversation_id": "2063608289489785220",
+        "created_at": "2026-06-07T13:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063608289489785220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iMD8VXOEr7",
+              "end": 293,
+              "expanded_url": "https://x.com/dengeplus/status/2063608289489785220/photo/1",
+              "media_key": "3_2063606824968847361",
+              "start": 270,
+              "url": "https://t.co/iMD8VXOEr7"
+            },
+            {
+              "display_url": "pic.x.com/iMD8VXOEr7",
+              "end": 293,
+              "expanded_url": "https://x.com/dengeplus/status/2063608289489785220/photo/1",
+              "media_key": "3_2063606824884953088",
+              "start": 270,
+              "url": "https://t.co/iMD8VXOEr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063608289489785220",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {},
+          "text": "Güney Kore'de \"Dopamin siteleri\" popülerleşmeye başladı.\n\n🔹 Sitelerde ücret ödemeden sahte alışveriş sepeti oluşturabiliyorsunuz.\n\n🔹 Sahte bir sipariş oluşturabiliyorsunuz.\n\n🔹 Hiç var olmayan bir kuryeyi takip edebiliyorsunuz.\n\n🔹 Bu şekilde paranız varmış gibi hissedip dopamin salgılamanız amaçlanıyor."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2283,
+          "impression_count": 690934,
+          "like_count": 5786,
+          "quote_count": 299,
+          "reply_count": 121,
+          "retweet_count": 311
+        },
+        "reply_settings": "everyone",
+        "text": "Güney Kore'de \"Dopamin siteleri\" popülerleşmeye başladı.\n\n🔹 Sitelerde ücret ödemeden sahte alışveriş sepeti oluşturabiliyorsunuz.\n\n🔹 Sahte bir sipariş oluşturabiliyorsunuz.\n\n🔹 Hiç var olmayan bir kuryeyi takip edebiliyorsunuz.\n\n🔹 Bu şekilde paranız varmış gibi hissedip https://t.co/iMD8VXOEr7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥｜构建社区、AI 工具与数据抓取。\n\n高二在校生😅｜说话含喵量巨大🤯\n\n你看白雪人间，你看寒夜无岸\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭：https://t.co/ceQCtxmG75\n\n私人 @lunayurari ｜❤️ @tsgostar\n求关注！喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "lunayurari"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 107,
+                "expanded_url": "http://sink.wuyuan.dev/afd",
+                "start": 84,
+                "url": "https://t.co/ceQCtxmG75"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 419,
+          "like_count": 5631,
+          "listed_count": 5,
+          "media_count": 357,
+          "tweet_count": 1789
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-25T22:31:28.000Z",
+        "description": "Tüm haberler tek bir dengede.\nİletişim — DM",
+        "id": "1827836118894559232",
+        "name": "Denge+",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014824749503856640/as6w72gO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42492,
+          "following_count": 91,
+          "like_count": 793,
+          "listed_count": 38,
+          "media_count": 6845,
+          "tweet_count": 6961
+        },
+        "username": "dengeplus",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063428105549885440"
+      ],
+      "media_source_tweet_id": [
+        "2063428298030608702"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "2063432276864815456",
+    "created_at": "2026-06-07T01:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T02:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063432276864815456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1436287470207832064",
+          "start": 3,
+          "username": "wuyuandev"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fPLPowjTmH",
+          "end": 79,
+          "expanded_url": "https://x.com/wuyuandev/status/2063428298030608702/photo/1",
+          "media_key": "3_2063428105549885440",
+          "start": 56,
+          "url": "https://t.co/fPLPowjTmH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063432276864815456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063428298030608702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wuyuandev: 顺带一提，Premium 分组有一个专属的显示\n倒是和 X Premium 很像 https://t.co/fPLPowjTmH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 128,
+        "media_key": "3_2063428105549885440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLE7fLbsAAyy2k.png",
+        "width": 208
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063428105549885440"
+          ],
+          "media_source_tweet_id": [
+            "2063428298030608702"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2063432276864815456",
+        "created_at": "2026-06-07T01:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T02:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063432276864815456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1436287470207832064",
+              "start": 3,
+              "username": "wuyuandev"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fPLPowjTmH",
+              "end": 79,
+              "expanded_url": "https://x.com/wuyuandev/status/2063428298030608702/photo/1",
+              "media_key": "3_2063428105549885440",
+              "start": 56,
+              "url": "https://t.co/fPLPowjTmH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063432276864815456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063428298030608702",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wuyuandev: 顺带一提，Premium 分组有一个专属的显示\n倒是和 X Premium 很像 https://t.co/fPLPowjTmH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063428105549885440"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2063418874251673658",
+        "created_at": "2026-06-07T01:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T02:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063428298030608702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fPLPowjTmH",
+              "end": 64,
+              "expanded_url": "https://x.com/wuyuandev/status/2063428298030608702/photo/1",
+              "media_key": "3_2063428105549885440",
+              "start": 41,
+              "url": "https://t.co/fPLPowjTmH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063428298030608702",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063418874251673658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "顺带一提，Premium 分组有一个专属的显示\n倒是和 X Premium 很像 https://t.co/fPLPowjTmH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥｜构建社区、AI 工具与数据抓取。\n\n高二在校生😅｜说话含喵量巨大🤯\n\n你看白雪人间，你看寒夜无岸\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭：https://t.co/ceQCtxmG75\n\n私人 @lunayurari ｜❤️ @tsgostar\n求关注！喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "lunayurari"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 107,
+                "expanded_url": "http://sink.wuyuan.dev/afd",
+                "start": 84,
+                "url": "https://t.co/ceQCtxmG75"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 418,
+          "like_count": 5516,
+          "listed_count": 5,
+          "media_count": 348,
+          "tweet_count": 1726
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      }
+    ]
+  }
+}

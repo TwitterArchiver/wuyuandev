@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063757125910921216"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "2063803198121386412",
+    "created_at": "2026-06-08T02:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063803198121386412"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FrPv1zyCce",
+          "end": 33,
+          "expanded_url": "https://x.com/wuyuandev/status/2063803198121386412/photo/1",
+          "media_key": "3_2063757125910921216",
+          "start": 10,
+          "url": "https://t.co/FrPv1zyCce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063803198121386412",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那我可真要感恩了😇 https://t.co/FrPv1zyCce"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1451,
+        "media_key": "3_2063757125910921216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPwK_iaAAAiW4_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063757125910921216"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2063803198121386412",
+        "created_at": "2026-06-08T02:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063803198121386412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FrPv1zyCce",
+              "end": 33,
+              "expanded_url": "https://x.com/wuyuandev/status/2063803198121386412/photo/1",
+              "media_key": "3_2063757125910921216",
+              "start": 10,
+              "url": "https://t.co/FrPv1zyCce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063803198121386412",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那我可真要感恩了😇 https://t.co/FrPv1zyCce"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥｜构建社区、AI 工具与数据抓取。\n\n高二在校生😅｜说话含喵量巨大🤯\n\n你看白雪人间，你看寒夜无岸\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭：https://t.co/ceQCtxmG75\n\n私人 @lunayurari ｜❤️ @tsgostar\n求关注！喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "lunayurari"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 107,
+                "expanded_url": "http://sink.wuyuan.dev/afd",
+                "start": 84,
+                "url": "https://t.co/ceQCtxmG75"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 419,
+          "like_count": 5634,
+          "listed_count": 5,
+          "media_count": 359,
+          "tweet_count": 1791
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      }
+    ]
+  }
+}
