@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2064913252094705851",
+    "created_at": "2026-06-11T22:59:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T23:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065207434629796121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "311631629",
+          "start": 0,
+          "username": "kyle4prezident"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065207434629796121",
+    "in_reply_to_user_id": "311631629",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064913252094705851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyle4prezident It's clear that Avatar is more exciting than the competition."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064913225410543616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgLo1yaAAA1pjd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2064913252094705851",
+        "created_at": "2026-06-11T22:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T23:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065207434629796121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "311631629",
+              "start": 0,
+              "username": "kyle4prezident"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065207434629796121",
+        "in_reply_to_user_id": "311631629",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064913252094705851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyle4prezident It's clear that Avatar is more exciting than the competition."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064913225410543616"
+          ]
+        },
+        "author_id": "311631629",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "All the latest basketball action from the NBA.",
+              "id": "10000607734",
+              "name": "NBA Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10029304530",
+              "name": "NBA Basketball"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "2020913062413262848",
+              "name": "Spurs at Knicks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "706083902411055104",
+              "name": "Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "706083892525010946",
+              "name": "New York Knicks"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "706083889454813185",
+              "name": "NBA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2020913062413262848",
+              "name": "Spurs at Knicks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Basketball games",
+              "id": "39",
+              "name": "Basketball Game"
+            },
+            "entity": {
+              "id": "2020913062413262848",
+              "name": "Spurs at Knicks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "706083889454813185",
+              "name": "NBA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "706083892525010946",
+              "name": "New York Knicks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "706083902411055104",
+              "name": "Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2064913252094705851",
+        "created_at": "2026-06-11T03:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064913252094705851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VT8rk97ow9",
+              "end": 96,
+              "expanded_url": "https://x.com/kyle4prezident/status/2064913252094705851/photo/1",
+              "media_key": "3_2064913225410543616",
+              "start": 73,
+              "url": "https://t.co/VT8rk97ow9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064913252094705851",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7167,
+          "impression_count": 5668096,
+          "like_count": 232392,
+          "quote_count": 988,
+          "reply_count": 1263,
+          "retweet_count": 8504
+        },
+        "reply_settings": "everyone",
+        "text": "whole plane watching the knicks game except for one dude watching avatar https://t.co/VT8rk97ow9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥｜构建社区、AI 工具与数据抓取。\n\n高二在校生😅｜说话含喵量巨大🤯\n\n你看白雪人间，你看寒夜无岸\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭：https://t.co/ceQCtxmG75\n\n私人 @lunayurari ｜❤️ @tsgostar\n求关注！喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "lunayurari"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 107,
+                "expanded_url": "http://sink.wuyuan.dev/afd",
+                "start": 84,
+                "url": "https://t.co/ceQCtxmG75"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 430,
+          "like_count": 5789,
+          "listed_count": 5,
+          "media_count": 386,
+          "tweet_count": 1864
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2011-06-05T19:43:23.000Z",
+        "description": "beautiful little fool",
+        "id": "311631629",
+        "location": "brooklyn",
+        "name": "kyle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801670155786739712/1Ky9Pm_w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5833,
+          "following_count": 569,
+          "like_count": 50947,
+          "listed_count": 17,
+          "media_count": 6866,
+          "tweet_count": 28645
+        },
+        "username": "kyle4prezident",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,521 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066056846256099328"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2065449043925381293",
+    "created_at": "2026-06-14T07:21:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:21:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066058517069578428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "31285982",
+          "start": 0,
+          "username": "googleearth"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/seTrct5Cxb",
+          "end": 79,
+          "expanded_url": "https://x.com/wuyuandev/status/2066058517069578428/photo/1",
+          "media_key": "3_2066056846256099328",
+          "start": 56,
+          "url": "https://t.co/seTrct5Cxb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066058517069578428",
+    "in_reply_to_user_id": "31285982",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065449043925381293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@googleearth Why not play it at the World Trade Center? https://t.co/seTrct5Cxb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1392,
+        "media_key": "3_2066056846256099328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwbwVbb0AAfM7Y.jpg",
+        "width": 2560
+      },
+      {
+        "duration_ms": 50387,
+        "height": 1080,
+        "media_key": "13_2065441538604191744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065441538604191744/img/CmwZhuOZi_GoZaZk.jpg",
+        "public_metrics": {
+          "view_count": 1815960
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065441538604191744/vid/avc1/320x320/KqP969fGzEDoqYLU.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065441538604191744/vid/avc1/540x540/Rx5omgE5Kk4jQcfo.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065441538604191744/vid/avc1/720x720/7QbkSlwFI9o_pShm.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065441538604191744/pl/sqBrB1NsqqwC8Upl.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066056846256099328"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2065449043925381293",
+        "created_at": "2026-06-14T07:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066058517069578428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "31285982",
+              "start": 0,
+              "username": "googleearth"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/seTrct5Cxb",
+              "end": 79,
+              "expanded_url": "https://x.com/wuyuandev/status/2066058517069578428/photo/1",
+              "media_key": "3_2066056846256099328",
+              "start": 56,
+              "url": "https://t.co/seTrct5Cxb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066058517069578428",
+        "in_reply_to_user_id": "31285982",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065449043925381293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@googleearth Why not play it at the World Trade Center? https://t.co/seTrct5Cxb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065441538604191744"
+          ]
+        },
+        "author_id": "31285982",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404138543773933568",
+              "name": "Microsoft Flight Simulator"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404138543773933568",
+              "name": "Microsoft Flight Simulator"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897662399922176",
+              "name": "Simulation games"
+            }
+          }
+        ],
+        "conversation_id": "2065449043925381293",
+        "created_at": "2026-06-12T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065449043925381293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Create and collaborate on immersive, data-driven maps from anywhere with the new Google Earth. See the world from above with high-resolution satellite imagery, explore 3D terrain and buildings in hundreds of cities, and dive into streets and neighborhoods with Street View's 360° perspectives.",
+              "display_url": "goo.gle/4fBYnWO",
+              "end": 111,
+              "expanded_url": "https://goo.gle/4fBYnWO",
+              "images": [
+                {
+                  "height": 220,
+                  "url": "https://pbs.twimg.com/news_img/2065449052192358400/zn2vNjoR?format=jpg&name=orig",
+                  "width": 440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2065449052192358400/zn2vNjoR?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 88,
+              "status": 200,
+              "title": "Google Earth",
+              "unwound_url": "https://earth.google.com/web/?utm_source=linkedin&utm_medium=owned-social&utm_campaign=flight_sim&linkId=62296489",
+              "url": "https://t.co/jV5ZW7BZeW"
+            },
+            {
+              "display_url": "pic.x.com/s11NDaCx60",
+              "end": 298,
+              "expanded_url": "https://x.com/googleearth/status/2065449043925381293/video/1",
+              "media_key": "13_2065441538604191744",
+              "start": 275,
+              "url": "https://t.co/s11NDaCx60"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065449043925381293",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "goo.gle/4fBYnWO",
+                "end": 111,
+                "expanded_url": "https://goo.gle/4fBYnWO",
+                "start": 88,
+                "url": "https://t.co/hQP0No142P"
+              }
+            ]
+          },
+          "text": "Prepare for takeoff. ✈️ Flight simulator is now available globally on web to all users. https://t.co/hQP0No142P\n\nWe've recently added many our most powerful professional desktop features to web. Elevation profiles, new import types, but there's always been one other feature you've been asking us to add to the web version of Google Earth, just for fun...\n\nWhere will you fly? Share your best maneuvers, views, and flyovers with us!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17877,
+          "impression_count": 6881034,
+          "like_count": 27342,
+          "quote_count": 588,
+          "reply_count": 379,
+          "retweet_count": 3368
+        },
+        "reply_settings": "everyone",
+        "text": "Prepare for takeoff. ✈️ Flight simulator is now available globally on web to all users. https://t.co/jV5ZW7BZeW\n\nWe've recently added many our most powerful professional desktop features to web. Elevation profiles, new import types, but there's always been one other feature https://t.co/s11NDaCx60"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥｜构建社区、AI 工具与数据抓取。\n\n高二在校生😅｜说话含喵量巨大🤯\n\n你看白雪人间，你看寒夜无岸\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭：https://t.co/ceQCtxmG75\n\n私人 @lunayurari ｜❤️ @tsgostar\n求关注！喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "lunayurari"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 107,
+                "expanded_url": "http://sink.wuyuan.dev/afd",
+                "start": 84,
+                "url": "https://t.co/ceQCtxmG75"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 459,
+          "like_count": 6209,
+          "listed_count": 5,
+          "media_count": 415,
+          "tweet_count": 2010
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-15T00:50:55.000Z",
+        "description": "Discover geospatial datasets and tools, AI capabilities, and planetary-scale insights from Google Earth, Google Earth Engine and Google Maps Platform",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.co/earth",
+                "end": 23,
+                "expanded_url": "http://g.co/earth",
+                "start": 0,
+                "url": "https://t.co/8gJKy6ws3t"
+              }
+            ]
+          }
+        },
+        "id": "31285982",
+        "location": "Mountain View, CA",
+        "name": "Google Earth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/854272241449799680/e_NsMovl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112563,
+          "following_count": 285,
+          "like_count": 2874,
+          "listed_count": 5785,
+          "media_count": 1054,
+          "tweet_count": 4137
+        },
+        "url": "https://t.co/8gJKy6ws3t",
+        "username": "googleearth",
+        "verified": true
+      }
+    ]
+  }
+}

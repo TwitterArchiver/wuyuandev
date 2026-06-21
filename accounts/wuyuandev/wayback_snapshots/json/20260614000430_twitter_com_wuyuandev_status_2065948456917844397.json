@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065948452295684096"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "2065812383474327868",
+    "created_at": "2026-06-14T00:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T01:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065948456917844397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1605833124608344068",
+          "start": 0,
+          "username": "dfwregan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6anLbD5psI",
+          "end": 163,
+          "expanded_url": "https://x.com/wuyuandev/status/2065948456917844397/photo/1",
+          "media_key": "3_2065948452295684096",
+          "start": 140,
+          "url": "https://t.co/6anLbD5psI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065948456917844397",
+    "in_reply_to_user_id": "1605833124608344068",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065812383474327868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dfwregan_ In my hometown, no company regulates the color of bottle caps; this is just the imagination of the person who made this picture. https://t.co/6anLbD5psI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 642,
+        "media_key": "3_2065948452295684096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKu5K-daMAA_4_l.jpg",
+        "width": 600
+      },
+      {
+        "height": 1820,
+        "media_key": "3_2065812369893130240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKs9Z8AWgAARY-Y.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065948452295684096"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2065812383474327868",
+        "created_at": "2026-06-14T00:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T01:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065948456917844397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1605833124608344068",
+              "start": 0,
+              "username": "dfwregan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6anLbD5psI",
+              "end": 163,
+              "expanded_url": "https://x.com/wuyuandev/status/2065948456917844397/photo/1",
+              "media_key": "3_2065948452295684096",
+              "start": 140,
+              "url": "https://t.co/6anLbD5psI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065948456917844397",
+        "in_reply_to_user_id": "1605833124608344068",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065812383474327868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dfwregan_ In my hometown, no company regulates the color of bottle caps; this is just the imagination of the person who made this picture. https://t.co/6anLbD5psI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065812369893130240"
+          ]
+        },
+        "author_id": "1605833124608344068",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Water",
+              "id": "850146068683571201",
+              "name": "Water"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Water",
+              "id": "850146068683571201",
+              "name": "Water"
+            }
+          }
+        ],
+        "conversation_id": "2065812383474327868",
+        "created_at": "2026-06-13T15:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065812383474327868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q2FMsOQcOB",
+              "end": 62,
+              "expanded_url": "https://x.com/dfwregan_/status/2065812383474327868/photo/1",
+              "media_key": "3_2065812369893130240",
+              "start": 39,
+              "url": "https://t.co/q2FMsOQcOB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065812383474327868",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1751,
+          "impression_count": 365284,
+          "like_count": 5779,
+          "quote_count": 33,
+          "reply_count": 73,
+          "retweet_count": 924
+        },
+        "reply_settings": "everyone",
+        "text": "MEANING OF WATER BOTTLE CAP COLORS!!!! https://t.co/q2FMsOQcOB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥｜构建社区、AI 工具与数据抓取。\n\n高二在校生😅｜说话含喵量巨大🤯\n\n你看白雪人间，你看寒夜无岸\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭：https://t.co/ceQCtxmG75\n\n私人 @lunayurari ｜❤️ @tsgostar\n求关注！喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "lunayurari"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 107,
+                "expanded_url": "http://sink.wuyuan.dev/afd",
+                "start": 84,
+                "url": "https://t.co/ceQCtxmG75"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 451,
+          "like_count": 6142,
+          "listed_count": 5,
+          "media_count": 404,
+          "tweet_count": 1978
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-22T07:51:13.000Z",
+        "description": "Built to beat the odds.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "snapchat.com/t/RYM9AfiW",
+                "end": 23,
+                "expanded_url": "https://snapchat.com/t/RYM9AfiW",
+                "start": 0,
+                "url": "https://t.co/sPN6WgbCU2"
+              }
+            ]
+          }
+        },
+        "id": "1605833124608344068",
+        "location": "Santandave & BNXN",
+        "name": "༄ؘ Regan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052123840885448704/F4qbywP3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17312,
+          "following_count": 3087,
+          "like_count": 29317,
+          "listed_count": 11,
+          "media_count": 1317,
+          "tweet_count": 38367
+        },
+        "url": "https://t.co/sPN6WgbCU2",
+        "username": "dfwregan_",
+        "verified": true
+      }
+    ]
+  }
+}

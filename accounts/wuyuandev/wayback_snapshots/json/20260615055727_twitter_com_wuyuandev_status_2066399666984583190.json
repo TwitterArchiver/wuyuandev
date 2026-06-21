@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2066323826867351683",
+    "created_at": "2026-06-15T05:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T06:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066399666984583190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1651974564459708417",
+          "start": 0,
+          "username": "Tashkent_PrPr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066399666984583190",
+    "in_reply_to_user_id": "1651974564459708417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066399115702161458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tashkent_PrPr 原来如此"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2066323826867351683",
+        "created_at": "2026-06-15T05:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066399666984583190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1651974564459708417",
+              "start": 0,
+              "username": "Tashkent_PrPr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066399666984583190",
+        "in_reply_to_user_id": "1651974564459708417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066399115702161458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tashkent_PrPr 原来如此"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651974564459708417",
+        "conversation_id": "2066323826867351683",
+        "created_at": "2026-06-15T05:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066399115702161458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066399115702161458",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066323826867351683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev 问题就在这 传统的割圆法是不会很大程度影响面积的，通常是把圆拼成一个近似平行四边形的的东西，而你这个割方法对面积的影响太大了，相当于变面积不变周长 算出来的结果肯定有问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥｜构建社区、AI 工具与数据抓取。\n\n高二在校生😅｜说话含喵量巨大🤯\n\n你看白雪人间，你看寒夜无岸\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭：https://t.co/ceQCtxmG75\n\n私人 @lunayurari ｜❤️ @tsgostar\n求关注！喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "lunayurari"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 107,
+                "expanded_url": "http://sink.wuyuan.dev/afd",
+                "start": 84,
+                "url": "https://t.co/ceQCtxmG75"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 478,
+          "like_count": 6417,
+          "listed_count": 5,
+          "media_count": 436,
+          "tweet_count": 2113
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-28T15:41:18.000Z",
+        "description": "有偏执症和被害妄想\n易爆，但是伤害性不大\n伤敌八十自损一千那种\n喜欢塔什干，到处搜寻有关塔什干的印刷球ing\ndiscord:AL_Tashkent_prpr",
+        "id": "1651974564459708417",
+        "location": "China",
+        "name": "冠死以冕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041750841615642626/AsnZBAzt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 255,
+          "like_count": 4268,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 799
+        },
+        "username": "Tashkent_PrPr",
+        "verified": false
+      }
+    ]
+  }
+}

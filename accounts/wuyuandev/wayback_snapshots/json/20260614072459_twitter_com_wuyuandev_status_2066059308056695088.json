@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066056846256099328"
+      ],
+      "media_source_tweet_id": [
+        "2066058517069578428"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2066059308056695088",
+    "created_at": "2026-06-14T07:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066059308056695088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1436287470207832064",
+          "start": 3,
+          "username": "wuyuandev"
+        },
+        {
+          "end": 27,
+          "id": "31285982",
+          "start": 15,
+          "username": "googleearth"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/seTrct5Cxb",
+          "end": 94,
+          "expanded_url": "https://x.com/wuyuandev/status/2066058517069578428/photo/1",
+          "media_key": "3_2066056846256099328",
+          "start": 71,
+          "url": "https://t.co/seTrct5Cxb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066059308056695088",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066058517069578428",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wuyuandev: @googleearth Why not play it at the World Trade Center? https://t.co/seTrct5Cxb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1392,
+        "media_key": "3_2066056846256099328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwbwVbb0AAfM7Y.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066056846256099328"
+          ],
+          "media_source_tweet_id": [
+            "2066058517069578428"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2066059308056695088",
+        "created_at": "2026-06-14T07:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066059308056695088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1436287470207832064",
+              "start": 3,
+              "username": "wuyuandev"
+            },
+            {
+              "end": 27,
+              "id": "31285982",
+              "start": 15,
+              "username": "googleearth"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/seTrct5Cxb",
+              "end": 94,
+              "expanded_url": "https://x.com/wuyuandev/status/2066058517069578428/photo/1",
+              "media_key": "3_2066056846256099328",
+              "start": 71,
+              "url": "https://t.co/seTrct5Cxb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066059308056695088",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066058517069578428",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wuyuandev: @googleearth Why not play it at the World Trade Center? https://t.co/seTrct5Cxb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066056846256099328"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2065449043925381293",
+        "created_at": "2026-06-14T07:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066058517069578428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "31285982",
+              "start": 0,
+              "username": "googleearth"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/seTrct5Cxb",
+              "end": 79,
+              "expanded_url": "https://x.com/wuyuandev/status/2066058517069578428/photo/1",
+              "media_key": "3_2066056846256099328",
+              "start": 56,
+              "url": "https://t.co/seTrct5Cxb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066058517069578428",
+        "in_reply_to_user_id": "31285982",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065449043925381293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@googleearth Why not play it at the World Trade Center? https://t.co/seTrct5Cxb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥｜构建社区、AI 工具与数据抓取。\n\n高二在校生😅｜说话含喵量巨大🤯\n\n你看白雪人间，你看寒夜无岸\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭：https://t.co/ceQCtxmG75\n\n私人 @lunayurari ｜❤️ @tsgostar\n求关注！喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "lunayurari"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 107,
+                "expanded_url": "http://sink.wuyuan.dev/afd",
+                "start": 84,
+                "url": "https://t.co/ceQCtxmG75"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 459,
+          "like_count": 6209,
+          "listed_count": 5,
+          "media_count": 416,
+          "tweet_count": 2013
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-15T00:50:55.000Z",
+        "description": "Discover geospatial datasets and tools, AI capabilities, and planetary-scale insights from Google Earth, Google Earth Engine and Google Maps Platform",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.co/earth",
+                "end": 23,
+                "expanded_url": "http://g.co/earth",
+                "start": 0,
+                "url": "https://t.co/8gJKy6ws3t"
+              }
+            ]
+          }
+        },
+        "id": "31285982",
+        "location": "Mountain View, CA",
+        "name": "Google Earth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/854272241449799680/e_NsMovl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112571,
+          "following_count": 285,
+          "like_count": 2874,
+          "listed_count": 5785,
+          "media_count": 1054,
+          "tweet_count": 4137
+        },
+        "url": "https://t.co/8gJKy6ws3t",
+        "username": "googleearth",
+        "verified": true
+      }
+    ]
+  }
+}

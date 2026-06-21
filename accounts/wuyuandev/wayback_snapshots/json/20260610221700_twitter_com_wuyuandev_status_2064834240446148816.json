@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2064834238005064099",
+    "created_at": "2026-06-10T22:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T23:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064834240446148816"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "突然出现的,并且很快上了消耗量第一",
+          "display_url": "linux.do/t/topic/2367388",
+          "end": 30,
+          "expanded_url": "https://linux.do/t/topic/2367388",
+          "images": [
+            {
+              "height": 485,
+              "url": "https://pbs.twimg.com/news_img/2064834243440816128/IrDDzVIP?format=png&name=orig",
+              "width": 1024
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2064834243440816128/IrDDzVIP?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 7,
+          "status": 200,
+          "title": "突发！美国战争部居然透过openrouter 使用Claude Fable 5",
+          "unwound_url": "https://linux.do/t/topic/2367388",
+          "url": "https://t.co/YOGRmYietm"
+        },
+        {
+          "description": "Explore app analytics for United States Department of War. United States Department of War uses OpenRouter to access hundreds of AI models.",
+          "display_url": "openrouter.ai/apps?url=https…",
+          "end": 65,
+          "expanded_url": "https://openrouter.ai/apps?url=https%3A%2F%2Fwar.gov%2F",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2064669082364821504/NRGw4tRU?format=png&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2064669082364821504/NRGw4tRU?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 42,
+          "status": 200,
+          "title": "United States Department of War | OpenRouter",
+          "unwound_url": "https://openrouter.ai/apps?url=https%3A%2F%2Fwar.gov%2F",
+          "url": "https://t.co/cKlUIMsmZm"
+        },
+        {
+          "description": "美国战争部大量使用Fable 5 第二天各大平台-X 公众号 红书 Anthropic藏了一个月的神话模型首秀 就连美国战争部都要用来做些什么！！！",
+          "display_url": "linux.do/t/topic/2370005",
+          "end": 109,
+          "expanded_url": "https://linux.do/t/topic/2370005",
+          "start": 86,
+          "status": 200,
+          "title": "又要涌现一大批A÷写手咯",
+          "unwound_url": "https://linux.do/t/topic/2370005",
+          "url": "https://t.co/FtYQ3DepBv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064834240446148816",
+    "in_reply_to_user_id": "1436287470207832064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064834238005064099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "参考消息源：\nhttps://t.co/YOGRmYietm\n（LINUX DO）\nhttps://t.co/cKlUIMsmZm\n（Openrouter）\n\n标题参考：\nhttps://t.co/FtYQ3DepBv\n（LINUX DO）\n\n转载须备注消息源，无需备注本人因为我就一个乱转文的\n\n免责：消息均源自互联网，非私人渠道消息，请自行判断可信度。引用的论坛帖子不是私密的。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064832546081542144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKfCQr3bEAAdlAS.jpg",
+        "width": 1053
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2064834238005064099",
+        "created_at": "2026-06-10T22:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T23:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064834240446148816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "突然出现的,并且很快上了消耗量第一",
+              "display_url": "linux.do/t/topic/2367388",
+              "end": 30,
+              "expanded_url": "https://linux.do/t/topic/2367388",
+              "images": [
+                {
+                  "height": 485,
+                  "url": "https://pbs.twimg.com/news_img/2064834243440816128/IrDDzVIP?format=png&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2064834243440816128/IrDDzVIP?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 7,
+              "status": 200,
+              "title": "突发！美国战争部居然透过openrouter 使用Claude Fable 5",
+              "unwound_url": "https://linux.do/t/topic/2367388",
+              "url": "https://t.co/YOGRmYietm"
+            },
+            {
+              "description": "Explore app analytics for United States Department of War. United States Department of War uses OpenRouter to access hundreds of AI models.",
+              "display_url": "openrouter.ai/apps?url=https…",
+              "end": 65,
+              "expanded_url": "https://openrouter.ai/apps?url=https%3A%2F%2Fwar.gov%2F",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2064669082364821504/NRGw4tRU?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2064669082364821504/NRGw4tRU?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 42,
+              "status": 200,
+              "title": "United States Department of War | OpenRouter",
+              "unwound_url": "https://openrouter.ai/apps?url=https%3A%2F%2Fwar.gov%2F",
+              "url": "https://t.co/cKlUIMsmZm"
+            },
+            {
+              "description": "美国战争部大量使用Fable 5 第二天各大平台-X 公众号 红书 Anthropic藏了一个月的神话模型首秀 就连美国战争部都要用来做些什么！！！",
+              "display_url": "linux.do/t/topic/2370005",
+              "end": 109,
+              "expanded_url": "https://linux.do/t/topic/2370005",
+              "start": 86,
+              "status": 200,
+              "title": "又要涌现一大批A÷写手咯",
+              "unwound_url": "https://linux.do/t/topic/2370005",
+              "url": "https://t.co/FtYQ3DepBv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064834240446148816",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064834238005064099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "参考消息源：\nhttps://t.co/YOGRmYietm\n（LINUX DO）\nhttps://t.co/cKlUIMsmZm\n（Openrouter）\n\n标题参考：\nhttps://t.co/FtYQ3DepBv\n（LINUX DO）\n\n转载须备注消息源，无需备注本人因为我就一个乱转文的\n\n免责：消息均源自互联网，非私人渠道消息，请自行判断可信度。引用的论坛帖子不是私密的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064832546081542144"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2064834238005064099",
+        "created_at": "2026-06-10T22:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T23:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064834238005064099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kv4BExZrmz",
+              "end": 178,
+              "expanded_url": "https://x.com/wuyuandev/status/2064834238005064099/photo/1",
+              "media_key": "3_2064832546081542144",
+              "start": 155,
+              "url": "https://t.co/kv4BExZrmz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064834238005064099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Anthropic藏了一个月的神话模型首秀\n连美国战争部都要偷着来试试！\n\n继昨天有人发现美国战争部（国防部）正在通过Openroute 使用 Claude Fable 5 并出现在了排行榜上，消耗104b tokens，价值数百万美元，远超其他应用，之后\n今天发现其名字已被官方隐藏，看来并不是故意公开的。\n就是没想到能这么草台班子\n\n你觉得他们拿fable5干了什么？\n会不会次次被降级到opus4.8呢？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Anthropic藏了一个月的神话模型首秀\n连美国战争部都要偷着来试试！\n\n继昨天有人发现美国战争部（国防部）正在通过Openroute 使用 Claude Fable 5 并出现在了排行榜上，消耗104b tokens，价值数百万美元，远超其他应用，之后\n今天发现其名字已被官方隐藏，看来并不是故意公开的。 https://t.co/kv4BExZrmz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥｜构建社区、AI 工具与数据抓取。\n\n高二在校生😅｜说话含喵量巨大🤯\n\n你看白雪人间，你看寒夜无岸\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭：https://t.co/ceQCtxmG75\n\n私人 @lunayurari ｜❤️ @tsgostar\n求关注！喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "lunayurari"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 107,
+                "expanded_url": "http://sink.wuyuan.dev/afd",
+                "start": 84,
+                "url": "https://t.co/ceQCtxmG75"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 423,
+          "like_count": 5738,
+          "listed_count": 5,
+          "media_count": 379,
+          "tweet_count": 1844
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      }
+    ]
+  }
+}

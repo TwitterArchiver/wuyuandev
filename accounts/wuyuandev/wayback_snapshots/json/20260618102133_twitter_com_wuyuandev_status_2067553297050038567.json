@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067553283363999744"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "2067248375280640301",
+    "created_at": "2026-06-18T10:21:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T11:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067553297050038567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1923721390349484036",
+          "start": 0,
+          "username": "Vz66Xats"
+        },
+        {
+          "end": 21,
+          "id": "33853845",
+          "start": 10,
+          "username": "luoyonghao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tpAgWnahJN",
+          "end": 45,
+          "expanded_url": "https://x.com/wuyuandev/status/2067553297050038567/photo/1",
+          "media_key": "3_2067553283363999744",
+          "start": 22,
+          "url": "https://t.co/tpAgWnahJN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067553297050038567",
+    "in_reply_to_user_id": "1923721390349484036",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067503698574708937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vz66Xats @luoyonghao https://t.co/tpAgWnahJN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2067553283363999744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFswcEakAAFW4S.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067553283363999744"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2067248375280640301",
+        "created_at": "2026-06-18T10:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067553297050038567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1923721390349484036",
+              "start": 0,
+              "username": "Vz66Xats"
+            },
+            {
+              "end": 21,
+              "id": "33853845",
+              "start": 10,
+              "username": "luoyonghao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tpAgWnahJN",
+              "end": 45,
+              "expanded_url": "https://x.com/wuyuandev/status/2067553297050038567/photo/1",
+              "media_key": "3_2067553283363999744",
+              "start": 22,
+              "url": "https://t.co/tpAgWnahJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067553297050038567",
+        "in_reply_to_user_id": "1923721390349484036",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067503698574708937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vz66Xats @luoyonghao https://t.co/tpAgWnahJN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923721390349484036",
+        "conversation_id": "2067248375280640301",
+        "created_at": "2026-06-18T07:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067503698574708937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            },
+            {
+              "end": 22,
+              "id": "33853845",
+              "start": 11,
+              "username": "luoyonghao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067503698574708937",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 388,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067248375280640301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev @luoyonghao 殖人最大的特点就是，政府让我过上好日子那是应该的。如果中国这片大地只有两三亿人口，那么我会赞同你的话，但是足足十几亿人口，每家每户都要有房有车，顿顿有肉，现在更过分的要求都来了，还想要有半年的休假。如果十几亿人都过上这种生活，你自己算算要抢到全球多少份额资源才行？只会动嘴炮的废物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥｜构建社区、AI 工具与数据抓取。\n\n高二在校生😅｜说话含喵量巨大🤯\n\n你看白雪人间，你看寒夜无岸\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭：https://t.co/ceQCtxmG75\n\n私人 @lunayurari ｜❤️ @tsgostar\n求关注！喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "lunayurari"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 107,
+                "expanded_url": "http://sink.wuyuan.dev/afd",
+                "start": 84,
+                "url": "https://t.co/ceQCtxmG75"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 532,
+          "like_count": 6695,
+          "listed_count": 5,
+          "media_count": 457,
+          "tweet_count": 2217
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-17T12:45:13.000Z",
+        "description": "",
+        "id": "1923721390349484036",
+        "name": "KYLLY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931945266946715648/RizLazrZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 52,
+          "like_count": 1891,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 658
+        },
+        "url": "",
+        "username": "Vz66Xats",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-21T08:46:14.000Z",
+        "description": "",
+        "id": "33853845",
+        "name": "罗永浩",
+        "pinned_tweet_id": "2055339935645962316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054323238222893056/07lhgw6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267139,
+          "following_count": 70,
+          "like_count": 17,
+          "listed_count": 1323,
+          "media_count": 32,
+          "tweet_count": 149
+        },
+        "url": "",
+        "username": "luoyonghao",
+        "verified": true
+      }
+    ]
+  }
+}

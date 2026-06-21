@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2067531214345621806",
+    "created_at": "2026-06-18T12:21:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067583387557360053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1699797396589588480",
+          "start": 0,
+          "username": "MaxForAI"
+        },
+        {
+          "end": 22,
+          "id": "1464488463831556102",
+          "start": 10,
+          "username": "nek0hasekai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067583387557360053",
+    "in_reply_to_user_id": "1699797396589588480",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067531214345621806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaxForAI @nek0hasekai"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1100,
+        "media_key": "3_2067531205269159936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFYrUwagAARC1h.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2067531214345621806",
+        "created_at": "2026-06-18T12:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067583387557360053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1699797396589588480",
+              "start": 0,
+              "username": "MaxForAI"
+            },
+            {
+              "end": 22,
+              "id": "1464488463831556102",
+              "start": 10,
+              "username": "nek0hasekai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067583387557360053",
+        "in_reply_to_user_id": "1699797396589588480",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067531214345621806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaxForAI @nek0hasekai"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067531205269159936"
+          ]
+        },
+        "author_id": "1699797396589588480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2067531214345621806",
+        "created_at": "2026-06-18T08:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067531214345621806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ozg5lO9kRt",
+              "end": 80,
+              "expanded_url": "https://x.com/MaxForAI/status/2067531214345621806/photo/1",
+              "media_key": "3_2067531205269159936",
+              "start": 57,
+              "url": "https://t.co/Ozg5lO9kRt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067531214345621806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 41802,
+          "like_count": 165,
+          "quote_count": 5,
+          "reply_count": 68,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "华为无敌了，这个商标都能注册下来😅\n\n国内那些做AI应用的注意了哈，以后别再说自己是世界首个xxxx了，容易被告 https://t.co/Ozg5lO9kRt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥｜构建社区、AI 工具与数据抓取。\n高二在校生😅｜说话含喵量巨大🤯\n你看白雪人间，你看寒夜无岸\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭：https://t.co/ceQCtxmG75\n私人 @lunayurari ｜❤️ @tsgostar\n求关注！喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 108,
+                "username": "lunayurari"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 104,
+                "expanded_url": "http://sink.wuyuan.dev/afd",
+                "start": 81,
+                "url": "https://t.co/ceQCtxmG75"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 532,
+          "like_count": 6722,
+          "listed_count": 5,
+          "media_count": 460,
+          "tweet_count": 2243
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业，没啥好看的，也就发点AI相关的内容🫡\nHead of growth @lobehub（78.4K🌟）\nPrev @listenhub @Sapient_Int \n同名小红书4万粉丝，公众号01Founder（长文首发）\n观点仅代表个人\n更多请访问网站⬇️（欢迎DM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "lobehub"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "listenhub"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "Sapient_Int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6feey"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "location": "Singapore",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2062538878096130207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14352,
+          "following_count": 2107,
+          "like_count": 12977,
+          "listed_count": 136,
+          "media_count": 684,
+          "tweet_count": 5667
+        },
+        "url": "https://t.co/Sl0Wv6feey",
+        "username": "MaxForAI",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-27T06:57:36.000Z",
+        "description": "We own the night",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/nekohasekai",
+                "end": 23,
+                "expanded_url": "https://github.com/nekohasekai",
+                "start": 0,
+                "url": "https://t.co/zHVSG8Jomq"
+              }
+            ]
+          }
+        },
+        "id": "1464488463831556102",
+        "name": "世界",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503907582930735104/-7ovFgAe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6456,
+          "following_count": 154,
+          "like_count": 1554,
+          "listed_count": 42,
+          "media_count": 49,
+          "tweet_count": 284
+        },
+        "url": "https://t.co/zHVSG8Jomq",
+        "username": "nek0hasekai",
+        "verified": true
+      }
+    ]
+  }
+}

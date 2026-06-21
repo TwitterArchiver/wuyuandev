@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2065814448804405267",
+    "created_at": "2026-06-14T05:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T06:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066023442017874299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "476199422",
+          "start": 0,
+          "username": "awkwardgoogle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066023442017874299",
+    "in_reply_to_user_id": "476199422",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065814448804405267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@awkwardgoogle You have a point, but such a small air purifier couldn't possibly have that effect. You clearly sped up the video."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46368,
+        "height": 1280,
+        "media_key": "13_2065518870224420864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065518870224420864/img/WeuIDgHX_tGQsl7T.jpg",
+        "public_metrics": {
+          "view_count": 791089
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065518870224420864/vid/avc1/320x568/-sOXs0AxQdrwvwu0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065518870224420864/vid/avc1/480x852/MMP41IWb_JOJLEvh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065518870224420864/vid/avc1/720x1280/k0y-CCkT2hK6RIEu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065518870224420864/pl/ujrlwHYpMhy5Spb_.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2065814448804405267",
+        "created_at": "2026-06-14T05:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066023442017874299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "476199422",
+              "start": 0,
+              "username": "awkwardgoogle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066023442017874299",
+        "in_reply_to_user_id": "476199422",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065814448804405267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@awkwardgoogle You have a point, but such a small air purifier couldn't possibly have that effect. You clearly sped up the video."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065518870224420864"
+          ]
+        },
+        "author_id": "476199422",
+        "conversation_id": "2065814448804405267",
+        "created_at": "2026-06-13T15:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065814448804405267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/akrOKTIWhT",
+              "end": 87,
+              "expanded_url": "https://x.com/awkwardgoogle/status/2065814448804405267/video/1",
+              "media_key": "13_2065518870224420864",
+              "start": 64,
+              "url": "https://t.co/akrOKTIWhT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065814448804405267",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1321,
+          "impression_count": 1709241,
+          "like_count": 6899,
+          "quote_count": 46,
+          "reply_count": 248,
+          "retweet_count": 412
+        },
+        "reply_settings": "everyone",
+        "text": "Why an air purifier actually matters in your daily life at home https://t.co/akrOKTIWhT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥｜构建社区、AI 工具与数据抓取。\n\n高二在校生😅｜说话含喵量巨大🤯\n\n你看白雪人间，你看寒夜无岸\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭：https://t.co/ceQCtxmG75\n\n私人 @lunayurari ｜❤️ @tsgostar\n求关注！喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "lunayurari"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 107,
+                "expanded_url": "http://sink.wuyuan.dev/afd",
+                "start": 84,
+                "url": "https://t.co/ceQCtxmG75"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 458,
+          "like_count": 6197,
+          "listed_count": 5,
+          "media_count": 409,
+          "tweet_count": 1999
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2012-01-27T21:43:58.000Z",
+        "description": "Posting interesting things from all corners of the internet. sponsored by @rainbetcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "rainbetcom"
+              }
+            ]
+          }
+        },
+        "id": "476199422",
+        "name": "Interesting things",
+        "pinned_tweet_id": "2065845151055106058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843285954473164800/87Vfzdg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3986530,
+          "following_count": 125,
+          "like_count": 83,
+          "listed_count": 10682,
+          "media_count": 14779,
+          "tweet_count": 14859
+        },
+        "username": "awkwardgoogle",
+        "verified": true
+      }
+    ]
+  }
+}

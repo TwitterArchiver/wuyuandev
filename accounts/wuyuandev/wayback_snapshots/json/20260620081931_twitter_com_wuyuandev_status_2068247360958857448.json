@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2067914205479801262",
+    "created_at": "2026-06-20T08:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T09:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068247360958857448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2042095951897358338",
+          "start": 0,
+          "username": "teacher_cao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068247360958857448",
+    "in_reply_to_user_id": "2042095951897358338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067914205479801262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teacher_cao 会变成日常推"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2067914205479801262",
+        "created_at": "2026-06-20T08:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068247360958857448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2042095951897358338",
+              "start": 0,
+              "username": "teacher_cao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068247360958857448",
+        "in_reply_to_user_id": "2042095951897358338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067914205479801262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teacher_cao 会变成日常推"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042095951897358338",
+        "conversation_id": "2067914205479801262",
+        "created_at": "2026-06-19T10:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067914205479801262"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067914205479801262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5229,
+          "like_count": 39,
+          "quote_count": 2,
+          "reply_count": 80,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真诚发问\n\n如果创作者计划永久取消\n\n大家还会充蓝V、发帖和互动吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥｜构建社区、AI 工具与数据抓取。\n高二在校生😅｜说话含喵量巨大🤯\n你看白雪人间，你看寒夜无岸\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭：https://t.co/ceQCtxmG75\n私人 @lunayurari ｜❤️ @tsgostar\n求关注！喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 108,
+                "username": "lunayurari"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 104,
+                "expanded_url": "http://sink.wuyuan.dev/afd",
+                "start": 81,
+                "url": "https://t.co/ceQCtxmG75"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 567,
+          "like_count": 6915,
+          "listed_count": 5,
+          "media_count": 469,
+          "tweet_count": 2287
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-09T04:24:11.000Z",
+        "description": "Web3 | AI Agent | X居民 | 运营增长 | 情感导师",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/teachercaox",
+                "end": 23,
+                "expanded_url": "https://t.me/teachercaox",
+                "start": 0,
+                "url": "https://t.co/k8Ndxhd1Bz"
+              }
+            ]
+          }
+        },
+        "id": "2042095951897358338",
+        "name": "Cao草",
+        "pinned_tweet_id": "2065342428090159345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064490491832619010/hegWxJXT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3459,
+          "following_count": 1297,
+          "like_count": 6211,
+          "listed_count": 8,
+          "media_count": 423,
+          "tweet_count": 6182
+        },
+        "url": "https://t.co/k8Ndxhd1Bz",
+        "username": "teacher_cao",
+        "verified": true
+      }
+    ]
+  }
+}
