@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068289065435451392",
+        "3_2068289083596775424"
+      ],
+      "media_source_tweet_id": [
+        "2068289096104161649",
+        "2068289096104161649"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      }
+    ],
+    "conversation_id": "2068597752288911376",
+    "created_at": "2026-06-21T07:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068597752288911376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1836041585475346432",
+          "start": 3,
+          "username": "LolingVerse"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yYf7ORJCBu",
+          "end": 95,
+          "expanded_url": "https://x.com/LolingVerse/status/2068289096104161649/photo/1",
+          "media_key": "3_2068289065435451392",
+          "start": 72,
+          "url": "https://t.co/yYf7ORJCBu"
+        },
+        {
+          "display_url": "pic.x.com/yYf7ORJCBu",
+          "end": 95,
+          "expanded_url": "https://x.com/LolingVerse/status/2068289096104161649/photo/1",
+          "media_key": "3_2068289083596775424",
+          "start": 72,
+          "url": "https://t.co/yYf7ORJCBu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068597752288911376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068289096104161649",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LolingVerse: 与其五万块买个闷闷不乐的旅行，倒不如直接关起来，说是教育也好，说是报复也好，眼不见心不烦了，也可以自我感动了 https://t.co/yYf7ORJCBu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2068289065435451392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQJ8l4a0AAN4a9.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2068289083596775424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQJ9piaoAA1Wz-.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068289065435451392",
+            "3_2068289083596775424"
+          ],
+          "media_source_tweet_id": [
+            "2068289096104161649",
+            "2068289096104161649"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          }
+        ],
+        "conversation_id": "2068597752288911376",
+        "created_at": "2026-06-21T07:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068597752288911376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1836041585475346432",
+              "start": 3,
+              "username": "LolingVerse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yYf7ORJCBu",
+              "end": 95,
+              "expanded_url": "https://x.com/LolingVerse/status/2068289096104161649/photo/1",
+              "media_key": "3_2068289065435451392",
+              "start": 72,
+              "url": "https://t.co/yYf7ORJCBu"
+            },
+            {
+              "display_url": "pic.x.com/yYf7ORJCBu",
+              "end": 95,
+              "expanded_url": "https://x.com/LolingVerse/status/2068289096104161649/photo/1",
+              "media_key": "3_2068289083596775424",
+              "start": 72,
+              "url": "https://t.co/yYf7ORJCBu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068597752288911376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068289096104161649",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LolingVerse: 与其五万块买个闷闷不乐的旅行，倒不如直接关起来，说是教育也好，说是报复也好，眼不见心不烦了，也可以自我感动了 https://t.co/yYf7ORJCBu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068289065435451392",
+            "3_2068289083596775424"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          }
+        ],
+        "conversation_id": "2068289096104161649",
+        "created_at": "2026-06-20T11:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:48:45.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068284913930129768",
+          "2068289096104161649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yYf7ORJCBu",
+              "end": 78,
+              "expanded_url": "https://x.com/LolingVerse/status/2068289096104161649/photo/1",
+              "media_key": "3_2068289065435451392",
+              "start": 55,
+              "url": "https://t.co/yYf7ORJCBu"
+            },
+            {
+              "display_url": "pic.x.com/yYf7ORJCBu",
+              "end": 78,
+              "expanded_url": "https://x.com/LolingVerse/status/2068289096104161649/photo/1",
+              "media_key": "3_2068289083596775424",
+              "start": 55,
+              "url": "https://t.co/yYf7ORJCBu"
+            },
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2068261540978135226",
+              "start": 79,
+              "url": "https://t.co/SavdbajktC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068289096104161649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068261540978135226",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "与其五万块买个闷闷不乐的旅行，倒不如直接关起来，说是教育也好，说是报复也好，眼不见心不烦了，也可以自我感动了 https://t.co/yYf7ORJCBu https://t.co/SavdbajktC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥｜构建社区、AI 工具与数据抓取。\n高二在校生😅｜说话含喵量巨大🤯\n你看白雪人间，你看寒夜无岸\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭：https://t.co/ceQCtxmG75\n私人 @lunayurari ｜❤️ @tsgostar\n求关注！喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 108,
+                "username": "lunayurari"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 104,
+                "expanded_url": "http://sink.wuyuan.dev/afd",
+                "start": 81,
+                "url": "https://t.co/ceQCtxmG75"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 647,
+          "like_count": 7026,
+          "listed_count": 5,
+          "media_count": 477,
+          "tweet_count": 2327
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZFvr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZFvr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster 和另外 114514 人",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 151,
+          "like_count": 22539,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 3982
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      }
+    ]
+  }
+}

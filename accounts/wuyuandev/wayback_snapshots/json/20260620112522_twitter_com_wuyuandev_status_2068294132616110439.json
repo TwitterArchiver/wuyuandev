@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2067420899012395477",
+    "created_at": "2026-06-20T11:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T12:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068294132616110439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/wuyuandev/stat…",
+          "end": 39,
+          "expanded_url": "https://x.com/wuyuandev/status/2068294045756191025",
+          "start": 16,
+          "url": "https://t.co/1scY5l13eP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068294132616110439",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068294045756191025",
+        "type": "quoted"
+      },
+      {
+        "id": "2067420899012395477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 做了无字版的\nhttps://t.co/1scY5l13eP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 804,
+        "media_key": "3_2068293837215387648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQOSWJaUAAOmGg.jpg",
+        "width": 1056
+      },
+      {
+        "height": 804,
+        "media_key": "3_2067420887654252544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLD0V_nawAAmJ2x.jpg",
+        "width": 1056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2067420899012395477",
+        "created_at": "2026-06-20T11:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068294132616110439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/wuyuandev/stat…",
+              "end": 39,
+              "expanded_url": "https://x.com/wuyuandev/status/2068294045756191025",
+              "start": 16,
+              "url": "https://t.co/1scY5l13eP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068294132616110439",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068294045756191025",
+            "type": "quoted"
+          },
+          {
+            "id": "2067420899012395477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 做了无字版的\nhttps://t.co/1scY5l13eP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068293837215387648"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2068294045756191025",
+        "created_at": "2026-06-20T11:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068294045756191025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4yNViB61GT",
+              "end": 39,
+              "expanded_url": "https://x.com/wuyuandev/status/2068294045756191025/photo/1",
+              "media_key": "3_2068293837215387648",
+              "start": 16,
+              "url": "https://t.co/4yNViB61GT"
+            },
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/hsn8086/status/2067420899012395477",
+              "start": 40,
+              "url": "https://t.co/qGm1rqAsRY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068294045756191025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067420899012395477",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "做了一份无字版本的方便大家取用 https://t.co/4yNViB61GT https://t.co/qGm1rqAsRY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067420887654252544"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2067420899012395477",
+        "created_at": "2026-06-18T01:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067420899012395477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/phcxr3jj3F",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2067420899012395477/photo/1",
+              "media_key": "3_2067420887654252544",
+              "start": 0,
+              "url": "https://t.co/phcxr3jj3F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067420899012395477",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 101849,
+          "like_count": 1762,
+          "quote_count": 10,
+          "reply_count": 54,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/phcxr3jj3F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥｜构建社区、AI 工具与数据抓取。\n高二在校生😅｜说话含喵量巨大🤯\n你看白雪人间，你看寒夜无岸\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭：https://t.co/ceQCtxmG75\n私人 @lunayurari ｜❤️ @tsgostar\n求关注！喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 108,
+                "username": "lunayurari"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 104,
+                "expanded_url": "http://sink.wuyuan.dev/afd",
+                "start": 81,
+                "url": "https://t.co/ceQCtxmG75"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1166,
+          "following_count": 575,
+          "like_count": 6943,
+          "listed_count": 5,
+          "media_count": 473,
+          "tweet_count": 2297
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121031,
+          "following_count": 1121,
+          "like_count": 52158,
+          "listed_count": 295,
+          "media_count": 22309,
+          "tweet_count": 32790
+        },
+        "url": "",
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}
