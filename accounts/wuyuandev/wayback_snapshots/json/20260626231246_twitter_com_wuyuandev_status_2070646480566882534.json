@@ -1,0 +1,569 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2070385354474221854",
+    "created_at": "2026-06-26T23:12:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T00:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070646480566882534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1440268407249649668",
+          "start": 0,
+          "username": "sjshb57"
+        },
+        {
+          "end": 19,
+          "id": "1608637128132685825",
+          "start": 9,
+          "username": "nyaepheia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20574…",
+          "end": 50,
+          "expanded_url": "https://x.com/i/status/2057482784755814649",
+          "start": 27,
+          "url": "https://t.co/JyxqI0iahX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070646480566882534",
+    "in_reply_to_user_id": "1440268407249649668",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057482784755814649",
+        "type": "quoted"
+      },
+      {
+        "id": "2070643886868038062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@sjshb57 @nyaepheia 也是有概率的\nhttps://t.co/JyxqI0iahX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2057482770847588353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2lrdfbYAE6MsD.jpg",
+        "width": 831
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2070385354474221854",
+        "created_at": "2026-06-26T23:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T00:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070646480566882534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1440268407249649668",
+              "start": 0,
+              "username": "sjshb57"
+            },
+            {
+              "end": 19,
+              "id": "1608637128132685825",
+              "start": 9,
+              "username": "nyaepheia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20574…",
+              "end": 50,
+              "expanded_url": "https://x.com/i/status/2057482784755814649",
+              "start": 27,
+              "url": "https://t.co/JyxqI0iahX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070646480566882534",
+        "in_reply_to_user_id": "1440268407249649668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057482784755814649",
+            "type": "quoted"
+          },
+          {
+            "id": "2070643886868038062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@sjshb57 @nyaepheia 也是有概率的\nhttps://t.co/JyxqI0iahX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057482770847588353"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2057482784755814649",
+        "created_at": "2026-05-21T15:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057482784755814649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dSZzMh4fKs",
+              "end": 94,
+              "expanded_url": "https://x.com/RainEngine2024/status/2057482784755814649/photo/1",
+              "media_key": "3_2057482770847588353",
+              "start": 71,
+              "url": "https://t.co/dSZzMh4fKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057482784755814649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5089,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 42,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近似乎x对于设备登录的环境再次提高了一个等级，之前即使设备环境校验不通过，也可以使用Google一键登录，但目前来看这个漏洞已经彻底被封堵 https://t.co/dSZzMh4fKs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1440268407249649668",
+        "conversation_id": "2070385354474221854",
+        "created_at": "2026-06-26T23:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T00:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070643886868038062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            },
+            {
+              "end": 21,
+              "id": "1608637128132685825",
+              "start": 11,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070643886868038062",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070463744132694157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@wuyuandev @nyaepheia PI三项仅用作于密码登录，使用谷歌账号登陆不经过这个检验。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥｜构建社区、AI 工具与数据抓取。\n高二在校生😅｜说话含喵量巨大🤯\n你看白雪人间，你看寒夜无岸\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭：https://t.co/ceQCtxmG75\n私人 @lunayurari ｜❤️ @tsgostar\n求关注！喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 108,
+                "username": "lunayurari"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 104,
+                "expanded_url": "http://sink.wuyuan.dev/afd",
+                "start": 81,
+                "url": "https://t.co/ceQCtxmG75"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 653,
+          "like_count": 7325,
+          "listed_count": 5,
+          "media_count": 493,
+          "tweet_count": 2396
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-21T10:55:42.000Z",
+        "description": "被困在玻璃罐中的千纸鹤，真的可能自由吗？\n - 「全员永生计划」进行中 |  \n组织：https://t.co/zQUuHV5jgl | 互联网时光机 | 另一个我 @她",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/TwitterArchiver",
+                "end": 66,
+                "expanded_url": "http://github.com/TwitterArchiver",
+                "start": 43,
+                "url": "https://t.co/zQUuHV5jgl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sjshb57",
+                "end": 23,
+                "expanded_url": "https://github.com/sjshb57",
+                "start": 0,
+                "url": "https://t.co/exd5BvIRMs"
+              }
+            ]
+          }
+        },
+        "id": "1440268407249649668",
+        "location": "🌏🌐",
+        "name": "拜託",
+        "pinned_tweet_id": "2060661685862736139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043709113801318400/w2Ah0L0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 501,
+          "like_count": 1014,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 196
+        },
+        "url": "https://t.co/exd5BvIRMs",
+        "username": "sjshb57",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "https://t.co/nBvMeK1OLJ \n/ɪˈfiːə/ she/they\n评论&备用账号&误ban申诉@epheiamoe\nNo NSFW.\n\nhrt since26.4.1\n可以访问此账号的委派者：@yxrchina @0502railgun1949 @lckmtfdesu\n紧急联系：@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "epheiamoe"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "username": "yxrchina"
+              },
+              {
+                "end": 132,
+                "start": 116,
+                "username": "0502railgun1949"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "lckmtfdesu"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "yxrchina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 23,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/OH6juSIljq"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️(she/they)",
+        "pinned_tweet_id": "2070271935133728928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 911,
+          "like_count": 32965,
+          "listed_count": 3,
+          "media_count": 699,
+          "tweet_count": 6302
+        },
+        "url": "https://t.co/OH6juSIljq",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/现移动合作伙伴/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2024",
+                "end": 23,
+                "expanded_url": "https://t.me/RainEngine2024",
+                "start": 0,
+                "url": "https://t.co/9PQn0qPrWk"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2038233746755948881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060444078790348800/OZRYk2nj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10578,
+          "following_count": 973,
+          "like_count": 95333,
+          "listed_count": 25,
+          "media_count": 1945,
+          "tweet_count": 13359
+        },
+        "url": "https://t.co/9PQn0qPrWk",
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

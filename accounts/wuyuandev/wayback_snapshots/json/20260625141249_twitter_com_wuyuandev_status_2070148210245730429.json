@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2070109038080307551",
+    "created_at": "2026-06-25T14:12:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T15:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070148210245730429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1945331416528539649",
+          "start": 0,
+          "username": "bpmiea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070148210245730429",
+    "in_reply_to_user_id": "1945331416528539649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070109038080307551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bpmiea 祝好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2070109038080307551",
+        "created_at": "2026-06-25T14:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070148210245730429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1945331416528539649",
+              "start": 0,
+              "username": "bpmiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070148210245730429",
+        "in_reply_to_user_id": "1945331416528539649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070109038080307551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bpmiea 祝好"
+      },
+      {
+        "article": {
+          "title": "我炸柜了"
+        },
+        "attachments": {},
+        "author_id": "1945331416528539649",
+        "conversation_id": "2070109038080307551",
+        "created_at": "2026-06-25T11:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070109038080307551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2070…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2070101059473960960",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2070101059473960960",
+              "url": "https://t.co/vd9xlcuWSy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070109038080307551",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 610,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vd9xlcuWSy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥｜构建社区、AI 工具与数据抓取。\n高二在校生😅｜说话含喵量巨大🤯\n你看白雪人间，你看寒夜无岸\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭：https://t.co/ceQCtxmG75\n私人 @lunayurari ｜❤️ @tsgostar\n求关注！喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 108,
+                "username": "lunayurari"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 104,
+                "expanded_url": "http://sink.wuyuan.dev/afd",
+                "start": 81,
+                "url": "https://t.co/ceQCtxmG75"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 654,
+          "like_count": 7223,
+          "listed_count": 5,
+          "media_count": 489,
+          "tweet_count": 2379
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-16T03:55:59.000Z",
+        "description": "MtF🏳️‍⚧️ | 无证🍥hrt from 2026.1 | 2011出厂 | 自恨党\n不吸毒不自残不键政不滥交 | archlinux | gfwfucker | Vibecoder | Vocaloid | 随缘发日常，欢迎同类互fo，私信都会回，平时上学周末复活喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bpmiea",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bpmiea",
+                "start": 0,
+                "url": "https://t.co/o0j8ZV0CB7"
+              }
+            ]
+          }
+        },
+        "id": "1945331416528539649",
+        "location": "Hamura-shi, Tokyo",
+        "name": "叶洛夜🍥𝓑.𝓜.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068571670647095296/OusQA34k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 481,
+          "like_count": 531,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 608
+        },
+        "url": "https://t.co/o0j8ZV0CB7",
+        "username": "bpmiea",
+        "verified": true
+      }
+    ]
+  }
+}
