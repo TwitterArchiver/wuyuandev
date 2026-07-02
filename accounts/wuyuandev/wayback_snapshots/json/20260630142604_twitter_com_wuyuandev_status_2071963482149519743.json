@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2071574659255124282",
+    "created_at": "2026-06-30T14:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T15:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071963482149519743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3357901873",
+          "start": 0,
+          "username": "im_morganwang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071963482149519743",
+    "in_reply_to_user_id": "3357901873",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071859123466215578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@im_morganwang 人生就是起起落落落落落"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2071574659255124282",
+        "created_at": "2026-06-30T14:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071963482149519743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3357901873",
+              "start": 0,
+              "username": "im_morganwang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071963482149519743",
+        "in_reply_to_user_id": "3357901873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071859123466215578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@im_morganwang 人生就是起起落落落落落"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3357901873",
+        "conversation_id": "2071574659255124282",
+        "created_at": "2026-06-30T07:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071859123466215578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071859123466215578",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 522,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071574659255124282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev 哄着长大，总得给希望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥｜构建社区、AI 工具与数据抓取。\n高二在校生😅｜说话含喵量巨大🤯\n你看白雪人间，你看寒夜无岸\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭：https://t.co/ceQCtxmG75\n私人 @lunayurari ｜❤️ @tsgostar\n求关注！喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 108,
+                "username": "lunayurari"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 104,
+                "expanded_url": "http://sink.wuyuan.dev/afd",
+                "start": 81,
+                "url": "https://t.co/ceQCtxmG75"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 655,
+          "like_count": 7532,
+          "listed_count": 5,
+          "media_count": 505,
+          "tweet_count": 2437
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-27T09:08:09.000Z",
+        "description": "🤔 日常吐槽玩家 | AI 应用开发者\n短信狗卫士、一点想法、哈哈简笔画作者\n💻 各种 AI 工具重度玩家 | 跨平台 AI 工具 & App 开发\n✏️ 205 篇技术+投资+生活笔记 | 每周分享 AI 实战 & 吐槽",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "morganwang.cn",
+                "end": 23,
+                "expanded_url": "https://morganwang.cn/",
+                "start": 0,
+                "url": "https://t.co/o8r5nI0gFE"
+              }
+            ]
+          }
+        },
+        "id": "3357901873",
+        "name": "MorganWang",
+        "pinned_tweet_id": "2064982818409844864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1331400704246771717/v4cgukdI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 1828,
+          "like_count": 854,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 2034
+        },
+        "url": "https://t.co/o8r5nI0gFE",
+        "username": "im_morganwang",
+        "verified": true
+      }
+    ]
+  }
+}

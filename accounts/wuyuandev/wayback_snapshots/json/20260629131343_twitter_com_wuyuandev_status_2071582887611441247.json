@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2070766629487890716",
+    "created_at": "2026-06-29T13:13:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T14:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071582887611441247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1895463022367498240",
+          "start": 0,
+          "username": "hikaribottt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071582887611441247",
+    "in_reply_to_user_id": "1895463022367498240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071582772418711716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikaribottt 喵呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2070766629487890716",
+        "created_at": "2026-06-29T13:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T14:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071582887611441247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1895463022367498240",
+              "start": 0,
+              "username": "hikaribottt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071582887611441247",
+        "in_reply_to_user_id": "1895463022367498240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071582772418711716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikaribottt 喵呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895463022367498240",
+        "conversation_id": "2070766629487890716",
+        "created_at": "2026-06-29T13:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T14:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071582772418711716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071582772418711716",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071582477299204570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev 喵喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥｜构建社区、AI 工具与数据抓取。\n高二在校生😅｜说话含喵量巨大🤯\n你看白雪人间，你看寒夜无岸\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭：https://t.co/ceQCtxmG75\n私人 @lunayurari ｜❤️ @tsgostar\n求关注！喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 108,
+                "username": "lunayurari"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 104,
+                "expanded_url": "http://sink.wuyuan.dev/afd",
+                "start": 81,
+                "url": "https://t.co/ceQCtxmG75"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 655,
+          "like_count": 7520,
+          "listed_count": 5,
+          "media_count": 504,
+          "tweet_count": 2430
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-28T13:16:44.000Z",
+        "description": "日常水推/日常帖/bot/天然蠢废/是个学生/音游人\n擅长：人文社科/vibe coding\nDepcom的副社区长\n平时水课，假期发癫，可能也会记录一些互联网怪事（存疑）\n一个无趣的灵魂游荡ing\n日常账号接管：@EinMensch_168",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 107,
+                "username": "EinMensch_168"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hikaribot.edgeone.app",
+                "end": 23,
+                "expanded_url": "http://hikaribot.edgeone.app",
+                "start": 0,
+                "url": "https://t.co/nDRmWS3xEQ"
+              }
+            ]
+          }
+        },
+        "id": "1895463022367498240",
+        "location": "互联网废墟 ",
+        "name": "落叶sour-ce",
+        "pinned_tweet_id": "2058119429482021070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045451931754319872/pVp-K_EW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 90,
+          "like_count": 1714,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 668
+        },
+        "url": "https://t.co/nDRmWS3xEQ",
+        "username": "hikaribottt",
+        "verified": true
+      }
+    ]
+  }
+}
