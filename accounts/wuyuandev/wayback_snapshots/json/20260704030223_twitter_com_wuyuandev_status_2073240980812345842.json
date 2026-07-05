@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2073191718359576749",
+    "created_at": "2026-07-04T03:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T04:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073240980812345842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1862503646925340672",
+          "start": 0,
+          "username": "jiaotuke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073240980812345842",
+    "in_reply_to_user_id": "1862503646925340672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073191718359576749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaotuke 不会被当垃圾内容b掉吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2073191718359576749",
+        "created_at": "2026-07-04T03:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T04:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073240980812345842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1862503646925340672",
+              "start": 0,
+              "username": "jiaotuke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073240980812345842",
+        "in_reply_to_user_id": "1862503646925340672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073191718359576749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaotuke 不会被当垃圾内容b掉吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862503646925340672",
+        "conversation_id": "2073191718359576749",
+        "created_at": "2026-07-03T23:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T00:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073191718359576749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073191718359576749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1321,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在说，账号做不起来就是你太懒了，你一天发五百条推文，日日发夜夜发，账号就做起来了，我这个号做了19天，发了7050条了\n\n孔子为什么留名千古，第一因为他一直说话，第二因为他的弟子把他说过的话都被记载下来了\n\n一样的道理，你发帖就是一直说话，x就是你的弟子，把你说的话都记录下来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 696,
+          "like_count": 7728,
+          "listed_count": 5,
+          "media_count": 525,
+          "tweet_count": 2503
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-29T14:27:51.000Z",
+        "description": "06年985本 | 美股&CS方向 |专注社会观察 | 男性情感 | 八字子平派入门|每日输出观点与案例拆解|||深度好文在highlights里面哦！投资分享不构成建议",
+        "id": "1862503646925340672",
+        "name": "焦土客",
+        "pinned_tweet_id": "2068672933061448075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066435895906144256/RVJMPSxu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2716,
+          "following_count": 1183,
+          "like_count": 10446,
+          "listed_count": 5,
+          "media_count": 422,
+          "tweet_count": 7155
+        },
+        "url": "",
+        "username": "jiaotuke",
+        "verified": true
+      }
+    ]
+  }
+}

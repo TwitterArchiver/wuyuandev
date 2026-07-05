@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2073039593931424241",
+    "created_at": "2026-07-03T23:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T00:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073184372174532631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2029061443568713731",
+          "start": 0,
+          "username": "maoxianACT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073184372174532631",
+    "in_reply_to_user_id": "2029061443568713731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073039593931424241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@maoxianACT 我占了14和。。。3？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2073039593931424241",
+        "created_at": "2026-07-03T23:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T00:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073184372174532631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029061443568713731",
+              "start": 0,
+              "username": "maoxianACT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073184372174532631",
+        "in_reply_to_user_id": "2029061443568713731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073039593931424241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@maoxianACT 我占了14和。。。3？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2073039593931424241",
+        "created_at": "2026-07-03T13:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073039593931424241"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073039593931424241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7338,
+          "like_count": 103,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "other",
+        "text": "药圈感觉分四类\n1.技术类药娘\n2.od类药娘\n3.生活类药娘\n4.梗图类bot药娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 656,
+          "like_count": 7663,
+          "listed_count": 5,
+          "media_count": 520,
+          "tweet_count": 2491
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍要成为一名哲学思想家，艺术家\n姐姐@OuO_QwQg \n閨蜜@tangeorange @N552AA8 @moningmeng @meph4786\n老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 81,
+                "start": 72,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "tangeorange"
+              },
+              {
+                "end": 106,
+                "start": 98,
+                "username": "N552AA8"
+              },
+              {
+                "end": 118,
+                "start": 107,
+                "username": "moningmeng"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "meph4786"
+              },
+              {
+                "end": 141,
+                "start": 132,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2070146557853475272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 71,
+          "like_count": 516,
+          "listed_count": 3,
+          "media_count": 128,
+          "tweet_count": 526
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      }
+    ]
+  }
+}
