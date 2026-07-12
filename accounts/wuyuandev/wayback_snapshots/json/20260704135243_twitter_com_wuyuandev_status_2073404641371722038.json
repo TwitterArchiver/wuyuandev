@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2073253719605751892",
+    "created_at": "2026-07-04T13:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T14:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073404641371722038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "125515674",
+          "start": 0,
+          "username": "sanvibyfish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073404641371722038",
+    "in_reply_to_user_id": "125515674",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073403638693982256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanvibyfish 溜溜梅好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2073253719605751892",
+        "created_at": "2026-07-04T13:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073404641371722038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "125515674",
+              "start": 0,
+              "username": "sanvibyfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073404641371722038",
+        "in_reply_to_user_id": "125515674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073403638693982256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanvibyfish 溜溜梅好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "125515674",
+        "conversation_id": "2073253719605751892",
+        "created_at": "2026-07-04T13:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073403638693982256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073403638693982256",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073253719605751892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev 要翻译成溜溜梅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 738,
+          "like_count": 7805,
+          "listed_count": 5,
+          "media_count": 530,
+          "tweet_count": 2535
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2010-03-23T01:48:06.000Z",
+        "description": "独立开发者，现居曼谷 🇹🇭\n\nhttps://t.co/ixGMXmBid4 开发者\n\nAI + Crypto ｜咨询合作 请DM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "studythai.ai",
+                "end": 38,
+                "expanded_url": "http://studythai.ai",
+                "start": 15,
+                "url": "https://t.co/ixGMXmBid4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanvi.dev",
+                "end": 23,
+                "expanded_url": "http://sanvi.dev",
+                "start": 0,
+                "url": "https://t.co/miOBXFjHq4"
+              }
+            ]
+          }
+        },
+        "id": "125515674",
+        "location": "Bangkok, Thailand",
+        "name": "sanvi.dev",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925168321550594048/UZl1QlcZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 988,
+          "like_count": 1215,
+          "listed_count": 36,
+          "media_count": 865,
+          "tweet_count": 8234
+        },
+        "url": "https://t.co/miOBXFjHq4",
+        "username": "sanvibyfish",
+        "verified": true
+      }
+    ]
+  }
+}

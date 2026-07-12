@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075528559893082112"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "2075278172116115496",
+    "created_at": "2026-07-10T10:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T11:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075528633737969811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "147786784",
+          "start": 0,
+          "username": "yetone"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w5UskPuQfb",
+          "end": 42,
+          "expanded_url": "https://x.com/wuyuandev/status/2075528633737969811/photo/1",
+          "media_key": "3_2075528559893082112",
+          "start": 19,
+          "url": "https://t.co/w5UskPuQfb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075528633737969811",
+    "in_reply_to_user_id": "147786784",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075278172116115496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yetone Absolutely https://t.co/w5UskPuQfb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 248,
+        "media_key": "3_2075528559893082112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3COoWa8AAMOt1.png",
+        "width": 378
+      },
+      {
+        "height": 96,
+        "media_key": "3_2075278119104294912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzedDtaMAAWmQM.png",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075528559893082112"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2075278172116115496",
+        "created_at": "2026-07-10T10:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T11:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075528633737969811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "147786784",
+              "start": 0,
+              "username": "yetone"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w5UskPuQfb",
+              "end": 42,
+              "expanded_url": "https://x.com/wuyuandev/status/2075528633737969811/photo/1",
+              "media_key": "3_2075528559893082112",
+              "start": 19,
+              "url": "https://t.co/w5UskPuQfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075528633737969811",
+        "in_reply_to_user_id": "147786784",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075278172116115496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yetone Absolutely https://t.co/w5UskPuQfb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075278119104294912"
+          ]
+        },
+        "author_id": "147786784",
+        "conversation_id": "2075278172116115496",
+        "created_at": "2026-07-09T17:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T18:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075278172116115496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YmG1iDoaID",
+              "end": 35,
+              "expanded_url": "https://x.com/yetone/status/2075278172116115496/photo/1",
+              "media_key": "3_2075278119104294912",
+              "start": 12,
+              "url": "https://t.co/YmG1iDoaID"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075278172116115496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 26047,
+          "like_count": 145,
+          "quote_count": 2,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这也有点太丑了，哥哥。 https://t.co/YmG1iDoaID"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1582,
+          "following_count": 835,
+          "like_count": 8351,
+          "listed_count": 5,
+          "media_count": 585,
+          "tweet_count": 2732
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2010-05-25T01:52:30.000Z",
+        "description": "Work at @isoformai\n\nBuilt: avante.nvim\n\nBuilding: https://t.co/pfq9srNgsd\n\nBuilding: https://t.co/fpGnPR5t9C\n\nBuilding: https://t.co/cBN1yzJPIG\n\nBuilding: https://t.co/QhQRLD4zQo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "isoformai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "alma.now",
+                "end": 73,
+                "expanded_url": "https://alma.now",
+                "start": 50,
+                "url": "https://t.co/pfq9srNgsd"
+              },
+              {
+                "display_url": "confirmo.love",
+                "end": 108,
+                "expanded_url": "https://confirmo.love",
+                "start": 85,
+                "url": "https://t.co/fpGnPR5t9C"
+              },
+              {
+                "display_url": "swordgame.ai",
+                "end": 143,
+                "expanded_url": "https://swordgame.ai",
+                "start": 120,
+                "url": "https://t.co/cBN1yzJPIG"
+              },
+              {
+                "display_url": "cumora.ai",
+                "end": 178,
+                "expanded_url": "https://cumora.ai",
+                "start": 155,
+                "url": "https://t.co/QhQRLD4zQo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/yetone",
+                "end": 23,
+                "expanded_url": "https://github.com/yetone",
+                "start": 0,
+                "url": "https://t.co/KfyoeaqTKV"
+              }
+            ]
+          }
+        },
+        "id": "147786784",
+        "location": "无",
+        "name": "yetone",
+        "pinned_tweet_id": "1996646348964413572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458663772017491971/h1-KC--K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86513,
+          "following_count": 4541,
+          "like_count": 19258,
+          "listed_count": 1048,
+          "media_count": 2257,
+          "tweet_count": 19831
+        },
+        "url": "https://t.co/KfyoeaqTKV",
+        "username": "yetone",
+        "verified": true
+      }
+    ]
+  }
+}

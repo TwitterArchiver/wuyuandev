@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2075218444056707458",
+    "created_at": "2026-07-10T03:50:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T04:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075427340524626154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "20749410",
+          "start": 0,
+          "username": "finkd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075427340524626154",
+    "in_reply_to_user_id": "20749410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075218444056707458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@finkd 《扎克伯格在Twitter上宣布新的模型》"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2075218444056707458",
+        "created_at": "2026-07-10T03:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075427340524626154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "20749410",
+              "start": 0,
+              "username": "finkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075427340524626154",
+        "in_reply_to_user_id": "20749410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075218444056707458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@finkd 《扎克伯格在Twitter上宣布新的模型》"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "20749410",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1750052293607669760",
+              "name": "DevPlatform JP"
+            }
+          }
+        ],
+        "conversation_id": "2075218444056707458",
+        "created_at": "2026-07-09T14:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075218444056707458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075218444056707458",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5295,
+          "impression_count": 13025553,
+          "like_count": 32515,
+          "quote_count": 2956,
+          "reply_count": 3972,
+          "retweet_count": 2688
+        },
+        "reply_settings": "everyone",
+        "text": "(1) Today we're releasing Muse Spark 1.1 -- a strong agentic and coding model at a very low price. It's available through our new Meta Model API and in Meta AI."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1568,
+          "following_count": 829,
+          "like_count": 8310,
+          "listed_count": 5,
+          "media_count": 579,
+          "tweet_count": 2713
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2009-02-13T05:09:01.000Z",
+        "description": "",
+        "id": "20749410",
+        "name": "Mark Zuckerberg",
+        "pinned_tweet_id": "2075218444056707458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/77846223/profile_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2100340,
+          "following_count": 707,
+          "like_count": 17,
+          "listed_count": 6027,
+          "media_count": 2,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "finkd",
+        "verified": true
+      }
+    ]
+  }
+}

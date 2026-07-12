@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2074262917755863055",
+    "created_at": "2026-07-06T22:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T23:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074262994587119890"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "grok.code-svip.xyz",
+          "end": 23,
+          "expanded_url": "https://grok.code-svip.xyz/",
+          "start": 0,
+          "status": 200,
+          "title": "本地执行",
+          "unwound_url": "https://grok.code-svip.xyz/",
+          "url": "https://t.co/qtFsncvmps"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074262994587119890",
+    "in_reply_to_user_id": "1436287470207832064",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074262917755863055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/qtFsncvmps"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 856,
+        "media_key": "3_2074262905709895680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMlDH3GboAAkfmr.jpg",
+        "width": 922
+      },
+      {
+        "height": 1924,
+        "media_key": "3_2074262911573438465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMlDIM8aMAERd8g.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2074262917755863055",
+        "created_at": "2026-07-06T22:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T23:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074262994587119890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "grok.code-svip.xyz",
+              "end": 23,
+              "expanded_url": "https://grok.code-svip.xyz/",
+              "start": 0,
+              "status": 200,
+              "title": "本地执行",
+              "unwound_url": "https://grok.code-svip.xyz/",
+              "url": "https://t.co/qtFsncvmps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074262994587119890",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074262917755863055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/qtFsncvmps"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074262905709895680",
+            "3_2074262911573438465"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2074262917755863055",
+        "created_at": "2026-07-06T22:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T23:37:00.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074261360146538954",
+          "2074262128022921596",
+          "2074262917755863055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJQBRmWy2D",
+              "end": 167,
+              "expanded_url": "https://x.com/wuyuandev/status/2074262917755863055/photo/1",
+              "media_key": "3_2074262905709895680",
+              "start": 144,
+              "url": "https://t.co/yJQBRmWy2D"
+            },
+            {
+              "display_url": "pic.x.com/yJQBRmWy2D",
+              "end": 167,
+              "expanded_url": "https://x.com/wuyuandev/status/2074262917755863055/photo/1",
+              "media_key": "3_2074262911573438465",
+              "start": 144,
+              "url": "https://t.co/yJQBRmWy2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074262917755863055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于推特很多人收到一年p+这件事，这里有很确定的原因了。\n\n此外，LINUX DO论坛用户声称在3点半的时候漏洞已被拉闸。\n\n所以有些人收到赠送很可能就是谁经常刷到你而故意送的，至于是不是想炸号。。。可能他主观认为不是吧。。。\n\n此外，这里有人已经做出了自助网站，但目前已经无法成功了。 https://t.co/yJQBRmWy2D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 806,
+          "like_count": 8141,
+          "listed_count": 5,
+          "media_count": 558,
+          "tweet_count": 2656
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      }
+    ]
+  }
+}

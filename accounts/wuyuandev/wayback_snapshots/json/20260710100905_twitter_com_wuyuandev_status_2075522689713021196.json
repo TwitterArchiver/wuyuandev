@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2075522689713021196",
+    "created_at": "2026-07-10T10:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T11:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075522689713021196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "147786784",
+          "start": 3,
+          "username": "yetone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075522689713021196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075517958894596472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yetone: 因为最近吐槽了太多 AI slop 产品了，就想把 AI slop 的特征给做个图鉴，方便大家识别哪些是 AI slop，以便对 AI slop 有个共识。\n\n但细想一下，这是其实是一个特别有风险的工作，因为这个产品本身我肯定也要用 AI 去开发它，所以…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1172,
+        "media_key": "3_2075514958268481536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2126WaQAAJvtR.jpg",
+        "width": 2520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2075522689713021196",
+        "created_at": "2026-07-10T10:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T11:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075522689713021196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "147786784",
+              "start": 3,
+              "username": "yetone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075522689713021196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075517958894596472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yetone: 因为最近吐槽了太多 AI slop 产品了，就想把 AI slop 的特征给做个图鉴，方便大家识别哪些是 AI slop，以便对 AI slop 有个共识。\n\n但细想一下，这是其实是一个特别有风险的工作，因为这个产品本身我肯定也要用 AI 去开发它，所以…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075514958268481536"
+          ]
+        },
+        "author_id": "147786784",
+        "conversation_id": "2075517958894596472",
+        "created_at": "2026-07-10T09:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075517958894596472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qRlobZhfCV",
+              "end": 190,
+              "expanded_url": "https://x.com/yetone/status/2075517958894596472/photo/1",
+              "media_key": "3_2075514958268481536",
+              "start": 167,
+              "url": "https://t.co/qRlobZhfCV"
+            },
+            {
+              "display_url": "x.com/yetone/status/…",
+              "end": 214,
+              "expanded_url": "https://twitter.com/yetone/status/2075253448942276776",
+              "start": 191,
+              "url": "https://t.co/mOqa0cP0rr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075517958894596472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "因为最近吐槽了太多 AI slop 产品了，就想把 AI slop 的特征给做个图鉴，方便大家识别哪些是 AI slop，以便对 AI slop 有个共识。\n\n但细想一下，这是其实是一个特别有风险的工作，因为这个产品本身我肯定也要用 AI 去开发它，所以它本身极有可能成为 AI slop 的一部分，实现了AI slop 的内循环。\n\n后来我又想一下这虽有 AI slop 自举自己打自己脸的风险，但只要它能够对大家产生帮助，也是有价值的。所以我就创造了 kill AI slop 这个网站，来帮助大家识别分辨什么是 AI slop，以及如何优化。这个网站虽然是 AI 写的，但是却是我所有产品中最消耗人力以及 human in the loop 最频繁的。因为我要打开各种奇形怪状的产品努力欣赏完毕后给 AI 一个一个地截图并详细描述哪些是 AI slop，为什么是 AI slop，该如何改进。以及让这个产品本身不要包含 AI slop （我发现最难的是让文案不要充满 AI slop）也花费了我大量精力。\n\n最后我也推出了一个 kill AI slop skill 来方便大家使用 AI Agent 一键快速清除掉自己产品中的所有 AI slop。\n\n地址见评论区。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 2906,
+          "like_count": 38,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075253448942276776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为最近吐槽了太多 AI slop 产品了，就想把 AI slop 的特征给做个图鉴，方便大家识别哪些是 AI slop，以便对 AI slop 有个共识。\n\n但细想一下，这是其实是一个特别有风险的工作，因为这个产品本身我肯定也要用 AI 去开发它，所以它本身极有可能成为 AI slop 的一部分，实现了AI slop 的内循环。 https://t.co/qRlobZhfCV https://t.co/mOqa0cP0rr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 835,
+          "like_count": 8349,
+          "listed_count": 5,
+          "media_count": 584,
+          "tweet_count": 2731
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2010-05-25T01:52:30.000Z",
+        "description": "Work at @isoformai\n\nBuilt: avante.nvim\n\nBuilding: https://t.co/pfq9srNgsd\n\nBuilding: https://t.co/fpGnPR5t9C\n\nBuilding: https://t.co/cBN1yzJPIG\n\nBuilding: https://t.co/QhQRLD4zQo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "isoformai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "alma.now",
+                "end": 73,
+                "expanded_url": "https://alma.now",
+                "start": 50,
+                "url": "https://t.co/pfq9srNgsd"
+              },
+              {
+                "display_url": "confirmo.love",
+                "end": 108,
+                "expanded_url": "https://confirmo.love",
+                "start": 85,
+                "url": "https://t.co/fpGnPR5t9C"
+              },
+              {
+                "display_url": "swordgame.ai",
+                "end": 143,
+                "expanded_url": "https://swordgame.ai",
+                "start": 120,
+                "url": "https://t.co/cBN1yzJPIG"
+              },
+              {
+                "display_url": "cumora.ai",
+                "end": 178,
+                "expanded_url": "https://cumora.ai",
+                "start": 155,
+                "url": "https://t.co/QhQRLD4zQo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/yetone",
+                "end": 23,
+                "expanded_url": "https://github.com/yetone",
+                "start": 0,
+                "url": "https://t.co/KfyoeaqTKV"
+              }
+            ]
+          }
+        },
+        "id": "147786784",
+        "location": "无",
+        "name": "yetone",
+        "pinned_tweet_id": "1996646348964413572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458663772017491971/h1-KC--K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86513,
+          "following_count": 4541,
+          "like_count": 19258,
+          "listed_count": 1048,
+          "media_count": 2257,
+          "tweet_count": 19831
+        },
+        "url": "https://t.co/KfyoeaqTKV",
+        "username": "yetone",
+        "verified": true
+      }
+    ]
+  }
+}

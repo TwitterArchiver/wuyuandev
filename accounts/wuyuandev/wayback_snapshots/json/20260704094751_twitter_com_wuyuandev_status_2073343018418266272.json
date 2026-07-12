@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2073311505077178393",
+    "created_at": "2026-07-04T09:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T10:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073343018418266272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1623150253452177413",
+          "start": 0,
+          "username": "realxiodos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073343018418266272",
+    "in_reply_to_user_id": "1623150253452177413",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073311505077178393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realxiodos 你好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2073311505077178393",
+        "created_at": "2026-07-04T09:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073343018418266272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1623150253452177413",
+              "start": 0,
+              "username": "realxiodos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073343018418266272",
+        "in_reply_to_user_id": "1623150253452177413",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073311505077178393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realxiodos 你好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1623150253452177413",
+        "conversation_id": "2073311505077178393",
+        "created_at": "2026-07-04T07:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T08:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073311505077178393"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073311505077178393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1195,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还差 4k 到 30k 粉丝，你们懂的，点起来，绝对真诚回，这条帖子置顶，一直到我达到目标的时候，爱你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 718,
+          "like_count": 7761,
+          "listed_count": 5,
+          "media_count": 526,
+          "tweet_count": 2515
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-08T02:42:43.000Z",
+        "description": "✧ 火币赚币： https://t.co/6N6kGgD76U \n\n✦ 抽象派泛流量创作者，情绪价值才是最大的价值",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xiodos.com/huobi",
+                "end": 31,
+                "expanded_url": "http://xiodos.com/huobi",
+                "start": 8,
+                "url": "https://t.co/6N6kGgD76U"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/realxiodos",
+                "end": 23,
+                "expanded_url": "https://t.me/realxiodos",
+                "start": 0,
+                "url": "https://t.co/BwOk4Ic7aY"
+              }
+            ]
+          }
+        },
+        "id": "1623150253452177413",
+        "location": "合作私信TG",
+        "name": "真诚小道士",
+        "pinned_tweet_id": "2073311505077178393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062343251852689408/2elXQhDt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26255,
+          "following_count": 4575,
+          "like_count": 28528,
+          "listed_count": 118,
+          "media_count": 1712,
+          "tweet_count": 39366
+        },
+        "url": "https://t.co/BwOk4Ic7aY",
+        "username": "realxiodos",
+        "verified": true
+      }
+    ]
+  }
+}
