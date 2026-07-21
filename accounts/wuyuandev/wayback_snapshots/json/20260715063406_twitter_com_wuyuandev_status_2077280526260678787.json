@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Body Art",
+          "id": "854712713510965248",
+          "name": "Body art"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491568352442998784",
+          "name": "Game companies"
+        }
+      }
+    ],
+    "conversation_id": "2077057634717552933",
+    "created_at": "2026-07-15T06:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T07:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077280526260678787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "720390320974737408",
+          "start": 0,
+          "username": "ZYPHERcreates"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077280526260678787",
+    "in_reply_to_user_id": "720390320974737408",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077057634717552933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZYPHERcreates This looks a bit like a rather unrefined tattoo, or perhaps it's from a women's products or adult game company?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1150,
+        "media_key": "3_2077057627864100864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMw6Gba8AAv8pV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Body Art",
+              "id": "854712713510965248",
+              "name": "Body art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491568352442998784",
+              "name": "Game companies"
+            }
+          }
+        ],
+        "conversation_id": "2077057634717552933",
+        "created_at": "2026-07-15T06:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077280526260678787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "720390320974737408",
+              "start": 0,
+              "username": "ZYPHERcreates"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077280526260678787",
+        "in_reply_to_user_id": "720390320974737408",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077057634717552933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZYPHERcreates This looks a bit like a rather unrefined tattoo, or perhaps it's from a women's products or adult game company?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077057627864100864"
+          ]
+        },
+        "author_id": "720390320974737408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237080177298919436",
+              "name": "Typography"
+            }
+          }
+        ],
+        "conversation_id": "2077057634717552933",
+        "created_at": "2026-07-14T15:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077057634717552933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i3UV8odmtm",
+              "end": 50,
+              "expanded_url": "https://x.com/ZYPHERcreates/status/2077057634717552933/photo/1",
+              "media_key": "3_2077057627864100864",
+              "start": 27,
+              "url": "https://t.co/i3UV8odmtm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077057634717552933",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 572,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Enigma - Typography design https://t.co/i3UV8odmtm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1635,
+          "following_count": 864,
+          "like_count": 8738,
+          "listed_count": 5,
+          "media_count": 618,
+          "tweet_count": 2844
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2016-04-13T23:16:51.000Z",
+        "description": "Typography & Logo genius\n                                              Open for commissions - DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "behance.net/ZYPHERcreates",
+                "end": 23,
+                "expanded_url": "https://www.behance.net/ZYPHERcreates",
+                "start": 0,
+                "url": "https://t.co/erzGC4XgtT"
+              }
+            ]
+          }
+        },
+        "id": "720390320974737408",
+        "name": "𝙕𝙔𝙋𝙃𝙀𝙍 ⊹",
+        "pinned_tweet_id": "2059636769981903022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914649358340956160/XJIKtPG4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3555,
+          "following_count": 248,
+          "like_count": 129217,
+          "listed_count": 15,
+          "media_count": 16350,
+          "tweet_count": 120611
+        },
+        "url": "https://t.co/erzGC4XgtT",
+        "username": "ZYPHERcreates",
+        "verified": false
+      }
+    ]
+  }
+}

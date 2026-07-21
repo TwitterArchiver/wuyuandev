@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076972051995500544"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "2076609850235322581",
+    "created_at": "2026-07-14T10:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T11:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076972058375061688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1819772539356536832",
+          "start": 0,
+          "username": "abhitwt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/67lhDwpLvN",
+          "end": 62,
+          "expanded_url": "https://x.com/wuyuandev/status/2076972058375061688/photo/1",
+          "media_key": "3_2076972051995500544",
+          "start": 39,
+          "url": "https://t.co/67lhDwpLvN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076972058375061688",
+    "in_reply_to_user_id": "1819772539356536832",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076609850235322581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abhitwt No, you're on the other side. https://t.co/67lhDwpLvN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1973,
+        "media_key": "3_2076972051995500544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLjE7ebIAAKSnp.jpg",
+        "width": 1320
+      },
+      {
+        "duration_ms": 10986,
+        "height": 720,
+        "media_key": "13_2041634889007538176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041634889007538176/img/pbhPgOi2fhh4_obb.jpg",
+        "public_metrics": {
+          "view_count": 728497
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041634889007538176/vid/avc1/320x320/k1fse07G95eiLlPr.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041634889007538176/vid/avc1/540x540/cirinHujXp4gXyMR.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041634889007538176/vid/avc1/720x720/hVDmCqzMfI6chOce.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041634889007538176/pl/eOZd7pCVPWzAV6Fa.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076972051995500544"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2076609850235322581",
+        "created_at": "2026-07-14T10:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076972058375061688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1819772539356536832",
+              "start": 0,
+              "username": "abhitwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/67lhDwpLvN",
+              "end": 62,
+              "expanded_url": "https://x.com/wuyuandev/status/2076972058375061688/photo/1",
+              "media_key": "3_2076972051995500544",
+              "start": 39,
+              "url": "https://t.co/67lhDwpLvN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076972058375061688",
+        "in_reply_to_user_id": "1819772539356536832",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076609850235322581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abhitwt No, you're on the other side. https://t.co/67lhDwpLvN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041634889007538176"
+          ],
+          "media_source_tweet_id": [
+            "2041635207153856750"
+          ]
+        },
+        "author_id": "1819772539356536832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2076609850235322581",
+        "created_at": "2026-07-13T10:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076609850235322581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GwFRJ3BBOq",
+              "end": 103,
+              "expanded_url": "https://x.com/KnownAsSys/status/2041635207153856750/video/1",
+              "media_key": "13_2041634889007538176",
+              "start": 80,
+              "url": "https://t.co/GwFRJ3BBOq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076609850235322581",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2149,
+          "impression_count": 976270,
+          "like_count": 19936,
+          "quote_count": 39,
+          "reply_count": 122,
+          "retweet_count": 1295
+        },
+        "reply_settings": "everyone",
+        "text": "Me telling Claude \"You are a Senior Web Developer with 20 years of experience\": https://t.co/GwFRJ3BBOq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1621,
+          "following_count": 855,
+          "like_count": 8671,
+          "listed_count": 5,
+          "media_count": 612,
+          "tweet_count": 2823
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-03T16:29:37.000Z",
+        "description": "21 • Dev • Building @social0_app",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "social0_app"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/abhishek-b-r",
+                "end": 23,
+                "expanded_url": "https://github.com/abhishek-b-r",
+                "start": 0,
+                "url": "https://t.co/ASobILQiwX"
+              }
+            ]
+          }
+        },
+        "id": "1819772539356536832",
+        "location": "India",
+        "name": "Abhishek B R",
+        "pinned_tweet_id": "2075559845013409948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067481931047112704/oKGhe_GD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7568,
+          "following_count": 816,
+          "like_count": 39319,
+          "listed_count": 29,
+          "media_count": 1691,
+          "tweet_count": 23722
+        },
+        "url": "https://t.co/ASobILQiwX",
+        "username": "abhitwt",
+        "verified": true
+      }
+    ]
+  }
+}

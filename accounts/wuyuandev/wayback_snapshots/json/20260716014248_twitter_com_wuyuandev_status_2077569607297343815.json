@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2077569607297343815",
+    "created_at": "2026-07-16T01:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T02:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077569607297343815"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lentils80/stat…",
+          "end": 179,
+          "expanded_url": "https://twitter.com/Lentils80/status/2077511279472750820",
+          "start": 156,
+          "url": "https://t.co/EKgKZvEVLt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077569607297343815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077511279472750820",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "vega 是织女星，天琴座 α（gemini 是双子座），Gemini 是不是很久没出新模型了？\ncomposer 似乎没有公开匿名测试的历史，他们之前也没有泄露过自己的模型。但结合cursor泄露人择的模型这点来看，这次模型有可能是Gemini的？\n\n这个模型目前只存在于api中，没法被调用，无法测试风格。 https://t.co/EKgKZvEVLt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2077569607297343815",
+        "created_at": "2026-07-16T01:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T02:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077569607297343815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lentils80/stat…",
+              "end": 179,
+              "expanded_url": "https://twitter.com/Lentils80/status/2077511279472750820",
+              "start": 156,
+              "url": "https://t.co/EKgKZvEVLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077569607297343815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077511279472750820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "vega 是织女星，天琴座 α（gemini 是双子座），Gemini 是不是很久没出新模型了？\ncomposer 似乎没有公开匿名测试的历史，他们之前也没有泄露过自己的模型。但结合cursor泄露人择的模型这点来看，这次模型有可能是Gemini的？\n\n这个模型目前只存在于api中，没法被调用，无法测试风格。 https://t.co/EKgKZvEVLt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950465537818951681",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Composer",
+              "id": "1156968167354142720",
+              "name": "Musical composition"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Composer",
+              "id": "1156968167354142720",
+              "name": "Musical composition"
+            }
+          }
+        ],
+        "conversation_id": "2077511279472750820",
+        "created_at": "2026-07-15T21:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T22:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077511279472750820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lentils80/stat…",
+              "end": 260,
+              "expanded_url": "https://twitter.com/Lentils80/status/2074651096941736367",
+              "start": 237,
+              "url": "https://t.co/cn5VJvz2R1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077511279472750820",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 5613,
+          "like_count": 108,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074651096941736367",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🚨 Update on my earlier scoop:\n\nComposer 3's latest checkpoint is currently being tested in Cursor under the codename \"Vega\"\n\nIt has fast mode and 3 reasoning efforts (medium, high and xhigh)\n\nPublic release is expected to be very soon 👀 https://t.co/cn5VJvz2R1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1635,
+          "following_count": 864,
+          "like_count": 8778,
+          "listed_count": 5,
+          "media_count": 623,
+          "tweet_count": 2860
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-30T07:57:02.000Z",
+        "description": "Early AI news, leaks and cool tests.\n\nYou can share interesting info/leaks via DMs or Lentils80@proton.me\n\nDiscord ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/z-ai",
+                "end": 23,
+                "expanded_url": "https://discord.gg/z-ai",
+                "start": 0,
+                "url": "https://t.co/nektADGlrq"
+              }
+            ]
+          }
+        },
+        "id": "1950465537818951681",
+        "name": "Lentils",
+        "pinned_tweet_id": "2064143487516238239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960500686795182080/pd8OTAbX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4122,
+          "following_count": 107,
+          "like_count": 2264,
+          "listed_count": 58,
+          "media_count": 219,
+          "tweet_count": 491
+        },
+        "url": "https://t.co/nektADGlrq",
+        "username": "Lentils80",
+        "verified": true
+      }
+    ]
+  }
+}

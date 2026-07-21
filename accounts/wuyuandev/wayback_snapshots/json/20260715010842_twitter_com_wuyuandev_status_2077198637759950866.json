@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2077089730320302370",
+    "created_at": "2026-07-15T01:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T02:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077198637759950866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806849464386416640",
+          "start": 0,
+          "username": "tangeorange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077198637759950866",
+    "in_reply_to_user_id": "1806849464386416640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077089730320302370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangeorange 我丢一个亿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2077089730320302370",
+        "created_at": "2026-07-15T01:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T02:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077198637759950866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806849464386416640",
+              "start": 0,
+              "username": "tangeorange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077198637759950866",
+        "in_reply_to_user_id": "1806849464386416640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077089730320302370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangeorange 我丢一个亿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806849464386416640",
+        "conversation_id": "2077089730320302370",
+        "created_at": "2026-07-14T17:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077089730320302370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077089730320302370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经过深思熟虑，我决定赠送我的母校一个亿\ntoken"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 858,
+          "like_count": 8700,
+          "listed_count": 5,
+          "media_count": 612,
+          "tweet_count": 2824
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "Forget. Forgive. Forever.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "橙子🫪",
+        "pinned_tweet_id": "2065426474606481620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064054650006020096/YsducvYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3297,
+          "following_count": 2893,
+          "like_count": 9140,
+          "listed_count": 5,
+          "media_count": 1416,
+          "tweet_count": 9129
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": true
+      }
+    ]
+  }
+}

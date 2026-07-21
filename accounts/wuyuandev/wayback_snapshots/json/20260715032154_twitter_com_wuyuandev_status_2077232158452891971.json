@@ -1,0 +1,493 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2077232158452891971",
+    "created_at": "2026-07-15T03:21:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T04:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077232158452891971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1605",
+          "start": 3,
+          "username": "sama"
+        }
+      ],
+      "urls": [
+        {
+          "description": "ChatGPT helps you get answers, find inspiration, and be more productive.",
+          "display_url": "chat.openai.com",
+          "end": 88,
+          "expanded_url": "http://chat.openai.com",
+          "images": [
+            {
+              "height": 900,
+              "url": "https://pbs.twimg.com/news_img/2074949635416985600/tqy3bpWD?format=jpg&name=orig",
+              "width": 1600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2074949635416985600/tqy3bpWD?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 65,
+          "status": 200,
+          "title": "ChatGPT",
+          "unwound_url": "https://chatgpt.com/",
+          "url": "https://t.co/uWra8LKFMN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077232158452891971",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8823
+    },
+    "referenced_tweets": [
+      {
+        "id": "1598038815599661056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sama: today we launched ChatGPT. try talking with it here: \n\nhttps://t.co/uWra8LKFMN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2077232158452891971",
+        "created_at": "2026-07-15T03:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T04:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077232158452891971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1605",
+              "start": 3,
+              "username": "sama"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ChatGPT helps you get answers, find inspiration, and be more productive.",
+              "display_url": "chat.openai.com",
+              "end": 88,
+              "expanded_url": "http://chat.openai.com",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2074949635416985600/tqy3bpWD?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074949635416985600/tqy3bpWD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 65,
+              "status": 200,
+              "title": "ChatGPT",
+              "unwound_url": "https://chatgpt.com/",
+              "url": "https://t.co/uWra8LKFMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077232158452891971",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8823
+        },
+        "referenced_tweets": [
+          {
+            "id": "1598038815599661056",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sama: today we launched ChatGPT. try talking with it here: \n\nhttps://t.co/uWra8LKFMN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605",
+        "conversation_id": "1598038815599661056",
+        "created_at": "2022-11-30T19:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2022-11-30T20:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1598038815599661056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "ChatGPT helps you get answers, find inspiration, and be more productive.",
+              "display_url": "chat.openai.com",
+              "end": 78,
+              "expanded_url": "http://chat.openai.com",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2074949635416985600/tqy3bpWD?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074949635416985600/tqy3bpWD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 55,
+              "status": 200,
+              "title": "ChatGPT",
+              "unwound_url": "https://chatgpt.com/",
+              "url": "https://t.co/uWra8LKFMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1598038815599661056",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22648,
+          "impression_count": 0,
+          "like_count": 62843,
+          "quote_count": 7151,
+          "reply_count": 2779,
+          "retweet_count": 8822
+        },
+        "reply_settings": "everyone",
+        "text": "today we launched ChatGPT. try talking with it here: \n\nhttps://t.co/uWra8LKFMN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1633,
+          "following_count": 862,
+          "like_count": 8715,
+          "listed_count": 5,
+          "media_count": 615,
+          "tweet_count": 2834
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5498108,
+          "following_count": 1020,
+          "like_count": 1020,
+          "listed_count": 30153,
+          "media_count": 393,
+          "tweet_count": 7859
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

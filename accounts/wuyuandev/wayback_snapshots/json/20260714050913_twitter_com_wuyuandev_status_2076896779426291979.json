@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076691520271380480"
+      ],
+      "media_source_tweet_id": [
+        "2076691968281760007"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1207752584288591872",
+          "name": "Pachinko"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "847869481888096256",
+          "name": "Gambling"
+        }
+      }
+    ],
+    "conversation_id": "2076896779426291979",
+    "created_at": "2026-07-14T05:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T06:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076896779426291979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1654513495507980290",
+          "start": 3,
+          "username": "filicroval"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dNPa6Aw79X",
+          "end": 99,
+          "expanded_url": "https://x.com/filicroval/status/2076691968281760007/video/1",
+          "media_key": "13_2076691520271380480",
+          "start": 76,
+          "url": "https://t.co/dNPa6Aw79X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076896779426291979",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076691968281760007",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @filicroval: slot machine variation but you can also lose a banked reset https://t.co/dNPa6Aw79X"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35874,
+        "height": 1080,
+        "media_key": "13_2076691520271380480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076691520271380480/img/R6x333MDu_V8XJtr.jpg",
+        "public_metrics": {
+          "view_count": 3251
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076691520271380480/vid/avc1/640x360/M0Mf_EZHj8A2vvDM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076691520271380480/pl/EOP7cg80zvEGPMCB.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076691520271380480/vid/avc1/480x270/yspOb0yKfiZNlPHI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076691520271380480/vid/avc1/1280x720/UUxswN4klWVHsfGX.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076691520271380480/vid/avc1/1920x1080/_teGydFoFHr9OSYT.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076691520271380480"
+          ],
+          "media_source_tweet_id": [
+            "2076691968281760007"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1207752584288591872",
+              "name": "Pachinko"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "847869481888096256",
+              "name": "Gambling"
+            }
+          }
+        ],
+        "conversation_id": "2076896779426291979",
+        "created_at": "2026-07-14T05:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076896779426291979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1654513495507980290",
+              "start": 3,
+              "username": "filicroval"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dNPa6Aw79X",
+              "end": 99,
+              "expanded_url": "https://x.com/filicroval/status/2076691968281760007/video/1",
+              "media_key": "13_2076691520271380480",
+              "start": 76,
+              "url": "https://t.co/dNPa6Aw79X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076896779426291979",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076691968281760007",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @filicroval: slot machine variation but you can also lose a banked reset https://t.co/dNPa6Aw79X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076691520271380480"
+          ]
+        },
+        "author_id": "1654513495507980290",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1207752584288591872",
+              "name": "Pachinko"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "847869481888096256",
+              "name": "Gambling"
+            }
+          }
+        ],
+        "conversation_id": "2076691968281760007",
+        "created_at": "2026-07-13T15:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076691968281760007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dNPa6Aw79X",
+              "end": 83,
+              "expanded_url": "https://x.com/filicroval/status/2076691968281760007/video/1",
+              "media_key": "13_2076691520271380480",
+              "start": 60,
+              "url": "https://t.co/dNPa6Aw79X"
+            },
+            {
+              "display_url": "x.com/filicroval/sta…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/filicroval/status/2076405207710232610",
+              "start": 84,
+              "url": "https://t.co/TWc70VB2Vd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076691968281760007",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 13473,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076405207710232610",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "slot machine variation but you can also lose a banked reset https://t.co/dNPa6Aw79X https://t.co/TWc70VB2Vd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 855,
+          "like_count": 8633,
+          "listed_count": 5,
+          "media_count": 608,
+          "tweet_count": 2807
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-05T15:48:58.000Z",
+        "description": "data eng | 1xAsus Ascent GX10 | benchmarking local models so you don't have to",
+        "id": "1654513495507980290",
+        "name": "filipe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053464202140893186/5Vgqbdlv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153646,
+          "following_count": 143,
+          "like_count": 21012,
+          "listed_count": 1419,
+          "media_count": 6407,
+          "tweet_count": 28128
+        },
+        "url": "",
+        "username": "filicroval",
+        "verified": true
+      }
+    ]
+  }
+}

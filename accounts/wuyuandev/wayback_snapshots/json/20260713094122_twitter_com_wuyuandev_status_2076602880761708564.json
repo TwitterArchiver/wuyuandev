@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1207752584288591872",
+          "name": "Pachinko"
+        }
+      }
+    ],
+    "conversation_id": "2076602880761708564",
+    "created_at": "2026-07-13T09:41:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T10:41:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076602880761708564"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/filicroval/sta…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/filicroval/status/2076405207710232610",
+          "start": 33,
+          "url": "https://t.co/Ry64AuWwa5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076602880761708564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076405207710232610",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你和那个刷短视频领token的都可以被来自中国的ai公司录用了😆 https://t.co/Ry64AuWwa5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33274,
+        "height": 1080,
+        "media_key": "13_2076403240707506176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076403240707506176/img/Zw70Q7HeRMeC0kDG.jpg",
+        "public_metrics": {
+          "view_count": 25719
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076403240707506176/vid/avc1/1920x1080/soC2EmsMWAQbHzbd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076403240707506176/vid/avc1/1280x720/R4C4EYPj8MIAyW68.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076403240707506176/pl/JyJyNLctQXFehC4f.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076403240707506176/vid/avc1/480x270/sSfk1qqcaGMikwkL.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076403240707506176/vid/avc1/640x360/qR6xRM6aGuElzSES.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1207752584288591872",
+              "name": "Pachinko"
+            }
+          }
+        ],
+        "conversation_id": "2076602880761708564",
+        "created_at": "2026-07-13T09:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076602880761708564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/filicroval/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/filicroval/status/2076405207710232610",
+              "start": 33,
+              "url": "https://t.co/Ry64AuWwa5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076602880761708564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076405207710232610",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你和那个刷短视频领token的都可以被来自中国的ai公司录用了😆 https://t.co/Ry64AuWwa5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076403240707506176"
+          ]
+        },
+        "author_id": "1654513495507980290",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1207752584288591872",
+              "name": "Pachinko"
+            }
+          }
+        ],
+        "conversation_id": "2076405207710232610",
+        "created_at": "2026-07-12T20:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T21:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076405207710232610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xuyp3gb85E",
+              "end": 83,
+              "expanded_url": "https://x.com/filicroval/status/2076405207710232610/video/1",
+              "media_key": "13_2076403240707506176",
+              "start": 60,
+              "url": "https://t.co/Xuyp3gb85E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076405207710232610",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 214515,
+          "like_count": 1124,
+          "quote_count": 12,
+          "reply_count": 37,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "guys hear me out: new pachinko reasoning picker for Codex 💸 https://t.co/Xuyp3gb85E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 855,
+          "like_count": 8588,
+          "listed_count": 5,
+          "media_count": 602,
+          "tweet_count": 2795
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-05T15:48:58.000Z",
+        "description": "data eng | 1xAsus Ascent GX10 | benchmarking local models so you don't have to",
+        "id": "1654513495507980290",
+        "name": "filipe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053464202140893186/5Vgqbdlv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153630,
+          "following_count": 137,
+          "like_count": 20958,
+          "listed_count": 1418,
+          "media_count": 6404,
+          "tweet_count": 28107
+        },
+        "url": "",
+        "username": "filicroval",
+        "verified": true
+      }
+    ]
+  }
+}

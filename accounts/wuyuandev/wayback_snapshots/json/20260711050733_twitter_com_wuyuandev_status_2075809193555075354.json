@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2075809190992589084",
+    "created_at": "2026-07-11T05:07:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T06:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075809193555075354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Exclusive: Researchers warn of ‘major crisis in male reproductive health’ partly driven by obesity and diabetes",
+          "display_url": "theguardian.com/society/2026/j…",
+          "end": 103,
+          "expanded_url": "https://www.theguardian.com/society/2026/jul/07/mens-average-testosterone-levels-have-halved-in-last-50-years-say-scientists",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2074526851930927105/psfDX3Un?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2074526851930927105/psfDX3Un?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 80,
+          "status": 200,
+          "title": "Men’s average testosterone levels have halved in last 50 years, say scientists",
+          "unwound_url": "https://www.theguardian.com/society/2026/jul/07/mens-average-testosterone-levels-have-halved-in-last-50-years-say-scientists",
+          "url": "https://t.co/ILgG62ASsZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075809193555075354",
+    "in_reply_to_user_id": "1436287470207832064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075809190992589084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "肥胖和糖尿病的上升率预计将发挥作用，但该研究团队认为，环境因素如内分泌干扰化学物质——这些物质存在于各种家用物品中——以及全球变暖，也可能是明显下降的原因。\n\nhttps://t.co/ILgG62ASsZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 643,
+        "media_key": "3_2075809185456078848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7BdMCaQAA4yhJ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2075809190992589084",
+        "created_at": "2026-07-11T05:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T06:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075809193555075354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Exclusive: Researchers warn of ‘major crisis in male reproductive health’ partly driven by obesity and diabetes",
+              "display_url": "theguardian.com/society/2026/j…",
+              "end": 103,
+              "expanded_url": "https://www.theguardian.com/society/2026/jul/07/mens-average-testosterone-levels-have-halved-in-last-50-years-say-scientists",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2074526851930927105/psfDX3Un?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074526851930927105/psfDX3Un?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 80,
+              "status": 200,
+              "title": "Men’s average testosterone levels have halved in last 50 years, say scientists",
+              "unwound_url": "https://www.theguardian.com/society/2026/jul/07/mens-average-testosterone-levels-have-halved-in-last-50-years-say-scientists",
+              "url": "https://t.co/ILgG62ASsZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075809193555075354",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075809190992589084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "肥胖和糖尿病的上升率预计将发挥作用，但该研究团队认为，环境因素如内分泌干扰化学物质——这些物质存在于各种家用物品中——以及全球变暖，也可能是明显下降的原因。\n\nhttps://t.co/ILgG62ASsZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075809185456078848"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2075809190992589084",
+        "created_at": "2026-07-11T05:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T06:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075809190992589084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h376Th8DDr",
+              "end": 121,
+              "expanded_url": "https://x.com/wuyuandev/status/2075809190992589084/photo/1",
+              "media_key": "3_2075809185456078848",
+              "start": 98,
+              "url": "https://t.co/h376Th8DDr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075809190992589084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "科学家称，过去50年里，男性平均睾酮水平下降了一半。\n\n根据周二在伦敦举行的欧洲人类生殖与胚胎学学会年会上公布的数据，1972 年至 2019 年间，男性体内总睾酮水平下降了 54%。\n\n👇👇👇 https://t.co/h376Th8DDr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1594,
+          "following_count": 840,
+          "like_count": 8415,
+          "listed_count": 5,
+          "media_count": 590,
+          "tweet_count": 2759
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      }
+    ]
+  }
+}

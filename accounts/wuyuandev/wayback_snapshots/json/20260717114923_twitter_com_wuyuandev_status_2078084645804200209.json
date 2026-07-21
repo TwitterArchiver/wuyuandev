@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237004504219828224",
+          "name": "Computer hardware"
+        }
+      }
+    ],
+    "conversation_id": "2078084645804200209",
+    "created_at": "2026-07-17T11:49:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T12:49:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078084645804200209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vikingmute/sta…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/vikingmute/status/2078044305185468422",
+          "start": 63,
+          "url": "https://t.co/d9Zshcu4gj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078084645804200209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078044305185468422",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果你卡没付出去，cf一段时间后似乎会忘记这笔账单，别问我怎么知道的，现在欠cf几w刀的号还在正常用，cf都不尝试扣款了都。 https://t.co/d9Zshcu4gj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "2078084645804200209",
+        "created_at": "2026-07-17T11:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078084645804200209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vikingmute/sta…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/vikingmute/status/2078044305185468422",
+              "start": 63,
+              "url": "https://t.co/d9Zshcu4gj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078084645804200209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078044305185468422",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你卡没付出去，cf一段时间后似乎会忘记这笔账单，别问我怎么知道的，现在欠cf几w刀的号还在正常用，cf都不尝试扣款了都。 https://t.co/d9Zshcu4gj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "296593919",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "2078044305185468422",
+        "created_at": "2026-07-17T09:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078044305185468422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AjaySohmshetty…",
+              "end": 198,
+              "expanded_url": "https://twitter.com/AjaySohmshetty/status/2077752861719400660",
+              "start": 175,
+              "url": "https://t.co/gUXVRSBghd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078044305185468422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这位小哥发现他们产品 CF 的账单暴涨：从Cloudflare 月账单 从 $35 直接跳到了 $38,277 。\n\n原因是：现在 CF 似乎悄悄改成了类似其他平台的计费方式，按步骤收费，没有提前通知。\n\n之前主要只收 CPU 时间 + Requests。因为 Workflows 大量时间在 sleep、waitForEvent、轮询、等 API 返回等“等待”状态，这些时间不占 CPU，所以非常便宜。作者正是冲着这个选的 Cloudflare。\n\n但是现在修改为Per-step billing，和原来的计费完全不一样了。而且没有提前通知。\n\n大家如果有用 Workflows 的可以看下，我认为是再好的平台也不能 vendor locking， 可以随时迁移非常重要。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 10749,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077752861719400660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这位小哥发现他们产品 CF 的账单暴涨：从Cloudflare 月账单 从 $35 直接跳到了 $38,277 。\n\n原因是：现在 CF 似乎悄悄改成了类似其他平台的计费方式，按步骤收费，没有提前通知。\n\n之前主要只收 CPU 时间 + Requests。因为 Workflows 大量时间在 sleep、waitForEvent、轮询、等 API https://t.co/gUXVRSBghd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 868,
+          "like_count": 8843,
+          "listed_count": 5,
+          "media_count": 643,
+          "tweet_count": 2904
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2011-05-11T02:08:52.000Z",
+        "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tinyship.cn",
+                "end": 47,
+                "expanded_url": "http://tinyship.cn",
+                "start": 24,
+                "url": "https://t.co/o0BI6W8DRb"
+              },
+              {
+                "display_url": "easycv.cn",
+                "end": 120,
+                "expanded_url": "http://easycv.cn",
+                "start": 97,
+                "url": "https://t.co/xMu5JFIGnr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vikingz.me",
+                "end": 23,
+                "expanded_url": "http://vikingz.me",
+                "start": 0,
+                "url": "https://t.co/6Zj0nAx1OI"
+              }
+            ]
+          }
+        },
+        "id": "296593919",
+        "location": "Shanghai",
+        "name": "Viking",
+        "pinned_tweet_id": "1998566358779617506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67049,
+          "following_count": 278,
+          "like_count": 1273,
+          "listed_count": 728,
+          "media_count": 1747,
+          "tweet_count": 3580
+        },
+        "url": "https://t.co/6Zj0nAx1OI",
+        "username": "vikingmute",
+        "verified": true
+      }
+    ]
+  }
+}

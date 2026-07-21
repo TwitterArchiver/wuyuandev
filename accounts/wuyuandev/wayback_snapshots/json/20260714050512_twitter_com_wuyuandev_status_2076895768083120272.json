@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2076895768083120272",
+    "created_at": "2026-07-14T05:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T06:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076895768083120272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2023431001524072449",
+          "start": 3,
+          "username": "clankrmedia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076895768083120272",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 468
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076593164744376707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @clankrmedia: Researchers built a soft floating robot for indoor interaction.\n\nIt uses helium and flapping fins instead of propellers.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30000,
+        "height": 1080,
+        "media_key": "13_2076593063309246465",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076593063309246465/img/Jd2lWU-vn2CD0rp0.jpg",
+        "public_metrics": {
+          "view_count": 182267
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076593063309246465/vid/avc1/640x360/cmA6Jq0yuBjcPxyz.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076593063309246465/vid/avc1/480x270/OL-7CQiR1og6MxNi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076593063309246465/pl/1Z4L-qMGxkKPRZ7b.m3u8?v=7b4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076593063309246465/vid/avc1/1920x1080/9fSnF6xuRHE4uHu9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076593063309246465/vid/avc1/1280x720/-a4j8h7C5J3qw94X.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2076895768083120272",
+        "created_at": "2026-07-14T05:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076895768083120272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2023431001524072449",
+              "start": 3,
+              "username": "clankrmedia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076895768083120272",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 468
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076593164744376707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @clankrmedia: Researchers built a soft floating robot for indoor interaction.\n\nIt uses helium and flapping fins instead of propellers.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076593063309246465"
+          ]
+        },
+        "author_id": "2023431001524072449",
+        "conversation_id": "2076593164744376707",
+        "created_at": "2026-07-13T09:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076593164744376707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M2WzvFCoLO",
+              "end": 291,
+              "expanded_url": "https://x.com/clankrmedia/status/2076593164744376707/video/1",
+              "media_key": "13_2076593063309246465",
+              "start": 268,
+              "url": "https://t.co/M2WzvFCoLO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076593164744376707",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1720,
+          "impression_count": 746416,
+          "like_count": 3842,
+          "quote_count": 271,
+          "reply_count": 160,
+          "retweet_count": 465
+        },
+        "reply_settings": "everyone",
+        "text": "Researchers built a soft floating robot for indoor interaction.\n\nIt uses helium and flapping fins instead of propellers.\n\nThe result is quiet, lightweight, and safe to touch.\n\nIt can follow people, give reminders, and act as a study buddy.\n\nPublished at ACM DIS 2026. https://t.co/M2WzvFCoLO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 855,
+          "like_count": 8630,
+          "listed_count": 5,
+          "media_count": 608,
+          "tweet_count": 2806
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-16T16:15:57.000Z",
+        "description": "Curating the Future of Robotics, AI & Startups",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/clankrmedia",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/clankrmedia",
+                "start": 0,
+                "url": "https://t.co/TMcN1ZcTR9"
+              }
+            ]
+          }
+        },
+        "id": "2023431001524072449",
+        "name": "clankr",
+        "pinned_tweet_id": "2076593164744376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063347037966671872/VFpHBAn8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1631,
+          "following_count": 146,
+          "like_count": 635,
+          "listed_count": 22,
+          "media_count": 232,
+          "tweet_count": 1414
+        },
+        "url": "https://t.co/TMcN1ZcTR9",
+        "username": "clankrmedia",
+        "verified": true
+      }
+    ]
+  }
+}
