@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2085539730759049263",
+    "created_at": "2026-08-07T01:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T02:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085539730759049263"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "github.com/[YOURNAME].keys",
+          "end": 91,
+          "expanded_url": "http://github.com/[YOURNAME].keys",
+          "start": 68,
+          "status": 404,
+          "unwound_url": "https://github.com/[YOURNAME].keys",
+          "url": "https://t.co/FuSFdM6mhQ"
+        },
+        {
+          "display_url": "x.com/thdxr/status/2…",
+          "end": 147,
+          "expanded_url": "https://twitter.com/thdxr/status/2085469799342121248",
+          "start": 124,
+          "url": "https://t.co/uNVvevZQDM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085539730759049263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085469799342121248",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "刚学到一个有趣的用法，因为GitHub会公开的配置的ssh公钥，所以你可以用这个命令快速设置你的服务器，而不用再去找一次。\n\ncurl https://t.co/FuSFdM6mhQ &gt;&gt; ~/.ssh/authorized_keys https://t.co/uNVvevZQDM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2085539730759049263",
+        "created_at": "2026-08-07T01:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T02:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085539730759049263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/[YOURNAME].keys",
+              "end": 91,
+              "expanded_url": "http://github.com/[YOURNAME].keys",
+              "start": 68,
+              "status": 404,
+              "unwound_url": "https://github.com/[YOURNAME].keys",
+              "url": "https://t.co/FuSFdM6mhQ"
+            },
+            {
+              "display_url": "x.com/thdxr/status/2…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/thdxr/status/2085469799342121248",
+              "start": 124,
+              "url": "https://t.co/uNVvevZQDM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085539730759049263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085469799342121248",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刚学到一个有趣的用法，因为GitHub会公开的配置的ssh公钥，所以你可以用这个命令快速设置你的服务器，而不用再去找一次。\n\ncurl https://t.co/FuSFdM6mhQ &gt;&gt; ~/.ssh/authorized_keys https://t.co/uNVvevZQDM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2870102861",
+        "conversation_id": "2085380716163109265",
+        "created_at": "2026-08-06T20:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T21:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085469799342121248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "587016589",
+              "start": 0,
+              "username": "samhogan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "github.com/thdxr.keys",
+              "end": 86,
+              "expanded_url": "http://github.com/thdxr.keys",
+              "start": 63,
+              "status": 200,
+              "unwound_url": "https://github.com/thdxr.keys",
+              "url": "https://t.co/cbqhgmVcTs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085469799342121248",
+        "in_reply_to_user_id": "587016589",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 26823,
+          "like_count": 219,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085380716163109265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@samhogan i use this all the time to setup new machines \n\ncurl https://t.co/cbqhgmVcTs &gt;&gt; ~/.ssh/authorized_keys"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大的高二在校生。\n\n私人 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间，你看冰霜璀璨。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1946,
+          "following_count": 956,
+          "like_count": 10474,
+          "listed_count": 8,
+          "media_count": 854,
+          "tweet_count": 3845
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2014-11-10T04:50:37.000Z",
+        "description": "building @opencode at @anomalyco\nnot the ceo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "opencode"
+              },
+              {
+                "end": 32,
+                "start": 22,
+                "username": "anomalyco"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thdxr.com",
+                "end": 23,
+                "expanded_url": "https://thdxr.com",
+                "start": 0,
+                "url": "https://t.co/bWom5srB32"
+              }
+            ]
+          }
+        },
+        "id": "2870102861",
+        "location": "Miami, FL",
+        "name": "dax",
+        "pinned_tweet_id": "2085517334383337866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602333093485891584/mmVqjFNI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152602,
+          "following_count": 459,
+          "like_count": 88258,
+          "listed_count": 1454,
+          "media_count": 2702,
+          "tweet_count": 43242
+        },
+        "url": "https://t.co/bWom5srB32",
+        "username": "thdxr",
+        "verified": true
+      }
+    ]
+  }
+}

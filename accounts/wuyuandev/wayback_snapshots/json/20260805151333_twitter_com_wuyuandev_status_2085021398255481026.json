@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2084891015723540629",
+    "created_at": "2026-08-05T15:13:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T16:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085021398255481026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1841098665001435141",
+          "start": 0,
+          "username": "yinsuecci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085021398255481026",
+    "in_reply_to_user_id": "1841098665001435141",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084891015723540629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yinsuecci hi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1215,
+        "media_key": "3_2084890993770541056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8FUAcasAApltS.jpg",
+        "width": 1295
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2084891015723540629",
+        "created_at": "2026-08-05T15:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085021398255481026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1841098665001435141",
+              "start": 0,
+              "username": "yinsuecci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085021398255481026",
+        "in_reply_to_user_id": "1841098665001435141",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084891015723540629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinsuecci hi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084890993770541056"
+          ]
+        },
+        "author_id": "1841098665001435141",
+        "conversation_id": "2084891015723540629",
+        "created_at": "2026-08-05T06:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T07:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084891015723540629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gqfCmRJZe3",
+              "end": 31,
+              "expanded_url": "https://x.com/yinsuecci/status/2084891015723540629/photo/1",
+              "media_key": "3_2084890993770541056",
+              "start": 8,
+              "url": "https://t.co/gqfCmRJZe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084891015723540629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 822,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一张图入门中推 https://t.co/gqfCmRJZe3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 948,
+          "like_count": 10366,
+          "listed_count": 8,
+          "media_count": 846,
+          "tweet_count": 3790
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-01T12:52:21.000Z",
+        "description": "Math ｜ Investment ｜ AI\n🎓 08男大，努力攒学费中\n⚡ 境外代充 / 数学竞赛，高中数理化授课\n💬 纯音乐 / 写文看文 / 投资心得\n📌 请称呼我：黄狗 / 小樱（En & Ch)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rw.udclass.top",
+                "end": 23,
+                "expanded_url": "https://rw.udclass.top",
+                "start": 0,
+                "url": "https://t.co/TaH2ekJBau"
+              }
+            ]
+          }
+        },
+        "id": "1841098665001435141",
+        "location": "Mars",
+        "name": "櫻序曦葉",
+        "pinned_tweet_id": "2067124610534150624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975161887664050176/xM8Jqs6-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 217,
+          "like_count": 111,
+          "listed_count": 1,
+          "media_count": 261,
+          "tweet_count": 1462
+        },
+        "url": "https://t.co/TaH2ekJBau",
+        "username": "yinsuecci",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084772293088075776",
+        "3_2084772293083893760"
+      ],
+      "media_source_tweet_id": [
+        "2084772297726955967",
+        "2084772297726955967"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10041440982",
+          "name": "Colony"
+        }
+      }
+    ],
+    "conversation_id": "2084800029508980821",
+    "created_at": "2026-08-05T00:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T01:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084800029508980821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041159531657416704",
+          "start": 3,
+          "username": "amber_digit2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AUmXYcnznL",
+          "end": 94,
+          "expanded_url": "https://x.com/amber_digit2/status/2084772297726955967/photo/1",
+          "media_key": "3_2084772293088075776",
+          "start": 71,
+          "url": "https://t.co/AUmXYcnznL"
+        },
+        {
+          "display_url": "pic.x.com/AUmXYcnznL",
+          "end": 94,
+          "expanded_url": "https://x.com/amber_digit2/status/2084772297726955967/photo/1",
+          "media_key": "3_2084772293083893760",
+          "start": 71,
+          "url": "https://t.co/AUmXYcnznL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084800029508980821",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084772297726955967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_digit2: oh you absolutely can &amp; should apply it to china https://t.co/AUmXYcnznL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084772293088075776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO6ZWt8XYAASPZ8.jpg",
+        "width": 1822
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084772293083893760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO6ZWt7XkAANHN2.jpg",
+        "width": 1198
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084772293088075776",
+            "3_2084772293083893760"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041440982",
+              "name": "Colony"
+            }
+          }
+        ],
+        "conversation_id": "2084772297726955967",
+        "created_at": "2026-08-04T22:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T23:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084772297726955967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AUmXYcnznL",
+              "end": 76,
+              "expanded_url": "https://x.com/amber_digit2/status/2084772297726955967/photo/1",
+              "media_key": "3_2084772293088075776",
+              "start": 53,
+              "url": "https://t.co/AUmXYcnznL"
+            },
+            {
+              "display_url": "pic.x.com/AUmXYcnznL",
+              "end": 76,
+              "expanded_url": "https://x.com/amber_digit2/status/2084772297726955967/photo/1",
+              "media_key": "3_2084772293083893760",
+              "start": 53,
+              "url": "https://t.co/AUmXYcnznL"
+            },
+            {
+              "display_url": "x.com/nocturnalbottl…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/nocturnalbottle/status/2084319469984256329",
+              "start": 77,
+              "url": "https://t.co/JzekwAT9kW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084772297726955967",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 892,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084319469984256329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "oh you absolutely can &amp; should apply it to china https://t.co/AUmXYcnznL https://t.co/JzekwAT9kW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084772293088075776",
+            "3_2084772293083893760"
+          ],
+          "media_source_tweet_id": [
+            "2084772297726955967",
+            "2084772297726955967"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041440982",
+              "name": "Colony"
+            }
+          }
+        ],
+        "conversation_id": "2084800029508980821",
+        "created_at": "2026-08-05T00:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T01:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084800029508980821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041159531657416704",
+              "start": 3,
+              "username": "amber_digit2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AUmXYcnznL",
+              "end": 94,
+              "expanded_url": "https://x.com/amber_digit2/status/2084772297726955967/photo/1",
+              "media_key": "3_2084772293088075776",
+              "start": 71,
+              "url": "https://t.co/AUmXYcnznL"
+            },
+            {
+              "display_url": "pic.x.com/AUmXYcnznL",
+              "end": 94,
+              "expanded_url": "https://x.com/amber_digit2/status/2084772297726955967/photo/1",
+              "media_key": "3_2084772293083893760",
+              "start": 71,
+              "url": "https://t.co/AUmXYcnznL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084800029508980821",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084772297726955967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_digit2: oh you absolutely can &amp; should apply it to china https://t.co/AUmXYcnznL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1910,
+          "following_count": 944,
+          "like_count": 10326,
+          "listed_count": 8,
+          "media_count": 838,
+          "tweet_count": 3736
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi\nᴘʀɪᴠ@amber_medusozoa / ❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4607,
+          "following_count": 742,
+          "like_count": 2436,
+          "listed_count": 5,
+          "media_count": 167,
+          "tweet_count": 2116
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

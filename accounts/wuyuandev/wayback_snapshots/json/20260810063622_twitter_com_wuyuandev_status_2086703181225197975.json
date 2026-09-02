@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2086702340967657835",
+    "created_at": "2026-08-10T06:36:22.000Z",
+    "display_text_range": [
+      9,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T07:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086703181225197975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1818257539886460928",
+          "start": 0,
+          "username": "qqqqqf_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086703181225197975",
+    "in_reply_to_user_id": "1818257539886460928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086702340967657835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqf_ X的大部分按钮都把侧键响应为点击的，比如设置页面。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10381,
+        "height": 1280,
+        "media_key": "13_2086702276199206912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086702276199206912/img/0ZrXlBwQxr2PM483.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086702276199206912/vid/avc1/320x568/FOSbQK7bRZMzSgwq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086702276199206912/vid/avc1/480x852/P9ufF-Tv5diFDKTQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086702276199206912/vid/avc1/720x1280/TONWuNRcbRIOYYxS.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086702276199206912/pl/v4hEKXisGtZRaKhQ.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2086702340967657835",
+        "created_at": "2026-08-10T06:36:22.000Z",
+        "display_text_range": [
+          9,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T07:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086703181225197975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1818257539886460928",
+              "start": 0,
+              "username": "qqqqqf_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086703181225197975",
+        "in_reply_to_user_id": "1818257539886460928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086702340967657835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf_ X的大部分按钮都把侧键响应为点击的，比如设置页面。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086702276199206912"
+          ]
+        },
+        "author_id": "1818257539886460928",
+        "conversation_id": "2086702340967657835",
+        "created_at": "2026-08-10T06:33:01.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T07:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086702340967657835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/at8ws9b2Kn",
+              "end": 97,
+              "expanded_url": "https://x.com/qqqqqf_/status/2086702340967657835/video/1",
+              "media_key": "13_2086702276199206912",
+              "start": 74,
+              "url": "https://t.co/at8ws9b2Kn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086702340967657835",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086702276199206912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "X 这个广告交互真的恶心\n\n鼠标侧键本来是“返回上一页”，放在正常帖子/评论上都正常；但只要鼠标刚好停在广告上，按侧键不仅不返回，反而直接打开广告 https://t.co/at8ws9b2Kn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大的高二在校生。\n\n私人 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间，你看冰霜璀璨。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2086703181225197975",
+        "name": "孙悟元",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1993,
+          "following_count": 1012,
+          "like_count": 10745,
+          "listed_count": 10,
+          "media_count": 891,
+          "tweet_count": 3949
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-30T12:09:26.000Z",
+        "description": "Full Stack Engineer @memoh_ai\nBuilding  https://t.co/Q5DJkrjOuI / https://t.co/Z8CwRk435m\n博客:https://t.co/YPfuXnEcRK  \nTelegramGroup :https://t.co/GiCrumiY7W",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "memoh_ai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Arkloop.io",
+                "end": 63,
+                "expanded_url": "http://Arkloop.io",
+                "start": 40,
+                "url": "https://t.co/Q5DJkrjOuI"
+              },
+              {
+                "display_url": "Memoh.ai",
+                "end": 89,
+                "expanded_url": "http://Memoh.ai",
+                "start": 66,
+                "url": "https://t.co/Z8CwRk435m"
+              },
+              {
+                "display_url": "清凤.fun",
+                "end": 116,
+                "expanded_url": "https://xn--l9qq99d.fun",
+                "start": 93,
+                "url": "https://t.co/YPfuXnEcRK"
+              },
+              {
+                "display_url": "t.me/Arkloop_io",
+                "end": 157,
+                "expanded_url": "https://t.me/Arkloop_io",
+                "start": 134,
+                "url": "https://t.co/GiCrumiY7W"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/jrg4ChmKLg"
+              }
+            ]
+          }
+        },
+        "id": "1818257539886460928",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2086702340967657835",
+        "name": "清凤",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818257539886460928/1770919978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021583893238059008/7Mh6eK6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1820,
+          "following_count": 1020,
+          "like_count": 22025,
+          "listed_count": 6,
+          "media_count": 371,
+          "tweet_count": 1673
+        },
+        "url": "https://t.co/jrg4ChmKLg",
+        "username": "qqqqqf_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2078855608565207130",
+    "created_at": "2026-07-19T22:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T23:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078970438202573249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1863959670169501696",
+          "start": 0,
+          "username": "Kimi_Moonshot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078970438202573249",
+    "in_reply_to_user_id": "1863959670169501696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078855608565207130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kimi_Moonshot 我天，kimi也开始限量了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2078855608565207130",
+        "created_at": "2026-07-19T22:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T23:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078970438202573249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1863959670169501696",
+              "start": 0,
+              "username": "Kimi_Moonshot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078970438202573249",
+        "in_reply_to_user_id": "1863959670169501696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078855608565207130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kimi_Moonshot 我天，kimi也开始限量了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863959670169501696",
+        "conversation_id": "2078855608565207130",
+        "created_at": "2026-07-19T14:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078855608565207130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078855608565207130",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Kimi K3 has received far more love than we expected, and our GPUs are feeling it.\n\nOver the past 48 hours, demand has pushed close to the limits of our current capacity. To protect the experience of existing subscribers, we're temporarily pausing new subscriptions and prioritizing compute for current members. Existing subscribed users are not affected.\n\nWe're adding capacity as fast as we can and will reopen new subscription spots in batches.\n\nGoing forward, we'll also split membership into two more focused plans: Kimi Membership for Kimi Web, App, and Work; and Kimi Code Membership for coding workflows. This will help us match compute more precisely and keep the experience stable.\n\nThank you for your patience and understanding!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2513,
+          "impression_count": 4732046,
+          "like_count": 22553,
+          "quote_count": 1295,
+          "reply_count": 1025,
+          "retweet_count": 1629
+        },
+        "reply_settings": "everyone",
+        "text": "Kimi K3 has received far more love than we expected, and our GPUs are feeling it.\n\nOver the past 48 hours, demand has pushed close to the limits of our current capacity. To protect the experience of existing subscribers, we're temporarily pausing new subscriptions and"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1654,
+          "following_count": 870,
+          "like_count": 8965,
+          "listed_count": 6,
+          "media_count": 668,
+          "tweet_count": 2981
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-03T14:54:14.000Z",
+        "description": "Built by Moonshot AI to empower everyone to be superhuman. \n@Kimidevs built for developers\n⚡️API: https://t.co/XCrgjXAqMw\nDC: https://t.co/wBsBTn6Ncc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Kimidevs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "platform.kimi.ai",
+                "end": 121,
+                "expanded_url": "http://platform.kimi.ai",
+                "start": 98,
+                "url": "https://t.co/XCrgjXAqMw"
+              },
+              {
+                "display_url": "discord.gg/9SY8CenBNh",
+                "end": 149,
+                "expanded_url": "https://discord.gg/9SY8CenBNh",
+                "start": 126,
+                "url": "https://t.co/wBsBTn6Ncc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kimi.com",
+                "end": 23,
+                "expanded_url": "https://www.kimi.com/",
+                "start": 0,
+                "url": "https://t.co/mlnKFmsdLe"
+              }
+            ]
+          }
+        },
+        "id": "1863959670169501696",
+        "name": "Kimi.ai",
+        "pinned_tweet_id": "2077830229968683203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910294000927645696/QseOV0uF_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295802,
+          "following_count": 138,
+          "like_count": 309,
+          "listed_count": 2269,
+          "media_count": 162,
+          "tweet_count": 415
+        },
+        "url": "https://t.co/mlnKFmsdLe",
+        "username": "Kimi_Moonshot",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2083886681376407623",
+    "created_at": "2026-08-02T12:36:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T13:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083894772482351263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1926187937642725376",
+          "start": 0,
+          "username": "david0520782123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083894772482351263",
+    "in_reply_to_user_id": "1926187937642725376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083894011262390629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@david0520782123 谢谢您的建议"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2083886681376407623",
+        "created_at": "2026-08-02T12:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083894772482351263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1926187937642725376",
+              "start": 0,
+              "username": "david0520782123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083894772482351263",
+        "in_reply_to_user_id": "1926187937642725376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083894011262390629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@david0520782123 谢谢您的建议"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926187937642725376",
+        "conversation_id": "2083886681376407623",
+        "created_at": "2026-08-02T12:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083894011262390629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083894011262390629",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083893468431306901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev 是的，我的意思是，它不值得你下重注，甚至不值得你牺牲睡眠、锻炼、社交、恋爱的时间。\n\n我甚至建议你最大化杠杆，用最少的精力，设计一个精简但是可以作为生成种子的蓝图，然后让 Agent 在 Goal 模式下推进完成。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1857,
+          "following_count": 923,
+          "like_count": 10121,
+          "listed_count": 8,
+          "media_count": 816,
+          "tweet_count": 3587
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-24T08:06:16.000Z",
+        "description": "PIDA（物理基础设施设计自动化）与 AtomLab 创作者。让工程设计可计算、可验证、可自动化，让智能在语义、治理与协议边界内可靠工作。",
+        "id": "1926187937642725376",
+        "name": "IndenScale",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926187983050244096/Z8p0KXq3_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 2329,
+          "like_count": 30848,
+          "listed_count": 10,
+          "media_count": 12,
+          "tweet_count": 2008
+        },
+        "url": "",
+        "username": "david0520782123",
+        "verified": true
+      }
+    ]
+  }
+}

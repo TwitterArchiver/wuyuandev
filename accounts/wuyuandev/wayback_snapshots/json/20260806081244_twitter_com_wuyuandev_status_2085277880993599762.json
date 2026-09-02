@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2085212348206518543",
+    "created_at": "2026-08-06T08:12:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T09:12:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085277880993599762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1599803203322798081",
+          "start": 0,
+          "username": "sticktech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085277880993599762",
+    "in_reply_to_user_id": "1599803203322798081",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085212348206518543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sticktech 你好~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2085212348206518543",
+        "created_at": "2026-08-06T08:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085277880993599762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1599803203322798081",
+              "start": 0,
+              "username": "sticktech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085277880993599762",
+        "in_reply_to_user_id": "1599803203322798081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085212348206518543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sticktech 你好~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599803203322798081",
+        "conversation_id": "2085212348206518543",
+        "created_at": "2026-08-06T03:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T04:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085212348206518543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085212348206518543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2336,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "杭州粘连科技传媒有限责任公司"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大的高二在校生。\n\n私人 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间，你看冰霜璀璨。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1935,
+          "following_count": 953,
+          "like_count": 10422,
+          "listed_count": 8,
+          "media_count": 848,
+          "tweet_count": 3820
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-05T16:29:52.000Z",
+        "description": "一个喜欢敲代码和摄影的学牲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ADT_China",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@ADT_China",
+                "start": 0,
+                "url": "https://t.co/1jNjLrkYxZ"
+              }
+            ]
+          }
+        },
+        "id": "1599803203322798081",
+        "location": "杭州",
+        "name": "粘连科技",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924643051974074368/6Jhv7IOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3205,
+          "following_count": 2599,
+          "like_count": 776,
+          "listed_count": 4,
+          "media_count": 96,
+          "tweet_count": 402
+        },
+        "url": "https://t.co/1jNjLrkYxZ",
+        "username": "sticktech",
+        "verified": false
+      }
+    ]
+  }
+}

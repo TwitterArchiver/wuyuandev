@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Cardiff",
+          "id": "864491650784968704",
+          "name": "Cardiff"
+        }
+      }
+    ],
+    "conversation_id": "2080062794490323180",
+    "created_at": "2026-07-22T22:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T23:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080062794490323180"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thesupermanmx/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/thesupermanmx/status/2079131466496352449",
+          "start": 7,
+          "url": "https://t.co/XQ8toiv1Y1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080062794490323180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079131466496352449",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么赛博润人 https://t.co/XQ8toiv1Y1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1128,
+        "media_key": "3_2079131275261341696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqO4Q9bcAA9XFF.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Cardiff",
+              "id": "864491650784968704",
+              "name": "Cardiff"
+            }
+          }
+        ],
+        "conversation_id": "2080062794490323180",
+        "created_at": "2026-07-22T22:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T23:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080062794490323180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thesupermanmx/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/thesupermanmx/status/2079131466496352449",
+              "start": 7,
+              "url": "https://t.co/XQ8toiv1Y1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080062794490323180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079131466496352449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么赛博润人 https://t.co/XQ8toiv1Y1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079131275261341696"
+          ]
+        },
+        "author_id": "2052949858252939264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Cardiff",
+              "id": "864491650784968704",
+              "name": "Cardiff"
+            }
+          }
+        ],
+        "conversation_id": "2079131466496352449",
+        "created_at": "2026-07-20T09:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079131466496352449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZfyypmmbjL",
+              "end": 301,
+              "expanded_url": "https://x.com/thesupermanmx/status/2079131466496352449/photo/1",
+              "media_key": "3_2079131275261341696",
+              "start": 278,
+              "url": "https://t.co/ZfyypmmbjL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079131466496352449",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Researchers proved every major LLM is secretly obsessed with Japan.\n\nAnd they finally figured out why.\n\nFor years, we’ve been told that AI is entirely Western-centric, that it just reflects Silicon Valley and American values.\n\nA landmark paper by Cardiff and Basque researchers tested 31,680 cultural prompts across 24 languages on frontier models like ChatGPT, Claude, and Gemini.\n\nThe results shattered that assumption.\n\nIn six out of eight frontier models, Japan was the single most frequently referenced country when asked open-ended cultural questions.\n\nAsk about traditional dances, festivals, or everyday practices in an open context, and the AI defaults to Japan.\n\nOver and over again.\n\nHere is the twist nobody expected.\n\nThis bias doesn't come from raw pre-training internet data.\n\nThe researchers tracked where the obsession forms. It emerges after pre-training, during the supervised fine-tuning and alignment phase when humans teach the AI how to behave.\n\nWhy Japan?\n\nBecause decades of global soft power, rich cultural export, and clean, universally admired digital archives make Japanese culture uniquely \"safe\" for AI safety filters to lean on.\n\nWhen labs train models to be harmless and universally pleasing, the AI defaults to the cultural equivalent of comfort food.\n\nIt avoids controversy by talking about anime, sushi, and tradition."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4585,
+          "impression_count": 3356102,
+          "like_count": 9732,
+          "quote_count": 715,
+          "reply_count": 220,
+          "retweet_count": 1970
+        },
+        "reply_settings": "everyone",
+        "text": "Researchers proved every major LLM is secretly obsessed with Japan.\n\nAnd they finally figured out why.\n\nFor years, we’ve been told that AI is entirely Western-centric, that it just reflects Silicon Valley and American values.\n\nA landmark paper by Cardiff and Basque researchers https://t.co/ZfyypmmbjL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1665,
+          "following_count": 883,
+          "like_count": 9094,
+          "listed_count": 6,
+          "media_count": 684,
+          "tweet_count": 3042
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-09T03:14:47.000Z",
+        "description": "AI & Neuroscience",
+        "id": "2052949858252939264",
+        "name": "Superman",
+        "pinned_tweet_id": "2079131466496352449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061753751560650752/4jxd2vjA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3396,
+          "following_count": 10,
+          "like_count": 154,
+          "listed_count": 41,
+          "media_count": 45,
+          "tweet_count": 111
+        },
+        "url": "",
+        "username": "thesupermanmx",
+        "verified": true
+      }
+    ]
+  }
+}

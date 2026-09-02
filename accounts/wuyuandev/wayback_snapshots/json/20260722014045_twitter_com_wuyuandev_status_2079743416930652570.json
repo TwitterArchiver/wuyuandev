@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079687631785398272"
+      ],
+      "media_source_tweet_id": [
+        "2079687657228017841"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079743416930652570",
+    "created_at": "2026-07-22T01:40:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T02:40:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079743416930652570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1567179325551812609",
+          "start": 3,
+          "username": "xiangyuli"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pZ2VX9iz9W",
+          "end": 71,
+          "expanded_url": "https://x.com/lidangzzz/status/2079687657228017841/video/1",
+          "media_key": "13_2079687631785398272",
+          "start": 48,
+          "url": "https://t.co/pZ2VX9iz9W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079743416930652570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079707859684851925",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiangyuli: 哈哈哈哈，所谓院士。哈哈。\n\n水平还不如在小红书做小程序的小学生\nhttps://t.co/pZ2VX9iz9W"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51827,
+        "height": 1280,
+        "media_key": "13_2079687631785398272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079687631785398272/img/EHRD-jONXQRE6i7H.jpg",
+        "public_metrics": {
+          "view_count": 52049
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079687631785398272/vid/avc1/320x568/C7kv9gNfeMtXGDBW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079687631785398272/vid/avc1/480x852/fuA-4sx7z207r7vP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079687631785398272/vid/avc1/720x1280/pI6BoN56ZemQJyDd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079687631785398272/pl/I13Sjns_lg5zW09x.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079687631785398272"
+          ]
+        },
+        "author_id": "28940967",
+        "conversation_id": "2079687657228017841",
+        "created_at": "2026-07-21T21:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T22:58:14.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079687419549364549",
+          "2079687657228017841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u0SkPz0dqq",
+              "end": 177,
+              "expanded_url": "https://x.com/lidangzzz/status/2079687657228017841/video/1",
+              "media_key": "13_2079687631785398272",
+              "start": 154,
+              "url": "https://t.co/u0SkPz0dqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079687657228017841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 81129,
+          "like_count": 151,
+          "quote_count": 5,
+          "reply_count": 31,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "中国工程院院士、清华高性能计算所长郑纬民：做reasoning叫做延迟，reasoning越长，延迟越长，token不值钱；延迟越短越值钱。\n\n这就是我反复跟你们讲的一个道理：\n\nAI时代的一大特点是，中科院和工程院院士大量暴露真实水平，人均大傻逼、不学无术的地痞流氓无赖，所有人加起来水平不如一个高中生。 https://t.co/u0SkPz0dqq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079687631785398272"
+          ],
+          "media_source_tweet_id": [
+            "2079687657228017841"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079743416930652570",
+        "created_at": "2026-07-22T01:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T02:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079743416930652570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567179325551812609",
+              "start": 3,
+              "username": "xiangyuli"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pZ2VX9iz9W",
+              "end": 71,
+              "expanded_url": "https://x.com/lidangzzz/status/2079687657228017841/video/1",
+              "media_key": "13_2079687631785398272",
+              "start": 48,
+              "url": "https://t.co/pZ2VX9iz9W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079743416930652570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079707859684851925",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiangyuli: 哈哈哈哈，所谓院士。哈哈。\n\n水平还不如在小红书做小程序的小学生\nhttps://t.co/pZ2VX9iz9W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079687631785398272"
+          ],
+          "media_source_tweet_id": [
+            "2079687657228017841"
+          ]
+        },
+        "author_id": "1567179325551812609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079707859684851925",
+        "created_at": "2026-07-21T23:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T00:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079707859684851925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pZ2VX9iz9W",
+              "end": 56,
+              "expanded_url": "https://x.com/lidangzzz/status/2079687657228017841/video/1",
+              "media_key": "13_2079687631785398272",
+              "start": 33,
+              "url": "https://t.co/pZ2VX9iz9W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079707859684851925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 32505,
+          "like_count": 54,
+          "quote_count": 9,
+          "reply_count": 58,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈，所谓院士。哈哈。\n\n水平还不如在小红书做小程序的小学生\nhttps://t.co/pZ2VX9iz9W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1665,
+          "following_count": 882,
+          "like_count": 9047,
+          "listed_count": 6,
+          "media_count": 682,
+          "tweet_count": 3021
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-06T15:54:12.000Z",
+        "description": "Neural scientist diving deep into AI | Brain explorer | 计算机民科 | Email to xiangyuli997@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiangyu-li97.github.io",
+                "end": 23,
+                "expanded_url": "https://xiangyu-li97.github.io/",
+                "start": 0,
+                "url": "https://t.co/cL1qJtmxUG"
+              }
+            ]
+          }
+        },
+        "id": "1567179325551812609",
+        "name": "Xiangyu 香鱼🐬",
+        "pinned_tweet_id": "2078701024806944937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911584400224948224/QbglopMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28075,
+          "following_count": 2334,
+          "like_count": 57994,
+          "listed_count": 169,
+          "media_count": 1068,
+          "tweet_count": 29350
+        },
+        "url": "https://t.co/cL1qJtmxUG",
+        "username": "xiangyuli",
+        "verified": true
+      }
+    ]
+  }
+}

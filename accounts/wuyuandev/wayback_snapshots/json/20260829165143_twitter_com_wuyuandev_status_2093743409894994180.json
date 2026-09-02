@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2093677276789682687",
+    "created_at": "2026-08-29T16:51:43.000Z",
+    "display_text_range": [
+      11,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T17:51:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093743409894994180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1889861257",
+          "start": 0,
+          "username": "Sugarsast"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093743409894994180",
+    "in_reply_to_user_id": "1889861257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093677276789682687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sugarsast 不暴食很简单呀，我根本没钱买很多东西吃。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2093677276789682687",
+        "created_at": "2026-08-29T16:51:43.000Z",
+        "display_text_range": [
+          11,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T17:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093743409894994180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889861257",
+              "start": 0,
+              "username": "Sugarsast"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093743409894994180",
+        "in_reply_to_user_id": "1889861257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093677276789682687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sugarsast 不暴食很简单呀，我根本没钱买很多东西吃。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889861257",
+        "conversation_id": "2093677276789682687",
+        "created_at": "2026-08-29T12:28:56.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T13:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093677276789682687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093677276789682687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2768,
+          "like_count": 114,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "你可以不暴食 不嗑药不自残 你可以不去回忆那些恶心的事情吗你可以为了明天活着吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，学生，应该是猫猫。\n所以猫猫想要被你关注！\n\n私人号 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2093743409894994180",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2143,
+          "following_count": 1144,
+          "like_count": 12064,
+          "listed_count": 10,
+          "media_count": 959,
+          "tweet_count": 4291
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-09-21T11:07:58.000Z",
+        "description": "神户盐｜16岁｜护理专业｜情感淡漠｜家长不管党｜匿名:https://t.co/kXreZykI07｜Q:3673124663｜我的tg:https://t.co/1e7qTaQ9VS｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yan14866",
+                "end": 50,
+                "expanded_url": "https://ngl.link/yan14866",
+                "start": 27,
+                "url": "https://t.co/kXreZykI07"
+              },
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 92,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 69,
+                "url": "https://t.co/1e7qTaQ9VS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 23,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 0,
+                "url": "https://t.co/1e7qTaQ9VS"
+              }
+            ]
+          }
+        },
+        "id": "1889861257",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093677276789682687",
+        "name": "神户盐🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889861257/1780258514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090704079244955648/09gAhiPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1357,
+          "following_count": 1232,
+          "like_count": 8939,
+          "listed_count": 2,
+          "media_count": 234,
+          "tweet_count": 3006
+        },
+        "url": "https://t.co/1e7qTaQ9VS",
+        "username": "Sugarsast",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

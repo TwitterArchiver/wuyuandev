@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084551499263459328"
+      ],
+      "media_source_tweet_id": [
+        "2084551507417141350"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "2085237147607691692",
+    "created_at": "2026-08-06T05:30:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T06:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085237147607691692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1436287470207832064",
+          "start": 3,
+          "username": "wuyuandev"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dcqcl7ZpXY",
+          "end": 58,
+          "expanded_url": "https://x.com/wuyuandev/status/2084551507417141350/photo/1",
+          "media_key": "3_2084551499263459328",
+          "start": 35,
+          "url": "https://t.co/Dcqcl7ZpXY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085237147607691692",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084551507417141350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wuyuandev: 总是有些家长自己脱离现实了还意识不到。 https://t.co/Dcqcl7ZpXY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1850,
+        "media_key": "3_2084551499263459328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3Qi02bQAAJk7p.jpg",
+        "width": 1839
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084551499263459328"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2084551507417141350",
+        "created_at": "2026-08-04T08:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084551507417141350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dcqcl7ZpXY",
+              "end": 43,
+              "expanded_url": "https://x.com/wuyuandev/status/2084551507417141350/photo/1",
+              "media_key": "3_2084551499263459328",
+              "start": 20,
+              "url": "https://t.co/Dcqcl7ZpXY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084551507417141350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 164,
+          "impression_count": 565277,
+          "like_count": 1986,
+          "quote_count": 11,
+          "reply_count": 524,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "总是有些家长自己脱离现实了还意识不到。 https://t.co/Dcqcl7ZpXY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084551499263459328"
+          ],
+          "media_source_tweet_id": [
+            "2084551507417141350"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2085237147607691692",
+        "created_at": "2026-08-06T05:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T06:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085237147607691692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1436287470207832064",
+              "start": 3,
+              "username": "wuyuandev"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dcqcl7ZpXY",
+              "end": 58,
+              "expanded_url": "https://x.com/wuyuandev/status/2084551507417141350/photo/1",
+              "media_key": "3_2084551499263459328",
+              "start": 35,
+              "url": "https://t.co/Dcqcl7ZpXY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085237147607691692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084551507417141350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wuyuandev: 总是有些家长自己脱离现实了还意识不到。 https://t.co/Dcqcl7ZpXY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大的高二在校生。\n\n私人 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间，你看冰霜璀璨。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1928,
+          "following_count": 951,
+          "like_count": 10392,
+          "listed_count": 8,
+          "media_count": 847,
+          "tweet_count": 3806
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true
+      }
+    ]
+  }
+}

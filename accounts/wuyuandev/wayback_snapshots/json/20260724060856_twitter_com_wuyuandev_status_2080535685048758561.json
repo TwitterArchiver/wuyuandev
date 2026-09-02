@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585325854841655296",
+          "name": "Customer service"
+        }
+      }
+    ],
+    "conversation_id": "2080507242055606613",
+    "created_at": "2026-07-24T06:08:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T07:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080535685048758561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        },
+        {
+          "end": 23,
+          "id": "15351161",
+          "start": 13,
+          "username": "Namecheap"
+        },
+        {
+          "end": 34,
+          "id": "7852322",
+          "start": 24,
+          "username": "spaceship"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080535685048758561",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080507242055606613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech @Namecheap @spaceship Do you share customer service with Namecheap? What measures have you taken to prevent this from happening?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2080507188326637568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9yQ8jbIAA7w9P.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585325854841655296",
+              "name": "Customer service"
+            }
+          }
+        ],
+        "conversation_id": "2080507242055606613",
+        "created_at": "2026-07-24T06:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T07:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080535685048758561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            },
+            {
+              "end": 23,
+              "id": "15351161",
+              "start": 13,
+              "username": "Namecheap"
+            },
+            {
+              "end": 34,
+              "id": "7852322",
+              "start": 24,
+              "username": "spaceship"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080535685048758561",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080507242055606613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech @Namecheap @spaceship Do you share customer service with Namecheap? What measures have you taken to prevent this from happening?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080507188326637568"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "conversation_id": "2080507242055606613",
+        "created_at": "2026-07-24T04:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080507242055606613"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "域名资讯"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 29,
+              "id": "15351161",
+              "start": 19,
+              "username": "Namecheap"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FS8mryfY33",
+              "end": 132,
+              "expanded_url": "https://x.com/landiantech/status/2080507242055606613/photo/1",
+              "media_key": "3_2080507188326637568",
+              "start": 109,
+              "url": "https://t.co/FS8mryfY33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080507242055606613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "域名资讯"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "id": "15351161",
+                "start": 19,
+                "username": "NameCheap"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ourl.co/114064?x",
+                "end": 223,
+                "expanded_url": "https://ourl.co/114064?x",
+                "start": 200,
+                "url": "https://t.co/QAzpDZFOmD"
+              }
+            ]
+          },
+          "text": "#域名资讯 哎！都是草台！网友发帖称 @NameCheap 在未经核实的情况下，将域名所在账户直接转给其他人，只因为这个人多次打电话给客服沟通。\n\n域名是自己注册的，电话号码和邮箱也都是自己的，而 NameCheap 客服仅在收到对方请求的情况下，未与持有人仔细核对，就直接重置账户密码和改绑邮箱将控制权转给其他人。\n\n这种草台行为让网友非常担心，目前网友已经火速将自己的域名全部转走。\n\n查看全文：https://t.co/QAzpDZFOmD"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3086,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#域名资讯 哎！都是草台！网友发帖称 @NameCheap 在未经核实的情况下，将域名所在账户直接转给其他人，只因为这个人多次打电话给客服沟通。\n\n域名是自己注册的，电话号码和邮箱也都是自己的，而 NameCheap https://t.co/FS8mryfY33"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1666,
+          "following_count": 884,
+          "like_count": 9183,
+          "listed_count": 8,
+          "media_count": 701,
+          "tweet_count": 3079
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / 重度 Codex & Claude Code 用户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landian.news",
+                "end": 23,
+                "expanded_url": "https://www.landian.news/",
+                "start": 0,
+                "url": "https://t.co/AQRoCx3e7F"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36772,
+          "following_count": 792,
+          "like_count": 5651,
+          "listed_count": 280,
+          "media_count": 6148,
+          "tweet_count": 16822
+        },
+        "url": "https://t.co/AQRoCx3e7F",
+        "username": "landiantech",
+        "verified": true
+      },
+      {
+        "created_at": "2008-07-08T08:15:26.000Z",
+        "description": "Powering Internet freedom through domains, hosting, security, and more — everything you need to make more online, for less",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "namecheap.com",
+                "end": 23,
+                "expanded_url": "http://www.namecheap.com/",
+                "start": 0,
+                "url": "https://t.co/dcXvZuoqYH"
+              }
+            ]
+          }
+        },
+        "id": "15351161",
+        "location": "USA",
+        "name": "Namecheap.com",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1250692584240005120/y54liLfl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124407,
+          "following_count": 2208,
+          "like_count": 16131,
+          "listed_count": 1378,
+          "media_count": 2243,
+          "tweet_count": 156837
+        },
+        "url": "https://t.co/dcXvZuoqYH",
+        "username": "Namecheap",
+        "verified": true
+      },
+      {
+        "created_at": "2007-07-31T16:49:04.000Z",
+        "description": "Start your story online – with sleek design, smooth experience, and the best prices on domains, email, hosting & more🚀 Follow @SpaceshipStatus for updates.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 126,
+                "username": "SpaceshipStatus"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spaceship.com",
+                "end": 23,
+                "expanded_url": "https://spaceship.com",
+                "start": 0,
+                "url": "https://t.co/2pUBakgt2L"
+              }
+            ]
+          }
+        },
+        "id": "7852322",
+        "location": "United States",
+        "name": "Spaceship",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600617721011511296/Q2apLVHa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7500,
+          "following_count": 114,
+          "like_count": 2269,
+          "listed_count": 147,
+          "media_count": 287,
+          "tweet_count": 10038
+        },
+        "url": "https://t.co/2pUBakgt2L",
+        "username": "spaceship",
+        "verified": true
+      }
+    ]
+  }
+}

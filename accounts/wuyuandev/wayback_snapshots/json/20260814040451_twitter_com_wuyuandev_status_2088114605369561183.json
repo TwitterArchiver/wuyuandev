@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2088110032709910808",
+    "created_at": "2026-08-14T04:04:51.000Z",
+    "display_text_range": [
+      16,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T05:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088114605369561183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1988525234568458240",
+          "start": 0,
+          "username": "xinlingdiantai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088114605369561183",
+    "in_reply_to_user_id": "1988525234568458240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088110032709910808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinlingdiantai 说的是有道理了，可惜多数人不可能做到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2088110032709910808",
+        "created_at": "2026-08-14T04:04:51.000Z",
+        "display_text_range": [
+          16,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088114605369561183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1988525234568458240",
+              "start": 0,
+              "username": "xinlingdiantai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088114605369561183",
+        "in_reply_to_user_id": "1988525234568458240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088110032709910808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinlingdiantai 说的是有道理了，可惜多数人不可能做到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988525234568458240",
+        "conversation_id": "2088110032709910808",
+        "created_at": "2026-08-14T03:46:41.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088110032709910808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088110032709910808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "世界上最好的工作不是朝九晚五\n\n不是头衔多响亮\n\n而是终身创造性学习\n\n在市场里自由地表达\n\n把学到的变成说出来的\n\n把说出来的变成别人愿意买单的\n\n这才是真正的自由"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大的高二在校生。\n\n私人 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间，你看冰霜璀璨。\n\n健全，情绪稳定，不O不割，面基无伤人记录，无安全风险。坐标长沙。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2088114605369561183",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082,
+          "following_count": 1096,
+          "like_count": 11100,
+          "listed_count": 10,
+          "media_count": 911,
+          "tweet_count": 4076
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T08:32:22.000Z",
+        "description": "web3行业工作者  撸空投  炒现货  最早一批自媒体入坑者 行情分析投研\n性格偏执  善于钻研新事物  不喜欢欠人情 也附庸风雅  但不迷失方向。",
+        "id": "1988525234568458240",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2088113148951924942",
+        "name": "奴家三十六式💎|🐬TermMax",
+        "pinned_tweet_id": "2057011964644303006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988525234568458240/1786626038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038144232914128896/pWjkjiNg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4521,
+          "following_count": 1813,
+          "like_count": 14757,
+          "listed_count": 4,
+          "media_count": 2399,
+          "tweet_count": 17099
+        },
+        "url": "",
+        "username": "xinlingdiantai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

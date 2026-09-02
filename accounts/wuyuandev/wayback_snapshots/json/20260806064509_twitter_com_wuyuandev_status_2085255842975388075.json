@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2085197867300601856",
+        "3_2085197907662397440"
+      ],
+      "media_source_tweet_id": [
+        "2085197915119849571",
+        "2085197915119849571"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085255842975388075",
+    "created_at": "2026-08-06T06:45:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T07:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085255842975388075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1708446662514110464",
+          "start": 3,
+          "username": "TixItem4527"
+        }
+      ],
+      "urls": [
+        {
+          "description": "公元2026年，家长雇6000元打手把孩子打死😂😂😂，由皓宸发布在腾讯频道【木叶村】帖子广场版块，木叶飞舞之处，火亦生生不息",
+          "display_url": "pd.qq.com/s/20x9dcty0?b=2",
+          "end": 75,
+          "expanded_url": "https://pd.qq.com/s/20x9dcty0?b=2",
+          "images": [
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/2085198003326128128/DJeICQQb?format=jpg&name=orig",
+              "width": 100
+            },
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/2085198003326128128/DJeICQQb?format=jpg&name=150x150",
+              "width": 100
+            }
+          ],
+          "start": 52,
+          "status": 200,
+          "title": "公元2026年，家长雇6000元打手把孩子打死😂😂😂｜木叶村｜腾讯频道",
+          "unwound_url": "https://pd.qq.com/s/20x9dcty0?b=2",
+          "url": "https://t.co/Y5rsPwiSgC"
+        },
+        {
+          "display_url": "pic.x.com/zd752wk2cP",
+          "end": 99,
+          "expanded_url": "https://x.com/TixItem4527/status/2085197915119849571/video/1",
+          "media_key": "13_2085197867300601856",
+          "start": 76,
+          "url": "https://t.co/zd752wk2cP"
+        },
+        {
+          "display_url": "pic.x.com/zd752wk2cP",
+          "end": 99,
+          "expanded_url": "https://x.com/TixItem4527/status/2085197915119849571/video/1",
+          "media_key": "3_2085197907662397440",
+          "start": 76,
+          "url": "https://t.co/zd752wk2cP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085255842975388075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085197915119849571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TixItem4527: 公元2026年，家长支付6000人民币雇佣打手将自己的孩子活活打死\n\nhttps://t.co/Y5rsPwiSgC https://t.co/zd752wk2cP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36445,
+        "height": 1280,
+        "media_key": "13_2085197867300601856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085197867300601856/img/AAkT62IS8is5536S.jpg",
+        "public_metrics": {
+          "view_count": 1537
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085197867300601856/vid/avc1/320x710/EEPrteFK0u9DLYfk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085197867300601856/vid/avc1/480x1066/-sq3A7UIO_S8X84M.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085197867300601856/vid/avc1/576x1280/hVWv6hmifC8MXJrj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085197867300601856/pl/kdSmITWBhMvk9aqP.m3u8?v=a5a"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "height": 1286,
+        "media_key": "3_2085197907662397440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAccvya4AAFgIO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085197867300601856",
+            "3_2085197907662397440"
+          ]
+        },
+        "author_id": "1708446662514110464",
+        "conversation_id": "2085197915119849571",
+        "created_at": "2026-08-06T02:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T03:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085197915119849571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "公元2026年，家长雇6000元打手把孩子打死😂😂😂，由皓宸发布在腾讯频道【木叶村】帖子广场版块，木叶飞舞之处，火亦生生不息",
+              "display_url": "pd.qq.com/s/20x9dcty0?b=2",
+              "end": 58,
+              "expanded_url": "https://pd.qq.com/s/20x9dcty0?b=2",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2085198003326128128/DJeICQQb?format=jpg&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2085198003326128128/DJeICQQb?format=jpg&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 35,
+              "status": 200,
+              "title": "公元2026年，家长雇6000元打手把孩子打死😂😂😂｜木叶村｜腾讯频道",
+              "unwound_url": "https://pd.qq.com/s/20x9dcty0?b=2",
+              "url": "https://t.co/Y5rsPwiSgC"
+            },
+            {
+              "display_url": "pic.x.com/zd752wk2cP",
+              "end": 82,
+              "expanded_url": "https://x.com/TixItem4527/status/2085197915119849571/video/1",
+              "media_key": "13_2085197867300601856",
+              "start": 59,
+              "url": "https://t.co/zd752wk2cP"
+            },
+            {
+              "display_url": "pic.x.com/zd752wk2cP",
+              "end": 82,
+              "expanded_url": "https://x.com/TixItem4527/status/2085197915119849571/video/1",
+              "media_key": "3_2085197907662397440",
+              "start": 59,
+              "url": "https://t.co/zd752wk2cP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085197915119849571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2569,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "公元2026年，家长支付6000人民币雇佣打手将自己的孩子活活打死\n\nhttps://t.co/Y5rsPwiSgC https://t.co/zd752wk2cP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085197867300601856",
+            "3_2085197907662397440"
+          ],
+          "media_source_tweet_id": [
+            "2085197915119849571",
+            "2085197915119849571"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085255842975388075",
+        "created_at": "2026-08-06T06:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085255842975388075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1708446662514110464",
+              "start": 3,
+              "username": "TixItem4527"
+            }
+          ],
+          "urls": [
+            {
+              "description": "公元2026年，家长雇6000元打手把孩子打死😂😂😂，由皓宸发布在腾讯频道【木叶村】帖子广场版块，木叶飞舞之处，火亦生生不息",
+              "display_url": "pd.qq.com/s/20x9dcty0?b=2",
+              "end": 75,
+              "expanded_url": "https://pd.qq.com/s/20x9dcty0?b=2",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2085198003326128128/DJeICQQb?format=jpg&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2085198003326128128/DJeICQQb?format=jpg&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 52,
+              "status": 200,
+              "title": "公元2026年，家长雇6000元打手把孩子打死😂😂😂｜木叶村｜腾讯频道",
+              "unwound_url": "https://pd.qq.com/s/20x9dcty0?b=2",
+              "url": "https://t.co/Y5rsPwiSgC"
+            },
+            {
+              "display_url": "pic.x.com/zd752wk2cP",
+              "end": 99,
+              "expanded_url": "https://x.com/TixItem4527/status/2085197915119849571/video/1",
+              "media_key": "13_2085197867300601856",
+              "start": 76,
+              "url": "https://t.co/zd752wk2cP"
+            },
+            {
+              "display_url": "pic.x.com/zd752wk2cP",
+              "end": 99,
+              "expanded_url": "https://x.com/TixItem4527/status/2085197915119849571/video/1",
+              "media_key": "3_2085197907662397440",
+              "start": 76,
+              "url": "https://t.co/zd752wk2cP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085255842975388075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085197915119849571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TixItem4527: 公元2026年，家长支付6000人民币雇佣打手将自己的孩子活活打死\n\nhttps://t.co/Y5rsPwiSgC https://t.co/zd752wk2cP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大的高二在校生。\n\n私人 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间，你看冰霜璀璨。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1930,
+          "following_count": 951,
+          "like_count": 10403,
+          "listed_count": 8,
+          "media_count": 848,
+          "tweet_count": 3816
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|55kg|INFP|\nCNTK:tixitem4527\nE-mail:430830097@qq.com.\n最好最爱的姐姐:@Liunian_a.\n妈妈:@laggard234472\n亲姐姐:小寻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 112,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 141,
+                "start": 127,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1623,
+          "following_count": 1430,
+          "like_count": 4159,
+          "listed_count": 3,
+          "media_count": 457,
+          "tweet_count": 1870
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,472 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2087445966089863323",
+    "created_at": "2026-08-12T08:07:44.000Z",
+    "display_text_range": [
+      10,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T09:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087450950026104964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1363127588701368323",
+          "start": 0,
+          "username": "Ion_Mio_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/19048…",
+          "end": 41,
+          "expanded_url": "https://x.com/i/status/1904835059053744458",
+          "start": 18,
+          "url": "https://t.co/rOviH8v7Pc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087450950026104964",
+    "in_reply_to_user_id": "1363127588701368323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904835059053744458",
+        "type": "quoted"
+      },
+      {
+        "id": "2087445966089863323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ion_Mio_ 前 车 之 鉴\nhttps://t.co/rOviH8v7Pc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 664,
+        "media_key": "3_1904834946319237120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm9VSpsbwAAHYZD.jpg",
+        "width": 1030
+      },
+      {
+        "height": 1856,
+        "media_key": "3_2087445130349584384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgYSUqbIAAL_JH.jpg",
+        "width": 2924
+      },
+      {
+        "height": 1718,
+        "media_key": "3_2087445279184478208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgYa_HbYAAh-pq.jpg",
+        "width": 2024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2087445966089863323",
+        "created_at": "2026-08-12T08:07:44.000Z",
+        "display_text_range": [
+          10,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087450950026104964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1363127588701368323",
+              "start": 0,
+              "username": "Ion_Mio_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/19048…",
+              "end": 41,
+              "expanded_url": "https://x.com/i/status/1904835059053744458",
+              "start": 18,
+              "url": "https://t.co/rOviH8v7Pc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087450950026104964",
+        "in_reply_to_user_id": "1363127588701368323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904835059053744458",
+            "type": "quoted"
+          },
+          {
+            "id": "2087445966089863323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ion_Mio_ 前 车 之 鉴\nhttps://t.co/rOviH8v7Pc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904834946319237120"
+          ]
+        },
+        "author_id": "179365935",
+        "conversation_id": "1904835059053744458",
+        "created_at": "2025-03-26T09:57:22.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2025-03-26T10:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904835059053744458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/langgenius/dif…",
+              "end": 90,
+              "expanded_url": "https://github.com/langgenius/dify/pull/16819/files",
+              "start": 67,
+              "status": 200,
+              "unwound_url": "https://github.com/langgenius/dify/pull/16819/files",
+              "url": "https://t.co/vHogPOathl"
+            },
+            {
+              "display_url": "pic.x.com/7qBCmaUwLu",
+              "end": 114,
+              "expanded_url": "https://x.com/gaodengming/status/1904835059053744458/photo/1",
+              "media_key": "3_1904834946319237120",
+              "start": 91,
+              "url": "https://t.co/7qBCmaUwLu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904835059053744458",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_1904834946319237120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 226701,
+          "like_count": 373,
+          "quote_count": 29,
+          "reply_count": 43,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "丽珠医药给 Dify 的这个 PR 笑死我，它们把 Dify 的 logo 都给换掉了。搞到最后 Dify 无奈的来了一封律师函。😂\nhttps://t.co/vHogPOathl https://t.co/7qBCmaUwLu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087445130349584384",
+            "3_2087445279184478208"
+          ]
+        },
+        "author_id": "1363127588701368323",
+        "conversation_id": "2087445966089863323",
+        "created_at": "2026-08-12T07:47:55.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T08:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087445966089863323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HrB3mcdo1g",
+              "end": 100,
+              "expanded_url": "https://x.com/Ion_Mio_/status/2087445966089863323/photo/1",
+              "media_key": "3_2087445130349584384",
+              "start": 77,
+              "url": "https://t.co/HrB3mcdo1g"
+            },
+            {
+              "display_url": "pic.x.com/HrB3mcdo1g",
+              "end": 100,
+              "expanded_url": "https://x.com/Ion_Mio_/status/2087445966089863323/photo/1",
+              "media_key": "3_2087445279184478208",
+              "start": 77,
+              "url": "https://t.co/HrB3mcdo1g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087445966089863323",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087445130349584384"
+          },
+          {
+            "media_key": "3_2087445279184478208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些人我不知道是到底什么情况，你改个品牌名，自己用就算了，还要PR上来，PR上来就算了，你关掉我就当没看见，你还要天天at我来review？真的想不明白 https://t.co/HrB3mcdo1g"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大的高二在校生。\n\n私人 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间，你看冰霜璀璨。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2087450950026104964",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2035,
+          "following_count": 1058,
+          "like_count": 10950,
+          "listed_count": 10,
+          "media_count": 901,
+          "tweet_count": 4009
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-20T14:05:27.000Z",
+        "description": "Creator of @newapi_ai｜❤️ @Seefs_ ｜ 🍥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "newapi_ai"
+              },
+              {
+                "end": 32,
+                "start": 25,
+                "username": "Seefs_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Calcium-Ion",
+                "end": 23,
+                "expanded_url": "https://github.com/Calcium-Ion",
+                "start": 0,
+                "url": "https://t.co/Z3Se1ig2bE"
+              }
+            ]
+          }
+        },
+        "id": "1363127588701368323",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087448512409850222",
+        "name": "离离子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1363127588701368323/1637432972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798068602555551744/VQ2uYuyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3518,
+          "following_count": 872,
+          "like_count": 9778,
+          "listed_count": 26,
+          "media_count": 167,
+          "tweet_count": 1516
+        },
+        "url": "https://t.co/Z3Se1ig2bE",
+        "username": "Ion_Mio_",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-08-17T03:20:48.000Z",
+        "description": "👨🏻‍💻 Creator of Moon FM (@MoonFMApp) | Building BotGem (https://t.co/kBHs6mAfZ5) & super-browser-window-kit (https://t.co/uzGjwbstvS)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "MoonFMApp"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "botgem.com",
+                "end": 79,
+                "expanded_url": "https://botgem.com",
+                "start": 56,
+                "url": "https://t.co/kBHs6mAfZ5"
+              },
+              {
+                "display_url": "bytemyth.com/super-browser-…",
+                "end": 132,
+                "expanded_url": "https://bytemyth.com/super-browser-window-kit",
+                "start": 109,
+                "url": "https://t.co/uzGjwbstvS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "carteclip.com/ls/gaodeng",
+                "end": 23,
+                "expanded_url": "https://carteclip.com/ls/gaodeng",
+                "start": 0,
+                "url": "https://t.co/vLNl4yqgQM"
+              }
+            ]
+          }
+        },
+        "id": "179365935",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087229783943836146",
+        "name": "Deng Gao",
+        "pinned_tweet_id": "1665955194881052673",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/179365935/1672195868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1607927568803725312/vR13QzPr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8785,
+          "following_count": 1322,
+          "like_count": 1952,
+          "listed_count": 110,
+          "media_count": 166,
+          "tweet_count": 1358
+        },
+        "url": "https://t.co/vLNl4yqgQM",
+        "username": "gaodengming",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

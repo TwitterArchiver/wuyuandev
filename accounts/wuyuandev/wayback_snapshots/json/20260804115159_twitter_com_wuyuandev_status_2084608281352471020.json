@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2083101416114327610",
+    "created_at": "2026-08-04T11:51:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T12:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084608281352471020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1468153903384756230",
+          "start": 0,
+          "username": "sionn100percent"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084608281352471020",
+    "in_reply_to_user_id": "1468153903384756230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084607854678605869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sionn100percent 细节细节细节"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2083101416114327610",
+        "created_at": "2026-08-04T11:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084608281352471020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1468153903384756230",
+              "start": 0,
+              "username": "sionn100percent"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084608281352471020",
+        "in_reply_to_user_id": "1468153903384756230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084607854678605869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sionn100percent 细节细节细节"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468153903384756230",
+        "conversation_id": "2083101416114327610",
+        "created_at": "2026-08-04T11:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084607854678605869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084607854678605869",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083101416114327610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev 细节三个水母🪼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 942,
+          "like_count": 10285,
+          "listed_count": 8,
+          "media_count": 837,
+          "tweet_count": 3698
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-07T09:42:39.000Z",
+        "description": "小恶魔｜Little devil｜蓝V必回｜femboy｜ENname：LunaRuri｜EN CN JP｜Hot takes｜Commentary｜Humor｜Entertainment｜Verified users follow back｜Submissions welcome",
+        "id": "1468153903384756230",
+        "location": "小恶魔版，小天使不敢说的话我来说",
+        "name": "月璃_LunaRuri_V2🏳️‍⚧️😈",
+        "pinned_tweet_id": "2063477186338992267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084451204726484992/gz5_UFla_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 476,
+          "like_count": 795,
+          "listed_count": 10,
+          "media_count": 139,
+          "tweet_count": 4195
+        },
+        "url": "",
+        "username": "sionn100percent",
+        "verified": false
+      }
+    ]
+  }
+}

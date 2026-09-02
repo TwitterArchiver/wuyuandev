@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2084984009214533689",
+    "created_at": "2026-08-07T03:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T04:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085564366016184691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "982871088714530816",
+          "start": 0,
+          "username": "duckmusk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085564366016184691",
+    "in_reply_to_user_id": "982871088714530816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085561867926138987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duckmusk 一代代传递"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2084984009214533689",
+        "created_at": "2026-08-07T03:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085564366016184691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "982871088714530816",
+              "start": 0,
+              "username": "duckmusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085564366016184691",
+        "in_reply_to_user_id": "982871088714530816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085561867926138987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duckmusk 一代代传递"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "982871088714530816",
+        "conversation_id": "2084984009214533689",
+        "created_at": "2026-08-07T03:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085561867926138987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085561867926138987",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084984009214533689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev 在我小的時候，我的家人也是這麼說的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大的高二在校生。\n\n私人 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间，你看冰霜璀璨。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951,
+          "following_count": 956,
+          "like_count": 10481,
+          "listed_count": 8,
+          "media_count": 856,
+          "tweet_count": 3849
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-08T06:41:43.000Z",
+        "description": "總是虧錢的投資人，價格行為交易者，價值投資者，不構成任何投資建議，自動推，自動互動",
+        "id": "982871088714530816",
+        "name": "凱恩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911997381630910464/LO4D0Ufq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 292,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 425
+        },
+        "url": "",
+        "username": "duckmusk",
+        "verified": false
+      }
+    ]
+  }
+}

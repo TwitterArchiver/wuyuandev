@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1683514315146420225",
+          "name": "X - the everything app"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2077605188714549469",
+    "created_at": "2026-07-16T04:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T05:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077605188714549469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "SpaceTwitterAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible. - Sunwuyuan/grok-build",
+          "display_url": "github.com/Sunwuyuan/grok…",
+          "end": 158,
+          "expanded_url": "https://github.com/Sunwuyuan/grok-build",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2077605191805702144/KCD283lL?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2077605191805702144/KCD283lL?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 135,
+          "status": 200,
+          "title": "GitHub - Sunwuyuan/grok-build: SpaceTwitterAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+          "unwound_url": "https://github.com/Sunwuyuan/grok-build",
+          "url": "https://t.co/bQ7sN9vJiQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077605188714549469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "github.com/Sunwuyuan/grok…",
+            "end": 158,
+            "expanded_url": "https://github.com/Sunwuyuan/grok-build",
+            "start": 135,
+            "url": "https://t.co/nDi1UltcCO"
+          }
+        ]
+      },
+      "text": "fix: Use the correct name\n使用 Twitter 替换了所有 X 标志，包括xAI，XAI，SpaceXAI均替换为\nTwitterAI，TWITTERAI，SpaceTwitterAI，所有单独存在的 X 被替换为 Twitter\n仅供娱乐。\nhttps://t.co/nDi1UltcCO"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "fix: Use the correct name\n使用 Twitter 替换了所有 X 标志，包括xAI，XAI，SpaceXAI均替换为\nTwitterAI，TWITTERAI，SpaceTwitterAI，所有单独存在的 X 被替换为 Twitter\n仅供娱乐。\nhttps://t.co/bQ7sN9vJiQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2077605188714549469",
+        "created_at": "2026-07-16T04:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077605188714549469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "SpaceTwitterAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible. - Sunwuyuan/grok-build",
+              "display_url": "github.com/Sunwuyuan/grok…",
+              "end": 158,
+              "expanded_url": "https://github.com/Sunwuyuan/grok-build",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2077605191805702144/KCD283lL?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2077605191805702144/KCD283lL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 135,
+              "status": 200,
+              "title": "GitHub - Sunwuyuan/grok-build: SpaceTwitterAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+              "unwound_url": "https://github.com/Sunwuyuan/grok-build",
+              "url": "https://t.co/bQ7sN9vJiQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077605188714549469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/Sunwuyuan/grok…",
+                "end": 158,
+                "expanded_url": "https://github.com/Sunwuyuan/grok-build",
+                "start": 135,
+                "url": "https://t.co/nDi1UltcCO"
+              }
+            ]
+          },
+          "text": "fix: Use the correct name\n使用 Twitter 替换了所有 X 标志，包括xAI，XAI，SpaceXAI均替换为\nTwitterAI，TWITTERAI，SpaceTwitterAI，所有单独存在的 X 被替换为 Twitter\n仅供娱乐。\nhttps://t.co/nDi1UltcCO"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "fix: Use the correct name\n使用 Twitter 替换了所有 X 标志，包括xAI，XAI，SpaceXAI均替换为\nTwitterAI，TWITTERAI，SpaceTwitterAI，所有单独存在的 X 被替换为 Twitter\n仅供娱乐。\nhttps://t.co/bQ7sN9vJiQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1635,
+          "following_count": 866,
+          "like_count": 8794,
+          "listed_count": 5,
+          "media_count": 625,
+          "tweet_count": 2868
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      }
+    ]
+  }
+}

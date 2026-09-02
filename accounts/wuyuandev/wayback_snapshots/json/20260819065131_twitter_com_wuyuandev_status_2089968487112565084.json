@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2089713705298882815",
+    "created_at": "2026-08-19T06:51:31.000Z",
+    "display_text_range": [
+      9,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T07:51:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089968487112565084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "127867962",
+          "start": 0,
+          "username": "tmingff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089968487112565084",
+    "in_reply_to_user_id": "127867962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089879448225194305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tmingff 感觉是因为严谨不起来吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2089713705298882815",
+        "created_at": "2026-08-19T06:51:31.000Z",
+        "display_text_range": [
+          9,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089968487112565084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "127867962",
+              "start": 0,
+              "username": "tmingff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089968487112565084",
+        "in_reply_to_user_id": "127867962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089879448225194305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tmingff 感觉是因为严谨不起来吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "127867962",
+        "conversation_id": "2089713705298882815",
+        "created_at": "2026-08-19T00:57:43.000Z",
+        "display_text_range": [
+          11,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T01:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089879448225194305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089879448225194305",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4229,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089713705298882815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev 距今这种说法大多在不严谨的开篇介绍文章里。真的铭牌上都是写 公元几几年到几几年。或者就写朝代。哪有写距今的。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大的高二在校生。\n\n私人 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间，你看冰霜璀璨。\n\n健全，情绪稳定，不O不割，面基无伤人记录，无安全风险。坐标长沙。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2089968487112565084",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2112,
+          "following_count": 1106,
+          "like_count": 11474,
+          "listed_count": 10,
+          "media_count": 931,
+          "tweet_count": 4164
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-03-30T13:40:31.000Z",
+        "description": "",
+        "id": "127867962",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089879448225194305",
+        "name": "Buildsucceedalways",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/127867962/1488262730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635207806189195265/ebgk1bhG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 305,
+          "like_count": 504,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 1489
+        },
+        "url": "",
+        "username": "tmingff",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

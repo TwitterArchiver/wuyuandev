@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083531434313342976"
+      ],
+      "media_source_tweet_id": [
+        "2083531440277553322"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083531527854665796",
+    "created_at": "2026-08-01T12:33:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083531527854665796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2024298952854818817",
+          "start": 3,
+          "username": "RainEngine2025"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4VeEb1ZJ4m",
+          "end": 63,
+          "expanded_url": "https://x.com/RainEngine2025/status/2083531440277553322/photo/1",
+          "media_key": "3_2083531434313342976",
+          "start": 40,
+          "url": "https://t.co/4VeEb1ZJ4m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083531527854665796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083531440277553322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainEngine2025: 永远缅怀老师给雨擎的贡献。\n（非自杀） https://t.co/4VeEb1ZJ4m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 590,
+        "media_key": "3_2083531434313342976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOowzOybYAAhQGT.jpg",
+        "width": 871
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083531434313342976"
+          ]
+        },
+        "author_id": "2024298952854818817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083531440277553322",
+        "created_at": "2026-08-01T12:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083531440277553322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4VeEb1ZJ4m",
+              "end": 43,
+              "expanded_url": "https://x.com/RainEngine2025/status/2083531440277553322/photo/1",
+              "media_key": "3_2083531434313342976",
+              "start": 20,
+              "url": "https://t.co/4VeEb1ZJ4m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083531440277553322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "永远缅怀老师给雨擎的贡献。\n（非自杀） https://t.co/4VeEb1ZJ4m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083531434313342976"
+          ],
+          "media_source_tweet_id": [
+            "2083531440277553322"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083531527854665796",
+        "created_at": "2026-08-01T12:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083531527854665796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2024298952854818817",
+              "start": 3,
+              "username": "RainEngine2025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4VeEb1ZJ4m",
+              "end": 63,
+              "expanded_url": "https://x.com/RainEngine2025/status/2083531440277553322/photo/1",
+              "media_key": "3_2083531434313342976",
+              "start": 40,
+              "url": "https://t.co/4VeEb1ZJ4m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083531527854665796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083531440277553322",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainEngine2025: 永远缅怀老师给雨擎的贡献。\n（非自杀） https://t.co/4VeEb1ZJ4m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1841,
+          "following_count": 921,
+          "like_count": 10001,
+          "listed_count": 8,
+          "media_count": 803,
+          "tweet_count": 3533
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-19T01:44:27.000Z",
+        "description": "永远相信美好的事情即将发生。\n\n@wuyuandev",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "wuyuandev"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "keepandroidopen.org",
+                "end": 23,
+                "expanded_url": "https://keepandroidopen.org/",
+                "start": 0,
+                "url": "https://t.co/sdEnINTYrI"
+              }
+            ]
+          }
+        },
+        "id": "2024298952854818817",
+        "location": "🆗",
+        "name": "雨擎互联",
+        "pinned_tweet_id": "2051667970821378342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063092018767912960/gkmq2s3x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 28,
+          "like_count": 90,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 97
+        },
+        "url": "https://t.co/sdEnINTYrI",
+        "username": "RainEngine2025",
+        "verified": false
+      }
+    ]
+  }
+}

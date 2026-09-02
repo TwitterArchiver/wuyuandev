@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2080243500872802803",
+    "created_at": "2026-07-23T10:47:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T11:47:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080243500872802803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "778764142412984320",
+          "start": 0,
+          "username": "huggingface"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/safaricheung/s…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/safaricheung/status/2080192643632660845",
+          "start": 29,
+          "url": "https://t.co/762jum6qbo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080243500872802803",
+    "in_reply_to_user_id": "778764142412984320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080192643632660845",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huggingface 抱抱脸\n甚至ing都强调出来了 https://t.co/762jum6qbo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1476,
+        "media_key": "3_2080192636657549312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5ULoRbQAA8Oe9.jpg",
+        "width": 1139
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2080243500872802803",
+        "created_at": "2026-07-23T10:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080243500872802803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "778764142412984320",
+              "start": 0,
+              "username": "huggingface"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/safaricheung/s…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/safaricheung/status/2080192643632660845",
+              "start": 29,
+              "url": "https://t.co/762jum6qbo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080243500872802803",
+        "in_reply_to_user_id": "778764142412984320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080192643632660845",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huggingface 抱抱脸\n甚至ing都强调出来了 https://t.co/762jum6qbo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080192636657549312"
+          ]
+        },
+        "author_id": "987508360336424961",
+        "conversation_id": "2080192643632660845",
+        "created_at": "2026-07-23T07:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080192643632660845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G9Ew0aVYb8",
+              "end": 36,
+              "expanded_url": "https://x.com/safaricheung/status/2080192643632660845/photo/1",
+              "media_key": "3_2080192636657549312",
+              "start": 13,
+              "url": "https://t.co/G9Ew0aVYb8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080192643632660845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 44299,
+          "like_count": 68,
+          "quote_count": 6,
+          "reply_count": 42,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "感觉我已经看不懂中文了。 https://t.co/G9Ew0aVYb8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1661,
+          "following_count": 882,
+          "like_count": 9113,
+          "listed_count": 6,
+          "media_count": 691,
+          "tweet_count": 3055
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2016-09-22T01:13:35.000Z",
+        "description": "The AI community building the future. https://t.co/TpiXQMQ9rZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hf.co/careers",
+                "end": 61,
+                "expanded_url": "http://hf.co/careers",
+                "start": 38,
+                "url": "https://t.co/TpiXQMQ9rZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "huggingface.co",
+                "end": 23,
+                "expanded_url": "https://huggingface.co",
+                "start": 0,
+                "url": "https://t.co/A337WqHDnG"
+              }
+            ]
+          }
+        },
+        "id": "778764142412984320",
+        "location": "NYC and Paris and 🌏",
+        "name": "Hugging Face",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991559933473497089/mbrRS49P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735783,
+          "following_count": 223,
+          "like_count": 9242,
+          "listed_count": 9078,
+          "media_count": 473,
+          "tweet_count": 13957
+        },
+        "url": "https://t.co/A337WqHDnG",
+        "username": "huggingface",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-21T01:48:34.000Z",
+        "description": "Editor @update4weekly ⚡. Marketing Strategy Analyst @studiomockup 🎨. Aviation photographer ✈️ . Sometime I produce Chinese tweets.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "update4weekly"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "studiomockup"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "studiomockup.ink",
+                "end": 23,
+                "expanded_url": "http://studiomockup.ink",
+                "start": 0,
+                "url": "https://t.co/mgiqx6ATeF"
+              }
+            ]
+          }
+        },
+        "id": "987508360336424961",
+        "location": "Chaoyang, Beijing ",
+        "name": "safari",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535513461358153728/qaYfZwAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12213,
+          "following_count": 350,
+          "like_count": 5852,
+          "listed_count": 72,
+          "media_count": 3135,
+          "tweet_count": 7813
+        },
+        "url": "https://t.co/mgiqx6ATeF",
+        "username": "safaricheung",
+        "verified": true
+      }
+    ]
+  }
+}

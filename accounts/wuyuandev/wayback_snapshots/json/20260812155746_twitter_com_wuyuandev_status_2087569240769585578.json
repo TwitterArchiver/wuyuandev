@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2087518879354392670",
+    "created_at": "2026-08-12T15:57:46.000Z",
+    "display_text_range": [
+      28,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T16:57:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087569240769585578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1548619992001785859",
+          "start": 0,
+          "username": "frankxka05"
+        },
+        {
+          "end": 27,
+          "id": "1746469344325021697",
+          "start": 12,
+          "username": "suzumiyasuzume"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087569240769585578",
+    "in_reply_to_user_id": "1548619992001785859",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087568758173057208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@frankxka05 @suzumiyasuzume suzume cos🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2087518879354392670",
+        "created_at": "2026-08-12T15:57:46.000Z",
+        "display_text_range": [
+          28,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T16:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087569240769585578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1548619992001785859",
+              "start": 0,
+              "username": "frankxka05"
+            },
+            {
+              "end": 27,
+              "id": "1746469344325021697",
+              "start": 12,
+              "username": "suzumiyasuzume"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087569240769585578",
+        "in_reply_to_user_id": "1548619992001785859",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087568758173057208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frankxka05 @suzumiyasuzume suzume cos🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548619992001785859",
+        "conversation_id": "2087518879354392670",
+        "created_at": "2026-08-12T15:55:51.000Z",
+        "display_text_range": [
+          27,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T16:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087568758173057208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            },
+            {
+              "end": 26,
+              "id": "1746469344325021697",
+              "start": 11,
+              "username": "suzumiyasuzume"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087568758173057208",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087518879354392670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev @suzumiyasuzume 尼古猫也是绿猫吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大的高二在校生。\n\n私人 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间，你看冰霜璀璨。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2087569240769585578",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2054,
+          "following_count": 1077,
+          "like_count": 11017,
+          "listed_count": 10,
+          "media_count": 906,
+          "tweet_count": 4039
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-17T10:46:02.000Z",
+        "description": "ASDer /  Dev / Game / Anime / 🚇🚌🚄🧳💻🧋",
+        "id": "1548619992001785859",
+        "is_identity_verified": false,
+        "location": "Earth",
+        "most_recent_tweet_id": "2087568758173057208",
+        "name": "Flancok",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548619992001785859/1768433856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071246292098203648/9_UhuMJj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 214,
+          "like_count": 2374,
+          "listed_count": 2,
+          "media_count": 283,
+          "tweet_count": 1254
+        },
+        "url": "",
+        "username": "frankxka05",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-14T09:48:45.000Z",
+        "description": "半成品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/6610851",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/6610851",
+                "start": 0,
+                "url": "https://t.co/NOpi9MEXwy"
+              }
+            ]
+          }
+        },
+        "id": "1746469344325021697",
+        "is_identity_verified": false,
+        "location": "日本",
+        "most_recent_tweet_id": "2087512298797912458",
+        "name": "雀宮スズメ",
+        "pinned_tweet_id": "1746822756044554701",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1746469344325021697/1762881060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988293388714864643/IztdwT6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14587,
+          "following_count": 1028,
+          "like_count": 2697,
+          "listed_count": 24,
+          "media_count": 150,
+          "tweet_count": 1257
+        },
+        "url": "https://t.co/NOpi9MEXwy",
+        "username": "suzumiyasuzume",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

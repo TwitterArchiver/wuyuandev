@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2085215957115695438",
+    "created_at": "2026-08-06T07:54:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T08:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085273267615781049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2192317397",
+          "start": 0,
+          "username": "cute_bunnyies"
+        },
+        {
+          "end": 26,
+          "id": "2075284026106253312",
+          "start": 15,
+          "username": "makeplayai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085273267615781049",
+    "in_reply_to_user_id": "2192317397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085215957115695438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cute_bunnyies @makeplayai 像是有意思的项目"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2085215957115695438",
+        "created_at": "2026-08-06T07:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085273267615781049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2192317397",
+              "start": 0,
+              "username": "cute_bunnyies"
+            },
+            {
+              "end": 26,
+              "id": "2075284026106253312",
+              "start": 15,
+              "username": "makeplayai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085273267615781049",
+        "in_reply_to_user_id": "2192317397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085215957115695438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cute_bunnyies @makeplayai 像是有意思的项目"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2192317397",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492287541378052099",
+              "name": "Level design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Design",
+              "id": "847872720331079681",
+              "name": "Design"
+            }
+          }
+        ],
+        "conversation_id": "2085215957115695438",
+        "created_at": "2026-08-06T04:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085215957115695438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 56,
+              "id": "2075284026106253312",
+              "start": 45,
+              "username": "makeplayai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/makeplayai/sta…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/makeplayai/status/2083055093365305433",
+              "start": 118,
+              "url": "https://t.co/6jksqlbjfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085215957115695438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 56,
+                "id": "2075284026106253312",
+                "start": 45,
+                "username": "makeplayai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "makeplay.ai/p/q3guqw5msm",
+                "end": 254,
+                "expanded_url": "https://makeplay.ai/p/q3guqw5msm",
+                "start": 231,
+                "url": "https://t.co/ssBg5goKoG"
+              }
+            ]
+          },
+          "text": "以前总觉得做游戏离普通人很远——得会编程、会画图、会配乐，还得懂关卡设计。  \n结果刚在 @makeplayai 随口丢了一句“想做个羊了个羊那种消消乐小游戏”，它就自己把画面、玩法、音乐全搭好了。\n\n最妙的地方在于：生成完不是终点。  \n你可以直接边玩边指挥它改，哪里不爽就说哪里，慢慢把游戏调成你脑子里那个样子。\n\n零代码、零素材、零门槛。  \n对完全不会做游戏的人来说，终于能把那些乱七八糟的点子真的变成能玩的东西了。\n\n我的游戏《遭不住了》在这里：  \nhttps://t.co/ssBg5goKoG \n\n有想法的朋友赶紧去试试，真的上瘾。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1506,
+          "like_count": 35,
+          "quote_count": 4,
+          "reply_count": 53,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083055093365305433",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以前总觉得做游戏离普通人很远——得会编程、会画图、会配乐，还得懂关卡设计。  \n结果刚在 @makeplayai 随口丢了一句“想做个羊了个羊那种消消乐小游戏”，它就自己把画面、玩法、音乐全搭好了。\n\n最妙的地方在于：生成完不是终点。 https://t.co/6jksqlbjfg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大的高二在校生。\n\n私人 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间，你看冰霜璀璨。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934,
+          "following_count": 952,
+          "like_count": 10420,
+          "listed_count": 8,
+          "media_count": 848,
+          "tweet_count": 3818
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2013-11-23T04:49:12.000Z",
+        "description": "May your yesterday, today, and tomorrow be filled with happiness.",
+        "id": "2192317397",
+        "name": "Bunny",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993848460479774720/E3HdxBl9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4437,
+          "following_count": 5040,
+          "like_count": 56081,
+          "listed_count": 10,
+          "media_count": 65,
+          "tweet_count": 56052
+        },
+        "url": "",
+        "username": "cute_bunnyies",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-09T18:22:33.000Z",
+        "description": "AI Game Generator | Create browser games with AI. Free. No code. Build, remix and publish instantly. \n👉 https://t.co/6DlDiuyqxX • https://t.co/FeiDRk6IQc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "makeplay.ai",
+                "end": 127,
+                "expanded_url": "http://makeplay.ai",
+                "start": 104,
+                "url": "https://t.co/6DlDiuyqxX"
+              },
+              {
+                "display_url": "discord.gg//PHsJnhdGa9",
+                "end": 153,
+                "expanded_url": "http://discord.gg//PHsJnhdGa9",
+                "start": 130,
+                "url": "https://t.co/FeiDRk6IQc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "makeplay.ai",
+                "end": 23,
+                "expanded_url": "http://makeplay.ai",
+                "start": 0,
+                "url": "https://t.co/6DlDiuyqxX"
+              }
+            ]
+          }
+        },
+        "id": "2075284026106253312",
+        "location": "中区, 新加坡",
+        "name": "Makeplay.ai | Free AI Game Maker",
+        "pinned_tweet_id": "2083055093365305433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075531234126811137/JlFEFXJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 130,
+          "like_count": 262,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 125
+        },
+        "url": "https://t.co/6DlDiuyqxX",
+        "username": "makeplayai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2087506377203937385",
+    "created_at": "2026-08-12T12:38:27.000Z",
+    "display_text_range": [
+      23,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T13:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087519080291225792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1865811054892347392",
+          "start": 0,
+          "username": "YaoieLoop"
+        },
+        {
+          "end": 22,
+          "id": "1889171969251430400",
+          "start": 11,
+          "username": "Amaohe_AMH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087519080291225792",
+    "in_reply_to_user_id": "1865811054892347392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087506377203937385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YaoieLoop @Amaohe_AMH 这个人是强调了自己是非深柜的说\n笑死了"
+  },
+  "errors": [
+    {
+      "detail": "User is unavailable: [Amaohe_AMH].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Amaohe_AMH",
+      "resource_type": "user",
+      "title": "Resource Unavailable Error",
+      "type": "https://api.twitter.com/2/problems/resource-unavailable"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 414,
+        "media_key": "3_2087506368911806464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhP-4FakAAVbqZ.jpg",
+        "width": 831
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087506368974778368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhP-4UbcAA_J6j.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2087506377203937385",
+        "created_at": "2026-08-12T12:38:27.000Z",
+        "display_text_range": [
+          23,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087519080291225792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1865811054892347392",
+              "start": 0,
+              "username": "YaoieLoop"
+            },
+            {
+              "end": 22,
+              "id": "1889171969251430400",
+              "start": 11,
+              "username": "Amaohe_AMH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087519080291225792",
+        "in_reply_to_user_id": "1865811054892347392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087506377203937385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YaoieLoop @Amaohe_AMH 这个人是强调了自己是非深柜的说\n笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087506368911806464",
+            "3_2087506368974778368"
+          ]
+        },
+        "author_id": "1865811054892347392",
+        "conversation_id": "2087506377203937385",
+        "created_at": "2026-08-12T11:47:58.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T12:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087506377203937385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1889171969251430400",
+              "start": 25,
+              "username": "Amaohe_AMH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5iCtC0NZdW",
+              "end": 75,
+              "expanded_url": "https://x.com/YaoieLoop/status/2087506377203937385/photo/1",
+              "media_key": "3_2087506368911806464",
+              "start": 52,
+              "url": "https://t.co/5iCtC0NZdW"
+            },
+            {
+              "display_url": "pic.x.com/5iCtC0NZdW",
+              "end": 75,
+              "expanded_url": "https://x.com/YaoieLoop/status/2087506377203937385/photo/1",
+              "media_key": "3_2087506368974778368",
+              "start": 52,
+              "url": "https://t.co/5iCtC0NZdW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087506377203937385",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087506368911806464"
+          },
+          {
+            "media_key": "3_2087506368974778368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 178,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有确切证据表明反跨小鬼，Γ公司首领，土豆薯片-金笠@Amaohe_AMH 翻车了喵\n\n新头像很可爱喵🤭 https://t.co/5iCtC0NZdW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大的高二在校生。\n\n私人 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间，你看冰霜璀璨。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2087519080291225792",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2052,
+          "following_count": 1068,
+          "like_count": 11009,
+          "listed_count": 10,
+          "media_count": 904,
+          "tweet_count": 4030
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-08T17:30:10.000Z",
+        "description": "耀夜 | 环路耀夜 | 社恐🥲 | 友跨 |\n洛天依 @hn_luotianyi712 | 每一个 fo ❤️ |\nMinecraft | Left 4 Dead 2 | EPL (MU) | NFL (Bengals) |\nK-On! | School-Live!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "hn_luotianyi712"
+              }
+            ]
+          }
+        },
+        "id": "1865811054892347392",
+        "is_identity_verified": false,
+        "location": "瓦纳海姆",
+        "most_recent_tweet_id": "2087516111655059872",
+        "name": "yaoie",
+        "pinned_tweet_id": "2081411600695939224",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1865811054892347392/1781453240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075915292111462400/uZfJlWJz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 263,
+          "like_count": 15885,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1380
+        },
+        "url": "",
+        "username": "YaoieLoop",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2088081474490970567",
+    "created_at": "2026-08-14T23:28:38.000Z",
+    "display_text_range": [
+      12,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T00:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088407480196112543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "907246926",
+          "start": 0,
+          "username": "ks_zhangyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088407480196112543",
+    "in_reply_to_user_id": "907246926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088297113998528814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ks_zhangyi 或许也不是遗憾，不同生活罢了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2088081474490970567",
+        "created_at": "2026-08-14T23:28:38.000Z",
+        "display_text_range": [
+          12,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T00:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088407480196112543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "907246926",
+              "start": 0,
+              "username": "ks_zhangyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088407480196112543",
+        "in_reply_to_user_id": "907246926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088297113998528814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ks_zhangyi 或许也不是遗憾，不同生活罢了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "907246926",
+        "conversation_id": "2088081474490970567",
+        "created_at": "2026-08-14T16:10:05.000Z",
+        "display_text_range": [
+          11,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088297113998528814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088297113998528814",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 978,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088081474490970567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev 在国内我就特喜欢骑电动车，特遗憾就是高考结束没去送段时间外卖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大的高二在校生。\n\n私人 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间，你看冰霜璀璨。\n\n健全，情绪稳定，不O不割，面基无伤人记录，无安全风险。坐标长沙。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2088407480196112543",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2095,
+          "following_count": 1095,
+          "like_count": 11166,
+          "listed_count": 10,
+          "media_count": 913,
+          "tweet_count": 4087
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-10-27T03:03:57.000Z",
+        "description": "🚀 澳洲 IT Startup Owner\n❤️ 分享海外创业心路历程\n📖 帮助国内程序员找澳洲工作\n\n专注在：SEO+GEO / 企业 AI Agent 开发",
+        "id": "907246926",
+        "is_identity_verified": false,
+        "location": "Australia",
+        "most_recent_tweet_id": "2088297113998528814",
+        "name": "Yi.Zhang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/907246926/1555674197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1178332122928439302/6gnuKmMM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 267,
+          "like_count": 592,
+          "listed_count": 2,
+          "media_count": 314,
+          "tweet_count": 2879
+        },
+        "url": "",
+        "username": "ks_zhangyi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

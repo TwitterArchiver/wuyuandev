@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090888307203080192"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "2090721960473047550",
+    "created_at": "2026-08-21T19:46:35.000Z",
+    "display_text_range": [
+      30,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T20:46:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090888312307478963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "616537873",
+          "start": 0,
+          "username": "aaarjkkmiao"
+        },
+        {
+          "end": 29,
+          "id": "2089196569241542656",
+          "start": 13,
+          "username": "bilibili_create"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kT6HceV3qv",
+          "end": 66,
+          "expanded_url": "https://x.com/wuyuandev/status/2090888312307478963/photo/1",
+          "media_key": "3_2090888307203080192",
+          "start": 43,
+          "url": "https://t.co/kT6HceV3qv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090888312307478963",
+    "in_reply_to_user_id": "616537873",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090888307203080192"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090721960473047550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaarjkkmiao @bilibili_create 一打开我以为我点进油管了 https://t.co/kT6HceV3qv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1526,
+        "media_key": "3_2090888307203080192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQRT1l_bgAALkly.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 125961,
+        "height": 3216,
+        "media_key": "13_2090717977935253505",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090717977935253505/img/8fqvOsL3U8DbW6wS.jpg",
+        "public_metrics": {
+          "view_count": 6237
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090717977935253505/vid/avc1/720x1608/lMMUJFoEkg5T_rA6.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090717977935253505/vid/avc1/1440x3216/Fm88fx_UR_aIkp0U.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090717977935253505/vid/avc1/480x1072/1kapCLe2Rt3kvE3u.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090717977935253505/pl/PM6-nYagvnAReY3b.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090717977935253505/vid/avc1/320x714/yMYJamnPZj73tEu5.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090888307203080192"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2090721960473047550",
+        "created_at": "2026-08-21T19:46:35.000Z",
+        "display_text_range": [
+          30,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T20:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090888312307478963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "616537873",
+              "start": 0,
+              "username": "aaarjkkmiao"
+            },
+            {
+              "end": 29,
+              "id": "2089196569241542656",
+              "start": 13,
+              "username": "bilibili_create"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kT6HceV3qv",
+              "end": 66,
+              "expanded_url": "https://x.com/wuyuandev/status/2090888312307478963/photo/1",
+              "media_key": "3_2090888307203080192",
+              "start": 43,
+              "url": "https://t.co/kT6HceV3qv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090888312307478963",
+        "in_reply_to_user_id": "616537873",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090888307203080192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090721960473047550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkkmiao @bilibili_create 一打开我以为我点进油管了 https://t.co/kT6HceV3qv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090717977935253505"
+          ]
+        },
+        "author_id": "616537873",
+        "conversation_id": "2090721960473047550",
+        "created_at": "2026-08-21T08:45:33.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090721960473047550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 135,
+              "id": "2089196569241542656",
+              "start": 119,
+              "username": "bilibili_create"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MLk7Ju9rQR",
+              "end": 159,
+              "expanded_url": "https://x.com/aaarjkkmiao/status/2090721960473047550/video/1",
+              "media_key": "13_2090717977935253505",
+              "start": 136,
+              "url": "https://t.co/MLk7Ju9rQR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090721960473047550",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090717977935253505"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10578,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Bilibili的入站答题似乎出现了亿点问题\n\n----------------------------\n\n第 x/100题\n\n题目1145\n\n · 选项1✅\n · 选项2❌\n\n----------------------------\n\n@bilibili_create https://t.co/MLk7Ju9rQR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大的高二在校生。\n\n私人 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间，你看冰霜璀璨。\n\n健全，情绪稳定，不O不割，面基无伤人记录，无安全风险。坐标长沙。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2090888312307478963",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2124,
+          "following_count": 1113,
+          "like_count": 11605,
+          "listed_count": 10,
+          "media_count": 946,
+          "tweet_count": 4223
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-06-23T22:30:17.000Z",
+        "description": "大号@aaarjkk 1478Followers卡进后室寻回互Fo🤍\n☁️活在幻想中☁️希望咱们每天都能开开心心的☁️成绩倒数(?)☁️查成分互Follow(?)☁️172cm53kg巨人☁️\n\n🏳️小号可能负面-@a0brjkk\n🤍睡不着就想发点luo照-@a0brjkkmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "aaarjkk"
+              },
+              {
+                "end": 115,
+                "start": 107,
+                "username": "a0brjkk"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "a0brjkkmiao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop.aaarjkk.top",
+                "end": 23,
+                "expanded_url": "https://shop.aaarjkk.top/",
+                "start": 0,
+                "url": "https://t.co/lIxlEX4uF5"
+              }
+            ]
+          }
+        },
+        "id": "616537873",
+        "is_identity_verified": false,
+        "location": "@aaarjkk (2025.8-2026.8) 永远怀念 ",
+        "most_recent_tweet_id": "2090806515079024679",
+        "name": "喵！😶‍🌫️--aaarjkk二世 寻回互Fo🩷",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/616537873/1786621805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087845591523168256/D8VdVCaf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 373,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 147
+        },
+        "url": "https://t.co/lIxlEX4uF5",
+        "username": "aaarjkkmiao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T03:50:37.000Z",
+        "description": "bilibili Creator Hub. Follow for platform updates, campaign announcements & content tips and tricks!\nCreator Hub: https://t.co/YDNSuimQsI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.com/invite/JrRuATe…",
+                "end": 137,
+                "expanded_url": "https://discord.com/invite/JrRuATe2gM",
+                "start": 114,
+                "url": "https://t.co/YDNSuimQsI"
+              }
+            ]
+          }
+        },
+        "id": "2089196569241542656",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090254060138197367",
+        "name": "bilibili Creator Hub",
+        "pinned_tweet_id": "2089942664875810836",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089196569241542656/1787143722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090393193745715200/GfWnpqch_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24641,
+          "following_count": 0,
+          "like_count": 66,
+          "listed_count": 20,
+          "media_count": 6,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "bilibili_create",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

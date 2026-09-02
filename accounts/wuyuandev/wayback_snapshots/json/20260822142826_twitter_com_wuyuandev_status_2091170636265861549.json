@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2091023083478077683",
+    "created_at": "2026-08-22T14:28:26.000Z",
+    "display_text_range": [
+      10,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T15:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091170636265861549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1867332524",
+          "start": 0,
+          "username": "YinsenW_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091170636265861549",
+    "in_reply_to_user_id": "1867332524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091023083478077683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YinsenW_ Cherry studio，最好的api测活软件，报错显示非常好用。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3466,
+        "media_key": "3_2091023074997243904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQTOaHJbEAAxlVG.jpg",
+        "width": 1658
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2091023083478077683",
+        "created_at": "2026-08-22T14:28:26.000Z",
+        "display_text_range": [
+          10,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091170636265861549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1867332524",
+              "start": 0,
+              "username": "YinsenW_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091170636265861549",
+        "in_reply_to_user_id": "1867332524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091023083478077683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YinsenW_ Cherry studio，最好的api测活软件，报错显示非常好用。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091023074997243904"
+          ]
+        },
+        "author_id": "1867332524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2091023083478077683",
+        "created_at": "2026-08-22T04:42:07.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T05:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091023083478077683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8XLbfzR16Y",
+              "end": 111,
+              "expanded_url": "https://x.com/YinsenW_/status/2091023083478077683/photo/1",
+              "media_key": "3_2091023074997243904",
+              "start": 88,
+              "url": "https://t.co/8XLbfzR16Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091023083478077683",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091023074997243904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 13985,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 58,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "天天在 LinuxDo 上被骂，600 多人的投票，Cherry Studio 还是能排在 ChatGPT/Codex 后面，直接哭出来了。\n​是不是刷票了啊？（哦没钱刷票） https://t.co/8XLbfzR16Y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大的高二在校生。\n\n私人 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间，你看冰霜璀璨。\n\n健全，情绪稳定，不O不割，面基无伤人记录，无安全风险。坐标长沙。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2091170636265861549",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2131,
+          "following_count": 1119,
+          "like_count": 11771,
+          "listed_count": 10,
+          "media_count": 948,
+          "tweet_count": 4248
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-09-15T11:14:10.000Z",
+        "description": "PM of 🍒 Cherry Studio",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Cherry-ai.com",
+                "end": 23,
+                "expanded_url": "http://Cherry-ai.com",
+                "start": 0,
+                "url": "https://t.co/HUjzo4fHJL"
+              }
+            ]
+          }
+        },
+        "id": "1867332524",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2091145452460912796",
+        "name": "Yinsen",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892102864560062468/HqBEmDlS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10103,
+          "following_count": 810,
+          "like_count": 119,
+          "listed_count": 132,
+          "media_count": 447,
+          "tweet_count": 3047
+        },
+        "url": "https://t.co/HUjzo4fHJL",
+        "username": "YinsenW_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2078074062610501805",
+    "created_at": "2026-07-17T23:08:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T00:08:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078255647502799295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1722593903348699136",
+          "start": 0,
+          "username": "49mFar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078255647502799295",
+    "in_reply_to_user_id": "1722593903348699136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078152710705311943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@49mFar 吓哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2078074062610501805",
+        "created_at": "2026-07-17T23:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T00:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078255647502799295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1722593903348699136",
+              "start": 0,
+              "username": "49mFar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078255647502799295",
+        "in_reply_to_user_id": "1722593903348699136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078152710705311943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@49mFar 吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722593903348699136",
+        "conversation_id": "2078074062610501805",
+        "created_at": "2026-07-17T16:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078152710705311943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078152710705311943",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078074062610501805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev 党员应当把总书记放在最高处（期待"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1640,
+          "following_count": 868,
+          "like_count": 8865,
+          "listed_count": 5,
+          "media_count": 644,
+          "tweet_count": 2909
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-09T12:36:13.000Z",
+        "description": "三天不学习，赶不上刘少奇。  人民好总理， 苏联来了要做儿皇帝。",
+        "id": "1722593903348699136",
+        "name": "离右派只差49米",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769593423353552896/zIAwC4jn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 32,
+          "like_count": 267,
+          "listed_count": 5,
+          "media_count": 131,
+          "tweet_count": 3977
+        },
+        "url": "",
+        "username": "49mFar",
+        "verified": false
+      }
+    ]
+  }
+}

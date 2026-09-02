@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085696112493830144"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "2085696127819776369",
+    "created_at": "2026-08-07T11:54:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T12:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085696127819776369"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kFbuMgEzXZ",
+          "end": 43,
+          "expanded_url": "https://x.com/wuyuandev/status/2085696127819776369/photo/1",
+          "media_key": "3_2085696112493830144",
+          "start": 20,
+          "url": "https://t.co/kFbuMgEzXZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085696127819776369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一生有爱何惧风飞沙，悲白发留不住芳华。 https://t.co/kFbuMgEzXZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2085696112493830144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHhkFaboAAF5uB.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085696112493830144"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2085696127819776369",
+        "created_at": "2026-08-07T11:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085696127819776369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kFbuMgEzXZ",
+              "end": 43,
+              "expanded_url": "https://x.com/wuyuandev/status/2085696127819776369/photo/1",
+              "media_key": "3_2085696112493830144",
+              "start": 20,
+              "url": "https://t.co/kFbuMgEzXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085696127819776369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一生有爱何惧风飞沙，悲白发留不住芳华。 https://t.co/kFbuMgEzXZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大的高二在校生。\n\n私人 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间，你看冰霜璀璨。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1953,
+          "following_count": 953,
+          "like_count": 10504,
+          "listed_count": 8,
+          "media_count": 860,
+          "tweet_count": 3862
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true
+      }
+    ]
+  }
+}

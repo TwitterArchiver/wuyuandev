@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2077896775189627197",
+    "created_at": "2026-07-18T08:15:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078393325355487569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1120570146492420096",
+          "start": 0,
+          "username": "qilustocktrader"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078393325355487569",
+    "in_reply_to_user_id": "1120570146492420096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078280589577474301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qilustocktrader 我没做到，所以你要做到。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2077896775189627197",
+        "created_at": "2026-07-18T08:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078393325355487569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1120570146492420096",
+              "start": 0,
+              "username": "qilustocktrader"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078393325355487569",
+        "in_reply_to_user_id": "1120570146492420096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078280589577474301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qilustocktrader 我没做到，所以你要做到。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1120570146492420096",
+        "conversation_id": "2077896775189627197",
+        "created_at": "2026-07-18T00:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T01:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078280589577474301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078280589577474301",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 666,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077896775189627197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev 无能的父母总是希望子女能实现一些从没在自己身上发生过的事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 868,
+          "like_count": 8898,
+          "listed_count": 6,
+          "media_count": 650,
+          "tweet_count": 2930
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-23T06:08:36.000Z",
+        "description": "野生交易员的思考过程｜向内求、非KOL｜纯分享不构成投资建议｜No DMs",
+        "id": "1120570146492420096",
+        "location": "North America",
+        "name": "奇路美股",
+        "pinned_tweet_id": "2062368083344490797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030487947406200832/tHm-667t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2330,
+          "following_count": 70,
+          "like_count": 3502,
+          "listed_count": 8,
+          "media_count": 420,
+          "tweet_count": 3186
+        },
+        "url": "",
+        "username": "qilustocktrader",
+        "verified": true
+      }
+    ]
+  }
+}

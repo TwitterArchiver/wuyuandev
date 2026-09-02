@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090217354991226880"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "2090217364801630414",
+    "created_at": "2026-08-19T23:20:28.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T00:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090217364801630414"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TsexFdxN2x",
+          "end": 37,
+          "expanded_url": "https://x.com/wuyuandev/status/2090217364801630414/photo/1",
+          "media_key": "3_2090217354991226880",
+          "start": 14,
+          "url": "https://t.co/TsexFdxN2x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090217364801630414",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090217354991226880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个世界已经癫到一定程度了 https://t.co/TsexFdxN2x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2990,
+        "media_key": "3_2090217354991226880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQHxnCOb0AAAlBM.jpg",
+        "width": 1827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090217354991226880"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2090217364801630414",
+        "created_at": "2026-08-19T23:20:28.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T00:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090217364801630414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TsexFdxN2x",
+              "end": 37,
+              "expanded_url": "https://x.com/wuyuandev/status/2090217364801630414/photo/1",
+              "media_key": "3_2090217354991226880",
+              "start": 14,
+              "url": "https://t.co/TsexFdxN2x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090217364801630414",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090217354991226880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个世界已经癫到一定程度了 https://t.co/TsexFdxN2x"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大的高二在校生。\n\n私人 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间，你看冰霜璀璨。\n\n健全，情绪稳定，不O不割，面基无伤人记录，无安全风险。坐标长沙。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2090217364801630414",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2114,
+          "following_count": 1107,
+          "like_count": 11538,
+          "listed_count": 8,
+          "media_count": 939,
+          "tweet_count": 4198
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

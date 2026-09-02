@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2088996001109696861",
+    "created_at": "2026-08-16T14:56:55.000Z",
+    "display_text_range": [
+      11,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T15:56:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089003478949806080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "929287386596491264",
+          "start": 0,
+          "username": "YunYouJun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089003478949806080",
+    "in_reply_to_user_id": "929287386596491264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088996001109696861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunYouJun 可惜现在这种UI风格被AI滥用的太多了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 540,
+        "media_key": "16_2088995570295955456",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HP2aZzja4AARgYk.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HP2aZzja4AARgYk.mp4"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2088996001109696861",
+        "created_at": "2026-08-16T14:56:55.000Z",
+        "display_text_range": [
+          11,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089003478949806080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "929287386596491264",
+              "start": 0,
+              "username": "YunYouJun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089003478949806080",
+        "in_reply_to_user_id": "929287386596491264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088996001109696861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunYouJun 可惜现在这种UI风格被AI滥用的太多了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2088995570295955456"
+          ]
+        },
+        "author_id": "929287386596491264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2088996001109696861",
+        "created_at": "2026-08-16T14:27:12.000Z",
+        "display_text_range": [
+          0,
+          195
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088996001109696861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "受明日方舟启发、支持 AI 集成与品牌融合的设计语言、Token 和框架无关 CSS 样式基础",
+              "display_url": "ak-ui.yyj.moe",
+              "end": 195,
+              "expanded_url": "https://ak-ui.yyj.moe",
+              "start": 172,
+              "status": 200,
+              "title": "ak-ui",
+              "unwound_url": "https://ak-ui.yyj.moe",
+              "url": "https://t.co/EiqlWj9oFk"
+            },
+            {
+              "display_url": "pic.x.com/Kmo3ITidqQ",
+              "end": 219,
+              "expanded_url": "https://x.com/YunYouJun/status/2088996001109696861/photo/1",
+              "media_key": "16_2088995570295955456",
+              "start": 196,
+              "url": "https://t.co/Kmo3ITidqQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088996001109696861",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2088995570295955456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "七年前咕掉的 ak-ui，被我用 AI 重新启动了。\n\n它是开源、非官方的《明日方舟》风格 UI 设计参考，提供 Token 与零运行时 CSS，可按需接入。\n\n装成 Agent Skill，AI 能理解设计语言，基于 Token 自由衍生组件样式。\n\nnpx skills add YunYouJun/ak-ui --skill ak-ui\nhttps://t.co/EiqlWj9oFk https://t.co/Kmo3ITidqQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大的高二在校生。\n\n私人 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间，你看冰霜璀璨。\n\n健全，情绪稳定，不O不割，面基无伤人记录，无安全风险。坐标长沙。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2089003478949806080",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 1100,
+          "like_count": 11305,
+          "listed_count": 10,
+          "media_count": 921,
+          "tweet_count": 4120
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-11-11T09:59:13.000Z",
+        "description": "希望能成为一个有趣的人。 希望能创造出可以成为别人回忆的事物。 https://t.co/jj0gxAqfuR | https://t.co/WSkIvxeN8d | Element Plus Team Member | @YunLeFun | 看板娘小云 @yyjmoe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 111,
+                "username": "YunLeFun"
+              },
+              {
+                "end": 136,
+                "start": 129,
+                "username": "yyjmoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yyj.moe",
+                "end": 55,
+                "expanded_url": "http://yyj.moe",
+                "start": 32,
+                "url": "https://t.co/jj0gxAqfuR"
+              },
+              {
+                "display_url": "github.com/YunYouJun",
+                "end": 81,
+                "expanded_url": "http://github.com/YunYouJun",
+                "start": 58,
+                "url": "https://t.co/WSkIvxeN8d"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yunyoujun.cn",
+                "end": 23,
+                "expanded_url": "https://yunyoujun.cn",
+                "start": 0,
+                "url": "https://t.co/wZhUrRjNjG"
+              }
+            ]
+          }
+        },
+        "id": "929287386596491264",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2088996001109696861",
+        "name": "YunYouJun 云游君",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/929287386596491264/1510395637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1483388515727855619/eoPX4Qe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4137,
+          "following_count": 247,
+          "like_count": 758,
+          "listed_count": 31,
+          "media_count": 286,
+          "tweet_count": 959
+        },
+        "url": "https://t.co/wZhUrRjNjG",
+        "username": "YunYouJun",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

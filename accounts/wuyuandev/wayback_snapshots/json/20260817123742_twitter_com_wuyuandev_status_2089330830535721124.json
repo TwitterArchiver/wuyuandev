@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2089170348344553697",
+    "created_at": "2026-08-17T12:37:42.000Z",
+    "display_text_range": [
+      11,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T13:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089330830535721124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "91001699",
+          "start": 0,
+          "username": "halfamonk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089330830535721124",
+    "in_reply_to_user_id": "91001699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089296820967182731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@halfamonk 学到了，但希望以后别调剂到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2089170348344553697",
+        "created_at": "2026-08-17T12:37:42.000Z",
+        "display_text_range": [
+          11,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T13:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089330830535721124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "91001699",
+              "start": 0,
+              "username": "halfamonk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089330830535721124",
+        "in_reply_to_user_id": "91001699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089296820967182731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@halfamonk 学到了，但希望以后别调剂到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "91001699",
+        "conversation_id": "2089170348344553697",
+        "created_at": "2026-08-17T10:22:34.000Z",
+        "display_text_range": [
+          11,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T11:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089296820967182731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089296820967182731",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1185,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089170348344553697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev 今天早上刚看到的小知识，下午就复习到了。。。。\n\n而且山羊和绵羊也是不同物种，也有生殖隔离（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大的高二在校生。\n\n私人 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间，你看冰霜璀璨。\n\n健全，情绪稳定，不O不割，面基无伤人记录，无安全风险。坐标长沙。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2089330830535721124",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2099,
+          "following_count": 1102,
+          "like_count": 11341,
+          "listed_count": 10,
+          "media_count": 925,
+          "tweet_count": 4133
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-11-19T00:56:50.000Z",
+        "description": "- 程序猿 Python / Golang \n- 伪宅=faked otaku=ゴミ箱 \n- 冒名顶替症候群 | 自信缺乏症候群 | 拖延症晚期 \n- 4杯咖啡/天 \n- 有着自认为远大的想法和向其努力的决心\n- Aiming Guru\n- Stoicism | Optimistic Nihilism",
+        "id": "91001699",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089296820967182731",
+        "name": "HalfAMonk",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/91001699/1422327348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1129263300754075649/nl9XvhHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 479,
+          "like_count": 14229,
+          "listed_count": 14,
+          "media_count": 2105,
+          "tweet_count": 22603
+        },
+        "url": "",
+        "username": "halfamonk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078407311954247680",
+        "3_2078407320565116929"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "2074555599220572203",
+    "created_at": "2026-07-18T09:11:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T10:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078407329238712370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1924358807553224704",
+          "start": 0,
+          "username": "teleclaw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MQX6EIceBQ",
+          "end": 136,
+          "expanded_url": "https://x.com/wuyuandev/status/2078407329238712370/photo/1",
+          "media_key": "3_2078407311954247680",
+          "start": 113,
+          "url": "https://t.co/MQX6EIceBQ"
+        },
+        {
+          "display_url": "pic.x.com/MQX6EIceBQ",
+          "end": 136,
+          "expanded_url": "https://x.com/wuyuandev/status/2078407329238712370/photo/1",
+          "media_key": "3_2078407320565116929",
+          "start": 113,
+          "url": "https://t.co/MQX6EIceBQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078407329238712370",
+    "in_reply_to_user_id": "1924358807553224704",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074555599220572203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teleclaw Your bot will @ a Telegram channel that seems to be outside of official control.\nThis seems dangerous. https://t.co/MQX6EIceBQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078407311954247680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNf8cDebgAANptY.jpg",
+        "width": 1046
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078407320565116929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNf8cjja8AEDGVM.jpg",
+        "width": 1048
+      },
+      {
+        "height": 686,
+        "media_key": "3_2074555136110718976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpM56LXcAAXIye.jpg",
+        "width": 1370
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078407311954247680",
+            "3_2078407320565116929"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2074555599220572203",
+        "created_at": "2026-07-18T09:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078407329238712370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1924358807553224704",
+              "start": 0,
+              "username": "teleclaw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MQX6EIceBQ",
+              "end": 136,
+              "expanded_url": "https://x.com/wuyuandev/status/2078407329238712370/photo/1",
+              "media_key": "3_2078407311954247680",
+              "start": 113,
+              "url": "https://t.co/MQX6EIceBQ"
+            },
+            {
+              "display_url": "pic.x.com/MQX6EIceBQ",
+              "end": 136,
+              "expanded_url": "https://x.com/wuyuandev/status/2078407329238712370/photo/1",
+              "media_key": "3_2078407320565116929",
+              "start": 113,
+              "url": "https://t.co/MQX6EIceBQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078407329238712370",
+        "in_reply_to_user_id": "1924358807553224704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074555599220572203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teleclaw Your bot will @ a Telegram channel that seems to be outside of official control.\nThis seems dangerous. https://t.co/MQX6EIceBQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074555136110718976"
+          ]
+        },
+        "author_id": "1924358807553224704",
+        "conversation_id": "2074555599220572203",
+        "created_at": "2026-07-07T18:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074555599220572203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hDIceDVaPb",
+              "end": 46,
+              "expanded_url": "https://x.com/teleclaw/status/2074555599220572203/photo/1",
+              "media_key": "3_2074555136110718976",
+              "start": 23,
+              "url": "https://t.co/hDIceDVaPb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074555599220572203",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 9698,
+          "like_count": 120,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "new look, same mission https://t.co/hDIceDVaPb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1649,
+          "following_count": 873,
+          "like_count": 8907,
+          "listed_count": 6,
+          "media_count": 653,
+          "tweet_count": 2939
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-19T06:57:58.000Z",
+        "description": "Your Telegram agent, in one click https://t.co/l485hGm1t0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/claw",
+                "end": 57,
+                "expanded_url": "https://t.me/claw",
+                "start": 34,
+                "url": "https://t.co/l485hGm1t0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "teleclaw.bot",
+                "end": 23,
+                "expanded_url": "http://teleclaw.bot",
+                "start": 0,
+                "url": "https://t.co/cTIl2Z4tuM"
+              }
+            ]
+          }
+        },
+        "id": "1924358807553224704",
+        "name": "TeleClaw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074554775228616704/Y2CpBlaC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2381,
+          "following_count": 13,
+          "like_count": 2059,
+          "listed_count": 5,
+          "media_count": 53,
+          "tweet_count": 1183
+        },
+        "url": "https://t.co/cTIl2Z4tuM",
+        "username": "teleclaw",
+        "verified": true
+      }
+    ]
+  }
+}

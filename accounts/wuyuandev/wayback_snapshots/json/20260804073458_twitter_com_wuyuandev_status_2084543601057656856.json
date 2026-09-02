@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083976500060250112"
+      ],
+      "media_source_tweet_id": [
+        "2084490006928736704"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2084543601057656856",
+    "created_at": "2026-08-04T07:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T08:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084543601057656856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1873708075619946497",
+          "start": 3,
+          "username": "qik1182069"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MYE68JpcQb",
+          "end": 42,
+          "expanded_url": "https://x.com/qik1182069/status/2084490006928736704/photo/1",
+          "media_key": "3_2083976500060250112",
+          "start": 19,
+          "url": "https://t.co/MYE68JpcQb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084543601057656856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084490006928736704",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qik1182069: 晚安 https://t.co/MYE68JpcQb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2083976500060250112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvFld5aYAAoa_L.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083976500060250112"
+          ]
+        },
+        "author_id": "1873708075619946497",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084490006928736704",
+        "created_at": "2026-08-04T04:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084490006928736704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MYE68JpcQb",
+              "end": 26,
+              "expanded_url": "https://x.com/qik1182069/status/2084490006928736704/photo/1",
+              "media_key": "3_2083976500060250112",
+              "start": 3,
+              "url": "https://t.co/MYE68JpcQb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084490006928736704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2294,
+          "like_count": 34,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "晚安 https://t.co/MYE68JpcQb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083976500060250112"
+          ],
+          "media_source_tweet_id": [
+            "2084490006928736704"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084543601057656856",
+        "created_at": "2026-08-04T07:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084543601057656856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1873708075619946497",
+              "start": 3,
+              "username": "qik1182069"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MYE68JpcQb",
+              "end": 42,
+              "expanded_url": "https://x.com/qik1182069/status/2084490006928736704/photo/1",
+              "media_key": "3_2083976500060250112",
+              "start": 19,
+              "url": "https://t.co/MYE68JpcQb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084543601057656856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084490006928736704",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qik1182069: 晚安 https://t.co/MYE68JpcQb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 942,
+          "like_count": 10276,
+          "listed_count": 8,
+          "media_count": 836,
+          "tweet_count": 3690
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-30T12:30:09.000Z",
+        "description": "无性别 - 泛性恋\n自由 - 平等 - 博爱\n开放 - 包容 - 多元",
+        "id": "1873708075619946497",
+        "name": "✝️春沫✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049306580643123200/u3zr6mwe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 57,
+          "like_count": 2401,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "qik1182069",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "2078857225368654282",
+    "created_at": "2026-07-19T23:10:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T00:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078980874914365616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1390699088593653760",
+          "start": 0,
+          "username": "edwinvakayil"
+        },
+        {
+          "end": 21,
+          "id": "31206819",
+          "start": 14,
+          "username": "shadcn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078980874914365616",
+    "in_reply_to_user_id": "1390699088593653760",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "It seems neither shadcn nor its users ever need to pick a year, as if AI-generated projects are so short-lived that nobody needs to select a date from more than a year ago.\nWith shadcn, after manually entering a date, you can at least open the native date picker. It may not be beautifully designed, but it gets the job done. Yours, on the other hand, requires clicking the \"previous month\" button 12 times just to go back one year. What if the user is selecting their birthday?"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078857225368654282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@edwinvakayil @shadcn It seems neither shadcn nor its users ever need to pick a year, as if AI-generated projects are so short-lived that nobody needs to select a date from more than a year ago.\nWith shadcn, after manually entering a date, you can at least open the native date picker. It may not be"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35233,
+        "height": 1080,
+        "media_key": "13_2078856853547798528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078856853547798528/img/jzQG2ROtUhuKm2Wz.jpg",
+        "public_metrics": {
+          "view_count": 1097
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078856853547798528/vid/avc1/1920x1080/6rTc-HKww0iHMuhC.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078856853547798528/vid/avc1/480x270/2iU26E4MXYfFRl22.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078856853547798528/pl/Dco32kKFMLJs0lt1.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078856853547798528/vid/avc1/1280x720/eBalnDgc4TV0R7Tz.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078856853547798528/vid/avc1/640x360/ec3C_9-eXr_pi-gk.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2078857225368654282",
+        "created_at": "2026-07-19T23:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T00:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078980874914365616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1390699088593653760",
+              "start": 0,
+              "username": "edwinvakayil"
+            },
+            {
+              "end": 21,
+              "id": "31206819",
+              "start": 14,
+              "username": "shadcn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078980874914365616",
+        "in_reply_to_user_id": "1390699088593653760",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "It seems neither shadcn nor its users ever need to pick a year, as if AI-generated projects are so short-lived that nobody needs to select a date from more than a year ago.\nWith shadcn, after manually entering a date, you can at least open the native date picker. It may not be beautifully designed, but it gets the job done. Yours, on the other hand, requires clicking the \"previous month\" button 12 times just to go back one year. What if the user is selecting their birthday?"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078857225368654282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@edwinvakayil @shadcn It seems neither shadcn nor its users ever need to pick a year, as if AI-generated projects are so short-lived that nobody needs to select a date from more than a year ago.\nWith shadcn, after manually entering a date, you can at least open the native date picker. It may not be"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078856853547798528"
+          ]
+        },
+        "author_id": "1390699088593653760",
+        "conversation_id": "2078857225368654282",
+        "created_at": "2026-07-19T14:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078857225368654282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 197,
+              "id": "31206819",
+              "start": 190,
+              "username": "shadcn"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Install and customize the Iconiq UI Week Calendar with shadcn registry commands, live previews, provider variants, and editable source files.",
+              "display_url": "iconiqui.com/display-and-co…",
+              "end": 172,
+              "expanded_url": "http://iconiqui.com/display-and-content/week-calendar",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2078857235682467841/fweUw_kL?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2078857235682467841/fweUw_kL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 149,
+              "status": 200,
+              "title": "Week Calendar React Component | Iconiq UI",
+              "unwound_url": "https://iconiqui.com/display-and-content/week-calendar",
+              "url": "https://t.co/JE7IZYIbg2"
+            },
+            {
+              "description": "Iconiq UI is an open-source React component library with motion-powered primitives, shadcn registry installs, and editable source files for modern interfaces.",
+              "display_url": "iconiqui.com",
+              "end": 239,
+              "expanded_url": "http://iconiqui.com",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2077704500186697728/rBdDmmqy?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2077704500186697728/rBdDmmqy?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 216,
+              "status": 200,
+              "title": "Iconiq UI | Design System for Modern Interfaces",
+              "unwound_url": "https://iconiqui.com/",
+              "url": "https://t.co/LXw3NvHhlN"
+            },
+            {
+              "display_url": "pic.x.com/gDvHz37QYG",
+              "end": 264,
+              "expanded_url": "https://x.com/edwinvakayil/status/2078857225368654282/video/1",
+              "media_key": "13_2078856853547798528",
+              "start": 241,
+              "url": "https://t.co/gDvHz37QYG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078857225368654282",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 3463,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Built a Week Calendar component for modern scheduling interfaces\n\nSwitch seamlessly between week and month views with smooth, tactile interactions. \nhttps://t.co/JE7IZYIbg2\n\nBuilt on top of @shadcn. Available now in https://t.co/LXw3NvHhlN. https://t.co/gDvHz37QYG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1654,
+          "following_count": 873,
+          "like_count": 8966,
+          "listed_count": 6,
+          "media_count": 670,
+          "tweet_count": 2981
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-07T16:05:32.000Z",
+        "description": "By day, I build production systems at https://t.co/u525t2sTdM. By night, I'm obsessed with https://t.co/xsdwEOeR5s - crafting components that feel as good as they look.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "se.com",
+                "end": 61,
+                "expanded_url": "http://se.com",
+                "start": 38,
+                "url": "https://t.co/u525t2sTdM"
+              },
+              {
+                "display_url": "iconiqui.com",
+                "end": 114,
+                "expanded_url": "http://iconiqui.com",
+                "start": 91,
+                "url": "https://t.co/xsdwEOeR5s"
+              }
+            ]
+          }
+        },
+        "id": "1390699088593653760",
+        "location": "Bengaluru, India",
+        "name": "Edwin Vakayil",
+        "pinned_tweet_id": "2050159352544416214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068190163860361216/rxQ8eIri_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 98,
+          "like_count": 296,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 242
+        },
+        "url": "",
+        "username": "edwinvakayil",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-14T19:46:42.000Z",
+        "description": "I own a computer. / @vercel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 20,
+                "username": "vercel"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shadcn.com",
+                "end": 23,
+                "expanded_url": "https://shadcn.com",
+                "start": 0,
+                "url": "https://t.co/Bhukx0fKUF"
+              }
+            ]
+          }
+        },
+        "id": "31206819",
+        "name": "shadcn",
+        "pinned_tweet_id": "2074910600451223751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1593304942210478080/TUYae5z7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234221,
+          "following_count": 420,
+          "like_count": 43097,
+          "listed_count": 1346,
+          "media_count": 1062,
+          "tweet_count": 7288
+        },
+        "url": "https://t.co/Bhukx0fKUF",
+        "username": "shadcn",
+        "verified": true
+      }
+    ]
+  }
+}

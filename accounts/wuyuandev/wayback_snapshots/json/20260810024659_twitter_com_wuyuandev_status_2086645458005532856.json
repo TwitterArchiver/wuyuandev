@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2086624370781561241",
+    "created_at": "2026-08-10T02:46:59.000Z",
+    "display_text_range": [
+      10,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T03:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086645458005532856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1937377454492106752",
+          "start": 0,
+          "username": "smirneko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20866…",
+          "end": 33,
+          "expanded_url": "https://x.com/i/status/2086645356255993957",
+          "start": 10,
+          "url": "https://t.co/yc7m2FhJ0z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086645458005532856",
+    "in_reply_to_user_id": "1937377454492106752",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086645356255993957",
+        "type": "quoted"
+      },
+      {
+        "id": "2086624370781561241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smirneko https://t.co/yc7m2FhJ0z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1269,
+        "media_key": "3_2086645350639849472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVA5BEb0AAuufl.jpg",
+        "width": 1841
+      },
+      {
+        "height": 419,
+        "media_key": "3_2086624286345994240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUtu6dbIAAxw0z.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2086624370781561241",
+        "created_at": "2026-08-10T02:46:59.000Z",
+        "display_text_range": [
+          10,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T03:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086645458005532856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1937377454492106752",
+              "start": 0,
+              "username": "smirneko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20866…",
+              "end": 33,
+              "expanded_url": "https://x.com/i/status/2086645356255993957",
+              "start": 10,
+              "url": "https://t.co/yc7m2FhJ0z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086645458005532856",
+        "in_reply_to_user_id": "1937377454492106752",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086645356255993957",
+            "type": "quoted"
+          },
+          {
+            "id": "2086624370781561241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smirneko https://t.co/yc7m2FhJ0z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086645350639849472"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2086645356255993957",
+        "created_at": "2026-08-10T02:46:35.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T03:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086645356255993957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xUqNh5vIEw",
+              "end": 146,
+              "expanded_url": "https://x.com/wuyuandev/status/2086645356255993957/photo/1",
+              "media_key": "3_2086645350639849472",
+              "start": 123,
+              "url": "https://t.co/xUqNh5vIEw"
+            },
+            {
+              "display_url": "x.com/YuwenMewo/stat…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/YuwenMewo/status/2086634298422231179",
+              "start": 147,
+              "url": "https://t.co/lP5gS5uCMq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086645356255993957",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086645350639849472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086634298422231179",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人类之所以有理有权可以个别地或者集体地对其中任何分子的行动自由进行干涉，唯一的目的只是自我防卫。这就是说，对于文明群体中的任一成员，所以能够施用一种权力以反其意志而不失为正当，唯一的目的只是要防止对他人的危害。\n\n约翰·斯图亚特·密尔《论自由》 https://t.co/xUqNh5vIEw https://t.co/lP5gS5uCMq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086624286345994240"
+          ]
+        },
+        "author_id": "1937377454492106752",
+        "conversation_id": "2086624370781561241",
+        "created_at": "2026-08-10T01:23:12.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T02:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086624370781561241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TuvWsykvAl",
+              "end": 41,
+              "expanded_url": "https://x.com/smirneko/status/2086624370781561241/photo/1",
+              "media_key": "3_2086624286345994240",
+              "start": 18,
+              "url": "https://t.co/TuvWsykvAl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086624370781561241",
+        "lang": "ru",
+        "media_metadata": [
+          {
+            "media_key": "3_2086624286345994240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 376,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Да, да, иди нахуй https://t.co/TuvWsykvAl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大的高二在校生。\n\n私人 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间，你看冰霜璀璨。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2086645458005532856",
+        "name": "孙悟元",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1990,
+          "following_count": 1008,
+          "like_count": 10723,
+          "listed_count": 10,
+          "media_count": 886,
+          "tweet_count": 3937
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-24T05:09:41.000Z",
+        "description": "This is the alt account of @smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1937377454492106752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086641265136087425",
+        "name": "Smirnova",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038265388769886208/DHPb0N62_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 34,
+          "like_count": 7,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "smirneko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

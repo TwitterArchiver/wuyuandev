@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2084834489633833018",
+    "created_at": "2026-08-05T15:19:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T16:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085022965671100514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1462763037639667713",
+          "start": 0,
+          "username": "YukiDailyVN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085022965671100514",
+    "in_reply_to_user_id": "1462763037639667713",
+    "lang": "vi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084834489633833018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukiDailyVN Twitter là một nơi thú vị."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11628,
+        "height": 1920,
+        "media_key": "13_2084834417718304768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084834417718304768/img/-XtWx2M7zG9pyNLR.jpg",
+        "public_metrics": {
+          "view_count": 3009
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084834417718304768/vid/avc1/480x1036/hNq2KmyOBmvNZJ1y.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084834417718304768/vid/avc1/320x690/_EvH6e0XJ6TVrU3y.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084834417718304768/pl/isN1lQ3WHFGnXNHv.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084834417718304768/vid/avc1/720x1556/XUWhNoA2CxVDx6gn.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084834417718304768/vid/avc1/888x1920/P6eWUFu4tpuNsGGi.mp4"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2084834489633833018",
+        "created_at": "2026-08-05T15:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085022965671100514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1462763037639667713",
+              "start": 0,
+              "username": "YukiDailyVN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085022965671100514",
+        "in_reply_to_user_id": "1462763037639667713",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084834489633833018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukiDailyVN Twitter là một nơi thú vị."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084834417718304768"
+          ]
+        },
+        "author_id": "1462763037639667713",
+        "conversation_id": "2084834489633833018",
+        "created_at": "2026-08-05T02:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T03:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084834489633833018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vcu7utgQTP",
+              "end": 98,
+              "expanded_url": "https://x.com/YukiDailyVN/status/2084834489633833018/video/1",
+              "media_key": "13_2084834417718304768",
+              "start": 75,
+              "url": "https://t.co/vcu7utgQTP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084834489633833018",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 12288,
+          "like_count": 239,
+          "quote_count": 3,
+          "reply_count": 275,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Hôm qua đúng là một ngày bùng nổ\n\nĐược mấy bạn bên Trung Quốc yêu thương❤️ https://t.co/vcu7utgQTP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 948,
+          "like_count": 10369,
+          "listed_count": 8,
+          "media_count": 846,
+          "tweet_count": 3791
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-22T12:41:11.000Z",
+        "description": "Yuki 🌸 | Vietnam 🇻🇳 | Content Creator\nDaily life • Food • Chill vibes • Fun daily content \nI love Elon Musk",
+        "id": "1462763037639667713",
+        "location": "Việt Nam",
+        "name": "Yuki❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045176502011215874/0g5_a0M__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6404,
+          "following_count": 6605,
+          "like_count": 23159,
+          "listed_count": 5,
+          "media_count": 593,
+          "tweet_count": 28148
+        },
+        "url": "",
+        "username": "YukiDailyVN",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2079478412612407590",
+    "created_at": "2026-07-21T09:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T10:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079506209661444252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2834094312",
+          "start": 0,
+          "username": "xiaoshen"
+        },
+        {
+          "end": 22,
+          "id": "1933347266330570752",
+          "start": 10,
+          "username": "mogician301"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079506209661444252",
+    "in_reply_to_user_id": "2834094312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079504861490807249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoshen @mogician301 这条不删掉你就等着再被封一次吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2079478412612407590",
+        "created_at": "2026-07-21T09:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079506209661444252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2834094312",
+              "start": 0,
+              "username": "xiaoshen"
+            },
+            {
+              "end": 22,
+              "id": "1933347266330570752",
+              "start": 10,
+              "username": "mogician301"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079506209661444252",
+        "in_reply_to_user_id": "2834094312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079504861490807249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoshen @mogician301 这条不删掉你就等着再被封一次吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2834094312",
+        "conversation_id": "2079478412612407590",
+        "created_at": "2026-07-21T09:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079504861490807249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1933347266330570752",
+              "start": 0,
+              "username": "mogician301"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079504861490807249",
+        "in_reply_to_user_id": "1933347266330570752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079504318219391383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mogician301 是 主要是人妖吧，可能也有超级女汉子吧，男可以跨女 应该也有女跨男吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1662,
+          "following_count": 882,
+          "like_count": 9025,
+          "listed_count": 6,
+          "media_count": 678,
+          "tweet_count": 3012
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2014-09-27T14:51:29.000Z",
+        "description": "｜币圈段子手、玩梗专家\n｜互联网已退休产品经理，一个还没脱离低级趣味的人\n｜258.eth",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Ace.box",
+                "end": 23,
+                "expanded_url": "http://Ace.box",
+                "start": 0,
+                "url": "https://t.co/Gy626ieHy9"
+              }
+            ]
+          }
+        },
+        "id": "2834094312",
+        "location": "合作联系TG：xiaoshen77",
+        "name": "王小神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063437226814681088/Xa3_1RgY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15961,
+          "following_count": 8460,
+          "like_count": 81346,
+          "listed_count": 56,
+          "media_count": 1956,
+          "tweet_count": 47624
+        },
+        "url": "https://t.co/Gy626ieHy9",
+        "username": "xiaoshen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-13T02:14:49.000Z",
+        "description": "程序员潘哥｜AI 工具实测 + Vibe Coding + 个人项目变现\n不讲玄学，只拆真实用法、真实成本、真实坑。",
+        "id": "1933347266330570752",
+        "name": "程序员潘哥",
+        "pinned_tweet_id": "2072250774332285073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039275549726756864/8mZ7VRlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 434,
+          "like_count": 629,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 1743
+        },
+        "url": "",
+        "username": "mogician301",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,495 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2092825277319856568",
+    "created_at": "2026-08-28T16:57:31.000Z",
+    "display_text_range": [
+      33,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T17:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093382482876039468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1427494997394214916",
+          "start": 0,
+          "username": "anjifjqing"
+        },
+        {
+          "end": 21,
+          "id": "1506878967051001856",
+          "start": 12,
+          "username": "aco_fuji"
+        },
+        {
+          "end": 32,
+          "id": "67259536",
+          "start": 22,
+          "username": "macha3142"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/HosinoEJ/statu…",
+          "end": 66,
+          "expanded_url": "https://x.com/HosinoEJ/status/2089214910203068811",
+          "start": 43,
+          "url": "https://t.co/vjYlMzVaza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093382482876039468",
+    "in_reply_to_user_id": "1427494997394214916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089214910203068811",
+        "type": "quoted"
+      },
+      {
+        "id": "2093141957271015897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anjifjqing @aco_fuji @macha3142 这里就有一个案例\n\nhttps://t.co/vjYlMzVaza"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2311777,
+        "height": 544,
+        "media_key": "13_2089214434514468864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089214434514468864/img/K_VkJYkFVi6pw3tg.jpg",
+        "public_metrics": {
+          "view_count": 823
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089214434514468864/vid/avc1/478x270/Dah-bW2OLCA9275Z.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089214434514468864/vid/avc1/638x360/KigjlH7heNl-lB_D.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089214434514468864/vid/avc1/966x544/Df3CClXQNpmAKvm0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089214434514468864/pl/NS2S30tRfX1RT9Bc.m3u8"
+          }
+        ],
+        "width": 967
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2092825277319856568",
+        "created_at": "2026-08-28T16:57:31.000Z",
+        "display_text_range": [
+          33,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T17:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093382482876039468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1427494997394214916",
+              "start": 0,
+              "username": "anjifjqing"
+            },
+            {
+              "end": 21,
+              "id": "1506878967051001856",
+              "start": 12,
+              "username": "aco_fuji"
+            },
+            {
+              "end": 32,
+              "id": "67259536",
+              "start": 22,
+              "username": "macha3142"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/HosinoEJ/statu…",
+              "end": 66,
+              "expanded_url": "https://x.com/HosinoEJ/status/2089214910203068811",
+              "start": 43,
+              "url": "https://t.co/vjYlMzVaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093382482876039468",
+        "in_reply_to_user_id": "1427494997394214916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089214910203068811",
+            "type": "quoted"
+          },
+          {
+            "id": "2093141957271015897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anjifjqing @aco_fuji @macha3142 这里就有一个案例\n\nhttps://t.co/vjYlMzVaza"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427494997394214916",
+        "conversation_id": "2092825277319856568",
+        "created_at": "2026-08-28T01:01:45.000Z",
+        "display_text_range": [
+          21,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T02:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093141957271015897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1506878967051001856",
+              "start": 0,
+              "username": "aco_fuji"
+            },
+            {
+              "end": 20,
+              "id": "67259536",
+              "start": 10,
+              "username": "macha3142"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093141957271015897",
+        "in_reply_to_user_id": "1506878967051001856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 409,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092862744546672823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aco_fuji @macha3142 强奸过分了，强奸没有的，其他是有的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089214434514468864"
+          ]
+        },
+        "author_id": "1882671462210998272",
+        "conversation_id": "2089214910203068811",
+        "created_at": "2026-08-17T04:57:04.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T05:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089214910203068811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 80,
+              "expanded_url": "https://x.com/amber_digit2/status/2083576541292691951",
+              "start": 57,
+              "url": "https://t.co/9wIkHJDN4L"
+            },
+            {
+              "display_url": "pic.x.com/6wfHotfa4i",
+              "end": 104,
+              "expanded_url": "https://x.com/HosinoEJ/status/2089214910203068811/video/1",
+              "media_key": "13_2089214434514468864",
+              "start": 81,
+              "url": "https://t.co/6wfHotfa4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089214910203068811",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089214434514468864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3088,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083576541292691951",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小右救援当中的相关电话录音，内容包括但不限于：警察不作为、推卸责任、施暴者挑衅等。高血压者慎重观看！\n\n前情提要：https://t.co/9wIkHJDN4L https://t.co/6wfHotfa4i"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大的高二在校生。\n\n私人 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间，你看冰霜璀璨。\n\n健全，情绪稳定，不O不割，面基无伤人记录，无安全风险。坐标长沙。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2093382482876039468",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2147,
+          "following_count": 1136,
+          "like_count": 11988,
+          "listed_count": 10,
+          "media_count": 950,
+          "tweet_count": 4257
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-17T04:58:39.000Z",
+        "description": "",
+        "id": "1427494997394214916",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093239635120140569",
+        "name": "邪恶无糖可乐",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1467514863412858886/Yb42u6sn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 567,
+          "like_count": 86,
+          "listed_count": 6,
+          "media_count": 6,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "anjifjqing",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-24T06:22:06.000Z",
+        "description": "仕事でゲーム3dデザイナーやってます🐱\nのと、\nネトウヨは人間とはほど遠い犬チクショウと考えてまーす\n中国人でーす笑",
+        "id": "1506878967051001856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093305354411196611",
+        "name": "ノギーACO",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506878967051001856/1680882743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1506879320928649217/HrnGH3v1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 18,
+          "like_count": 252,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 528
+        },
+        "url": "",
+        "username": "aco_fuji",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:07:32.000Z",
+        "description": "🏴‍☠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hosinoneko.me",
+                "end": 23,
+                "expanded_url": "https://hosinoneko.me",
+                "start": 0,
+                "url": "https://t.co/2FBvyw19SA"
+              }
+            ]
+          }
+        },
+        "id": "1882671462210998272",
+        "is_identity_verified": false,
+        "location": "TaiPei",
+        "most_recent_tweet_id": "2093360050433908945",
+        "name": "HosinoNeko",
+        "pinned_tweet_id": "2093304272121393531",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882671462210998272/1744719573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078823944208195584/ihFWiaXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 587,
+          "like_count": 4459,
+          "listed_count": 4,
+          "media_count": 886,
+          "tweet_count": 4492
+        },
+        "url": "https://t.co/2FBvyw19SA",
+        "username": "HosinoEJ",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-08-20T07:53:14.000Z",
+        "description": "中国語学習のあるあるネタを発信。中国語学習歴41年のおじいちゃんです。中検準1級、通訳案内士(中国語)、HSK6級、HSKK高級　なんか知らんけど全部持ってます。",
+        "id": "67259536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093277245502800125",
+        "name": "macha",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/602003258/091231_1805_01_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4617,
+          "following_count": 3760,
+          "like_count": 20272,
+          "listed_count": 56,
+          "media_count": 38,
+          "tweet_count": 5234
+        },
+        "url": "",
+        "username": "macha3142",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2086678185543147656",
+    "created_at": "2026-08-10T05:01:55.000Z",
+    "display_text_range": [
+      16,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T06:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086679414977568855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1852948864539791360",
+          "start": 0,
+          "username": "Z7862947460634"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086679414977568855",
+    "in_reply_to_user_id": "1852948864539791360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086678846490001733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z7862947460634 现在其他人依旧可以继续看她的帖子然后来开贴攻击我，但她又不想让我有能力继续参与。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2086678185543147656",
+        "created_at": "2026-08-10T05:01:55.000Z",
+        "display_text_range": [
+          16,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086679414977568855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1852948864539791360",
+              "start": 0,
+              "username": "Z7862947460634"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086679414977568855",
+        "in_reply_to_user_id": "1852948864539791360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086678846490001733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z7862947460634 现在其他人依旧可以继续看她的帖子然后来开贴攻击我，但她又不想让我有能力继续参与。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852948864539791360",
+        "conversation_id": "2086678185543147656",
+        "created_at": "2026-08-10T04:59:40.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T05:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086678846490001733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086678846490001733",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086678185543147656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev 这样吗…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大的高二在校生。\n\n私人 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间，你看冰霜璀璨。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2086679414977568855",
+        "name": "孙悟元",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1991,
+          "following_count": 1012,
+          "like_count": 10738,
+          "listed_count": 10,
+          "media_count": 889,
+          "tweet_count": 3946
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-03T05:40:25.000Z",
+        "description": "对外身份标识\n2008.01生人 | 友跨(🏳️‍⚧️)的AMAB | 不聊政治(吗?) | 学习公共写作 | 试图找回自己的声音(哪个?) | 抽离的透明人 | 互fo |",
+        "id": "1852948864539791360",
+        "is_identity_verified": false,
+        "location": "猜猜看？",
+        "most_recent_tweet_id": "2086678846490001733",
+        "name": "Xunyu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852948864539791360/1786158771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083165051297628160/TM2Tlu26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 175,
+          "like_count": 1189,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 682
+        },
+        "url": "",
+        "username": "Z7862947460634",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

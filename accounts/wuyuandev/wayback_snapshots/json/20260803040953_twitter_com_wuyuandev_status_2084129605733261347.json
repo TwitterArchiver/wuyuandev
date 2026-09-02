@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      }
+    ],
+    "conversation_id": "2084129605733261347",
+    "created_at": "2026-08-03T04:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T05:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084129605733261347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MaxForAI/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/MaxForAI/status/2083907939811922105",
+          "start": 12,
+          "url": "https://t.co/6QFWEulBxB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084129605733261347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083907939811922105",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁在北京？去开个中转🤓 https://t.co/6QFWEulBxB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2083907928759898112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuHOF5akAA8teS.jpg",
+        "width": 546
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2083907928755773440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuHOF4boAAlUlU.jpg",
+        "width": 510
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2084129605733261347",
+        "created_at": "2026-08-03T04:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084129605733261347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MaxForAI/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/MaxForAI/status/2083907939811922105",
+              "start": 12,
+              "url": "https://t.co/6QFWEulBxB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084129605733261347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083907939811922105",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁在北京？去开个中转🤓 https://t.co/6QFWEulBxB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083907928759898112",
+            "3_2083907928755773440"
+          ]
+        },
+        "author_id": "1699797396589588480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1884286926779191296",
+              "name": "DeepSeek"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2083907939811922105",
+        "created_at": "2026-08-02T13:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083907939811922105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 40,
+              "id": "1714580962569588736",
+              "start": 28,
+              "username": "deepseek_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RX4k4WEnGY",
+              "end": 221,
+              "expanded_url": "https://x.com/MaxForAI/status/2083907939811922105/photo/1",
+              "media_key": "3_2083907928759898112",
+              "start": 198,
+              "url": "https://t.co/RX4k4WEnGY"
+            },
+            {
+              "display_url": "pic.x.com/RX4k4WEnGY",
+              "end": 221,
+              "expanded_url": "https://x.com/MaxForAI/status/2083907939811922105/photo/1",
+              "media_key": "3_2083907928755773440",
+              "start": 198,
+              "url": "https://t.co/RX4k4WEnGY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083907939811922105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 40,
+                "id": "1714580962569588736",
+                "start": 28,
+                "username": "deepseek_ai"
+              },
+              {
+                "end": 471,
+                "id": "535358285",
+                "start": 460,
+                "username": "DavidSHolz"
+              }
+            ]
+          },
+          "text": "🔥Breaking：北京一家酒吧，现在来消费就送无限量 @deepseek_ai  V4 Flash API Token🤯\n\n从今天开始，北京 AGI Bar 的顾客只要连接店内 Wi-Fi，就可以免费获得 DeepSeek V4 Flash 的 API，并且在店内使用期间 不限量。\n\n无需订阅，也不用担心 Token 消耗。只需要把 Base URL 和 API Key 填到 Claude Code、Codex、Cursor、Cherry Studio 或其他兼容 OpenAI API 的客户端里，就可以直接使用。\n\n后续他们还会接入更多模型。\n\n我觉得这件事挺有意思，因为它改变了一个默认设定。\n\n过去，AI 服务总是和注册、订阅、Token 费用绑定在一起。而现在，AI 推理能力开始像水、电、Wi-Fi 一样，成为线下空间提供的基础设施。\n\n顺便一提，这家酒吧是我朋友开的。他一直都在 AI 行业创业，AGI Bar 也慢慢成了中国 AI 从业者经常聚会交流的地方。\n\n之前 Midjourney CEO @DavidSHolz 来中国的时候，也专门来过这里。\n\n也许未来的咖啡馆和酒吧，提供的不只是咖啡、网络和电源，还会提供算力。\n\n未来越来越有意思了😉"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 372,
+          "impression_count": 138688,
+          "like_count": 1053,
+          "quote_count": 64,
+          "reply_count": 137,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "🔥Breaking：北京一家酒吧，现在来消费就送无限量 @deepseek_ai  V4 Flash API Token🤯\n\n从今天开始，北京 AGI Bar 的顾客只要连接店内 Wi-Fi，就可以免费获得 DeepSeek V4 Flash 的 API，并且在店内使用期间 不限量。\n\n无需订阅，也不用担心 Token 消耗。只需要把 Base URL 和 API Key 填到 Claude https://t.co/RX4k4WEnGY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1868,
+          "following_count": 926,
+          "like_count": 10187,
+          "listed_count": 8,
+          "media_count": 821,
+          "tweet_count": 3624
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业，没啥好看的，也就发点AI相关的内容🫡\nHead of growth @lobehub（81K🌟）\nPrev @listenhub @Sapient_Int \n同名小红书4万粉丝，公众号01Founder（长文首发）\n观点仅代表个人\n更多请访问网站⬇️（欢迎商务、合作",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "lobehub"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "listenhub"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Sapient_Int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6feey"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "location": "Singapore",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2062538878096130207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24899,
+          "following_count": 2623,
+          "like_count": 18909,
+          "listed_count": 219,
+          "media_count": 1145,
+          "tweet_count": 8550
+        },
+        "url": "https://t.co/Sl0Wv6feey",
+        "username": "MaxForAI",
+        "verified": true
+      }
+    ]
+  }
+}

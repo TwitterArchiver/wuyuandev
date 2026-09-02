@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2078272867075264894",
+    "created_at": "2026-07-18T09:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T10:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078419415453032901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "949316104144457729",
+          "start": 0,
+          "username": "wangchangfu88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078419415453032901",
+    "in_reply_to_user_id": "949316104144457729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078272867075264894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangchangfu88 感恩......马克思？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9235,
+        "height": 2556,
+        "media_key": "13_2078272816634646528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078272816634646528/img/tNGEUpDINTAcEP8a.jpg",
+        "public_metrics": {
+          "view_count": 5344
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078272816634646528/vid/avc1/1180x2556/JyZK4VM8O3vJIlZz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078272816634646528/vid/avc1/480x1038/yTht2LEjmA-JTEO_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078272816634646528/vid/avc1/720x1558/uML4Kmo3mSbrmoYI.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078272816634646528/vid/avc1/320x692/Zhehlh0VkBOaUXaS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078272816634646528/pl/kAm_mxwV532cgKi3.m3u8"
+          }
+        ],
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2078272867075264894",
+        "created_at": "2026-07-18T09:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078419415453032901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "949316104144457729",
+              "start": 0,
+              "username": "wangchangfu88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078419415453032901",
+        "in_reply_to_user_id": "949316104144457729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078272867075264894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangchangfu88 感恩......马克思？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078272816634646528"
+          ]
+        },
+        "author_id": "949316104144457729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          }
+        ],
+        "conversation_id": "2078272867075264894",
+        "created_at": "2026-07-18T00:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T01:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078272867075264894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iUE7AOMu4L",
+              "end": 127,
+              "expanded_url": "https://x.com/wangchangfu88/status/2078272867075264894/video/1",
+              "media_key": "13_2078272816634646528",
+              "start": 104,
+              "url": "https://t.co/iUE7AOMu4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078272867075264894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 17870,
+          "like_count": 258,
+          "quote_count": 14,
+          "reply_count": 338,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "两周 X 创作收益 1649 美金 \n\n感谢 X，感谢马克思，感谢大家的支持\n\nGrok 抽 10 个和我来往最频繁的朋友\n\n三连此推，Grok 随机抽 5 个小伙伴\n\n每人一份豪华猪脚饭，48 小时后公示 https://t.co/iUE7AOMu4L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1651,
+          "following_count": 873,
+          "like_count": 8915,
+          "listed_count": 6,
+          "media_count": 654,
+          "tweet_count": 2943
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-05T16:26:11.000Z",
+        "description": "AI + Crypto | 运营增长 | 投资理财 | 破局提升 | 互动多的我都会回关",
+        "id": "949316104144457729",
+        "name": "王长富",
+        "pinned_tweet_id": "2075060135941259352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038198296771248128/ra3vBm-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25094,
+          "following_count": 2950,
+          "like_count": 26937,
+          "listed_count": 93,
+          "media_count": 396,
+          "tweet_count": 34972
+        },
+        "url": "",
+        "username": "wangchangfu88",
+        "verified": true
+      }
+    ]
+  }
+}
