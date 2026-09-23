@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095812592644308992",
+        "3_2095812616224743424",
+        "3_2095812673795690496"
+      ],
+      "media_source_tweet_id": [
+        "2095812734202085572",
+        "2095812734202085572",
+        "2095812734202085572"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "2095918134129779091",
+    "created_at": "2026-09-04T16:53:18.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T17:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095918134129779091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1693450364341948416",
+          "start": 3,
+          "username": "igeekbb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7AAH9wW8et",
+          "end": 112,
+          "expanded_url": "https://x.com/igeekbb/status/2095812734202085572/video/1",
+          "media_key": "13_2095812592644308992",
+          "start": 89,
+          "url": "https://t.co/7AAH9wW8et"
+        },
+        {
+          "display_url": "pic.x.com/7AAH9wW8et",
+          "end": 112,
+          "expanded_url": "https://x.com/igeekbb/status/2095812734202085572/video/1",
+          "media_key": "3_2095812616224743424",
+          "start": 89,
+          "url": "https://t.co/7AAH9wW8et"
+        },
+        {
+          "display_url": "pic.x.com/7AAH9wW8et",
+          "end": 112,
+          "expanded_url": "https://x.com/igeekbb/status/2095812734202085572/video/1",
+          "media_key": "3_2095812673795690496",
+          "start": 89,
+          "url": "https://t.co/7AAH9wW8et"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095918134129779091",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2095812592644308992"
+      },
+      {
+        "media_key": "3_2095812616224743424"
+      },
+      {
+        "media_key": "3_2095812673795690496"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095812734202085572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @igeekbb: 一个很纯粹的中国式家长，都听抑郁了，摊上这样的家长，简直是倒了八辈子的霉。\n\n这位王老师已经躯体化，心脏不好真干不来，建议反复观看，提升你的抗压能力。 https://t.co/7AAH9wW8et"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 128800,
+        "height": 1952,
+        "media_key": "13_2095812592644308992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095812592644308992/img/mEIBUyf2fwV-Ix0D.jpg",
+        "public_metrics": {
+          "view_count": 77230
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095812592644308992/vid/avc1/720x1300/k2lPTYouJNqtStV5.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095812592644308992/vid/avc1/320x578/j6meZ-wG22EZip5p.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095812592644308992/vid/avc1/1080x1952/i0Z-_vbDxo6RU3rl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095812592644308992/vid/avc1/480x866/4ac4Mv3s3w4M6v6l.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095812592644308992/pl/0XLUk3HyRm7CKiDK.m3u8?v=4d9"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 2438,
+        "media_key": "3_2095812616224743424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXSeGnboAAMulE.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1636,
+        "media_key": "3_2095812673795690496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXShdFakAAIlXR.jpg",
+        "width": 1018
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095812592644308992",
+            "3_2095812616224743424",
+            "3_2095812673795690496"
+          ],
+          "media_source_tweet_id": [
+            "2095812734202085572",
+            "2095812734202085572",
+            "2095812734202085572"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2095918134129779091",
+        "created_at": "2026-09-04T16:53:18.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T17:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095918134129779091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1693450364341948416",
+              "start": 3,
+              "username": "igeekbb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7AAH9wW8et",
+              "end": 112,
+              "expanded_url": "https://x.com/igeekbb/status/2095812734202085572/video/1",
+              "media_key": "13_2095812592644308992",
+              "start": 89,
+              "url": "https://t.co/7AAH9wW8et"
+            },
+            {
+              "display_url": "pic.x.com/7AAH9wW8et",
+              "end": 112,
+              "expanded_url": "https://x.com/igeekbb/status/2095812734202085572/video/1",
+              "media_key": "3_2095812616224743424",
+              "start": 89,
+              "url": "https://t.co/7AAH9wW8et"
+            },
+            {
+              "display_url": "pic.x.com/7AAH9wW8et",
+              "end": 112,
+              "expanded_url": "https://x.com/igeekbb/status/2095812734202085572/video/1",
+              "media_key": "3_2095812673795690496",
+              "start": 89,
+              "url": "https://t.co/7AAH9wW8et"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095918134129779091",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2095812592644308992"
+          },
+          {
+            "media_key": "3_2095812616224743424"
+          },
+          {
+            "media_key": "3_2095812673795690496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095812734202085572",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @igeekbb: 一个很纯粹的中国式家长，都听抑郁了，摊上这样的家长，简直是倒了八辈子的霉。\n\n这位王老师已经躯体化，心脏不好真干不来，建议反复观看，提升你的抗压能力。 https://t.co/7AAH9wW8et"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095812592644308992",
+            "3_2095812616224743424",
+            "3_2095812673795690496"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "2095812734202085572",
+        "created_at": "2026-09-04T09:54:28.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T10:52:26.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095812220957647264",
+          "2095812734202085572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7AAH9wW8et",
+              "end": 99,
+              "expanded_url": "https://x.com/igeekbb/status/2095812734202085572/video/1",
+              "media_key": "13_2095812592644308992",
+              "start": 76,
+              "url": "https://t.co/7AAH9wW8et"
+            },
+            {
+              "display_url": "pic.x.com/7AAH9wW8et",
+              "end": 99,
+              "expanded_url": "https://x.com/igeekbb/status/2095812734202085572/video/1",
+              "media_key": "3_2095812616224743424",
+              "start": 76,
+              "url": "https://t.co/7AAH9wW8et"
+            },
+            {
+              "display_url": "pic.x.com/7AAH9wW8et",
+              "end": 99,
+              "expanded_url": "https://x.com/igeekbb/status/2095812734202085572/video/1",
+              "media_key": "3_2095812673795690496",
+              "start": 76,
+              "url": "https://t.co/7AAH9wW8et"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095812734202085572",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2095812592644308992"
+          },
+          {
+            "media_key": "3_2095812616224743424"
+          },
+          {
+            "media_key": "3_2095812673795690496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 345,
+          "impression_count": 119912,
+          "like_count": 653,
+          "quote_count": 11,
+          "reply_count": 237,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "一个很纯粹的中国式家长，都听抑郁了，摊上这样的家长，简直是倒了八辈子的霉。\n\n这位王老师已经躯体化，心脏不好真干不来，建议反复观看，提升你的抗压能力。 https://t.co/7AAH9wW8et"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，学生，应该是猫猫。\n所以猫猫想要被你关注！\n\n私人号 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2095918134129779091",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2281,
+          "following_count": 1244,
+          "like_count": 12390,
+          "listed_count": 10,
+          "media_count": 982,
+          "tweet_count": 4383
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095902457490530671",
+        "name": "iGeekbb",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1693450364341948416/1714738367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88693,
+          "following_count": 1,
+          "like_count": 17741,
+          "listed_count": 345,
+          "media_count": 9662,
+          "tweet_count": 14594
+        },
+        "url": "",
+        "username": "igeekbb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

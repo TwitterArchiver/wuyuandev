@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      }
+    ],
+    "conversation_id": "2100946838404972729",
+    "created_at": "2026-09-19T06:04:22.000Z",
+    "display_text_range": [
+      17,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T07:04:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101190643603153342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1594151908628844546",
+          "start": 0,
+          "username": "Realme_ramirisu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101190643603153342",
+    "in_reply_to_user_id": "1594151908628844546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100946838404972729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Realme_ramirisu Androidでは、アプリ「创建快捷方式」を使用することでこれを実現できます。\n\nそして、私たちはこれらの画像が必要なのです！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100946830125367297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgQAr2bAAEnhUv.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2100946838404972729",
+        "created_at": "2026-09-19T06:04:22.000Z",
+        "display_text_range": [
+          17,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T07:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101190643603153342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1594151908628844546",
+              "start": 0,
+              "username": "Realme_ramirisu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101190643603153342",
+        "in_reply_to_user_id": "1594151908628844546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100946838404972729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Realme_ramirisu Androidでは、アプリ「创建快捷方式」を使用することでこれを実現できます。\n\nそして、私たちはこれらの画像が必要なのです！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100946830125367297"
+          ]
+        },
+        "author_id": "1594151908628844546",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100946838404972729",
+        "created_at": "2026-09-18T13:55:34.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100946838404972729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pC7wTXiYP3",
+              "end": 27,
+              "expanded_url": "https://x.com/Realme_ramirisu/status/2100946838404972729/photo/1",
+              "media_key": "3_2100946830125367297",
+              "start": 4,
+              "url": "https://t.co/pC7wTXiYP3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100946838404972729",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100946830125367297"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 524,
+          "impression_count": 79216,
+          "like_count": 2135,
+          "quote_count": 12,
+          "reply_count": 43,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "今これ https://t.co/pC7wTXiYP3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，学生，应该是猫猫。\n所以猫猫想要被你关注！\nINFP，精神稳定。\n私人号 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2101190643603153342",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2370,
+          "following_count": 1279,
+          "like_count": 12916,
+          "listed_count": 10,
+          "media_count": 1055,
+          "tweet_count": 4635
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-20T02:13:41.000Z",
+        "description": "百合厨｜ Retweet Bot｜Icon and Love: @pepq__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 32,
+                "username": "pepq__"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "misskey.vip/@mirisu",
+                "end": 23,
+                "expanded_url": "https://misskey.vip/@mirisu",
+                "start": 0,
+                "url": "https://t.co/mruNQZ3aH3"
+              }
+            ]
+          }
+        },
+        "id": "1594151908628844546",
+        "is_identity_verified": false,
+        "location": "Misskeyに生息しています",
+        "most_recent_tweet_id": "2101138232964768116",
+        "name": "ギットギトの…GitHub……w",
+        "pinned_tweet_id": "2028166772466307301",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1594151908628844546/1755924956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907005263057711104/rccMF0AV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 3192,
+          "like_count": 108960,
+          "listed_count": 5,
+          "media_count": 1234,
+          "tweet_count": 21969
+        },
+        "url": "https://t.co/mruNQZ3aH3",
+        "username": "Realme_ramirisu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

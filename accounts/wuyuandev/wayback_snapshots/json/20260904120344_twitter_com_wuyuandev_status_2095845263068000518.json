@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2095845263068000518",
+    "created_at": "2026-09-04T12:03:44.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T13:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095845263068000518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1759787246587379712",
+          "start": 3,
+          "username": "Cybergbsnx2009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095845263068000518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095506210229477517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cybergbsnx2009: 孩子们，我回来了✋😭🤚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2095845263068000518",
+        "created_at": "2026-09-04T12:03:44.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095845263068000518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1759787246587379712",
+              "start": 3,
+              "username": "Cybergbsnx2009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095845263068000518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095506210229477517",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cybergbsnx2009: 孩子们，我回来了✋😭🤚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759787246587379712",
+        "conversation_id": "2095506210229477517",
+        "created_at": "2026-09-03T13:36:27.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T14:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095506210229477517"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095506210229477517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 483,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们，我回来了✋😭🤚"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，学生，应该是猫猫。\n所以猫猫想要被你关注！\n\n私人号 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2095845263068000518",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2277,
+          "following_count": 1244,
+          "like_count": 12364,
+          "listed_count": 10,
+          "media_count": 980,
+          "tweet_count": 4374
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "Xiaomi former partner | 数码爱好者、民主社会主义/进步主义、INFP、LGBT(MTX)| CN/EN/JP/DE | 高中辍学生 |  MCN:专注次元",
+        "id": "1759787246587379712",
+        "is_identity_verified": true,
+        "location": "China",
+        "most_recent_tweet_id": "2095815955633107188",
+        "name": "高坂穗奈雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759787246587379712/1788512553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095506052594954240/XbT0PqEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2477,
+          "following_count": 1583,
+          "like_count": 6521,
+          "listed_count": 10,
+          "media_count": 972,
+          "tweet_count": 3300
+        },
+        "url": "",
+        "username": "Cybergbsnx2009",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

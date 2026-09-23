@@ -1,0 +1,463 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100901383176355840"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "2100570517954838897",
+    "created_at": "2026-09-18T10:54:59.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T11:54:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100901390533152947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "28754022",
+          "start": 0,
+          "username": "coolish"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/03lyw0rCyF",
+          "end": 37,
+          "expanded_url": "https://x.com/wuyuandev/status/2100901390533152947/photo/1",
+          "media_key": "3_2100901383176355840",
+          "start": 14,
+          "url": "https://t.co/03lyw0rCyF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100901390533152947",
+    "in_reply_to_user_id": "28754022",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2100901383176355840"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100570517954838897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coolish 眩晕瘫坐 https://t.co/03lyw0rCyF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 605,
+        "media_key": "3_2100901383176355840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSfmrUxagAAB7iq.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 33258,
+        "height": 3840,
+        "media_key": "13_2100569632482746369",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100569632482746369/img/TPuOBiHYCWUWxNOc.jpg",
+        "public_metrics": {
+          "view_count": 59344
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100569632482746369/vid/avc1/480x852/fidWFZUq6SgKu_S_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100569632482746369/vid/avc1/720x1280/u5C_X6VgImYPVWn0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100569632482746369/pl/o-cHa_OpdCLE3Sww.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100569632482746369/vid/avc1/2160x3840/wSKmX_IAXY-wcRYM.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100569632482746369/vid/avc1/1080x1920/V3iwQSRXe-5tGlcW.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100569632482746369/vid/avc1/320x568/FVP3i4_liPcaojvz.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100901383176355840"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2100570517954838897",
+        "created_at": "2026-09-18T10:54:59.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T11:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100901390533152947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "28754022",
+              "start": 0,
+              "username": "coolish"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/03lyw0rCyF",
+              "end": 37,
+              "expanded_url": "https://x.com/wuyuandev/status/2100901390533152947/photo/1",
+              "media_key": "3_2100901383176355840",
+              "start": 14,
+              "url": "https://t.co/03lyw0rCyF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100901390533152947",
+        "in_reply_to_user_id": "28754022",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100901383176355840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100570517954838897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coolish 眩晕瘫坐 https://t.co/03lyw0rCyF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100569632482746369"
+          ]
+        },
+        "author_id": "28754022",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2100570517954838897",
+        "created_at": "2026-09-17T13:00:12.000Z",
+        "display_text_range": [
+          0,
+          168
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T14:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100570517954838897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "TypeSafe AI is an AI lab building machine-native intelligence infrastructure for automation, designed to make decisions within software. Try our first System One Model, Jev, in early access.",
+              "display_url": "typesafe.ai",
+              "end": 28,
+              "expanded_url": "https://typesafe.ai",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2099954165766320128/GFU4855u?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2099954165766320128/GFU4855u?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 5,
+              "status": 200,
+              "title": "Home - TypeSafe AI",
+              "unwound_url": "https://typesafe.ai",
+              "url": "https://t.co/6eiMFaJTrj"
+            },
+            {
+              "display_url": "pic.x.com/y9Nu78Hnv4",
+              "end": 192,
+              "expanded_url": "https://x.com/coolish/status/2100570517954838897/video/1",
+              "media_key": "13_2100569632482746369",
+              "start": 169,
+              "url": "https://t.co/y9Nu78Hnv4"
+            },
+            {
+              "display_url": "x.com/completeskepti…",
+              "end": 216,
+              "expanded_url": "https://twitter.com/completeskeptic/status/2099925682726002904",
+              "start": 193,
+              "url": "https://t.co/HRpIRliHdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100570517954838897",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2100569632482746369"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 682,
+          "impression_count": 189706,
+          "like_count": 947,
+          "quote_count": 14,
+          "reply_count": 308,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099925682726002904",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨天出的 https://t.co/6eiMFaJTrj Jev 模型\n适合高频决策，那岂不又是适合打游戏？\n\n之前用 GPT-6 Astra 代打杀戮尖塔2\n能力强但速度慢。\n\n我刚实测用 Jev 打，行动思考只需 0.7秒，\n画面我都没看清它就操作完了。\n这超人类游戏速度，\n着实又让我震惊瘫坐了😅\n\n语言很难描述这感觉，看视频⬇️ https://t.co/y9Nu78Hnv4 https://t.co/HRpIRliHdP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，学生，应该是猫猫。\n所以猫猫想要被你关注！\nINFP，精神稳定。\n私人号 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2100901390533152947",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2365,
+          "following_count": 1274,
+          "like_count": 12889,
+          "listed_count": 10,
+          "media_count": 1046,
+          "tweet_count": 4613
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-04-04T06:32:23.000Z",
+        "description": "crypto trader since 2013 / ex co-founder of social network apps with 50+ million users",
+        "id": "28754022",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2100866692616540310",
+        "name": "paulwei",
+        "pinned_tweet_id": "2025470945218232492",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28754022/1647407924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1548729057994452992/Kcs8r3YR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64689,
+          "following_count": 3870,
+          "like_count": 7515,
+          "listed_count": 1849,
+          "media_count": 1478,
+          "tweet_count": 4160
+        },
+        "url": "",
+        "username": "coolish",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100354910797844480"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "2100354917513011484",
+    "created_at": "2026-09-16T22:43:29.000Z",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T23:43:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100354917513011484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1914997266890579968",
+          "start": 6,
+          "username": "XiaomiMiMo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XA3IVWSAgU",
+          "end": 120,
+          "expanded_url": "https://x.com/wuyuandev/status/2100354917513011484/photo/1",
+          "media_key": "3_2100354910797844480",
+          "start": 97,
+          "url": "https://t.co/XA3IVWSAgU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100354917513011484",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100354910797844480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新闻：小米 @XiaomiMiMo 正在直播mimo-v2.6的训练进度，包括成本（我看到的时候是加起来100万美元），和实时的DeepSWE分数\n\n还有很多我看不懂的参数，大佬来解释下？！👇 https://t.co/XA3IVWSAgU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3669,
+        "media_key": "3_2100354910797844480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSX1qchaUAAXLab.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100354910797844480"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2100354917513011484",
+        "created_at": "2026-09-16T22:43:29.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T23:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100354917513011484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1914997266890579968",
+              "start": 6,
+              "username": "XiaomiMiMo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XA3IVWSAgU",
+              "end": 120,
+              "expanded_url": "https://x.com/wuyuandev/status/2100354917513011484/photo/1",
+              "media_key": "3_2100354910797844480",
+              "start": 97,
+              "url": "https://t.co/XA3IVWSAgU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100354917513011484",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100354910797844480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新闻：小米 @XiaomiMiMo 正在直播mimo-v2.6的训练进度，包括成本（我看到的时候是加起来100万美元），和实时的DeepSWE分数\n\n还有很多我看不懂的参数，大佬来解释下？！👇 https://t.co/XA3IVWSAgU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，学生，应该是猫猫。\n所以猫猫想要被你关注！\nINFP，精神稳定。\n私人号 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2100354922307104919",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2382,
+          "following_count": 1285,
+          "like_count": 12870,
+          "listed_count": 10,
+          "media_count": 1038,
+          "tweet_count": 4597
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-23T10:59:01.000Z",
+        "description": "@XiaomiMiMoDevs where we share API and product updates",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "XiaomiMiMoDevs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mimo.xiaomi.com",
+                "end": 23,
+                "expanded_url": "https://mimo.xiaomi.com/",
+                "start": 0,
+                "url": "https://t.co/En02thtIYK"
+              }
+            ]
+          }
+        },
+        "id": "1914997266890579968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097237573261574326",
+        "name": "Xiaomi MiMo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1914997266890579968/1774964748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999123454247972865/8PkB-sNt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30975,
+          "following_count": 40,
+          "like_count": 116,
+          "listed_count": 313,
+          "media_count": 61,
+          "tweet_count": 133
+        },
+        "url": "https://t.co/En02thtIYK",
+        "username": "XiaomiMiMo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

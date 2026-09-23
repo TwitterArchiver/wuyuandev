@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2096825479244521683",
+    "created_at": "2026-09-07T13:02:43.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T14:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096947270017220991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1363127588701368323",
+          "start": 0,
+          "username": "Ion_Mio_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096947270017220991",
+    "in_reply_to_user_id": "1363127588701368323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096825479244521683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ion_Mio_ 已严肃加入😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2096825479244521683",
+        "created_at": "2026-09-07T13:02:43.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T14:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096947270017220991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1363127588701368323",
+              "start": 0,
+              "username": "Ion_Mio_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096947270017220991",
+        "in_reply_to_user_id": "1363127588701368323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096825479244521683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ion_Mio_ 已严肃加入😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363127588701368323",
+        "conversation_id": "2096825479244521683",
+        "created_at": "2026-09-07T04:58:46.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096825479244521683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "来 Discord New API 社区瞧瞧——结交近 124 名成员，畅享免费语音与文字聊天。",
+              "display_url": "discord.gg/MbnjNguNG",
+              "end": 23,
+              "expanded_url": "https://discord.gg/MbnjNguNG",
+              "start": 0,
+              "status": 200,
+              "title": "加入 Discord 服务器 New API！",
+              "unwound_url": "https://discord.com/invite/MbnjNguNG",
+              "url": "https://t.co/JmHDkQVVDx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096825479244521683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1961,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JmHDkQVVDx\n有New API的用户吗，加进来一起聊聊天🥺"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，学生，应该是猫猫。\n所以猫猫想要被你关注！\n\n私人号 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2096947270017220991",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2303,
+          "following_count": 1259,
+          "like_count": 12514,
+          "listed_count": 10,
+          "media_count": 1000,
+          "tweet_count": 4441
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-20T14:05:27.000Z",
+        "description": "Creator of @newapi_ai｜❤️ @Seefs_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "newapi_ai"
+              },
+              {
+                "end": 32,
+                "start": 25,
+                "username": "Seefs_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Calcium-Ion",
+                "end": 23,
+                "expanded_url": "https://github.com/Calcium-Ion",
+                "start": 0,
+                "url": "https://t.co/Z3Se1ig2bE"
+              }
+            ]
+          }
+        },
+        "id": "1363127588701368323",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096825479244521683",
+        "name": "离离子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1363127588701368323/1637432972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798068602555551744/VQ2uYuyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5857,
+          "following_count": 909,
+          "like_count": 10069,
+          "listed_count": 37,
+          "media_count": 147,
+          "tweet_count": 1444
+        },
+        "url": "https://t.co/Z3Se1ig2bE",
+        "username": "Ion_Mio_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

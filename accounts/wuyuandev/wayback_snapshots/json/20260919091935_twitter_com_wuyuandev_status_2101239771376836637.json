@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Information Privacy",
+          "id": "1088443224425807872",
+          "name": "Information Privacy Worldwide"
+        }
+      }
+    ],
+    "conversation_id": "2101239771376836637",
+    "created_at": "2026-09-19T09:19:35.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T10:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101239771376836637"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "带自动翻译的 Hacker News：热门、最新、问答、招聘与评论，用你的语言阅读。",
+          "display_url": "hackertrans.com",
+          "end": 53,
+          "expanded_url": "https://hackertrans.com",
+          "start": 30,
+          "status": 200,
+          "title": "HackerTrans",
+          "unwound_url": "https://hackertrans.com/zh-CN",
+          "url": "https://t.co/XmVPqJ4ZXN"
+        },
+        {
+          "display_url": "x.com/Murong_WangKez…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/Murong_WangKezi/status/2101234857154076714",
+          "start": 54,
+          "url": "https://t.co/eLQrCeFOxR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101239771376836637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101234857154076714",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以防你不知道，我们有一个产品叫\nHacker Trans\n\nhttps://t.co/XmVPqJ4ZXN https://t.co/eLQrCeFOxR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 759,
+        "media_key": "3_2099894021409939457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSRSfJwbIAEKod4.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Privacy",
+              "id": "1088443224425807872",
+              "name": "Information Privacy Worldwide"
+            }
+          }
+        ],
+        "conversation_id": "2101239771376836637",
+        "created_at": "2026-09-19T09:19:35.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T10:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101239771376836637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "带自动翻译的 Hacker News：热门、最新、问答、招聘与评论，用你的语言阅读。",
+              "display_url": "hackertrans.com",
+              "end": 53,
+              "expanded_url": "https://hackertrans.com",
+              "start": 30,
+              "status": 200,
+              "title": "HackerTrans",
+              "unwound_url": "https://hackertrans.com/zh-CN",
+              "url": "https://t.co/XmVPqJ4ZXN"
+            },
+            {
+              "display_url": "x.com/Murong_WangKez…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/Murong_WangKezi/status/2101234857154076714",
+              "start": 54,
+              "url": "https://t.co/eLQrCeFOxR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101239771376836637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101234857154076714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以防你不知道，我们有一个产品叫\nHacker Trans\n\nhttps://t.co/XmVPqJ4ZXN https://t.co/eLQrCeFOxR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099894021409939457"
+          ]
+        },
+        "author_id": "1870315714638385152",
+        "conversation_id": "2101234857154076714",
+        "created_at": "2026-09-19T09:00:03.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T10:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101234857154076714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZG1OLqffPm",
+              "end": 105,
+              "expanded_url": "https://x.com/Murong_WangKezi/status/2101234857154076714/photo/1",
+              "media_key": "3_2099894021409939457",
+              "start": 82,
+              "url": "https://t.co/ZG1OLqffPm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101234857154076714",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099894021409939457"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还以为什么外国公司，一看总部：中国深圳\n所以Transtech都干什么啊）\n另外这个网站上的图片加上一片英语有种微微的诡异感\n有种掉入backroom的感觉qwq https://t.co/ZG1OLqffPm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，学生，应该是猫猫。\n所以猫猫想要被你关注！\nINFP，精神稳定。\n私人号 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2101239771376836637",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2368,
+          "following_count": 1280,
+          "like_count": 12932,
+          "listed_count": 10,
+          "media_count": 1058,
+          "tweet_count": 4645
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（具体正式开始时间已不可考）\n业余摄影 | 偶尔发癫 | Minecraft | 好闺蜜@Murong_WangKezi |\n亲友互fo 欢迎扩列～\n清水推～ 欢迎来找语言文字差错ww\n作品二次使用请写明作者。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "is_identity_verified": false,
+        "location": "Xi'an, Shaanxi Province, China",
+        "most_recent_tweet_id": "2101234857154076714",
+        "name": "Murong🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2093342957562978762",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870315714638385152/1746972180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 130,
+          "like_count": 11549,
+          "listed_count": 2,
+          "media_count": 878,
+          "tweet_count": 5306
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

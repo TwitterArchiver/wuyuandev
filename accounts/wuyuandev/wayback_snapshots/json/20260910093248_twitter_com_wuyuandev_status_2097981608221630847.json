@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2097901175094096156",
+    "created_at": "2026-09-10T09:32:48.000Z",
+    "display_text_range": [
+      10,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T10:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097981608221630847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2834094312",
+          "start": 0,
+          "username": "xiaoshen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097981608221630847",
+    "in_reply_to_user_id": "2834094312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097901175094096156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoshen 哎呦喂，这不王总吗🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2097901175094096156",
+        "created_at": "2026-09-10T09:32:48.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T10:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097981608221630847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2834094312",
+              "start": 0,
+              "username": "xiaoshen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097981608221630847",
+        "in_reply_to_user_id": "2834094312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097901175094096156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoshen 哎呦喂，这不王总吗🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2834094312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2097901175094096156",
+        "created_at": "2026-09-10T04:13:11.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T05:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097901175094096156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoshen/statu…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/xiaoshen/status/2097837708496228550",
+              "start": 53,
+              "url": "https://t.co/9vRRHUXoxH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097901175094096156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 33414,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 314,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097837708496228550",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抽个粉丝送我一台 iphone Duo\n\n直接评论区留言，我愿意\n\n24小时后grok抽奖，公平公正公开 https://t.co/9vRRHUXoxH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，学生，应该是猫猫。\n所以猫猫想要被你关注！\n\n私人号 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2097981608221630847",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2297,
+          "following_count": 1270,
+          "like_count": 12630,
+          "listed_count": 10,
+          "media_count": 1007,
+          "tweet_count": 4473
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-09-27T14:51:29.000Z",
+        "description": "｜币圈段子手、玩梗专家；258.eth\n｜互联网已退休产品经理，一个还没脱离低级趣味的人\n｜币安、okx、bitget三大交易所统一邀请码：xiaoshen",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fomo.box",
+                "end": 23,
+                "expanded_url": "https://fomo.box",
+                "start": 0,
+                "url": "https://t.co/SuQ8MEnYcl"
+              }
+            ]
+          }
+        },
+        "id": "2834094312",
+        "is_identity_verified": true,
+        "location": "合作联系TG：xiaoshen12366",
+        "most_recent_tweet_id": "2097980742911533221",
+        "name": "王小神",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2834094312/1780796748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063437226814681088/Xa3_1RgY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19063,
+          "following_count": 10889,
+          "like_count": 99865,
+          "listed_count": 62,
+          "media_count": 2431,
+          "tweet_count": 54429
+        },
+        "url": "https://t.co/SuQ8MEnYcl",
+        "username": "xiaoshen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

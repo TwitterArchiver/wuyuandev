@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2100183137238298920",
+    "created_at": "2026-09-16T11:50:14.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T12:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100190520492589263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "lumigj02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100190520492589263",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100183137238298920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@lumigj02 诶？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2100182979616395264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSVZSu9bUAAy39B.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 7340,
+        "height": 1080,
+        "media_key": "13_2100182979666677760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100182979666677760/img/GtBjjP1cldVdeMBy.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100182979666677760/vid/avc1/640x360/Zt51C50XceahVxkm.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100182979666677760/vid/avc1/1920x1080/EWN2iNBgujfQVVli.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100182979666677760/pl/x3q9LNfKGP-NsMD8.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100182979666677760/vid/avc1/1280x720/KqQsMYosYYavrLN3.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100182979666677760/vid/avc1/480x270/AzBeHZxXZEvj7oVg.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 30588,
+        "height": 1920,
+        "media_key": "13_2100183064836227072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100183064836227072/img/g6epeTNpsekuPgjr.jpg",
+        "public_metrics": {
+          "view_count": 18
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100183064836227072/vid/avc1/480x852/y_-GESpqSA5i6HoS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100183064836227072/vid/avc1/720x1280/Yk1Xr2v56bLJ1Eb7.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100183064836227072/vid/avc1/320x568/Jz1nthLuiD2wvoDH.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100183064836227072/vid/avc1/1080x1920/v-Gz-o4Fntwor-xo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100183064836227072/pl/gnFkt3ZKuVJgTe7z.m3u8"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 10735,
+        "height": 1920,
+        "media_key": "13_2100183064811106307",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100183064811106307/img/eFMwfwVrKXrrZ7-a.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100183064811106307/pl/JhA5bF2LG8H4sWF8.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100183064811106307/vid/avc1/320x568/cTg22GZj7SSMGNAk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100183064811106307/vid/avc1/480x852/b02lLQ79k15xtpG1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100183064811106307/vid/avc1/720x1280/ObIkiAxXogZn_hbr.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100183064811106307/vid/avc1/1080x1920/pRt8zP-l4ot-dSOI.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2100183137238298920",
+        "created_at": "2026-09-16T11:50:14.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T12:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100190520492589263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100190520492589263",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100183137238298920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@lumigj02 诶？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100182979616395264",
+            "13_2100182979666677760",
+            "13_2100183064836227072",
+            "13_2100183064811106307"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2100183137238298920",
+        "created_at": "2026-09-16T11:20:54.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T12:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100183137238298920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CM2ZE8nIbC",
+              "end": 93,
+              "expanded_url": "https://x.com/lumigj02/status/2100183137238298920/video/1",
+              "media_key": "3_2100182979616395264",
+              "start": 70,
+              "url": "https://t.co/CM2ZE8nIbC"
+            },
+            {
+              "display_url": "pic.x.com/CM2ZE8nIbC",
+              "end": 93,
+              "expanded_url": "https://x.com/lumigj02/status/2100183137238298920/video/1",
+              "media_key": "13_2100182979666677760",
+              "start": 70,
+              "url": "https://t.co/CM2ZE8nIbC"
+            },
+            {
+              "display_url": "pic.x.com/CM2ZE8nIbC",
+              "end": 93,
+              "expanded_url": "https://x.com/lumigj02/status/2100183137238298920/video/1",
+              "media_key": "13_2100183064836227072",
+              "start": 70,
+              "url": "https://t.co/CM2ZE8nIbC"
+            },
+            {
+              "display_url": "pic.x.com/CM2ZE8nIbC",
+              "end": 93,
+              "expanded_url": "https://x.com/lumigj02/status/2100183137238298920/video/1",
+              "media_key": "13_2100183064811106307",
+              "start": 70,
+              "url": "https://t.co/CM2ZE8nIbC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100183137238298920",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100182979616395264"
+          },
+          {
+            "media_key": "13_2100182979666677760"
+          },
+          {
+            "media_key": "13_2100183064836227072"
+          },
+          {
+            "media_key": "13_2100183064811106307"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "不知道当时惹上我的时候会不会想到我真的会线下真实呢😄\n在网上好拽嘛 怎么到线下就软弱惨咯？？派出所耍起才晓得害怕？\n\n也是晶哥最给力的一次 https://t.co/CM2ZE8nIbC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，学生，应该是猫猫。\n所以猫猫想要被你关注！\nINFP，精神稳定。\n私人号 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2100190520492589263",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2377,
+          "following_count": 1282,
+          "like_count": 12855,
+          "listed_count": 10,
+          "media_count": 1035,
+          "tweet_count": 4589
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "14 | 老婆 @leetfs1\n\n笨蛋姐姐 @hoshi_asuka0089 | 坏恒 @xiaoheng22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "leetfs1"
+              },
+              {
+                "end": 39,
+                "start": 23,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "xiaoheng22"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100183137238298920",
+        "name": "猫卷",
+        "pinned_tweet_id": "2095803686199152870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552918719440924672/1787269850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090435933623746560/oiHv3ACB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4444,
+          "following_count": 844,
+          "like_count": 4515,
+          "listed_count": 9,
+          "media_count": 205,
+          "tweet_count": 1584
+        },
+        "url": "",
+        "username": "lumigj02",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

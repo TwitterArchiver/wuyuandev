@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2095642584479944873",
+    "created_at": "2026-09-04T15:25:33.000Z",
+    "display_text_range": [
+      8,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T16:25:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095896054474699141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "931748183796887552",
+          "start": 0,
+          "username": "AHpxEx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095896054474699141",
+    "in_reply_to_user_id": "931748183796887552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095808806517399856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AHpxEx 看起来很多人在做事的时候都很想当然"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2095642584479944873",
+        "created_at": "2026-09-04T15:25:33.000Z",
+        "display_text_range": [
+          8,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T16:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095896054474699141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "931748183796887552",
+              "start": 0,
+              "username": "AHpxEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095896054474699141",
+        "in_reply_to_user_id": "931748183796887552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095808806517399856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AHpxEx 看起来很多人在做事的时候都很想当然"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "931748183796887552",
+        "conversation_id": "2095642584479944873",
+        "created_at": "2026-09-04T09:38:52.000Z",
+        "display_text_range": [
+          11,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T10:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095808806517399856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095808806517399856",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1924,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095642584479944873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev 但凡看过一百多年前涂尔干的《自杀论》…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，学生，应该是猫猫。\n所以猫猫想要被你关注！\n\n私人号 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2095896054474699141",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2278,
+          "following_count": 1244,
+          "like_count": 12374,
+          "listed_count": 10,
+          "media_count": 982,
+          "tweet_count": 4377
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-11-18T04:57:32.000Z",
+        "description": "年轻多愁善感又时而天真。探索 & 构建。prev @ConvergeAI_X\n正在做 https://t.co/v3wtWixl45",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "ConvergeAI_X"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ReadAware.app",
+                "end": 66,
+                "expanded_url": "http://ReadAware.app",
+                "start": 43,
+                "url": "https://t.co/v3wtWixl45"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ahpx.me",
+                "end": 23,
+                "expanded_url": "https://ahpx.me",
+                "start": 0,
+                "url": "https://t.co/oVSbYwYZWc"
+              }
+            ]
+          }
+        },
+        "id": "931748183796887552",
+        "is_identity_verified": false,
+        "location": "Slowsand",
+        "most_recent_tweet_id": "2095809114329022561",
+        "name": "破晓",
+        "pinned_tweet_id": "1598704086928347137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/931748183796887552/1673238788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036732899769425920/Z8vv_vEV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 638,
+          "like_count": 29586,
+          "listed_count": 11,
+          "media_count": 1287,
+          "tweet_count": 5910
+        },
+        "url": "https://t.co/oVSbYwYZWc",
+        "username": "AHpxEx",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

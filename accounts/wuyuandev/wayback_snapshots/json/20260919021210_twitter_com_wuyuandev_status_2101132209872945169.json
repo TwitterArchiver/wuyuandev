@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2101132209872945169",
+    "created_at": "2026-09-19T02:12:10.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T03:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101132209872945169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/solidSF/status…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/solidSF/status/2100951131354743013",
+          "start": 42,
+          "url": "https://t.co/ZLvkzcFxtD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101132209872945169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100951131354743013",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "似乎是继Jev后新的让人难以理解的AI模型出现了\n我将尽力思考他们这个帖子说了什么 https://t.co/ZLvkzcFxtD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 858,
+        "media_key": "3_2100950996474339328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgTzMtbIAAQteX.jpg",
+        "width": 1117
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2101132209872945169",
+        "created_at": "2026-09-19T02:12:10.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T03:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101132209872945169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/solidSF/status…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/solidSF/status/2100951131354743013",
+              "start": 42,
+              "url": "https://t.co/ZLvkzcFxtD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101132209872945169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100951131354743013",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "似乎是继Jev后新的让人难以理解的AI模型出现了\n我将尽力思考他们这个帖子说了什么 https://t.co/ZLvkzcFxtD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100950996474339328"
+          ]
+        },
+        "author_id": "2030690337635872768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100951131354743013",
+        "created_at": "2026-09-18T14:12:38.000Z",
+        "display_text_range": [
+          0,
+          264
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100951131354743013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7HK7hJmUGu",
+              "end": 288,
+              "expanded_url": "https://x.com/solidSF/status/2100951131354743013/photo/1",
+              "media_key": "3_2100950996474339328",
+              "start": 265,
+              "url": "https://t.co/7HK7hJmUGu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100951131354743013",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2100950996474339328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "today we announce something truly special\n\nintroducing: Jesse v1\n\nthis model architecture is all new, from scratch, built and trained using public, popular datasets\n\nit consumes 0 tokens, and does not have weights\n\nit reasons, it believes, and it's very, very fast"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 492,
+          "impression_count": 52591,
+          "like_count": 399,
+          "quote_count": 24,
+          "reply_count": 27,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "today we announce something truly special\n\nintroducing: Jesse v1\n\nthis model architecture is all new, from scratch, built and trained using public, popular datasets\n\nit consumes 0 tokens, and does not have weights\n\nit reasons, it believes, and it's very, very fast https://t.co/7HK7hJmUGu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，学生，应该是猫猫。\n所以猫猫想要被你关注！\nINFP，精神稳定。\n私人号 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2101132209872945169",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2369,
+          "following_count": 1277,
+          "like_count": 12905,
+          "listed_count": 10,
+          "media_count": 1049,
+          "tweet_count": 4627
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-08T17:01:30.000Z",
+        "description": "foundational lab\nbayesian agents, multiphysics, fully agentic hardware",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "solidsf.com",
+                "end": 23,
+                "expanded_url": "http://solidsf.com",
+                "start": 0,
+                "url": "https://t.co/OIEKOe6jcD"
+              }
+            ]
+          }
+        },
+        "id": "2030690337635872768",
+        "is_identity_verified": false,
+        "location": "san francisco",
+        "most_recent_tweet_id": "2101129445465862482",
+        "name": "solidSF",
+        "pinned_tweet_id": "2089414806730408313",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2030690337635872768/1784911616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054744367299198976/-qzwaYht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 130,
+          "like_count": 491,
+          "listed_count": 14,
+          "media_count": 62,
+          "tweet_count": 362
+        },
+        "url": "https://t.co/OIEKOe6jcD",
+        "username": "solidSF",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

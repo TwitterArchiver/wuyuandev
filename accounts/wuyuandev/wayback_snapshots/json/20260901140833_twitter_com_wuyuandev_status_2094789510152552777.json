@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2094789510152552777",
+    "created_at": "2026-09-01T14:08:33.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T15:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094789510152552777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1043133270878117889",
+          "start": 3,
+          "username": "pure_cageling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094789510152552777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074863074478260674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pure_cageling: 我每天在工作里使用的词汇：\n主人、奴隶、马具、细绳、控制者、模特\n听起来不像是啥正经工作。\n但是换成英语：\nmaster、slave、harness、string、controller、model\n这就是普通的程序员啊！\n果然计算机这行是有…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2094789510152552777",
+        "created_at": "2026-09-01T14:08:33.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T15:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094789510152552777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1043133270878117889",
+              "start": 3,
+              "username": "pure_cageling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094789510152552777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074863074478260674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pure_cageling: 我每天在工作里使用的词汇：\n主人、奴隶、马具、细绳、控制者、模特\n听起来不像是啥正经工作。\n但是换成英语：\nmaster、slave、harness、string、controller、model\n这就是普通的程序员啊！\n果然计算机这行是有…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1043133270878117889",
+        "conversation_id": "2074863074478260674",
+        "created_at": "2026-07-08T14:28:00.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074863074478260674"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074863074478260674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 178071,
+          "like_count": 1095,
+          "quote_count": 5,
+          "reply_count": 58,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "我每天在工作里使用的词汇：\n主人、奴隶、马具、细绳、控制者、模特\n听起来不像是啥正经工作。\n但是换成英语：\nmaster、slave、harness、string、controller、model\n这就是普通的程序员啊！\n果然计算机这行是有点说法的🤣"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，学生，应该是猫猫。\n所以猫猫想要被你关注！\n\n私人号 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2094789510152552777",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2175,
+          "following_count": 1182,
+          "like_count": 12232,
+          "listed_count": 10,
+          "media_count": 967,
+          "tweet_count": 4333
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-09-21T13:42:07.000Z",
+        "description": "被严格管理的小狗，男已婚，不加联系方式。推特主要用来分享一些自己的小故事，如果能让大家看的开心那就太好啦☺️ 不合胃口看的不喜欢也请不要骂我🥺",
+        "id": "1043133270878117889",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2094783686415913392",
+        "name": "Shiro",
+        "pinned_tweet_id": "1930330485018038553",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1043133270878117889/1788182388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911479557292544000/YuRrfg2d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45451,
+          "following_count": 1034,
+          "like_count": 654,
+          "listed_count": 96,
+          "media_count": 52,
+          "tweet_count": 1000
+        },
+        "url": "",
+        "username": "pure_cageling",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

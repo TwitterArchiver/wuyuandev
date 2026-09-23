@@ -1,0 +1,547 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2099604156918939747",
+    "created_at": "2026-09-14T22:30:32.000Z",
+    "display_text_range": [
+      17,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T23:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099626881394110583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "966986879626301440",
+          "start": 0,
+          "username": "william40152988"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/wuyuandev/stat…",
+          "end": 49,
+          "expanded_url": "https://x.com/wuyuandev/status/2099626830018044348",
+          "start": 26,
+          "url": "https://t.co/Wb57i2H7oL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099626881394110583",
+    "in_reply_to_user_id": "966986879626301440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099626830018044348",
+        "type": "quoted"
+      },
+      {
+        "id": "2099604156918939747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@william40152988 我想.....\n\nhttps://t.co/Wb57i2H7oL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1724,
+        "media_key": "3_2099604012311937025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSNKuZrWgAEWHuf.jpg",
+        "width": 2404
+      },
+      {
+        "height": 396,
+        "media_key": "3_2099626825534369792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSNfeTjbcAAIwNV.jpg",
+        "width": 396
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2099604156918939747",
+        "created_at": "2026-09-14T22:30:32.000Z",
+        "display_text_range": [
+          17,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T23:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099626881394110583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "966986879626301440",
+              "start": 0,
+              "username": "william40152988"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/wuyuandev/stat…",
+              "end": 49,
+              "expanded_url": "https://x.com/wuyuandev/status/2099626830018044348",
+              "start": 26,
+              "url": "https://t.co/Wb57i2H7oL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099626881394110583",
+        "in_reply_to_user_id": "966986879626301440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099626830018044348",
+            "type": "quoted"
+          },
+          {
+            "id": "2099604156918939747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@william40152988 我想.....\n\nhttps://t.co/Wb57i2H7oL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099604012311937025"
+          ]
+        },
+        "author_id": "966986879626301440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2099604156918939747",
+        "created_at": "2026-09-14T21:00:14.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T22:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099604156918939747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lnd8TXeWT4",
+              "end": 175,
+              "expanded_url": "https://x.com/william40152988/status/2099604156918939747/photo/1",
+              "media_key": "3_2099604012311937025",
+              "start": 152,
+              "url": "https://t.co/lnd8TXeWT4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099604156918939747",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099604012311937025"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Grok Bot 终于能借用我的 IP 访问那些不待见数据中心 IP 的网站了，但痛点也来了：Mac 一关机，这条通道就断了 😂\n出门只想用手机给 Bot 派活，总不能为了网络转发，一直开着主力电脑吧。\n希望支持用家里常开的 Linux 服务器接手转发，最好给个 Docker 容器。有人也需要这个吗？ https://t.co/lnd8TXeWT4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099626825534369792"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2099626830018044348",
+        "created_at": "2026-09-14T22:30:20.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T23:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099626830018044348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gKGvzskvan",
+              "end": 76,
+              "expanded_url": "https://x.com/wuyuandev/status/2099626830018044348/photo/1",
+              "media_key": "3_2099626825534369792",
+              "start": 53,
+              "url": "https://t.co/gKGvzskvan"
+            },
+            {
+              "display_url": "x.com/william4015298…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/william40152988/status/2099604156918939747",
+              "start": 77,
+              "url": "https://t.co/3Zu37iEsch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099626830018044348",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099626825534369792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099604156918939747",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我倒是想到了这个， Globalping出的硬件，理论上好像能跑docker，谁来做个类似思路增强些的？ https://t.co/gKGvzskvan https://t.co/3Zu37iEsch"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，学生，应该是猫猫。\n所以猫猫想要被你关注！\nINFP，精神稳定。\n私人号 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2099626881394110583",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2378,
+          "following_count": 1279,
+          "like_count": 12771,
+          "listed_count": 10,
+          "media_count": 1030,
+          "tweet_count": 4554
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-02-23T10:43:32.000Z",
+        "description": "80后｜🇮🇹\n不是程序员，尝试用不同AI改变生活\n来X认识朋友，也给自己找更多可能",
+        "id": "966986879626301440",
+        "is_identity_verified": true,
+        "location": "Roma",
+        "most_recent_tweet_id": "2099619962344075741",
+        "name": "Yong.C",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/966986879626301440/1783010485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072724563918479361/EKJB937X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4185,
+          "following_count": 4297,
+          "like_count": 11493,
+          "listed_count": 1,
+          "media_count": 385,
+          "tweet_count": 13309
+        },
+        "url": "",
+        "username": "william40152988",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

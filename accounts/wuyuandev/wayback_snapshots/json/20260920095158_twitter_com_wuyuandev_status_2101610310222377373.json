@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2101555353129558485",
+    "created_at": "2026-09-20T09:51:58.000Z",
+    "display_text_range": [
+      10,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T10:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101610310222377373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054196065172344832",
+          "start": 0,
+          "username": "GptRainy"
+        }
+      ],
+      "urls": [
+        {
+          "description": "网传： 智谱ZCode被指登录后会在后台把整个工作区打成快照（含完整 git历史、LFS、reflog),加密后直传阿里云OSS。私钥只在服务端，设置 无法关闭，隐私政策也未披露。 来源是博主ferstar在清理本机~/.zcode时做了逆向和流量排查，发现 zcode会静默全量上传全部gt历史，目前已经看到有开发者在本机环境接 近完成复现。 这是非常严重的隐私泄露问题，强烈建议开发者先停用Zcode,等待更多社 区反馈和官方回应。以后还是尽量使用开源Agent 前有 claude-cli 后有grok-cli； 现在又来了个智普 没眼看，哎",
+          "display_url": "linux.do/t/topic/2919260",
+          "end": 39,
+          "expanded_url": "https://linux.do/t/topic/2919260",
+          "images": [
+            {
+              "height": 441,
+              "url": "https://pbs.twimg.com/news_img/2101610313632325632/M7sNFkvq?format=png&name=orig",
+              "width": 1024
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2101610313632325632/M7sNFkvq?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 16,
+          "status": 200,
+          "title": "【Agent后门】Zcode疑似静默全量上传全部git历史",
+          "unwound_url": "https://linux.do/t/topic/2919260",
+          "url": "https://t.co/p7xlIiKfQg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101610310222377373",
+    "in_reply_to_user_id": "2054196065172344832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101555353129558485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GptRainy 不推荐使用\nhttps://t.co/p7xlIiKfQg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2101555353129558485",
+        "created_at": "2026-09-20T09:51:58.000Z",
+        "display_text_range": [
+          10,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T10:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101610310222377373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            }
+          ],
+          "urls": [
+            {
+              "description": "网传： 智谱ZCode被指登录后会在后台把整个工作区打成快照（含完整 git历史、LFS、reflog),加密后直传阿里云OSS。私钥只在服务端，设置 无法关闭，隐私政策也未披露。 来源是博主ferstar在清理本机~/.zcode时做了逆向和流量排查，发现 zcode会静默全量上传全部gt历史，目前已经看到有开发者在本机环境接 近完成复现。 这是非常严重的隐私泄露问题，强烈建议开发者先停用Zcode,等待更多社 区反馈和官方回应。以后还是尽量使用开源Agent 前有 claude-cli 后有grok-cli； 现在又来了个智普 没眼看，哎",
+              "display_url": "linux.do/t/topic/2919260",
+              "end": 39,
+              "expanded_url": "https://linux.do/t/topic/2919260",
+              "images": [
+                {
+                  "height": 441,
+                  "url": "https://pbs.twimg.com/news_img/2101610313632325632/M7sNFkvq?format=png&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2101610313632325632/M7sNFkvq?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "【Agent后门】Zcode疑似静默全量上传全部git历史",
+              "unwound_url": "https://linux.do/t/topic/2919260",
+              "url": "https://t.co/p7xlIiKfQg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101610310222377373",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101555353129558485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy 不推荐使用\nhttps://t.co/p7xlIiKfQg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2101555353129558485",
+        "created_at": "2026-09-20T06:13:35.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T07:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101555353129558485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101555353129558485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "zcode送我1亿glm 5.3 flash啦啦啦我是一个幸福的小女孩"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，学生，应该是猫猫。\n所以猫猫想要被你关注！\nINFP，精神稳定。\n私人号 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2101610310222377373",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2369,
+          "following_count": 1281,
+          "like_count": 12942,
+          "listed_count": 10,
+          "media_count": 1059,
+          "tweet_count": 4649
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/She·Her/ASD/计算机科学/LLM/2007·19yo/communist🇵🇸🇺🇦/VOCALOID🎶/药物药理/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2101556075187277847",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2100218522408501453",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 661,
+          "like_count": 2153,
+          "listed_count": 1,
+          "media_count": 323,
+          "tweet_count": 1197
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

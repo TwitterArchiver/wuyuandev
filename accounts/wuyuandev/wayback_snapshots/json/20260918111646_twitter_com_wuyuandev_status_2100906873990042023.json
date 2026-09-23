@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100906867996401664"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2100717870611317075",
+    "created_at": "2026-09-18T11:16:46.000Z",
+    "display_text_range": [
+      13,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T12:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100906873990042023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2035898194366963712",
+          "start": 0,
+          "username": "ApplerinQAQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7NSV2SwpGY",
+          "end": 61,
+          "expanded_url": "https://x.com/wuyuandev/status/2100906873990042023/photo/1",
+          "media_key": "3_2100906867996401664",
+          "start": 38,
+          "url": "https://t.co/7NSV2SwpGY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100906873990042023",
+    "in_reply_to_user_id": "2035898194366963712",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100906867996401664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100717870611317075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ApplerinQAQ 亲爱的Google Bard小姐依旧被全世界遗忘 https://t.co/7NSV2SwpGY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 415,
+        "media_key": "3_2100906867996401664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSfrqlUaoAANsep.jpg",
+        "width": 739
+      },
+      {
+        "height": 896,
+        "media_key": "3_2100717862596104192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSc_xBVb0AApAnl.jpg",
+        "width": 1195
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100906867996401664"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2100717870611317075",
+        "created_at": "2026-09-18T11:16:46.000Z",
+        "display_text_range": [
+          13,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T12:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100906873990042023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2035898194366963712",
+              "start": 0,
+              "username": "ApplerinQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7NSV2SwpGY",
+              "end": 61,
+              "expanded_url": "https://x.com/wuyuandev/status/2100906873990042023/photo/1",
+              "media_key": "3_2100906867996401664",
+              "start": 38,
+              "url": "https://t.co/7NSV2SwpGY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100906873990042023",
+        "in_reply_to_user_id": "2035898194366963712",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100906867996401664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100717870611317075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ApplerinQAQ 亲爱的Google Bard小姐依旧被全世界遗忘 https://t.co/7NSV2SwpGY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100717862596104192"
+          ]
+        },
+        "author_id": "2035898194366963712",
+        "conversation_id": "2100717870611317075",
+        "created_at": "2026-09-17T22:45:44.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T23:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100717870611317075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6v65KcBkbf",
+              "end": 30,
+              "expanded_url": "https://x.com/ApplerinQAQ/status/2100717870611317075/photo/1",
+              "media_key": "3_2100717862596104192",
+              "start": 7,
+              "url": "https://t.co/6v65KcBkbf"
+            },
+            {
+              "display_url": "x.com/Luna11054/stat…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Luna11054/status/2100577025027395909",
+              "start": 31,
+              "url": "https://t.co/Xv3TAMfWNk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100717870611317075",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100717862596104192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 58157,
+          "like_count": 573,
+          "quote_count": 3,
+          "reply_count": 21,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100577025027395909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中文Ver. https://t.co/6v65KcBkbf https://t.co/Xv3TAMfWNk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，学生，应该是猫猫。\n所以猫猫想要被你关注！\nINFP，精神稳定。\n私人号 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2100906873990042023",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2365,
+          "following_count": 1274,
+          "like_count": 12891,
+          "listed_count": 10,
+          "media_count": 1047,
+          "tweet_count": 4615
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T01:55:45.000Z",
+        "description": "Maybe I just want to fly. Wanna live I don't want to die. / ENTP-T / Maybe She or Her or u like ~ / 2005 / Monitoring AI💕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "JustKidding-ovo.link",
+                "end": 23,
+                "expanded_url": "https://JustKidding-ovo.link",
+                "start": 0,
+                "url": "https://t.co/J3LiQmTMdI"
+              }
+            ]
+          }
+        },
+        "id": "2035898194366963712",
+        "is_identity_verified": false,
+        "location": "With MEEP",
+        "most_recent_tweet_id": "2100884952401486138",
+        "name": "Applerin🍎",
+        "pinned_tweet_id": "2062625488179466351",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035898194366963712/1780554317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062421450980737024/aeV3XcSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 163,
+          "like_count": 2192,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1386
+        },
+        "url": "https://t.co/J3LiQmTMdI",
+        "username": "ApplerinQAQ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

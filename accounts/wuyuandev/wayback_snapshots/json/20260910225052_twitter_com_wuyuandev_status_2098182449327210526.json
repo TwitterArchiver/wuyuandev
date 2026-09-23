@@ -1,0 +1,485 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098182443631263744"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2098182449327210526",
+    "created_at": "2026-09-10T22:50:52.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T23:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098182449327210526"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gh1rXqrZ5X",
+          "end": 113,
+          "expanded_url": "https://x.com/wuyuandev/status/2098182449327210526/photo/1",
+          "media_key": "3_2098182443631263744",
+          "start": 90,
+          "url": "https://t.co/gh1rXqrZ5X"
+        },
+        {
+          "display_url": "x.com/synthwavedd/st…",
+          "end": 137,
+          "expanded_url": "https://twitter.com/synthwavedd/status/2097971881596916185",
+          "start": 114,
+          "url": "https://t.co/QlOUkhH8et"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098182449327210526",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098182443631263744"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097971881596916185",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "教授：研究生们，低垂的果实已经被前人采摘净了，你们的研究相比于前人只会更深入更艰难！\n\n研究生：什么叫ai抱着树把全树的果实摇下来了，掉不掉下来全靠概率，但是一直摇肯定能摇下来？ https://t.co/gh1rXqrZ5X https://t.co/QlOUkhH8et"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1430,
+        "media_key": "3_2098182443631263744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR490NqaQAAqnbD.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098182443631263744"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2098182449327210526",
+        "created_at": "2026-09-10T22:50:52.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T23:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098182449327210526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gh1rXqrZ5X",
+              "end": 113,
+              "expanded_url": "https://x.com/wuyuandev/status/2098182449327210526/photo/1",
+              "media_key": "3_2098182443631263744",
+              "start": 90,
+              "url": "https://t.co/gh1rXqrZ5X"
+            },
+            {
+              "display_url": "x.com/synthwavedd/st…",
+              "end": 137,
+              "expanded_url": "https://twitter.com/synthwavedd/status/2097971881596916185",
+              "start": 114,
+              "url": "https://t.co/QlOUkhH8et"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098182449327210526",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098182443631263744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097971881596916185",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "教授：研究生们，低垂的果实已经被前人采摘净了，你们的研究相比于前人只会更深入更艰难！\n\n研究生：什么叫ai抱着树把全树的果实摇下来了，掉不掉下来全靠概率，但是一直摇肯定能摇下来？ https://t.co/gh1rXqrZ5X https://t.co/QlOUkhH8et"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560927015334805504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2097971881596916185",
+        "created_at": "2026-09-10T08:54:09.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097971881596916185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097971881596916185",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "I am told the Hodge Conjecture is very close to being verified by OpenAI, and that one of OpenAI or Anthropic are also close to solving Birch-Swinnerton-Dyer. The race to be 'next' behind the scenes is unlike anything I've had described to me before\n\nIf true - and it may not be, given the scale of the rumour mill right now - it could mean 3 Millennium Problems fall in the space of a month. Crazy times"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 903,
+          "impression_count": 1202814,
+          "like_count": 5559,
+          "quote_count": 195,
+          "reply_count": 182,
+          "retweet_count": 342
+        },
+        "reply_settings": "everyone",
+        "text": "I am told the Hodge Conjecture is very close to being verified by OpenAI, and that one of OpenAI or Anthropic are also close to solving Birch-Swinnerton-Dyer. The race to be 'next' behind the scenes is unlike anything I've had described to me before\n\nIf true - and it may not be,"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，学生，应该是猫猫。\n所以猫猫想要被你关注！\n\n私人号 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2098182449327210526",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2304,
+          "following_count": 1274,
+          "like_count": 12670,
+          "listed_count": 10,
+          "media_count": 1013,
+          "tweet_count": 4495
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-20T09:49:44.000Z",
+        "description": "tech, ai & politics nerd || got info you think i'd be interested in? let's talk! sywv.tips@proton.me || dono: https://t.co/WxQgF8aVkI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/synthwavedd",
+                "end": 133,
+                "expanded_url": "http://buymeacoffee.com/synthwavedd",
+                "start": 110,
+                "url": "https://t.co/WxQgF8aVkI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/rag-tag",
+                "end": 23,
+                "expanded_url": "http://discord.gg/rag-tag",
+                "start": 0,
+                "url": "https://t.co/6iCDyuYtMa"
+              }
+            ]
+          }
+        },
+        "id": "1560927015334805504",
+        "is_identity_verified": false,
+        "location": "personal: @softwavedd",
+        "most_recent_tweet_id": "2098154756539929031",
+        "name": "leo 🐾",
+        "pinned_tweet_id": "2098153120803266630",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560927015334805504/1782485550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070520587659657216/novnWEZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41423,
+          "following_count": 2669,
+          "like_count": 26801,
+          "listed_count": 653,
+          "media_count": 774,
+          "tweet_count": 3593
+        },
+        "url": "https://t.co/6iCDyuYtMa",
+        "username": "synthwavedd",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

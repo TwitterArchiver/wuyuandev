@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2094016974606966801",
+    "created_at": "2026-08-31T12:45:39.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T13:45:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094406262222123060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2055438603820617728",
+          "start": 0,
+          "username": "Xxxu1024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094406262222123060",
+    "in_reply_to_user_id": "2055438603820617728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094290958724866337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxxu1024 看身份证号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2094016974606966801",
+        "created_at": "2026-08-31T12:45:39.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094406262222123060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2055438603820617728",
+              "start": 0,
+              "username": "Xxxu1024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094406262222123060",
+        "in_reply_to_user_id": "2055438603820617728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094290958724866337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxxu1024 看身份证号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055438603820617728",
+        "conversation_id": "2094016974606966801",
+        "created_at": "2026-08-31T05:07:29.000Z",
+        "display_text_range": [
+          11,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T06:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094290958724866337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094290958724866337",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094016974606966801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev 我在想，那以后是不是双重人格也可以相互结婚🤔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，学生，应该是猫猫。\n所以猫猫想要被你关注！\n\n私人号 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2094406262222123060",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2172,
+          "following_count": 1174,
+          "like_count": 12196,
+          "listed_count": 10,
+          "media_count": 966,
+          "tweet_count": 4317
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-16T00:03:35.000Z",
+        "description": "一只来自高中的阴暗企鹅，天天躲在家里看小说「其实也就只有看小说一个爱好了😋」\n企鹅十分的包容欢迎和各位做朋友🐧\n小企鹅鹅企： @Xxxu2048\n提问箱：https://t.co/WOvZeElGDf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 63,
+                "username": "Xxxu2048"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=9f7c75…",
+                "end": 100,
+                "expanded_url": "https://dreamail.cn/send?dm=9f7c75de-b085-48ea-87f1-b95e26f74",
+                "start": 77,
+                "url": "https://t.co/WOvZeElGDf"
+              }
+            ]
+          }
+        },
+        "id": "2055438603820617728",
+        "is_identity_verified": false,
+        "location": "南极企鹅",
+        "most_recent_tweet_id": "2094349233705062884",
+        "name": "Xu🐧企鹅鹅企",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055438603820617728/1786104168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055672197163929600/ol_Ua5fB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 506,
+          "like_count": 13953,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1025
+        },
+        "url": "",
+        "username": "Xxxu1024",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

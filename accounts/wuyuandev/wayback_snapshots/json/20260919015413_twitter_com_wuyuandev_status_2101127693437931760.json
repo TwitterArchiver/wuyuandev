@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2100995594638561548",
+    "created_at": "2026-09-19T01:54:13.000Z",
+    "display_text_range": [
+      7,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T02:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101127693437931760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2870102861",
+          "start": 0,
+          "username": "thdxr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101127693437931760",
+    "in_reply_to_user_id": "2870102861",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100995594638561548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thdxr OpenCode Fraud"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2100995594638561548",
+        "created_at": "2026-09-19T01:54:13.000Z",
+        "display_text_range": [
+          7,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T02:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101127693437931760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2870102861",
+              "start": 0,
+              "username": "thdxr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101127693437931760",
+        "in_reply_to_user_id": "2870102861",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100995594638561548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thdxr OpenCode Fraud"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2870102861",
+        "conversation_id": "2100995594638561548",
+        "created_at": "2026-09-18T17:09:19.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T18:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100995594638561548"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100995594638561548",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 136805,
+          "like_count": 1934,
+          "quote_count": 42,
+          "reply_count": 2022,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "what should we call the higher tier of OpenCode Go?"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，学生，应该是猫猫。\n所以猫猫想要被你关注！\nINFP，精神稳定。\n私人号 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2101127693437931760",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2369,
+          "following_count": 1277,
+          "like_count": 12904,
+          "listed_count": 10,
+          "media_count": 1049,
+          "tweet_count": 4624
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2086904083462426624/x7sGmBWz_bigger.jpg",
+          "description": "Anomaly",
+          "url": "https://twitter.com/anomalyco",
+          "user_id": [
+            "18323344"
+          ]
+        },
+        "created_at": "2014-11-10T04:50:37.000Z",
+        "description": "building @opencode at @anomalyco\nnot the ceo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "opencode"
+              },
+              {
+                "end": 32,
+                "start": 22,
+                "username": "anomalyco"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thdxr.com",
+                "end": 23,
+                "expanded_url": "https://thdxr.com",
+                "start": 0,
+                "url": "https://t.co/bWom5srB32"
+              }
+            ]
+          }
+        },
+        "id": "2870102861",
+        "is_identity_verified": false,
+        "location": "Miami, FL",
+        "most_recent_tweet_id": "2101119466323181907",
+        "name": "dax",
+        "pinned_tweet_id": "2101051319825875257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2870102861/1787203427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602333093485891584/mmVqjFNI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171476,
+          "following_count": 482,
+          "like_count": 90639,
+          "listed_count": 1596,
+          "media_count": 2818,
+          "tweet_count": 44776
+        },
+        "url": "https://t.co/bWom5srB32",
+        "username": "thdxr",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2100969976316518442",
+    "created_at": "2026-09-18T15:27:31.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T16:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100969976316518442"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IgnoredReal/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/IgnoredReal/status/2100921083927167300",
+          "start": 5,
+          "url": "https://t.co/qC1JDxdr6H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100969976316518442",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100921083927167300",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "蛤？？？ https://t.co/qC1JDxdr6H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2100921016243625984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSf4iHpaoAAE_dP.jpg",
+        "width": 576
+      },
+      {
+        "duration_ms": 21500,
+        "height": 1280,
+        "media_key": "13_2100921016260386816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100921016260386816/img/2HL99aUjPiprTBv6.jpg",
+        "public_metrics": {
+          "view_count": 188367
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100921016260386816/vid/avc1/320x568/aOPfjC-BCiH8weXi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100921016260386816/vid/avc1/480x852/r6wmvunWkg0NK1I6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100921016260386816/vid/avc1/720x1280/dvqpK9-ZKe72MEUm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100921016260386816/pl/__p_xB6RV1FI_d_m.m3u8?v=3a1"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 46633,
+        "height": 832,
+        "media_key": "13_2100921016272973824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100921016272973824/img/8Lpyfia62p8KgCBP.jpg",
+        "public_metrics": {
+          "view_count": 51992
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100921016272973824/vid/avc1/320x426/R96ifDu6UG6ObnJZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100921016272973824/vid/avc1/480x640/4TdifadxmD744cOu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100921016272973824/vid/avc1/624x832/YEh2---VwXGGUBYW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100921016272973824/pl/Z-QIRtyl8S0o_b_c.m3u8?v=cfc"
+          }
+        ],
+        "width": 624
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2100969976316518442",
+        "created_at": "2026-09-18T15:27:31.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T16:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100969976316518442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IgnoredReal/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/IgnoredReal/status/2100921083927167300",
+              "start": 5,
+              "url": "https://t.co/qC1JDxdr6H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100969976316518442",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100921083927167300",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蛤？？？ https://t.co/qC1JDxdr6H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100921016243625984",
+            "13_2100921016260386816",
+            "13_2100921016272973824"
+          ]
+        },
+        "author_id": "962077200",
+        "conversation_id": "2100921083927167300",
+        "created_at": "2026-09-18T12:13:14.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100921083927167300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/czbDf03mMB",
+              "end": 44,
+              "expanded_url": "https://x.com/IgnoredReal/status/2100921083927167300/video/1",
+              "media_key": "3_2100921016243625984",
+              "start": 21,
+              "url": "https://t.co/czbDf03mMB"
+            },
+            {
+              "display_url": "pic.x.com/czbDf03mMB",
+              "end": 44,
+              "expanded_url": "https://x.com/IgnoredReal/status/2100921083927167300/video/1",
+              "media_key": "13_2100921016260386816",
+              "start": 21,
+              "url": "https://t.co/czbDf03mMB"
+            },
+            {
+              "display_url": "pic.x.com/czbDf03mMB",
+              "end": 44,
+              "expanded_url": "https://x.com/IgnoredReal/status/2100921083927167300/video/1",
+              "media_key": "13_2100921016272973824",
+              "start": 21,
+              "url": "https://t.co/czbDf03mMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100921083927167300",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100921016243625984"
+          },
+          {
+            "media_key": "13_2100921016260386816"
+          },
+          {
+            "media_key": "13_2100921016272973824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 210,
+          "impression_count": 348017,
+          "like_count": 592,
+          "quote_count": 4,
+          "reply_count": 69,
+          "retweet_count": 35
+        },
+        "reply_settings": "other",
+        "text": "据说是省委书记出去散步被外卖小哥给撞了. https://t.co/czbDf03mMB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，学生，应该是猫猫。\n所以猫猫想要被你关注！\nINFP，精神稳定。\n私人号 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2100969976316518442",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2369,
+          "following_count": 1276,
+          "like_count": 12896,
+          "listed_count": 10,
+          "media_count": 1049,
+          "tweet_count": 4619
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-11-21T09:32:51.000Z",
+        "description": "工作是996，新闻是404，关注主流忽略的新闻。人生苦短，新闻更短。点个关注，一起emo。| Mainstream too busy? We post the stuff nobody asked for. Ordinary life, zero likes, still going.",
+        "id": "962077200",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100921083927167300",
+        "name": "被忽略",
+        "pinned_tweet_id": "2091908976426545260",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/962077200/1770842405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021682786449707008/4NbW5dve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31930,
+          "following_count": 1363,
+          "like_count": 618,
+          "listed_count": 44,
+          "media_count": 1508,
+          "tweet_count": 27611
+        },
+        "url": "",
+        "username": "IgnoredReal",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

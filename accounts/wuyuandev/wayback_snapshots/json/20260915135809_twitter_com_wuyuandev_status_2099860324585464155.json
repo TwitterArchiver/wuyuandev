@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2099665160646631424"
+      ],
+      "media_source_tweet_id": [
+        "2099665262945702245"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099860324585464155",
+    "created_at": "2026-09-15T13:58:09.000Z",
+    "display_text_range": [
+      0,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T14:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099860324585464155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3018975387",
+          "start": 3,
+          "username": "hanawa_hinata"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NfWRkhxEkv",
+          "end": 93,
+          "expanded_url": "https://x.com/hanawa_hinata/status/2099665262945702245/video/1",
+          "media_key": "13_2099665160646631424",
+          "start": 70,
+          "url": "https://t.co/NfWRkhxEkv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099860324585464155",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2099665160646631424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099665262945702245",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hanawa_hinata: 发现一个好玩的玩具，可以油炸任何图片。\n\n这次油炸的是绿猫，本来想发绿猫群里结果发现群解散了.... https://t.co/NfWRkhxEkv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57585,
+        "height": 984,
+        "media_key": "13_2099665160646631424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099665160646631424/img/LG7NpivzqiRRCWZ2.jpg",
+        "public_metrics": {
+          "view_count": 22124
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099665160646631424/pl/N_3sgEEOAGeebUyS.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099665160646631424/vid/avc1/1404x720/IOc2Beo5ZI6NiM-Q.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099665160646631424/vid/avc1/1920x984/Prq0bzksH63EQEae.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099665160646631424/vid/avc1/526x270/3z94Wsx8udTHrZZv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099665160646631424/vid/avc1/702x360/VAFxXLSRfrlmn8H9.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099665160646631424"
+          ],
+          "media_source_tweet_id": [
+            "2099665262945702245"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099860324585464155",
+        "created_at": "2026-09-15T13:58:09.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T14:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099860324585464155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3018975387",
+              "start": 3,
+              "username": "hanawa_hinata"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NfWRkhxEkv",
+              "end": 93,
+              "expanded_url": "https://x.com/hanawa_hinata/status/2099665262945702245/video/1",
+              "media_key": "13_2099665160646631424",
+              "start": 70,
+              "url": "https://t.co/NfWRkhxEkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099860324585464155",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099665160646631424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099665262945702245",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hanawa_hinata: 发现一个好玩的玩具，可以油炸任何图片。\n\n这次油炸的是绿猫，本来想发绿猫群里结果发现群解散了.... https://t.co/NfWRkhxEkv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099665160646631424"
+          ]
+        },
+        "author_id": "3018975387",
+        "conversation_id": "2099665262945702245",
+        "created_at": "2026-09-15T01:03:03.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T02:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099665262945702245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NfWRkhxEkv",
+              "end": 74,
+              "expanded_url": "https://x.com/hanawa_hinata/status/2099665262945702245/video/1",
+              "media_key": "13_2099665160646631424",
+              "start": 51,
+              "url": "https://t.co/NfWRkhxEkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099665262945702245",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099665160646631424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 34478,
+          "like_count": 304,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "发现一个好玩的玩具，可以油炸任何图片。\n\n这次油炸的是绿猫，本来想发绿猫群里结果发现群解散了.... https://t.co/NfWRkhxEkv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，学生，应该是猫猫。\n所以猫猫想要被你关注！\nINFP，精神稳定。\n私人号 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2099860324585464155",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2374,
+          "following_count": 1278,
+          "like_count": 12794,
+          "listed_count": 10,
+          "media_count": 1033,
+          "tweet_count": 4566
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2015-02-04T23:58:21.000Z",
+        "description": "心弦之音，余韵寥寥。The founder of @nebula_soft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "nebula_soft"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hanawa.me",
+                "end": 23,
+                "expanded_url": "https://hanawa.me",
+                "start": 0,
+                "url": "https://t.co/wz4zjqKiRT"
+              }
+            ]
+          }
+        },
+        "id": "3018975387",
+        "is_identity_verified": false,
+        "location": "万达广场",
+        "most_recent_tweet_id": "2099744220676595786",
+        "name": "日向花和 Hanawa Hinata",
+        "pinned_tweet_id": "1967131247333044249",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3018975387/1781081489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004354883609415681/o7a20K81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13473,
+          "following_count": 2084,
+          "like_count": 135688,
+          "listed_count": 48,
+          "media_count": 6952,
+          "tweet_count": 44732
+        },
+        "url": "https://t.co/wz4zjqKiRT",
+        "username": "hanawa_hinata",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
