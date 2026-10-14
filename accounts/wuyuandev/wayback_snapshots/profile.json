@@ -1,7 +1,7 @@
 {
   "name": "孙悟元",
   "username": "@wuyuandev",
-  "bio": "开发者，学生，应该是猫猫。\n所以猫猫想要被你关注！\nINFP，精神稳定。\n私人号 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间。",
+  "bio": "构建社区和 AI 工具 | 开发者，高三学生\n\nZakura 是我们开源的 Agent 聚合平台。\n@moonrenddev\n\nINFP，She/It。\n私人号 @Yukizomecat | ❤️ @tsgostar\n你看白雪人间。",
   "location": "zh-CN 🌏",
   "link": "https://wuyuan.dev",
   "avatar": "avatar/avatar.jpg",
@@ -10,13 +10,18 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 53,
-        "start": 41,
+        "end": 62,
+        "start": 50,
+        "username": "moonrenddev"
+      },
+      {
+        "end": 93,
+        "start": 81,
         "username": "Yukizomecat"
       },
       {
-        "end": 67,
-        "start": 58,
+        "end": 108,
+        "start": 99,
         "username": "tsgostar"
       }
     ]
