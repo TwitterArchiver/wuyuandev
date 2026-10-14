@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2103980839113793978",
+    "created_at": "2026-09-26T22:51:36.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T23:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103980839113793978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1350461820444749825",
+          "start": 3,
+          "username": "SmasherIsEma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103980839113793978",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 901
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103742372093821250",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SmasherIsEma: Youre a trans girl who wished to be born cis and you got your wish granted you just dont remember"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2103980839113793978",
+        "created_at": "2026-09-26T22:51:36.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T23:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103980839113793978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1350461820444749825",
+              "start": 3,
+              "username": "SmasherIsEma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103980839113793978",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 901
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103742372093821250",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SmasherIsEma: Youre a trans girl who wished to be born cis and you got your wish granted you just dont remember"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1350461820444749825",
+        "conversation_id": "2103742372093821250",
+        "created_at": "2026-09-26T07:04:01.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T08:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103742372093821250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uvltraviolent/…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/uvltraviolent/status/2103489084731670809",
+              "start": 98,
+              "url": "https://t.co/0419lbDFFK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103742372093821250",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 589,
+          "impression_count": 334814,
+          "like_count": 28786,
+          "quote_count": 13,
+          "reply_count": 15,
+          "retweet_count": 901
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103489084731670809",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Youre a trans girl who wished to be born cis and you got your wish granted you just dont remember https://t.co/0419lbDFFK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "构建社区和 AI 工具 | 开发者，高三学生\n\nZakura 是我们开源的 Agent 聚合平台。\n@moonrenddev\n\nINFP，She/It。\n私人号 @Yukizomecat | ❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 50,
+                "username": "moonrenddev"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2103980839113793978",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1790183806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2605,
+          "following_count": 1567,
+          "like_count": 13126,
+          "listed_count": 10,
+          "media_count": 1098,
+          "tweet_count": 4774
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-16T15:16:15.000Z",
+        "description": "Poscia, più che 'l dolor, poté 'l digiuno",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/SmasherBackup",
+                "end": 23,
+                "expanded_url": "https://x.com/SmasherBackup",
+                "start": 0,
+                "url": "https://t.co/liEF4JBwwU"
+              }
+            ]
+          }
+        },
+        "id": "1350461820444749825",
+        "is_identity_verified": true,
+        "location": "Priv @SmasherPriv",
+        "most_recent_tweet_id": "2103980627783483671",
+        "name": "Ema",
+        "pinned_tweet_id": "2077675046076637521",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1350461820444749825/1780320045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092588150585503744/MwQwYPNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7599,
+          "following_count": 3234,
+          "like_count": 212488,
+          "listed_count": 45,
+          "media_count": 12922,
+          "tweet_count": 125641
+        },
+        "url": "https://t.co/liEF4JBwwU",
+        "username": "SmasherIsEma",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2104091262966243800",
+    "created_at": "2026-09-27T12:20:00.000Z",
+    "display_text_range": [
+      37,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T13:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104184278401896626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2101498602766077952",
+          "start": 0,
+          "username": "Box3_jilil"
+        },
+        {
+          "end": 27,
+          "id": "1320354023451496450",
+          "start": 12,
+          "username": "PinkCatLoveSky"
+        },
+        {
+          "end": 36,
+          "id": "2018248488773898240",
+          "start": 28,
+          "username": "Box3_ji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104184278401896626",
+    "in_reply_to_user_id": "2101498602766077952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104184166338511034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Box3_jilil @PinkCatLoveSky @Box3_ji 那就准备“恭喜回来”捏~"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Box3_ji].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Box3_ji",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "Box3_ji"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2104091262966243800",
+        "created_at": "2026-09-27T12:20:00.000Z",
+        "display_text_range": [
+          37,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104184278401896626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2101498602766077952",
+              "start": 0,
+              "username": "Box3_jilil"
+            },
+            {
+              "end": 27,
+              "id": "1320354023451496450",
+              "start": 12,
+              "username": "PinkCatLoveSky"
+            },
+            {
+              "end": 36,
+              "id": "2018248488773898240",
+              "start": 28,
+              "username": "Box3_ji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104184278401896626",
+        "in_reply_to_user_id": "2101498602766077952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104184166338511034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Box3_jilil @PinkCatLoveSky @Box3_ji 那就准备“恭喜回来”捏~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2101498602766077952",
+        "conversation_id": "2104091262966243800",
+        "created_at": "2026-09-27T12:19:33.000Z",
+        "display_text_range": [
+          36,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104184166338511034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            },
+            {
+              "end": 26,
+              "id": "1320354023451496450",
+              "start": 11,
+              "username": "PinkCatLoveSky"
+            },
+            {
+              "end": 35,
+              "id": "2018248488773898240",
+              "start": 27,
+              "username": "Box3_ji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104184166338511034",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104174600699748480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev @PinkCatLoveSky @Box3_ji 万一还有抢救的可能呢（）……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "构建社区和 AI 工具 | 开发者，高三学生\n\nZakura 是我们开源的 Agent 聚合平台。\n@moonrenddev\n\nINFP，She/It。\n私人号 @Yukizomecat | ❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 50,
+                "username": "moonrenddev"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2104184278401896626",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1790183806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2670,
+          "following_count": 1627,
+          "like_count": 13148,
+          "listed_count": 10,
+          "media_count": 1097,
+          "tweet_count": 4796
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-20T02:31:57.000Z",
+        "description": "🩵泥嚎(⁠・⁠∀⁠・⁠)🩷我是小盒子🤍无证含糖（暂时断糖）🩷生产日期 2012.4.6🩵\n这个号关注我的都会回关，可以和小盒子聊天喵\n大盒子：@Box3_ji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 71,
+                "username": "Box3_ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Box3_ji",
+                "end": 23,
+                "expanded_url": "https://x.com/Box3_ji",
+                "start": 0,
+                "url": "https://t.co/GR4eLNlNDm"
+              }
+            ]
+          }
+        },
+        "id": "2101498602766077952",
+        "is_identity_verified": false,
+        "location": "粉丝的心里🩵🩷🤍",
+        "most_recent_tweet_id": "2104184166338511034",
+        "name": "lilBox🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2101956147934798127",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2101498602766077952/1789872242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101501392825528320/yX7RB4Dk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 409,
+          "like_count": 37,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 174
+        },
+        "url": "https://t.co/GR4eLNlNDm",
+        "username": "Box3_jilil",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "想死\n確診:重度憂鬱\n直播小號@trashcancats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "trashcancats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5UTU7"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2104179908943675724",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 2602,
+          "like_count": 108579,
+          "listed_count": 2,
+          "media_count": 432,
+          "tweet_count": 8938
+        },
+        "url": "https://t.co/7K5di5UTU7",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

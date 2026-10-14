@@ -1,0 +1,455 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2104013054770061732",
+    "created_at": "2026-09-27T00:59:37.000Z",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T01:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104013054770061732"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/viticci/status…",
+          "end": 161,
+          "expanded_url": "https://twitter.com/viticci/status/2103955209797939615",
+          "start": 138,
+          "url": "https://t.co/dpWk4oaiTs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104013054770061732",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103955209797939615",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "This post was made during the Grok bot era and again during the Muse era.\n\nBookmark it; you can repost it when the Codex bot is released. https://t.co/dpWk4oaiTs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103955204253143040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTLAHGzX0AA_r2b.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103955204227948545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTLAHGtXYAEUwm7.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103955204240515072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTLAHGwXIAAPmYX.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103955204223754240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTLAHGsXYAAIkJU.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2104013054770061732",
+        "created_at": "2026-09-27T00:59:37.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T01:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104013054770061732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/viticci/status…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/viticci/status/2103955209797939615",
+              "start": 138,
+              "url": "https://t.co/dpWk4oaiTs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104013054770061732",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103955209797939615",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "This post was made during the Grok bot era and again during the Muse era.\n\nBookmark it; you can repost it when the Codex bot is released. https://t.co/dpWk4oaiTs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103955204253143040",
+            "3_2103955204227948545",
+            "3_2103955204240515072",
+            "3_2103955204223754240"
+          ]
+        },
+        "author_id": "20904050",
+        "conversation_id": "2103955209797939615",
+        "created_at": "2026-09-26T21:09:46.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T22:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103955209797939615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oHTuDEpjno",
+              "end": 96,
+              "expanded_url": "https://x.com/viticci/status/2103955209797939615/photo/1",
+              "media_key": "3_2103955204253143040",
+              "start": 73,
+              "url": "https://t.co/oHTuDEpjno"
+            },
+            {
+              "display_url": "pic.x.com/oHTuDEpjno",
+              "end": 96,
+              "expanded_url": "https://x.com/viticci/status/2103955209797939615/photo/1",
+              "media_key": "3_2103955204227948545",
+              "start": 73,
+              "url": "https://t.co/oHTuDEpjno"
+            },
+            {
+              "display_url": "pic.x.com/oHTuDEpjno",
+              "end": 96,
+              "expanded_url": "https://x.com/viticci/status/2103955209797939615/photo/1",
+              "media_key": "3_2103955204240515072",
+              "start": 73,
+              "url": "https://t.co/oHTuDEpjno"
+            },
+            {
+              "display_url": "pic.x.com/oHTuDEpjno",
+              "end": 96,
+              "expanded_url": "https://x.com/viticci/status/2103955209797939615/photo/1",
+              "media_key": "3_2103955204223754240",
+              "start": 73,
+              "url": "https://t.co/oHTuDEpjno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103955209797939615",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2103955204253143040"
+          },
+          {
+            "media_key": "3_2103955204227948545"
+          },
+          {
+            "media_key": "3_2103955204240515072"
+          },
+          {
+            "media_key": "3_2103955204223754240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 663,
+          "impression_count": 157986,
+          "like_count": 1523,
+          "quote_count": 18,
+          "reply_count": 105,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "I don't think people realize you can install Claude Code inside Muse lol https://t.co/oHTuDEpjno"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "构建社区和 AI 工具 | 开发者，高三学生\n\nZakura 是我们开源的 Agent 聚合平台。\n@moonrenddev\n\nINFP，She/It。\n私人号 @Yukizomecat | ❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 50,
+                "username": "moonrenddev"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2104013054770061732",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1790183806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2612,
+          "following_count": 1576,
+          "like_count": 13133,
+          "listed_count": 10,
+          "media_count": 1098,
+          "tweet_count": 4779
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-02-15T10:52:33.000Z",
+        "description": "Founder and Editor-in-Chief @MacStoriesNet. Writer, podcaster, and builder. I write about Apple and AI.\n\nGet more MacStories: https://t.co/A6p4iMU0js",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "MacStoriesNet"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "macstories.net/club/",
+                "end": 149,
+                "expanded_url": "https://www.macstories.net/club/",
+                "start": 126,
+                "url": "https://t.co/A6p4iMU0js"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "macstories.net",
+                "end": 23,
+                "expanded_url": "https://www.macstories.net/",
+                "start": 0,
+                "url": "https://t.co/iJ5iBWtq6e"
+              }
+            ]
+          }
+        },
+        "id": "20904050",
+        "is_identity_verified": false,
+        "location": "Rome, Italy",
+        "most_recent_tweet_id": "2103989718543134800",
+        "name": "Federico Viticci",
+        "pinned_tweet_id": "2099514465381167411",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20904050/1492522863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087452075915345920/JkXzbqYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84270,
+          "following_count": 1280,
+          "like_count": 19436,
+          "listed_count": 4159,
+          "media_count": 7431,
+          "tweet_count": 114060
+        },
+        "url": "https://t.co/iJ5iBWtq6e",
+        "username": "viticci",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

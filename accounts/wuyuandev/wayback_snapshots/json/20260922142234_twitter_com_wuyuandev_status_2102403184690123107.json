@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2102119874910883861",
+    "created_at": "2026-09-22T14:22:34.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T15:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102403184690123107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1427141496407420929",
+          "start": 0,
+          "username": "__soragoto__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102403184690123107",
+    "in_reply_to_user_id": "1427141496407420929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102199116369744198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__soragoto__ 戍酸雌二醇！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2102119874910883861",
+        "created_at": "2026-09-22T14:22:34.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T15:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102403184690123107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1427141496407420929",
+              "start": 0,
+              "username": "__soragoto__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102403184690123107",
+        "in_reply_to_user_id": "1427141496407420929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102199116369744198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__soragoto__ 戍酸雌二醇！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427141496407420929",
+        "conversation_id": "2102119874910883861",
+        "created_at": "2026-09-22T00:51:40.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T01:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102199116369744198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102199116369744198",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 485,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102119874910883861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev 成酸雌二醇"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，学生，应该是猫猫。\n所以猫猫想要被你关注！\nINFP，精神稳定。\n私人号 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2102403184690123107",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2377,
+          "following_count": 1298,
+          "like_count": 12991,
+          "listed_count": 10,
+          "media_count": 1073,
+          "tweet_count": 4689
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-16T05:34:01.000Z",
+        "description": "彩笔程序员/在尝试写些小段子/想要变得可爱/如果你有什么装逼小故事或者技术冷知识，或许你可以投稿给我 soragoto@soragoto.io",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "soragoto.io",
+                "end": 23,
+                "expanded_url": "https://soragoto.io/",
+                "start": 0,
+                "url": "https://t.co/gaCiutX5TW"
+              }
+            ]
+          }
+        },
+        "id": "1427141496407420929",
+        "is_identity_verified": false,
+        "location": "1km",
+        "most_recent_tweet_id": "2102395184340439186",
+        "name": "空言",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427141496407420929/1696514814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1427144661861158914/qtfZPSXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4940,
+          "following_count": 277,
+          "like_count": 533,
+          "listed_count": 12,
+          "media_count": 271,
+          "tweet_count": 3624
+        },
+        "url": "https://t.co/gaCiutX5TW",
+        "username": "__soragoto__",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

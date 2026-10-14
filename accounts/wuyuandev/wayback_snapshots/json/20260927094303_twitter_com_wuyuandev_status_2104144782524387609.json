@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2103936847718252944",
+    "created_at": "2026-09-27T09:43:03.000Z",
+    "display_text_range": [
+      20,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T10:43:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104144782524387609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1813407264503635968",
+          "start": 0,
+          "username": "HangWu93292"
+        },
+        {
+          "end": 19,
+          "id": "105099190",
+          "start": 13,
+          "username": "smdhz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104144782524387609",
+    "in_reply_to_user_id": "1813407264503635968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104140324679360807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HangWu93292 @smdhz 哎，民主"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2103936847718252944",
+        "created_at": "2026-09-27T09:43:03.000Z",
+        "display_text_range": [
+          20,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T10:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104144782524387609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1813407264503635968",
+              "start": 0,
+              "username": "HangWu93292"
+            },
+            {
+              "end": 19,
+              "id": "105099190",
+              "start": 13,
+              "username": "smdhz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104144782524387609",
+        "in_reply_to_user_id": "1813407264503635968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104140324679360807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HangWu93292 @smdhz 哎，民主"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813407264503635968",
+        "conversation_id": "2103936847718252944",
+        "created_at": "2026-09-27T09:25:21.000Z",
+        "display_text_range": [
+          18,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T10:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104140324679360807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            },
+            {
+              "end": 17,
+              "id": "105099190",
+              "start": 11,
+              "username": "smdhz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104140324679360807",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104122796834226687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev @smdhz 希特勒是一堆人推上去的，凡尔赛后整个德国都很癫，不止是希特勒一个人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "构建社区和 AI 工具 | 开发者，高三学生\n\nZakura 是我们开源的 Agent 聚合平台。\n@moonrenddev\n\nINFP，She/It。\n私人号 @Yukizomecat | ❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 50,
+                "username": "moonrenddev"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2104144782524387609",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1790183806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2659,
+          "following_count": 1626,
+          "like_count": 13145,
+          "listed_count": 10,
+          "media_count": 1097,
+          "tweet_count": 4790
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T02:56:19.000Z",
+        "description": "互联网真是太精彩了",
+        "id": "1813407264503635968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104140324679360807",
+        "name": "挖煤兔",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813407358204391424/LP6ZYKUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 33,
+          "like_count": 8075,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 96
+        },
+        "url": "",
+        "username": "HangWu93292",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-01-15T10:46:42.000Z",
+        "description": "社畜 舰狗 六池门徒 没有超级牛力 沉迷2B小姐姐 / 社畜　提督　スタークラフトプレーヤー　2Bさん大好き",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "oasis.kokuryuu.club",
+                "end": 23,
+                "expanded_url": "https://oasis.kokuryuu.club/",
+                "start": 0,
+                "url": "https://t.co/3oAIWobFWZ"
+              }
+            ]
+          }
+        },
+        "id": "105099190",
+        "is_identity_verified": false,
+        "location": "横浜市",
+        "most_recent_tweet_id": "2104108781739356276",
+        "name": "法布雷大叔 ファブレおっさん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/105099190/1497612898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1614155835424350209/2Ptcun2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 525,
+          "like_count": 4429,
+          "listed_count": 2,
+          "media_count": 223,
+          "tweet_count": 5418
+        },
+        "url": "https://t.co/3oAIWobFWZ",
+        "username": "smdhz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

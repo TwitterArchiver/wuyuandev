@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2102756967764885952",
+    "created_at": "2026-09-23T16:33:35.000Z",
+    "display_text_range": [
+      9,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T17:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102798541412532414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1759525317692297216",
+          "start": 0,
+          "username": "efubiku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102798541412532414",
+    "in_reply_to_user_id": "1759525317692297216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102756967764885952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@efubiku 完全没见过那个年代，可以发下UI看看吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2102756967764885952",
+        "created_at": "2026-09-23T16:33:35.000Z",
+        "display_text_range": [
+          9,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T17:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102798541412532414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1759525317692297216",
+              "start": 0,
+              "username": "efubiku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102798541412532414",
+        "in_reply_to_user_id": "1759525317692297216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102756967764885952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@efubiku 完全没见过那个年代，可以发下UI看看吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759525317692297216",
+        "conversation_id": "2102756967764885952",
+        "created_at": "2026-09-23T13:48:23.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T14:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102756967764885952"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102756967764885952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 11679,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "突然想起来一个事情。\n\n大概 10 年前开始，支付宝开始推 6 位数字支付密码。我大概拒绝了 114514 次，终于再也不推送给我了，也得以让我留下了一长串数字英文组合的支付密码。\n\n至少到现在为止，支付宝还会对长密码做兼容。也不知道这类上古遗存的长密码，还能被支持多久。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "构建社区和 AI 工具 | 开发者，高三学生\n\nZakura 是我们开源的 Agent 聚合平台。\n\nINFP，精神稳定。\n私人号 @Yukizomecat | ❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 93,
+                "start": 84,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2102798541412532414",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1790178539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2380,
+          "following_count": 1303,
+          "like_count": 13051,
+          "listed_count": 10,
+          "media_count": 1081,
+          "tweet_count": 4720
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-19T10:29:14.000Z",
+        "description": "害羞幽靈v2. Husband with 2 cats. コイン&お札収集",
+        "id": "1759525317692297216",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2102791284075466910",
+        "name": "Fv.ik",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759525317692297216/1780718524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002226544237010944/mUkAMzAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1211,
+          "following_count": 186,
+          "like_count": 2742,
+          "listed_count": 9,
+          "media_count": 327,
+          "tweet_count": 1350
+        },
+        "url": "",
+        "username": "efubiku",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1436287470207832064",
+    "conversation_id": "2104152372947931276",
+    "created_at": "2026-09-27T10:43:25.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T11:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104159972498231508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1417959463743492096",
+          "start": 0,
+          "username": "kang53440576"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104159972498231508",
+    "in_reply_to_user_id": "1417959463743492096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104152372947931276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kang53440576 呆在乱坟岗也可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2104152372947931276",
+        "created_at": "2026-09-27T10:43:25.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T11:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104159972498231508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1417959463743492096",
+              "start": 0,
+              "username": "kang53440576"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104159972498231508",
+        "in_reply_to_user_id": "1417959463743492096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104152372947931276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kang53440576 呆在乱坟岗也可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1417959463743492096",
+        "conversation_id": "2104152372947931276",
+        "created_at": "2026-09-27T10:13:13.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T11:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104152372947931276"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104152372947931276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果明天开始：\n\n不用上班，\n不用赚钱，\n所有基本生活都有人帮你解决。\n\n但你必须一直待在同一个城市。\n\n你愿意吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "构建社区和 AI 工具 | 开发者，高三学生\n\nZakura 是我们开源的 Agent 聚合平台。\n@moonrenddev\n\nINFP，She/It。\n私人号 @Yukizomecat | ❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 50,
+                "username": "moonrenddev"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2104159972498231508",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1790183806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2662,
+          "following_count": 1626,
+          "like_count": 13145,
+          "listed_count": 10,
+          "media_count": 1097,
+          "tweet_count": 4791
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-21T21:27:45.000Z",
+        "description": "懂一点 AI、懂一点钱、玩一点币、偶尔发疯的普通人\n把X当朋友圈发\n只要我路过的地方都会流👣",
+        "id": "1417959463743492096",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2104154842482839924",
+        "name": "666",
+        "pinned_tweet_id": "2095558750224703922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1417959463743492096/1786424293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023748087408455683/kxsRGvvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5601,
+          "following_count": 5237,
+          "like_count": 40236,
+          "listed_count": 5,
+          "media_count": 416,
+          "tweet_count": 29591
+        },
+        "url": "",
+        "username": "kang53440576",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

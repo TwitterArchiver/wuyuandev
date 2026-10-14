@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102894631755317248"
+      ]
+    },
+    "author_id": "1436287470207832064",
+    "conversation_id": "2102694195526086723",
+    "created_at": "2026-09-23T22:55:26.000Z",
+    "display_text_range": [
+      14,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T23:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102894637354721653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1917196717407256576",
+          "start": 0,
+          "username": "radiumcoders"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f3MYjoqubG",
+          "end": 70,
+          "expanded_url": "https://x.com/wuyuandev/status/2102894637354721653/photo/1",
+          "media_key": "3_2102894631755317248",
+          "start": 47,
+          "url": "https://t.co/f3MYjoqubG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102894637354721653",
+    "in_reply_to_user_id": "1917196717407256576",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2102894631755317248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102694195526086723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@radiumcoders okey, maybe it is a good website https://t.co/f3MYjoqubG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1071,
+        "media_key": "3_2102894631755317248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS77hqXaAAAlRAE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102894631755317248"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2102694195526086723",
+        "created_at": "2026-09-23T22:55:26.000Z",
+        "display_text_range": [
+          14,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T23:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102894637354721653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1917196717407256576",
+              "start": 0,
+              "username": "radiumcoders"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f3MYjoqubG",
+              "end": 70,
+              "expanded_url": "https://x.com/wuyuandev/status/2102894637354721653/photo/1",
+              "media_key": "3_2102894631755317248",
+              "start": 47,
+              "url": "https://t.co/f3MYjoqubG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102894637354721653",
+        "in_reply_to_user_id": "1917196717407256576",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2102894631755317248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102694195526086723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@radiumcoders okey, maybe it is a good website https://t.co/f3MYjoqubG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917196717407256576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2102694195526086723",
+        "created_at": "2026-09-23T09:38:57.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T10:38:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102693990504276409",
+          "2102694195526086723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Designeer is a curated platform bringing the best of the internet together for designers, developers, and builders. Discover interface craft, component libraries, design systems, AI tools, inspiration, and people worth learning from, all in one place.",
+              "display_url": "designeer.xyz",
+              "end": 76,
+              "expanded_url": "https://designeer.xyz/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2102077448607371265/QXMxCj-l?format=jpg&name=orig",
+                  "width": 1210
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2102077448607371265/QXMxCj-l?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 53,
+              "status": 200,
+              "title": "Designeer: Curated design tools, components & inspiration",
+              "unwound_url": "https://designeer.xyz/",
+              "url": "https://t.co/JXfjYAzrJZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102694195526086723",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1608,
+          "impression_count": 59779,
+          "like_count": 757,
+          "quote_count": 4,
+          "reply_count": 18,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "Ok, here is the resource every design engineer needs\nhttps://t.co/JXfjYAzrJZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "构建社区和 AI 工具 | 开发者，高三学生\n\nZakura 是我们开源的 Agent 聚合平台。\n@moonrenddev\n\nINFP，She/It。\n私人号 @Yukizomecat | ❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 50,
+                "username": "moonrenddev"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2102894637354721653",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1790183806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2377,
+          "following_count": 1354,
+          "like_count": 13062,
+          "listed_count": 10,
+          "media_count": 1085,
+          "tweet_count": 4730
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-29T12:38:29.000Z",
+        "description": "- Design Engineer - GrokMaxxer -\nhttps://t.co/28G08k4QbQ\n- Projects -\nhttps://t.co/FOO7KTQRWr\nhttps://t.co/yjuvbZue5i\nhttps://t.co/mpFMH4Ks9k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "radiumcoders.com",
+                "end": 56,
+                "expanded_url": "http://radiumcoders.com",
+                "start": 33,
+                "url": "https://t.co/28G08k4QbQ"
+              },
+              {
+                "display_url": "23rd.dev",
+                "end": 93,
+                "expanded_url": "http://23rd.dev",
+                "start": 70,
+                "url": "https://t.co/FOO7KTQRWr"
+              },
+              {
+                "display_url": "evilbuttons.com",
+                "end": 117,
+                "expanded_url": "http://evilbuttons.com",
+                "start": 94,
+                "url": "https://t.co/yjuvbZue5i"
+              },
+              {
+                "display_url": "starwalls.radiumcoders.com",
+                "end": 141,
+                "expanded_url": "http://starwalls.radiumcoders.com",
+                "start": 118,
+                "url": "https://t.co/mpFMH4Ks9k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "radiumcoders.com",
+                "end": 23,
+                "expanded_url": "http://radiumcoders.com",
+                "start": 0,
+                "url": "https://t.co/28G08k4QbQ"
+              }
+            ]
+          }
+        },
+        "id": "1917196717407256576",
+        "is_identity_verified": false,
+        "location": "localhost:3000",
+        "most_recent_tweet_id": "2102815647617216968",
+        "name": "Jay 🦀",
+        "pinned_tweet_id": "2084636736949469249",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917196717407256576/1789387064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076269294166716416/54KZNBIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 198,
+          "like_count": 7093,
+          "listed_count": 6,
+          "media_count": 815,
+          "tweet_count": 4648
+        },
+        "url": "https://t.co/28G08k4QbQ",
+        "username": "radiumcoders",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
